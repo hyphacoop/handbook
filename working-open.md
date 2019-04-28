@@ -1,12 +1,12 @@
 # Working Open
 
-Hypha operates with democratic organizing principles informed by our [values](./values.md). As part of that we've developed a set of guidelines for how (and exactly what) and why we work in the open.
+Hypha operates with democratic organizing principles informed by our [values](./values.md). As part of that, we've developed a set of guidelines for how (and exactly what) and why we work in the open.
 
 ## Why?
 
 - In order to share, provide opportunities for self- and collective- learning as we work alongside other new economy projects.
-- Not because a "default to open" is an ideal, but because it orients us toward negotiations a set of practices around our shared intentions.
-- Yet we recognize openly sharing might prevent frank and necessary discussion beneficial to our members, and so we want to clearly lay our our practices of consent and privacy
+- Not because "default to open" is an ideal in itself, but because it orients us toward negotiating a set of practices around our shared intentions.
+- Yet we recognize openly sharing might prevent frank and necessary discussion beneficial to our members, and so we want to clearly lay out our practices of consent and privacy
 
 # How and what?
 
