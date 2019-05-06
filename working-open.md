@@ -4,7 +4,7 @@ Hypha operates with democratic organizing principles informed by our [values](./
 
 ## Why?
 
-- In order to share, provide opportunities for self- and collective- learning as we work alongside other new economy projects.
+- In order to share and provide opportunities for self- and collective- learning as we work in solidarity with others seeking to create meaningful livelihoods.
 - Not because "default to open" is an ideal in itself, but because it orients us toward negotiating a set of practices around our shared intentions.
 - Yet we recognize openly sharing might prevent frank and necessary discussion beneficial to our members, and so we want to clearly lay out our practices of consent and privacy
 
@@ -13,7 +13,8 @@ Hypha operates with democratic organizing principles informed by our [values](./
 - We currently work with a [*in camera*](https://en.wikipedia.org/wiki/In_camera)/redaction request for meeting notes, where at any point members can request to stop taking notes, or redact and correct notes after they have been taken
 
 Legend:
-👀 - View only
+👀  view only
+📝  view and participate
 
 **Default open to all**:
 
@@ -33,14 +34,14 @@ Legend:
 
 **Default closed to working groups and project members**:
 
-- Full personal/financial information of members
+- Full personal/financial information of members (e.g., home addresses, banking information, and social insurance numbers)
 - Personal/financial information involving external parties
 - Administration privileges including financal for services and infrastructure
 - Project sensitive data sets (especially all non-anonymized/identifiable) and critical infrastructure
 
 **Require consent before releasing**:
 
-- Audio, visual (photography) and video recordings
+- Audio, visual, and video recordings (e.g., photographs or recorded interviews)
 - Chat transcripts
 - Notes involving external parties and collaborators
 - Materials from project retrospectives
