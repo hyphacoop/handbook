@@ -12,9 +12,9 @@ Hypha operates with democratic organizing principles informed by our [values](./
 
 - We currently work with a [*in camera*](https://en.wikipedia.org/wiki/In_camera)/redaction request for meeting notes, where at any point members can request to stop taking notes, or redact and correct notes after they have been taken
 
-Legend:
-👀  view only
-📝  view and participate
+Legend:  
+👀  view only  
+📝  view and participate  
 
 **Default open to all**:
 
@@ -26,18 +26,18 @@ Legend:
 
 **Default open to members**:
 
-- Meeting notes and documents (write-access)
-- Task tracking, project management (PM), and decision making (DM) tools (write-access)
+- Meeting notes and documents 📝 
+- Task tracking, project management (PM), and decision making (DM) tools 📝 
 - Finances (budget, expenses, and cash flow projections) and audit records 👀
-- Potential opportunities and leads
+- Potential opportunities and leads 📝 
 - Project proposal(s), statement(s) of work (in-progress/signed), in-progres deliverables, and finances (budget, expenses, and cash flow projections) 👀
 
-**Default closed to working groups and project members**:
+**Default closed to specific working groups and project members**:
 
 - Full personal/financial information of members (e.g., home addresses, banking information, and social insurance numbers)
-- Personal/financial information involving external parties
-- Administration privileges including financal for services and infrastructure
-- Project sensitive data sets (especially all non-anonymized/identifiable) and critical infrastructure
+- Personal/financial information involving external parties 📝 
+- Administration privileges including financal for services and infrastructure 📝 
+- Project sensitive data sets (especially all non-anonymized/identifiable) and critical infrastructure 📝 
 
 **Require consent before releasing**:
 
