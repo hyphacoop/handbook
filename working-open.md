@@ -18,26 +18,32 @@ Legend:
 
 **Default open to all**:
 
-- Meeting notes (all hands, working groups) and final documents (handbook), on GitHub and other platforms 👀
-- Aggregated financal statements 👀
-- Project deliverables*, task tracking, meeting notes, and aggregated financial statements 👀
+- Scope: Organization
+  - Meeting notes (all hands, working groups) and final documents (handbook), on GitHub and other platforms 👀
+  - Aggregated financal statements 👀
+- Scope: Project
+  - Project deliverables*, task tracking, meeting notes, and aggregated financial statements 👀
 
 * *This would include source repositories and code (e.g., on GitHub) and other process materials based on consensus on licensing and usage constraints.*
 
 **Default open to members**:
 
-- Meeting notes and documents 📝 
-- Task tracking, project management (PM), and decision making (DM) tools 📝 
-- Finances (budget, expenses, and cash flow projections) and audit records 👀
-- Potential opportunities and leads 📝 
-- Project proposal(s), statement(s) of work (in-progress/signed), in-progres deliverables, and finances (budget, expenses, and cash flow projections) 👀
+- Scope: Organization
+  - Meeting notes and documents 📝 
+  - Task tracking, project management (PM), and decision making (DM) tools 📝 
+  - Finances (budget, expenses, and cash flow projections) and audit records 👀
+  - Potential opportunities and leads 📝 
+- Scope: Project
+  - Project proposal(s), statement(s) of work (in-progress/signed), in-progres deliverables, and finances (budget, expenses, and cash flow projections) 👀
 
 **Default closed to specific working groups and project members**:
 
-- Full personal/financial information of members (e.g., home addresses, banking information, and social insurance numbers)
-- Personal/financial information involving external parties 📝 
-- Administration privileges including financal for services and infrastructure 📝 
-- Project sensitive data sets (especially all non-anonymized/identifiable) and critical infrastructure 📝 
+- Scope: Organization
+  - Full personal/financial information of members (e.g., home addresses, banking information, and social insurance numbers)
+  - Personal/financial information involving external parties 📝 
+  - Administration privileges including financal for services and infrastructure 📝 
+- Scope: Project
+  - Project sensitive data sets (especially all non-anonymized/identifiable) and critical infrastructure 📝 
 
 **Require consent before releasing**:
 
