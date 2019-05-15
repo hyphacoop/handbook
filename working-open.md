@@ -34,7 +34,7 @@ Legend:
   - Finances (budget, expenses, and cash flow projections) and audit records 👀
   - Potential opportunities and leads 📝 
 - Scope: Project
-  - Project proposal(s), statement(s) of work (in-progress/signed), in-progres deliverables, and finances (budget, expenses, and cash flow projections) 👀
+  - Project proposal(s), statement(s) of work (in-progress/signed), in-progress deliverables, and finances (budget, expenses, and cash flow projections) 👀
 
 **Default closed to specific working groups and project members**:
 
