@@ -20,7 +20,7 @@ Legend:
 
 - Scope: Organization
   - Meeting notes (all hands, working groups) and final documents (handbook), on GitHub and other platforms 👀
-  - Aggregated financal statements 👀
+  - Aggregated financial statements 👀
 - Scope: Project
   - Project deliverables*, task tracking, meeting notes, and aggregated financial statements 👀
 
