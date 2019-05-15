@@ -41,7 +41,7 @@ Legend:
 - Scope: Organization
   - Full personal/financial information of members (e.g., home addresses, banking information, and social insurance numbers)
   - Personal/financial information involving external parties 📝 
-  - Administration privileges including financal for services and infrastructure 📝 
+  - Administration privileges including financial for services and infrastructure 📝 
 - Scope: Project
   - Project sensitive data sets (especially all non-anonymized/identifiable) and critical infrastructure 📝 
 
