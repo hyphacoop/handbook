@@ -10,7 +10,7 @@ Hypha operates with democratic organizing principles informed by our [values](./
 
 # How and what?
 
-- We currently work with an [*in camera*](https://en.wikipedia.org/wiki/In_camera)/redaction request for meeting notes, where at any point members can request to stop taking notes, or redact and correct notes after they have been taken
+- We currently accommodate redactions and going off-the-record for meeting notes. Participants can request to stop taking notes, or redact and correct notes after they have been taken.
 
 Legend:  
 👀  view only  
