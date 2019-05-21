@@ -6,7 +6,7 @@ Hypha operates with democratic organizing principles informed by our [values](./
 
 - In order to share and provide opportunities for self- and collective- learning as we work in solidarity with others seeking to create meaningful livelihoods.
 - Not because "default to open" is an ideal in itself, but because it orients us toward negotiating a set of practices around our shared intentions.
-- Yet we recognize openly sharing might prevent frank and necessary discussion beneficial to our members, and so we want to clearly lay out our practices of consent and privacy
+- Yet we recognize openly sharing might prevent frank and necessary discussion beneficial to our members, and so we want to clearly lay out our practices of consent and privacy.
 
 # How and what?
 
@@ -24,7 +24,7 @@ Legend:
 - Scope: Project
   - Project deliverables*, task tracking, meeting notes, and aggregated financial statements 👀
 
-* *This would include source repositories and code (e.g., on GitHub) and other process materials based on consensus on licensing and usage constraints.*
+**This would include source repositories and code (e.g., on GitHub) and other process materials based on consensus on licensing and usage constraints.*
 
 **Default open to members**:
 
