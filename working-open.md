@@ -16,7 +16,7 @@ Legend:
 👀  view only  
 📝  view and participate  
 
-**Default open to all**:
+**Default open to public**:
 
 - Scope: Organization
   - Meeting notes (all hands, working groups) and final documents (handbook), on GitHub and other platforms 👀
