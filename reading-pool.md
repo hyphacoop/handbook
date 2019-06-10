@@ -10,13 +10,15 @@ Reading Pool
 :::  
 
 
-**7 International Co-operative Principles**: ***
+**7 International Co-operative Principles**:
+
 - :globe_with_meridians: [ICA Cooperative identity, values & principles](https://www.ica.coop/en/whats-co-op/co-operative-identity-values-principles)
 - :page_facing_up: [ICA Guidance Notes to the Co-operative Principles](https://www.ica.coop/sites/default/files/publication-files/ica-guidance-notes-en-310629900.pdf)
 - :globe_with_meridians: [Willy Street Seven Cooperative Principles](https://www.willystreet.coop/seven-cooperative-principles)
 - :globe_with_meridians: [Grassroots Economic Organizing: The Cooperative Principles, the Common Good, and Solidarity](http://www.geo.coop/story/cooperative-principles-common-good-and-solidarity)
 
 Tech Worker Co-ops:
+
 - :page_facing_up: [A technology freelancer's guide to starting a worker's coop](https://cryptography.dog/TechCoopHOWTO.pdf)
 - :speaker: Soundcloud Podcast: [Worker Cooperatives: Widening Spheres of Democracy](https://www.upstreampodcast.org/workercoops1)
 - :globe_with_meridians: Tech Worker Co-op Repo: [Incredible list of resources including a db of active tech co-ops worldwide](https://github.com/hng/tech-coops)
@@ -30,6 +32,7 @@ Tech Worker Co-ops:
 - :page_facing_up: [Balancing Performance with Principles in Coops and Mutuals, Report by Ernst and Young](https://www.ey.com/Publication/vwLUAssets/Enlightened_co-operative_governance/$FILE/Enlightened%20co-operative%20governance_EN.pdf)
 
 Civics, Tech, Politics:
+
 - :globe_with_meridians: [Paul Frazee "Information Civics"](https://infocivics.com/)
 - :page_facing_up: [Langdon Winner "Do Artifacts have Politics"](https://www.cc.gatech.edu/~beki/cs4001/Winner.pdf)
 - :globe_with_meridians: [Diana Nucera "Two-way Streets: Forging the Paths Towards Participatory Civic Technology"](https://civicquarterly.com/article/two-way-streets/)
@@ -38,6 +41,7 @@ Civics, Tech, Politics:
 - :page_facing_up: [Indigenous Cooperatives in Canada: The Complex Relationship Between Cooperatives, Community Economic Development, Colonization, and Culture](http://www.jeodonline.com/sites/jeodonline.com/files/articles/2015/08/13/6sengupta13aug2015.pdf)
 
 Collaboration, Methodologies:
+
 - :globe_with_meridians: [Study Collaboration](http://studycollaboration.com)
     - Thinking about novel ways of collaborating between us and others
     - Also, neat links towards the bottom
@@ -51,10 +55,12 @@ Collaboration, Methodologies:
 - :globe_with_meridians: [El LleialTec: Pla de Sobirania Tecnològica als equipaments municipals](https://tec.lleialtat.cat/) ([Google translated](https://translate.google.ca/translate?hl=en&sl=ca&tl=en&u=https%3A%2F%2Ftec.lleialtat.cat))
 
 New Economies:
+
 - :globe_with_meridians: [Center for Global Justice: Solidarity Economy Directory](https://globaljusticecenter.org/solidarity-economy-directory/International)
 - :globe_with_meridians: [The Future of Social Economy Leadership and Organizational Composition in Canada: Demand from Demographics, and Difference through Diversity](https://journals.openedition.org/interventionseconomiques/2794)
 
-Commons, anti-capitalism:
+Commons, Anti-capitalism:
+
 - :books: Elinor Ostrom (1990) *Governing the Commons*
     - :globe_with_meridians: [8 principles for designing common pool resources](http://www.onthecommons.org/magazine/elinor-ostroms-8-principles-managing-commmons)
 - :page_facing_up: JK Gibson-Graham, J Cameron, & S Healy (2016) "Commoning as a postcapitalist politics" In *Releasing the Commons: Rethinking the futures of the commons*
@@ -65,15 +71,16 @@ Commons, anti-capitalism:
 - :clapper: Richard Sennett [The Decline of the Skills Society](https://www.youtube.com/watch?v=mjd5iM42APA)
 - :globe_with_meridians: Scott Alexander [Meditations On Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
 
-Why decentralize?
-- :clapper: Sarah Friend [Decentralization and its Discontents](https://www.youtube.com/watch?v=Km6EYsBYAlY) at Radical Networks 2018
+Why Decentralize?
+
+- :clapper: Sarah Friend [Decentralization and Its Discontents](https://www.youtube.com/watch?v=Km6EYsBYAlY) at Radical Networks 2018
 - :page_facing_up: Nathan Schnieder n.d. "Decentralization: An Incomplete Ideology"
 - :globe_with_meridians: [Data Together Reading List](https://github.com/datatogether/reading_datatogether) or [Zotero Group](https://www.zotero.org/groups/datatogether)
 
 Requirements for co-ops in Canada (Federal, Ontario) see [**2018 retreat playbook**](https://github.com/hyphacoop/organizing/tree/master/2018-december-retreat):
+
 - :page_facing_up: [Registering a coop - Official Guide by Financial Services Commision of Ontario](https://www.fsco.gov.on.ca/en/coops/Documents/register_co-ops-guide.pdf)
 - :page_facing_up: [Ontario.coop fact sheets](https://ontario.coop/sites/default/files/Complete%20list%20of%20FACTSheets%20-%20Updated.pdf)
 - :globe_with_meridians: [Industry Canada Starting a Federal co-op](https://www.ic.gc.ca/eic/site/106.nsf/eng/h_00073.html#federal)
 - :globe_with_meridians: [Industry Canada Starting an ON co-op](https://www.ic.gc.ca/eic/site/106.nsf/eng/h_00073.html#ontario)
 - :globe_with_meridians: [Ontario.coop Starting a co-operative](https://www.ontario.coop/starting-co-operative)
-
