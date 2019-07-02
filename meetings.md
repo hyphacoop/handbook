@@ -10,6 +10,7 @@ meet.
     - [Full](#full)
   - [Holds](#holds)
 - [Scheduling](#scheduling)
+- [Hosting](#hosting)
 - [Expectations](#expectations)
 
 ## Types
@@ -45,14 +46,14 @@ open. They could be used for:
 
 ## Scheduling
 
-- Check the [monthly `availability` calendar for travel/vacation plans][availability].
-- Check the [weekly availability `schedules`][schedules].
-- Claim an open HOLD [:information_source:](#holds) slot.
-- Create a stub agenda as soon as possible, but no later than X days in
-  advance.
-  - Hint: Use [an agenda `template`][template].
-- Add the agenda to the [`meetings` index][meetings].
-- Add the event to the [organizational calendar][calendar]
+See the [_"Scheduling a meeting"_ protocol][scheduling-protocol].
+
+## Hosting
+
+See the [_"Hosting a meeting"_ protocol][hosting-protocol].
+
+   [scheduling-protocol]: /protocols.md#scheduling-a-meeting
+   [hosting-protocol]: /protocols.md#hosting-a-meeting
 
 ## Expectations
 
