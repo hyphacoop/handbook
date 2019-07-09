@@ -21,7 +21,6 @@ Note: Consider whether this meeting might be a global interest to other
   them.
   - Check the [monthly `availability` calendar for travel/vacation plans][availability].
   - Check everyone's [weekly availability `schedules`][schedules].
-    for them.
 - If 2-3 candidate timeslots feel obvious from looking at internal
   availabilities:
   - Reserve them all in [Hypha calendar][calendar] immediately, for example: `HOLD:
