@@ -3,39 +3,53 @@
 The purpose of this resource is to share details about how and when we
 meet.
 
+We have specific Guides for [scheduling][scheduling] and
+[hosting][hosting] meetings.
+
 **Contents**
+
 - [Types](#types)
-  - [All Hands](#all-hands)
-    - [Standup](#standup)
-    - [Full](#full)
-  - [Holds](#holds)
+  - [All Hands: Full](#all-hands-full)
+  - [All Hands: Standup](#all-hands-standup)
+- [Calendar Holds](#calendar-holds)
 - [Scheduling](#scheduling)
 - [Hosting](#hosting)
 - [Expectations](#expectations)
 
 ## Types
 
-### All Hands
+All meetings are expected to have someone in the **Cultivator** &
+**Notetaker** [roles](/roles.md).
 
-All-hands meetings are our general sync-up. We all try our best to be
-there. We adjust regularity of meeting based on time of year, member
-workload (inside and outside co-op), and needs of organization-wide
-initiatives.
+### All Hands: Full
+
+All Hands meetings are our general sync-up. We all try our best to be
+there. We adjust regularity and format of meetings based on time of
+year, member workload (inside and outside co-op), and needs of
+organization-wide initiatives.
 
 :calendar: **Schedule:** We currently meet every 2 weeks, alternating between
 format of a short **standup** and a **full** meeting.
 
-#### Standup
-:clock10: **Duration:** 15 minutes
-
-This format involves...
-
 #### Full
 :clock10: **Duration:** 60 minutes
+:memo: **Template:** [`link.hypha.coop/template`](https://link.hypha.coop/template)
 
-This format involves...
+This format involves: review of previous action items, working group
+updates, announcements, etc. (See template for specifics.)
 
-### Holds
+#### Standup
+:clock10: **Duration:** 15 minutes
+:memo: **Template:** [`link.hypha.coop/standup-template`](https://link.hypha.coop/standup-template)
+
+This format involves rotating through each meeting participant and
+having them answer 3 questions about past and future intentions and
+blocks to those. (See template for specifics.)
+
+We expect no longer than **3 minutes per person**. If people have more
+to say, they're welcome to stay after the close of he call to discuss.
+
+## Calendar Holds
 
 Holds are unclaimed spots in our shared schedule that we try to leave
 open. They could be used for:
@@ -44,21 +58,15 @@ open. They could be used for:
 - Last-minute or urgent meetings, for which a new scheduling is
   difficult
 
-## Scheduling
-
-See the [_"Scheduling a meeting"_ protocol][scheduling-protocol].
-
-## Hosting
-
-See the [_"Hosting a meeting"_ protocol][hosting-protocol].
-
-   [scheduling-protocol]: /protocols.md#scheduling-a-meeting
-   [hosting-protocol]: /protocols.md#hosting-a-meeting
+We periodically re-poll members for the best time, often using our
+up-to-date [weekly availability schedules][schedules].
 
 ## Expectations
 
 - Our expectations of one another as participants...
 
+   [scheduling]: /guides.md#scheduling-a-meeting
+   [hosting]: /guides.md#hosting-a-meeting
    [availability]: https://link.hypha.coop/availability
    [schedules]: https://link.hypha.coop/schedules
    [meetings]: https://link.hypha.coop/meetings

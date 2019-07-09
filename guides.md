@@ -1,4 +1,11 @@
-# Protocols
+# Guides
+
+Guides explain in practical terms how we do stuff. Any Hypha member can
+change these.<sup>[1](#references)</sup>
+
+We are inspired by the idea of "protocols" from the [Lab
+Book][clear-lab-book] of the [Civic Laboratory for Environmental Action
+Research (CLEAR)][clear]
 
 > Protocols are the "attitudes" or "the manner in which one approaches each and
 every element in our space." They are different than pure rules or
@@ -7,13 +14,11 @@ across our group [...] -- They define the way we ought to proceed or behave in
 different situations. As such, they are normative, or premised on values,
 morals, and an idea of how things ought to be done. They are a manifestation of
 our values.
->
-> -- [Lab Book, Civic Laboratory for Environmental Action Research (CLEAR)][clear-lab-book]
 
 ## Scheduling a meeting
 
 Note: Consider whether this meeting might be a global interest to other
-  members. Skip below steps at your discretion for low-stakes topics.
+members. Skip below steps at your discretion for low-stakes topics.
 
 - Try to announce your intention to schedule a meeting on a topic, and ask
   who's interested to participate. Allow a day for people to respond.
@@ -63,8 +68,13 @@ Note: Consider whether this meeting might be a global interest to other
   - as needed, send reminders of action items
   - future: migrate action items into task tracker
 
+### References
+
+<sup>1. Inspired by [Enspiral Handbook: Guides](https://handbook.enspiral.com/guides.html)</sup>
+
 <!-- Links -->
    [clear-lab-book]: https://civiclaboratory.nl/clear-lab-book/
+   [clear]: http://civiclaboratory.nl
    [availability]: https://link.hypha.coop/availability
    [schedules]: https://link.hypha.coop/schedules
    [meetings]: https://link.hypha.coop/meetings
