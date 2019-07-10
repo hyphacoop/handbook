@@ -40,7 +40,7 @@ members. Skip below steps at your discretion for low-stakes topics.
       meeting in chat.
 - If your must find a new timeslot:
   - Create a new poll. (We currently use [When2Meet](https://www.when2meet.com/).)
-  - Try to leave ample time for completion (up to 1 week?).
+  - Leave ample time for completion (ideally 1 week).
   - Check on non-responders in following days, and poke them.
 
 ## Hosting a meeting
