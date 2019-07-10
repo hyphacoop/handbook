@@ -51,8 +51,8 @@ to say, they're welcome to stay after the close of he call to discuss.
 
 ## Calendar Holds
 
-Holds are unclaimed spots in our shared schedule that we try to leave
-open. They could be used for:
+Holds are unclaimed spots in our shared schedule when most members are
+available, that we try to leave open. They could be used for:
 
 - Discussions requiring the whole organization
 - Last-minute or urgent meetings, for which a new scheduling is
