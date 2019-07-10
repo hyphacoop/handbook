@@ -41,16 +41,17 @@ members. Skip below steps at your discretion for low-stakes topics.
 - If your must find a new timeslot:
   - Create a new poll. (We currently use [When2Meet](https://www.when2meet.com/).)
   - Leave ample time for completion (ideally 1 week).
-  - Check on non-responders in following days, and poke them.
+  - Check on non-responders in following days, and send (gentle)
+    reminders as needed.
 
 ## Hosting a meeting
 
 - **Before** the meeting...
   - create a stub agenda as soon as possible (can be done before scheduling)
-    - Hint: use [an agenda `template`][template].
-  - add the agenda to the [`meetings` index][meetings].
+    - Hint: use [an agenda `template`][template]
+  - add the agenda to the [`meetings` index][meetings]
   - update the [organizational calendar][calendar] as event scheduling
-    progresses.
+    progresses
   - mention the meeting time in chat, and link the agenda.
   - encourage migration of related actions, decisions and discussions
     into agenda from chat
