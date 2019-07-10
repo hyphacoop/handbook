@@ -39,7 +39,7 @@ members. Skip below steps at your discretion for low-stakes topics.
     - If claiming a hold, edit the calendar immediately, and announce
       meeting in chat.
 - If your must find a new timeslot:
-  - Create a [new When2Meet poll](https://www.when2meet.com/).
+  - Create a new poll. (We currently use [When2Meet](https://www.when2meet.com/).)
   - Try to leave ample time for completion (up to 1 week?).
   - Check on non-responders in following days, and poke them.
 
