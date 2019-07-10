@@ -21,7 +21,7 @@ We have specific Guides for [scheduling][scheduling] and
 All meetings are expected to have someone in the **Cultivator** &
 **Notetaker** [roles](/roles.md).
 
-### All Hands: Full
+### All Hands
 
 All Hands meetings are our general sync-up. We all try our best to be
 there. We adjust regularity and format of meetings based on time of
