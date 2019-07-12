@@ -36,7 +36,7 @@ members. Skip below steps at your discretion for low-stakes topics.
   - Claim an open HOLD [:information_source:](/meetings.md#holds) slot.
     - If time permits or topic isn't an all-hands matter, consider
       leaving the hold available for someone else.
-    - If claiming a hold, edit the calendar immediately, and announce
+    - If claiming a hold, edit the calendar immediately and announce
       meeting in chat.
 - If your must find a new timeslot:
   - Create a new poll. (We currently use [When2Meet](https://www.when2meet.com/).)
