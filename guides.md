@@ -21,7 +21,7 @@ Note: Consider whether this meeting might be a global interest to other
 members. Skip the steps below at your discretion for low-stakes topics.
 
 - Try to announce your intention to schedule a meeting on a topic and ask
-  who's interested in participating. Allow a day for people to respond.
+  who's interested in participating. Allow _at least_ 48 hours for people to respond.
 - Consider who might be most interested and what timing might work for
   them.
   - Check the [monthly `availability` calendar for travel/vacation plans][availability].
