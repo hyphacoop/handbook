@@ -67,7 +67,7 @@ members. Skip the steps below at your discretion for low-stakes topics.
     (hackmd => review (PR) => file)
   - as needed, set up loomio threads and decisions
   - as needed, send reminders of action items
-  - future: migrate action items into task tracker
+  - migrate action items into task tracker
 
 ### References
 
