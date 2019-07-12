@@ -20,9 +20,9 @@ our values.
 Note: Consider whether this meeting might be a global interest to other
 members. Skip the steps below at your discretion for low-stakes topics.
 
-- Try to announce your intention to schedule a meeting on a topic, and ask
-  who's interested to participate. Allow a day for people to respond.
-- Consider who might be most interested, and what timing might work for
+- Try to announce your intention to schedule a meeting on a topic and ask
+  who's interested in participating. Allow a day for people to respond.
+- Consider who might be most interested and what timing might work for
   them.
   - Check the [monthly `availability` calendar for travel/vacation plans][availability].
   - Check everyone's [weekly availability `schedules`][schedules].
@@ -41,7 +41,7 @@ members. Skip the steps below at your discretion for low-stakes topics.
 - If your must find a new timeslot:
   - Create a new poll. (We currently use [When2Meet](https://www.when2meet.com/).)
   - Leave ample time for completion (ideally 1 week).
-  - Check on non-responders in following days, and send (gentle)
+  - Check on non-responders in following days and send (gentle)
     reminders as needed.
 
 ## Hosting a meeting
@@ -50,7 +50,7 @@ members. Skip the steps below at your discretion for low-stakes topics.
   - create a stub agenda as soon as possible (can be done before scheduling)
     - Hint: use [an agenda `template`][template]
   - add the agenda to the [`meetings` index][meetings]
-  - update the [organizational calendar][calendar] as event scheduling
+  - update the [organizational calendar][calendar] as early as possible with candidate and finalized time slots
     progresses
   - mention the meeting time in chat, and link the agenda.
   - encourage migration of related actions, decisions and discussions
