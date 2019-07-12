@@ -18,7 +18,7 @@ our values.
 ## Scheduling a meeting
 
 Note: Consider whether this meeting might be a global interest to other
-members. Skip below steps at your discretion for low-stakes topics.
+members. Skip the steps below at your discretion for low-stakes topics.
 
 - Try to announce your intention to schedule a meeting on a topic, and ask
   who's interested to participate. Allow a day for people to respond.
