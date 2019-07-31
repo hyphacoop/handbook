@@ -61,10 +61,6 @@ available, that we try to leave open. They could be used for:
 We periodically re-poll members for the best time, often using our
 up-to-date [weekly availability schedules][schedules].
 
-## Expectations
-
-- Our expectations of one another as participants...
-
    [scheduling]: /guides.md#scheduling-a-meeting
    [hosting]: /guides.md#hosting-a-meeting
    [availability]: https://link.hypha.coop/availability
