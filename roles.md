@@ -15,6 +15,12 @@ The *Cultivator* is responsible for tending to the all hands meetings and import
 - as needed, set up loomio theads and decisions
 - as needed, sending reminders of action items
 
+For more details, see our Guides for [scheduling][] and [hosting][]
+meetings (summarized above).
+
+   [scheduling]: guides.md#scheduling-a-meeting
+   [hosting]: guides.md#hosting-a-meeting
+
 **Length and Succession**:
 1 month. Last meeting of each month, the Cultivator asks for volunteers for the next person, if no one volunteers they can request those who have not been one recently to do so, which can be declined within based on discussion and with cause.
 
