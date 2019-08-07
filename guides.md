@@ -31,18 +31,18 @@ members. Skip the steps below at your discretion for low-stakes topics.
   - Reserve them all in [Hypha calendar][calendar] immediately, for example: `HOLD:
     Infrastructure Meeting (Option 1)`
   - Ask in chat whether anyone who wants to attend has any blocks on any
-    of the options.
+    of the options
 - If short-notice or speed of booking is important:
   - Claim an open HOLD [:information_source:](/meetings.md#holds) slot.
     - If time permits or topic isn't an all-hands matter, consider
-      leaving the hold available for someone else.
+      leaving the hold available for someone else
     - If claiming a hold, edit the calendar immediately and announce
-      meeting in chat.
+      meeting in chat
 - If your must find a new timeslot:
-  - Create a new poll (we currently use [When2Meet](https://www.when2meet.com/)).
-  - Leave ample time for completion (ideally 1 week).
+  - Create a new poll (we currently use [When2Meet](https://www.when2meet.com/))
+  - Leave ample time for completion (ideally 1 week)
   - Check on non-responders in following days and send (gentle)
-    reminders as needed.
+    reminders as needed
 
 ## Hosting a meeting
 
