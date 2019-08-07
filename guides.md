@@ -24,9 +24,9 @@ members. Skip the steps below at your discretion for low-stakes topics.
   who's interested in participating. Allow _at least_ 48 hours for people to respond.
 - Consider who might be most interested and what timing might work for
   them.
-  - Check the [monthly `availability` calendar for travel/vacation plans][availability].
-  - Check everyone's [weekly availability `schedules`][schedules].
-- If 2-3 candidate timeslots feel obvious from looking at internal
+  - Check the [`availability` calendar for travel/vacation plans][availability].
+  - Check everyone's [availability `schedules`][schedules].
+- If 2-3 candidate timeslots feel obvious from looking at people's
   availabilities:
   - Reserve them all in [Hypha calendar][calendar] immediately, for example: `HOLD:
     Infrastructure Meeting (Option 1)`
@@ -39,7 +39,7 @@ members. Skip the steps below at your discretion for low-stakes topics.
     - If claiming a hold, edit the calendar immediately and announce
       meeting in chat.
 - If your must find a new timeslot:
-  - Create a new poll. (We currently use [When2Meet](https://www.when2meet.com/).)
+  - Create a new poll (we currently use [When2Meet](https://www.when2meet.com/)).
   - Leave ample time for completion (ideally 1 week).
   - Check on non-responders in following days and send (gentle)
     reminders as needed.
