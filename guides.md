@@ -82,7 +82,7 @@ our [`shortlinks` repo](https://github.com/hyphacoop/shortlinks).
 
 ## Accessing shortlinks
 
-Shortlinks work on their own, but for even easier access on your own
+Shortlinks work on their own in the address bar, but for even easier access on your own
 workstation, you can **add a "custom search engine" keyword to your
 browser**.
 
