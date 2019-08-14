@@ -82,6 +82,9 @@ our [`shortlinks` repo](https://github.com/hyphacoop/shortlinks).
 
 ## Accessing shortlinks
 
+> **Hint:** You can use a URL hash to deep-link into an expanded shortlink.
+> Example:&nbsp;http://link.hypha.coop/inventory#MailCow
+
 Shortlinks work on their own in the address bar, but for even easier access on your own
 workstation, you can **add a "custom search engine" keyword to your
 browser**.
