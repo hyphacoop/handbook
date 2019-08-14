@@ -72,7 +72,7 @@ members. Skip the steps below at your discretion for low-stakes topics.
 ## Managing shortlinks
 
 We use a custom shortlink service at `link.hypha.coop`. It helps us:
-- resolve keywords to URLs independantly of our personal workstation setup
+- resolve keywords to URLs from any computer,
 - make commonly used resources quickly and easily accessible,
 - simplify link-sharing in spoken conversations, and
 - align on shorthand keywords for resources.
