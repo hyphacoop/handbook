@@ -3,7 +3,7 @@
 The purpose of this resource is to share details about how and when we
 meet.
 
-We have specific Guides for [scheduling][scheduling] and
+We have specific guides for [scheduling][scheduling] and
 [hosting][hosting] meetings.
 
 **Contents**
