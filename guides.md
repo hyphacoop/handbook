@@ -15,7 +15,9 @@ different situations. As such, they are normative, or premised on values,
 morals, and an idea of how things ought to be done. They are a manifestation of
 our values.
 
-## Scheduling a meeting
+## Meetings
+
+### Scheduling a meeting
 
 Note: Consider whether this meeting might be a global interest to other
 members. Skip the steps below at your discretion for low-stakes topics.
@@ -44,7 +46,7 @@ members. Skip the steps below at your discretion for low-stakes topics.
   - Check on non-responders in following days and send (gentle)
     reminders as needed
 
-## Hosting a meeting
+### Hosting a meeting
 
 - **Before** the meeting...
   - create a stub agenda as soon as possible (can be done before scheduling)
@@ -69,7 +71,9 @@ members. Skip the steps below at your discretion for low-stakes topics.
   - as needed, send reminders of action items
   - migrate action items into task tracker
 
-## Managing shortlinks
+## Shortlinks
+
+### Managing shortlinks
 
 We use a custom shortlink service at `link.hypha.coop`. It helps us:
 - resolve keywords to URLs from any computer,
@@ -80,7 +84,7 @@ We use a custom shortlink service at `link.hypha.coop`. It helps us:
 Instructions on creating and managing shortlinks are available in
 our [`shortlinks` repo](https://github.com/hyphacoop/shortlinks).
 
-## Accessing shortlinks
+### Accessing shortlinks
 
 > **Hint:** You can use a URL hash to deep-link into an expanded shortlink.
 > Example:&nbsp;http://link.hypha.coop/inventory#MailCow
@@ -100,6 +104,46 @@ engine set in browser](https://i.imgur.com/2D8B7kS.gif)
 Instructions:
 [Chrome](https://www.techrepublic.com/article/pro-tip-add-custom-search-engines-in-chrome-for-more-efficient-searching/)
 | [Firefox (requires extension)](https://addons.mozilla.org/en-US/firefox/addon/add-custom-search-engine/)
+
+## Voicemail
+
+### Accessing Voicemail 
+
+Voicemail is received by email to [members@hypha.coop](mailto:members@hypha.coop).
+
+### Managing Voicemail and Phone Forwarding
+
+accessing
+changing greetings
+where to look for info
+
+Record/Change Greeting
+
+
+
+### Login to voice mail
+
+### Remotely
+
+Dial in number: 14164770355 
+Account number: 14378876936
+Password: in password respository
+
+### Sip Client
+
+Dial *98
+
+## Voice mail greeting
+
+Personal Options - 3
+Greetings - 3
+Personal Greeting 2 
+To record personal greeting press 2
+
+
+
+
+
 
 ### References
 
