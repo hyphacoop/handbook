@@ -23,8 +23,5 @@ In place of a physical meeting place we have virtual office comprised of the fol
 
 We also have the following "helper" tools to navigate these spaces:
 
-- [Service Inventory]()
+- [Service Inventory](https://hackmd.io/WXS9Ie9wQ8OlmIhSpDpdmw?view)
 - Link Shortner: [link.hypha.coop](https://link.hypha.coop)
-
-
-- 
