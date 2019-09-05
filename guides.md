@@ -109,41 +109,28 @@ Instructions:
 
 ### Accessing Voicemail 
 
-Voicemail is received by email to [members@hypha.coop](mailto:members@hypha.coop).
+We use a VoIP phone line provider with forwarding and voicemail from [FreePhoneLine.ca](https://www.freephoneline.ca/login). It helps us:
+
+- Have a phone number without tying it to a physical location
+- Receive voicemail by email to [members@hypha.coop](mailto:members@hypha.coop)
+
+To access voicemail inbox you can either call remotely or through a configured SIP client.
+
+- Remotely:
+  1. Call the dial-in number `14164770355`
+  1. Enter our account number `14378876936`
+  1. Enter our password: <in our shared password manager [Passbolt](https://pass.hypha.coop/auth/login)>
+- SIP client: 
+  Dial `*98`
 
 ### Managing Voicemail and Phone Forwarding
 
-accessing
-changing greetings
-where to look for info
+To record or update the voicemail greeting [access the voicemail](#accessing-voicemail) per above and select the following options:
 
-Record/Change Greeting
-
-
-
-### Login to voice mail
-
-### Remotely
-
-Dial in number: 14164770355 
-Account number: 14378876936
-Password: in password respository
-
-### Sip Client
-
-Dial *98
-
-## Voice mail greeting
-
-Personal Options - 3
-Greetings - 3
-Personal Greeting 2 
-To record personal greeting press 2
-
-
-
-
-
+- 3 - Personal options
+- 3 - Greetings 
+- 2 - Personal greeting 
+- 2 - Record a personal greeting
 
 ### References
 
@@ -157,3 +144,4 @@ To record personal greeting press 2
    [meetings]: https://link.hypha.coop/meetings
    [template]: https://link.hypha.coop/template
    [calendar]: https://link.hypha.coop/calendar
+   [service-inventory]: https://hackmd.io/WXS9Ie9wQ8OlmIhSpDpdmw?view
