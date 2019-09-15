@@ -93,7 +93,7 @@ Shortlinks work on their own in the address bar, but for even easier access on y
 workstation, you can **add a "custom search engine" keyword to your
 browser**.
 
-This allows you to type something like `h<tag>shortlinks` into the
+This allows you to type something like `h<tab>shortlinks` into the
 search bar, and get https://link.hypha.coop/shortlinks
 
 Here's a screencast of how it works on Chrome:
