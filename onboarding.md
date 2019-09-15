@@ -13,7 +13,7 @@ We also have the following communication and contact methods:
 
 ## Our Virtual Office
 
-In place of a physical meeting place we have virtual office comprised of the following spaces:
+In place of a physical place we have virtual office comprised of the following spaces:
 
 - Matrix Chat
 - Loomio
@@ -23,11 +23,11 @@ In place of a physical meeting place we have virtual office comprised of the fol
 We also have the following "helper" tools to navigate these spaces:
 
 - [Service Inventory][service-inventory]
-- [Link Shortner][link-shortener]: [link.hypha.coop][link-shortener]
+- [Link Shortner][link-shortener]: `link.hypha.coop`
 
 
 <!-- Links -->
 [link-shortener]: https://link.hypha.coop/
 [service-inventory]: https://hackmd.io/WXS9Ie9wQ8OlmIhSpDpdmw?view
-[accessing-vm]: /guides.md#accessing-voicemai
+[accessing-vm]: /guides.md#accessing-voicemail
 [managing-vm]: /guides.md#managing-voicemail-and-phone-forwarding
