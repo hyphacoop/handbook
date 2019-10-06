@@ -2,7 +2,7 @@
 
 ## Sales leads & internal proposals
 
-While the Business Planning WG is mainly in charge of sales lead generation, all members may pursue leads as they come up. These may be a client or a grant opportunity. Members are strongly encouraged to record leads into the co-operative's [leads tracking sheet](https://link.hypha.coop/leads) whether or not we decide to pursue the opportunity.
+While the Business Planning WG is mainly in charge of sales lead generation, all members may pursue leads as they come up. These may be a client or a grant opportunity. Members are strongly encouraged to record leads into the co-operative's [leads tracking system](https://link.hypha.coop/leads) whether or not we decide to pursue the opportunity.
 
 Members leading a sales effort should draft an **internal proposal** and present it at a meeting to see whether the co-operative wants to move forward to submit a proposal, whether there are concerns by other members, and gauge team capacity given project timelines. A sample internal proposal should include:
 
