@@ -57,7 +57,7 @@ Each Member's pay from billable project work will have a percent-based portion t
 
 ### Reporting and remitting taxes
 
-Hypha has the following accounts with the Canada Revenue Agency (CRA):
+Hypha has the following _program accounts_ with the Canada Revenue Agency (CRA):
 
 - **RC** for corporate income tax, which is reported and remitted each year
 - **RP** for payroll deduction, which is reported and remitted each month
