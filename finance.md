@@ -11,7 +11,7 @@ This document outlines finance and accounting practices of Hypha Worker Co-opera
 
 ## Organizational structure
 
-Hypha Worker Co-operative is a worker co-operative incorporated in Ontario, Canada. The business has seven Founding Members, four of which are First Directors with signing authority. As a non-share-capital worker co-operative, we are a non-profit organization, and every Member holds both a Worker and an Owner relationship with the business.
+Hypha Worker Co-operative is a worker co-operative incorporated in Ontario, Canada. The business has seven Founding Members, of which three of the four First Directors have signing authority. As a non-share-capital worker co-operative, we are a non-profit organization, and every Member is both an employee and co-owner of the business.
 
 ## Financial accounts
 
