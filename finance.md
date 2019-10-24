@@ -1,6 +1,6 @@
 # Financial Accounts and Practices
 
-_Note: Note all of the following have been implemented yet, the Finance WG is working on it_
+_Note: Not all of the following has been implemented yet, the Finance WG is working on it_
 
 This document outlines finance and accounting practices of Hypha Worker Co-operative, including:
 
