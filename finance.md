@@ -59,8 +59,8 @@ Each Member's pay from billable project work will have a percent-based portion t
 
 Hypha has the following _program accounts_ with the Canada Revenue Agency (CRA):
 
-- **RC** for corporate income tax, which is reported and remitted each year
-- **RP** for payroll deduction, which is reported and remitted each month
+- **Corporate Income Tax (RC)** is reported and remitted each year
+- **Payroll Deduction (RP)** is reported and remitted each payroll period
 
 As a non-profit organization, our co-operative should have tax-exempt status and pay no corporate income tax. We do not have to collect GST/HST from clients and get GST/HST refunds for our puchases.
 
