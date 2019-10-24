@@ -52,6 +52,11 @@ jobs:
             git commit -m "Build handbook from commit $CIRCLE_SHA1 [skip ci]"
             git push
 
+      - save_cache:
+          paths:
+            - node_modules
+          key: v1-dependencies-{{ checksum "package.json" }}
+
 workflows:
   version: 2
   build-handbook:
