@@ -15,7 +15,9 @@ different situations. As such, they are normative, or premised on values,
 morals, and an idea of how things ought to be done. They are a manifestation of
 our values.
 
-## Scheduling a meeting
+## Meetings
+
+### Scheduling a meeting
 
 Note: Consider whether this meeting might be a global interest to other
 members. Skip the steps below at your discretion for low-stakes topics.
@@ -44,7 +46,7 @@ members. Skip the steps below at your discretion for low-stakes topics.
   - Check on non-responders in following days and send (gentle)
     reminders as needed
 
-## Hosting a meeting
+### Hosting a meeting
 
 - **Before** the meeting...
   - create a stub agenda as soon as possible (can be done before scheduling)
@@ -69,7 +71,9 @@ members. Skip the steps below at your discretion for low-stakes topics.
   - as needed, send reminders of action items
   - migrate action items into task tracker
 
-## Managing shortlinks
+## Shortlinks
+
+### Managing shortlinks
 
 We use a custom shortlink service at `link.hypha.coop`. It helps us:
 - resolve keywords to URLs from any computer,
@@ -80,7 +84,7 @@ We use a custom shortlink service at `link.hypha.coop`. It helps us:
 Instructions on creating and managing shortlinks are available in
 our [`shortlinks` repo](https://github.com/hyphacoop/shortlinks).
 
-## Accessing shortlinks
+### Accessing shortlinks
 
 > **Hint:** You can use a URL hash to deep-link into an expanded shortlink.
 > Example:&nbsp;http://link.hypha.coop/inventory#MailCow
@@ -89,7 +93,7 @@ Shortlinks work on their own in the address bar, but for even easier access on y
 workstation, you can **add a "custom search engine" keyword to your
 browser**.
 
-This allows you to type something like `h<tag>shortlinks` into the
+This allows you to type something like `h<tab>shortlinks` into the
 search bar, and get https://link.hypha.coop/shortlinks
 
 Here's a screencast of how it works on Chrome:
@@ -100,6 +104,33 @@ engine set in browser](https://i.imgur.com/2D8B7kS.gif)
 Instructions:
 [Chrome](https://www.techrepublic.com/article/pro-tip-add-custom-search-engines-in-chrome-for-more-efficient-searching/)
 | [Firefox (requires extension)](https://addons.mozilla.org/en-US/firefox/addon/add-custom-search-engine/)
+
+## Voicemail
+
+### Accessing Voicemail 
+
+We use a VoIP phone line provider with forwarding and voicemail from [FreePhoneLine.ca](https://www.freephoneline.ca/login). It helps us:
+
+- Have a phone number without tying it to a physical location
+- Receive voicemail by email to [members@hypha.coop](mailto:members@hypha.coop)
+
+To access voicemail inbox you can either call remotely or through a configured SIP client.
+
+- Remotely:
+  1. Call the dial-in number `14164770355`
+  1. Enter our account number `14378876936`
+  1. Enter our password: <in our shared password manager [Passbolt](https://pass.hypha.coop/auth/login)>
+- SIP client: 
+  Dial `*98`
+
+### Managing Voicemail and Phone Forwarding
+
+To record or update the voicemail greeting [access the voicemail](#accessing-voicemail) per above and select the following options:
+
+- 3 - Personal options
+- 3 - Greetings 
+- 2 - Personal greeting 
+- 2 - Record a personal greeting
 
 ### References
 
@@ -113,3 +144,4 @@ Instructions:
    [meetings]: https://link.hypha.coop/meetings
    [template]: https://link.hypha.coop/template
    [calendar]: https://link.hypha.coop/calendar
+   [service-inventory]: https://hackmd.io/WXS9Ie9wQ8OlmIhSpDpdmw?view
