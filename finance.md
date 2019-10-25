@@ -25,9 +25,10 @@ Hypha charges clients on a sliding scale, and projects may be billed hourly, wee
 
 ### Generating timesheets
 
-1. Generate a per-member timesheet in Clockify and save (e.g. [aether_201908_bl](https://clockify.me/bookmarks/5dab94738a17084c0337690d) and [aether_201908_yj](https://clockify.me/bookmarks/5dab94828a17084c03376911))
-1. Generate a team timesheet in Clockify and save (e.g. [aether_201908](https://clockify.me/bookmarks/5dab94a0ae125662897c69b4))
-1. Export team timesheet as PDF to be sent to client, if applicable
+1. When a project begins, generate a **team project report** in Clockify and save with the name `project_YYYYMM` where `YYYYMM` indicates the first month the project is active (e.g. [aether_201908](https://clockify.me/bookmarks/5db255d9e8cd9c50073f35ad))
+1. When a member joins a project, generate a **personal project report** in Clockify and save with the name `project_YYYYMM_xx` where `YYYYMM` indicates the first month the member is active on the project and `xx` is the initials of the member (e.g. [aether_201908_bl](https://clockify.me/bookmarks/5dab94738a17084c0337690d) and [aether_201908_yj](https://clockify.me/bookmarks/5dab94828a17084c03376911))
+1. To generate timesheets, open the team or personal project report and export as PDF for the applicable report period (to be sent to client, if applicable)
+1. Timesheet PDFs sent to clients or for internal payroll calculation should be archived in our [shared drive](https://link.hypha.coop/drive)
 
 This process is done using the Clockify [Summary Report](https://clockify.me/reports/summary). Saved reports are found under [Saved Reports](https://clockify.me/reports/saved).
 
@@ -43,27 +44,27 @@ Invoices (and timesheets, if requested) are sent to clients and are payable in C
 
 ## Member payroll
 
-Member salaries are paid monthly and vary month-to-month depending on their billable hours of work. At the end of each month, each Member's entitled pay is calculated based on the projects and roles they participate in. After withholding taxes and other applicable deductions (e.g. CPP and EI), the net amount is electronically tranferred to the Member's bank account.
+Member wages are paid at the end of each pay period and vary from cycle to cycle depending on their billable hours of work. At the end of each cycle, each Member's entitled pay is calculated based on the projects and roles they participate in. After withholding taxes and other applicable deductions (e.g. CPP and EI), the net amount is electronically tranferred to the Member's bank account.
 
-Expense reimbursements, which require photos uploaded to Quickbooks Online, are paid out monthly with the salary amount as non-taxable items in the paycheque.
+Expense reimbursements, which require photos uploaded to Quickbooks Online, are paid out at each cycle as non-taxable items in the paycheque.
 
-At the end of each tax year, each Member is entitled to a vacation amount that equals 4% of their salary for the year. This amount will be added to the salary for that month.
+Each Member is entitled to a public holiday pay and vacation pay, each one at approximately 4% of their total wages for the year. This amount will be calculated and added to the paycheque per pay period.
 
 All payroll, expense reimbursements, and withheld taxes are managed using Quickbooks Online, which is linked to our main Desjardins account.
 
-### Calculating member salary
+### Calculating member wages
 
-Each Member's pay from billable project work will have a percent-based portion taken from it to fund administrative costs and collective programs. Collective programs may include non-billable projects, member health benefits, CPP & EI, "rainy days" reserve contributions, as well as and other collective expenses of the co-operative. The amount is calculated based on the invoiced amount before transaction costs. The exact percentage is the same across all projects during a period and can be revised as necessary by consensus.
+Each Member's pay from billable project work will have a percent-based portion taken from it to fund administrative costs and collective programs. Collective programs may include non-billable projects, member health benefits, CPP & EI, member & co-op development fund, "rainy days" reserve contributions, as well as and other collective expenses of the co-operative. The amount is calculated based on the invoiced amount before transaction costs. The exact percentage is the same across all projects during a period and can be revised as necessary by consensus.
 
 ### Reporting and remitting taxes
 
 Hypha has the following _program accounts_ with the Canada Revenue Agency (CRA):
 
-- **Corporate Income Tax (RC)** is reported and remitted each year
-- **Payroll Deduction (RP)** is reported and remitted each payroll period
+- **Corporate Income Tax (RC)** is reported and remitted each tax year
+- **Payroll Deduction (RP)** is reported and remitted each pay period
 
 As a non-profit organization, our co-operative should have tax-exempt status and pay no corporate income tax. We do not have to collect GST/HST from clients and get GST/HST refunds for our puchases.
 
-The Finance WG is responsible for bookkeeping and calculating salary deductions using Quickbooks Online, then reporting and remitting appropriate withheld salaries to CRA each month.
+The Finance WG is responsible for bookkeeping and calculating wage deductions using Quickbooks Online, then reporting and remitting appropriate withheld wages to CRA each month.
 
 At the end of each calendar year, Hypha's accountant will send a T4 to each Member and to CRA for personal income tax filings. The accountant will also file annual tax returns and coordinate with the Finance WG to facilitate filings and remittances.
