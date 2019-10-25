@@ -63,7 +63,7 @@ Hypha has the following _program accounts_ with the Canada Revenue Agency (CRA):
 - **Corporate Income Tax (RC)** is reported and remitted each tax year
 - **Payroll Deduction (RP)** is reported and remitted each pay period
 
-As a non-profit organization, our co-operative should have tax-exempt status and pay no corporate income tax. We do not have to collect GST/HST from clients and get GST/HST refunds for our puchases.
+As a non-profit organization, our co-operative should have tax-exempt status and pay no corporate income tax.
 
 The Finance WG is responsible for bookkeeping and calculating wage deductions using Quickbooks Online, then reporting and remitting appropriate withheld wages to CRA each month.
 
