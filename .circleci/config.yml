@@ -50,7 +50,7 @@ jobs:
             git config user.email "noreply@hypha.coop"
             git add -A
             git commit -m "Build handbook from commit $CIRCLE_SHA1 [skip ci]"
-            git push
+            git push origin $BRANCH
 
       - save_cache:
           paths:
