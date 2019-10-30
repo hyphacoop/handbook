@@ -1,6 +1,6 @@
 # Handbook
 
-Hypha Organizational Handbook (H₂0) describes the vision, processes, and culture of Hypha Worker Co-operative. 🌿🍄
+Hypha Organizational Handbook (H₂O) describes the vision, processes, and culture of Hypha Worker Co-operative. 🌿🍄
 
 ## Mission and Vision
 
