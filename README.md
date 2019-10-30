@@ -10,7 +10,7 @@ Working in solidarity with our neighbours, we support each other and provide saf
 
 ---
 
-## Technologies Used
+## 🛠 Technologies Used
 
 - [**Gitbook.**][gitbook] A command line tool to help build documentation.
 - [**Node.js**][node] and [**npm**][npm]. A programming language and package manager.
