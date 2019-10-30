@@ -47,7 +47,7 @@ jobs:
           command: |
             cd ~/$BRANCH/
             git config user.name  "Automatic build"
-            git config user.email "noreply@hypha.coop"
+            git config user.email "infra@hypha.coop"
             git add -A
             git commit -m "Build handbook from commit $CIRCLE_SHA1 [skip ci]"
             git push origin $BRANCH
