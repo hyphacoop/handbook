@@ -27,11 +27,11 @@ We also have the following "helper" tools to navigate our office spaces:
 
 
 <!-- Links -->
-[link-shortener]: https://link.hypha.coop/
-[service-inventory]: https://hackmd.io/WXS9Ie9wQ8OlmIhSpDpdmw?view
+[link-shortener]: https://link.hypha.coop
+[service-inventory]: https://link.hypha.coop/inventory
 [accessing-vm]: /guides.md#accessing-voicemail
 [managing-vm]: /guides.md#managing-voicemail-and-phone-forwarding
 [matrix-chat]: https://chat.tomesh.net/#/group/+hyphacoop:tomesh.net
 [loomio]: https://loomio.hypha.coop
-[task-tracker]: https://github.com/orgs/hyphacoop/projects/2
-[google-drive]: http://link.hypha.club/drive
+[task-tracker]: https://link.hypha.coop/tasks
+[google-drive]: https://link.hypha.coop/drive
