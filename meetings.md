@@ -6,7 +6,7 @@ meet.
 We have specific guides for [scheduling][scheduling] and
 [hosting][hosting] meetings.
 
-**Contents**
+### Contents
 
 - [Types](#types)
   - [All Hands: Full](#all-hands-full)
@@ -28,19 +28,19 @@ there. We adjust regularity and format of meetings based on time of
 year, member workload (inside and outside co-op), and needs of
 organization-wide initiatives.
 
-:calendar: **Schedule:** We currently meet every 2 weeks, alternating between
+📆 **Schedule:** We currently meet every 2 weeks, alternating between
 format of a short **standup** and a **full** meeting.
 
 #### Full
-:clock10: **Duration:** 60 minutes
-:memo: **Template:** [`link.hypha.coop/template`](https://link.hypha.coop/template)
+🕙 **Duration:** 60 minutes  
+📋 **Template:** [`link.hypha.coop/template`](https://link.hypha.coop/template)
 
 This format involves: review of previous action items, working group
 updates, announcements, etc. (See template for specifics.)
 
 #### Standup
-:clock10: **Duration:** 15 minutes
-:memo: **Template:** [`link.hypha.coop/standup-template`](https://link.hypha.coop/standup-template)
+🕙 **Duration:** 15 minutes  
+📋 **Template:** [`link.hypha.coop/standup-template`](https://link.hypha.coop/standup-template)
 
 This format involves rotating through each meeting participant and
 having them answer 3 questions about past and future intentions and
