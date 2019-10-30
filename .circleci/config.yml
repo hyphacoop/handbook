@@ -37,7 +37,7 @@ jobs:
           name: "Build Site"
           command: |
             gitbook install && gitbook build
-            cp -r _book/* ~/$BRANCH/
+            cp -R _book/* ~/$BRANCH/
 
       - add_ssh_keys:
           fingerprints: 35:f1:f1:05:bd:1f:f2:be:89:c0:df:09:5c:ca:79:0a
