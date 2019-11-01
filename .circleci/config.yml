@@ -7,7 +7,7 @@ version: 2
 jobs:
   build-docs:
     docker:
-      - image: circleci/node:7.10
+      - image: circleci/ruby:2.4.2-jessie-node
     environment:
       BRANCH: gh-pages
       REPO: git@github.com:hyphacoop/handbook.git
@@ -36,6 +36,16 @@ jobs:
           command: |
             ./node_modules/.bin/gitbook install && ./node_modules/.bin/gitbook build
             cp -R _book/* ~/$BRANCH/
+
+      # Use htmlproofer for testing HTML 
+      # 
+      # See: https://github.com/gjtorikian/html-proofer
+      # Also: https://circleci.com/blog/automate-your-static-site-deployment-with-circleci/
+      - run:
+          name: "Test links"
+          command: |
+            gem install html-proofer
+            htmlproofer ~/$BRANCH/ --allow-hash-href --check-html --empty-alt-ignore
 
       - add_ssh_keys:
           fingerprints: 35:f1:f1:05:bd:1f:f2:be:89:c0:df:09:5c:ca:79:0a
