@@ -5,6 +5,7 @@
   - [Values](values.md)
 * [Our Virtual Office](onboarding.md)
   - [Onboarding](onboarding.md)
+  - [Coordination](coordination.md)
   - [Meetings](meetings.md)
   - [Roles](roles.md)
   - [Working Open](working-open.md)
