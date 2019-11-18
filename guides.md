@@ -15,6 +15,13 @@ different situations. As such, they are normative, or premised on values,
 morals, and an idea of how things ought to be done. They are a manifestation of
 our values.
 
+### Contents
+
+- [Meetings](#meetings)
+- [Shortlinks](#shortlinks)
+- [Voicemail](#voicemail)
+- [References](#references)
+
 ## Meetings
 
 ### Scheduling a meeting
@@ -132,7 +139,7 @@ To record or update the voicemail greeting [access the voicemail](#accessing-voi
 - 2 - Personal greeting 
 - 2 - Record a personal greeting
 
-### References
+## References
 
 <sup>1. Inspired by [Enspiral Handbook: Guides](https://handbook.enspiral.com/guides.html)</sup>
 
