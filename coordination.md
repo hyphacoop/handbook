@@ -51,8 +51,8 @@ All members are encouraged to install a Matrix client on their phone, and config
 
 We have two shared Google Calendars:
 
-- [hyphacoop](https://link.hypha.coop/calendar) for _internal meetings_ and _public events of interest_
-- [hyphacoop: availability](https://link.hypha.coop/availability) for member _office hours_ and _travels (as all-day events)_
+- [`hyphacoop`](https://link.hypha.coop/calendar): _Internal meetings_ and _public events of interest_
+- [`hyphacoop: availability`](https://link.hypha.coop/availability): _Member office hours_ and _member travels (as all-day events)_
 
 Members can use _office hours_ to identify work hour overlaps with each other, where they can expect peers to be on chat and likely to be available for calls. The _travels_ allow people to figure out the timezone other members are in.
 
