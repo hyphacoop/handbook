@@ -1,0 +1,68 @@
+# Javascript Node CircleCI 2.0 configuration file
+#
+# Check https://circleci.com/docs/2.0/language-javascript/ for more details
+#
+version: 2
+  
+jobs:
+  build-docs:
+    docker:
+      # specify the version you desire here
+      - image: circleci/node:7.10
+      # Specify service dependencies here if necessary
+    environment:
+      BRANCH: gh-pages
+      REPO: git@github.com:hyphacoop/handbook.git
+    steps:
+      - checkout
+
+      # Download and cache dependencies
+      - restore_cache:
+          keys:
+            - v1-dependencies-{{ checksum "package.json" }}
+            # fallback to using the latest cache if no exact match is found
+            - v1-dependencies-
+
+      - run:
+          name: "Install GitBook"
+          command: |
+            npm install gitbook-cli
+
+      - run:
+          name: "Clone gh-pages"
+          command: |
+            git clone --branch $BRANCH $REPO ~/$BRANCH
+
+      - run:
+          name: "Build Site"
+          command: |
+            ./node_modules/.bin/gitbook install && ./node_modules/.bin/gitbook build
+            cp -R _book/* ~/$BRANCH/
+
+      - add_ssh_keys:
+          fingerprints: 35:f1:f1:05:bd:1f:f2:be:89:c0:df:09:5c:ca:79:0a
+
+      - deploy:
+          name: "Upload updated handbook"
+          command: |
+            cd ~/$BRANCH/
+            git config user.name  "Automatic build"
+            git config user.email "noreply@hypha.coop"
+            git add -A
+            git commit -m "Build handbook from commit $CIRCLE_SHA1 [skip ci]"
+            git push origin $BRANCH
+
+      - save_cache:
+          paths:
+            - node_modules
+          key: v1-dependencies-{{ checksum "package.json" }}
+
+workflows:
+  version: 2
+  build-handbook:
+    jobs:
+      - build-docs:
+          filters:
+            branches:
+              only:
+                - master

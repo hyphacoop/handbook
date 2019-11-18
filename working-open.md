@@ -12,7 +12,7 @@ Hypha operates with democratic organizing principles informed by our [values](./
 
 - We currently accommodate redactions and going off-the-record for meeting notes. Participants can request to stop taking notes, or redact and correct notes after they have been taken.
 
-Legend:  
+**Legend**  
 👀  view only  
 📝  view and participate  
 
