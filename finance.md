@@ -15,7 +15,11 @@ Hypha Worker Co-operative is a worker co-operative incorporated in Ontario, Cana
 
 ## Financial accounts
 
-Our main financial institution is **Desjardins** and our main funds are stored in a business chequing account, where all outgoing transactions require 2 signatures from Members of the Finance WG.
+- Institution: **Desjardins**  
+- Account type: business chequing  
+- Requirements for **payments** from account:  
+  - ` > CAD$200`: sign-off by **two** Finance WG members  
+  - `<= CAD$200`: sign-off by **one** Finance WG member
 
 Hypha is expected to conduct business with clients from other countries and is ready to [accept funds in CAD, USD, and EUR](https://transferwise.com/help-smart/11/getting-started/2571907/what-currencies-do-you-support). We use **TransferWise** to minimize transaction and currency exchange fees. Our Transferwise account has local accounts in Canada, United States, and Europe, so we can bill clients as a local financial institution in their local currency. Our TransferWise account does not require multiple signatures, and the Finance WG is responsible for transfering money into our main Desjardins account when accumulated funds exceed a CAD 10,000 threshold.
 
