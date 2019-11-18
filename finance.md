@@ -1,6 +1,4 @@
-# Financial Accounts and Practices
-
-_Note: Not all of the following has been implemented yet, the Finance WG is working on it_
+# Finance 🚧
 
 This document outlines finance and accounting practices of Hypha Worker Co-operative, including:
 
@@ -9,23 +7,24 @@ This document outlines finance and accounting practices of Hypha Worker Co-opera
 - Process for payroll and expense reimbursement to Members
 - Tools and procedures for bookkeeping, accounting, and tax remittances
 
-## Organizational structure
-
-Hypha Worker Co-operative is a worker co-operative incorporated in Ontario, Canada. The business has seven Founding Members, of which three of the four First Directors have signing authority. As a non-share-capital worker co-operative, we are a non-profit organization, and every Member is both an employee and co-owner of the business.
-
 ## Financial accounts
 
-- Institution: **Desjardins**  
+- Financial institution: **Desjardins**  
 - Account type: business chequing  
-- Requirements for **payments** from account:  
-  - ` > CAD$200`: sign-off by **two** Finance WG members  
-  - `<= CAD$200`: sign-off by **one** Finance WG member
+- Payment requirements from account:
+  - `<= CAD$200`: sign-off by **one** signing member in the Finance WG
+  - ` > CAD$200`: sign-off by **two** signing members in the Finance WG
 
-Hypha is expected to conduct business with clients from other countries and is ready to [accept funds in CAD, USD, and EUR](https://transferwise.com/help-smart/11/getting-started/2571907/what-currencies-do-you-support). We use **TransferWise** to minimize transaction and currency exchange fees. Our Transferwise account has local accounts in Canada, United States, and Europe, so we can bill clients as a local financial institution in their local currency. Our TransferWise account does not require multiple signatures, and the Finance WG is responsible for transfering money into our main Desjardins account when accumulated funds exceed a CAD 10,000 threshold.
+Hypha is expected to conduct business with clients from other countries and is ready to [accept funds in CAD, USD, and EUR](https://transferwise.com/help-smart/11/getting-started/2571907/what-currencies-do-you-support).
+We use **TransferWise** to minimize transaction and currency exchange fees.
+Our Transferwise account has local accounts in Canada, United States, and Europe, so we can bill clients as a local financial institution in their local currency.
+Our TransferWise account does not require multiple signatures, and the Finance WG is responsible for transfering money into our main Desjardins account when accumulated funds exceed a CAD 10,000 threshold.
 
 ## Invoicing a client
 
-Hypha charges clients on a sliding scale, and projects may be billed hourly, weekly, monthly, or per project, depending on the specifics of each project. For all projects, regardless of how a customer is charged, Members log their hours using **Clockify**. For clients and billing models that require timesheets, Clockify is used to generate these timesheets to calculate the amount to invoice each period.
+Hypha charges clients on a sliding scale, and projects may be billed hourly, weekly, monthly, or per project, depending on the specifics of each project.
+For all projects, regardless of how a customer is charged, Members log their hours using **Clockify**.
+For clients and billing models that require timesheets, Clockify is used to generate these timesheets to calculate the amount to invoice each period.
 
 ### Generating timesheets
 
@@ -34,7 +33,8 @@ Hypha charges clients on a sliding scale, and projects may be billed hourly, wee
 1. To generate timesheets, open the team or personal project report and export as PDF for the applicable report period (to be sent to client, if applicable)
 1. Timesheet PDFs sent to clients or for internal payroll calculation should be archived in our [shared drive](https://link.hypha.coop/drive)
 
-This process is done using the Clockify [Summary Report](https://clockify.me/reports/summary). Saved reports are found under [Saved Reports](https://clockify.me/reports/saved).
+This process is done using the Clockify [Summary Report](https://clockify.me/reports/summary).
+Saved reports are found under [Saved Reports](https://clockify.me/reports/saved).
 
 ### Generating invoices
 
@@ -44,7 +44,8 @@ This process is done using the Clockify [Summary Report](https://clockify.me/rep
 
 The general guidance is that the client is responsible for paying applicable GST and transaction costs charged by their financial institution, and Hypha absorbs the cost of receiving the money (e.g. cost of receiving a wire).
 
-Invoices (and timesheets, if requested) are sent to clients and are payable in CAD, USD, or EUR. Invoices are due 14 days after the invoice date, after which a 5% late fee will be charged for each additional week.
+Invoices (and timesheets, if requested) are sent to clients and are payable in CAD, USD, or EUR.
+Invoices are due 14 days after the invoice date, after which a late fee may be charged for each additional week.
 
 ## Member payroll
 
@@ -52,13 +53,16 @@ Member wages are paid at the end of each pay period and vary from cycle to cycle
 
 Expense reimbursements, which require photos uploaded to Quickbooks Online, are paid out at each cycle as non-taxable items in the paycheque.
 
-Each Member is entitled to a public holiday pay and vacation pay, each one at approximately 4% of their total wages for the year. This amount will be calculated and added to the paycheque per pay period.
+Each Member is entitled to a public holiday pay and vacation pay, each one at approximately 4% of their total wages for the year.
+This amount will be calculated and added to the paycheque per pay period.
 
 All payroll, expense reimbursements, and withheld taxes are managed using Quickbooks Online, which is linked to our main Desjardins account.
 
 ### Calculating member wages
 
-Each Member's pay from billable project work will have a percent-based portion taken from it to fund administrative costs and collective programs. Collective programs may include non-billable projects, member health benefits, CPP & EI, member & co-op development fund, "rainy days" reserve contributions, as well as and other collective expenses of the co-operative. The amount is calculated based on the invoiced amount before transaction costs. The exact percentage is the same across all projects during a period and can be revised as necessary by consensus.
+Each Member's pay from billable project work will have a percent-based portion taken from it to fund administrative costs and collective programs. Collective programs may include non-billable projects, member health benefits, CPP & EI, member & co-op development fund, "rainy days" reserve contributions, as well as and other collective expenses of the co-operative.
+The amount is calculated based on the invoiced amount before transaction costs.
+The exact percentage is the same across all projects during a period and can be revised as necessary by consensus.
 
 ### Reporting and remitting taxes
 
@@ -71,4 +75,5 @@ As a non-profit organization, our co-operative should have tax-exempt status and
 
 The Finance WG is responsible for bookkeeping and calculating wage deductions using Quickbooks Online, then reporting and remitting appropriate withheld wages to CRA each month.
 
-At the end of each calendar year, Hypha's accountant will send a T4 to each Member and to CRA for personal income tax filings. The accountant will also file annual tax returns and coordinate with the Finance WG to facilitate filings and remittances.
+At the end of each calendar year, Hypha's accountant will send a T4 to each Member and to CRA for personal income tax filings.
+The accountant will also file annual tax returns and coordinate with the Finance WG to facilitate filings and remittances.

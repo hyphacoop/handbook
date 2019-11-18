@@ -8,5 +8,6 @@
   - [Meetings](meetings.md)
   - [Roles](roles.md)
   - [Working Open](working-open.md)
+  - [Finance](finance.md)
 * [Guides](guides.md)
 * [Reading Pool](reading-pool.md)
