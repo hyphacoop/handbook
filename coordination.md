@@ -6,8 +6,8 @@ Members of Hypha adopt the following practices for mostly asynchoronous coordina
 
 [GitHub](https://github.com/hyphacoop/) is our primary tool for coordinating asynchronously. We use [GitHub Projects](https://link.hypha.coop/tasks) to track tasks that primarily come from two repositories:
 
-- [hyphacoop/organizing](https://github.com/hyphacoop/organizing/) for regular tasks
-- [hyphacoop/organizing-private](https://github.com/hyphacoop/organizing-private/) for tasks that may contain sensitive information and are viewable by members only
+- [`hyphacoop/organizing`](https://github.com/hyphacoop/organizing/): Default tasks
+- [`hyphacoop/organizing-private`](https://github.com/hyphacoop/organizing-private/): Confidential tasks
 
 A task is assigned to a _Working Group (WG)_ or _Project Group (PG)_ using [Labels](https://github.com/hyphacoop/organizing/labels/), then it becomes the responsibility of the group. A task may further be assigned to a specific member. Labels are also used to indicate priorities of tasks.
 
