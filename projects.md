@@ -22,7 +22,7 @@ A [template](#internal-proposal-template) is included below. You can add more se
 
 Project proposals to be submitted to a potential client or grant committee should be drafted by members who expect to participate in the project with the help of members of the Business Planning WG. The WG has expertise in drafting client and grant project proposals, and managing the proposal process, so it is helpful to involve members of that group from the drafting stage. All that are involved in the proposal drafting make up the **proposal team** that will eventually sign off on the final draft to be submitted.
 
-If a project is accepted, this team will lead the kick-off meetings with the client (e.g. discuss terms of payment and project logistics) and gradually transfer the relationship entirely to the **project team**, which may not necessarily include everyone in the proposal team.
+If a project is accepted, this team will lead the initial consultation meetings with the client (e.g. discuss terms of payment and project logistics) and gradually transfer the relationship entirely to the **project team**, which may not necessarily include everyone in the proposal team.
 
 Regardless whether the proposal is successful, we should snapshot artifacts in the archived proposals folder for future reference. For failed proposals, we highly encourage reaching out the the client or grant committee for feedback and have an internal retrospective.
 
