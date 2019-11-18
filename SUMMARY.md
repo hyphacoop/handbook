@@ -9,4 +9,5 @@
   - [Roles](roles.md)
   - [Working Open](working-open.md)
 * [Guides](guides.md)
+  - [Projects](projects.md)
 * [Reading Pool](reading-pool.md)
