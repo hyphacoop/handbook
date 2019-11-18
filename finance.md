@@ -7,7 +7,7 @@ This document outlines finance and accounting practices of Hypha Worker Co-opera
 - Process for payroll and expense reimbursement to Members
 - Tools and procedures for bookkeeping, accounting, and tax remittances
 
-## Financial accounts
+## Financial Accounts
 
 - Financial institution: **Desjardins**  
 - Account type: business chequing  
@@ -20,13 +20,13 @@ We use **TransferWise** to minimize transaction and currency exchange fees.
 Our Transferwise account has local accounts in Canada, United States, and Europe, so we can bill clients as a local financial institution in their local currency.
 Our TransferWise account does not require multiple signatures, and the Finance WG is responsible for transfering money into our main Desjardins account when accumulated funds exceed a CAD 10,000 threshold.
 
-## Invoicing a client
+## Invoicing Clients
 
 Hypha charges clients on a sliding scale, and projects may be billed hourly, weekly, monthly, or per project, depending on the specifics of each project.
 For all projects, regardless of how a customer is charged, Members log their hours using **Clockify**.
 For clients and billing models that require timesheets, Clockify is used to generate these timesheets to calculate the amount to invoice each period.
 
-### Generating timesheets
+### Generating Timesheets
 
 1. When a project begins, generate a **team project report** in Clockify and save with the name `project_YYYYMM` where `YYYYMM` indicates the first month the project is active (e.g. [aether_201908](https://clockify.me/bookmarks/5db255d9e8cd9c50073f35ad))
 1. When a member joins a project, generate a **personal project report** in Clockify and save with the name `project_YYYYMM_xx` where `YYYYMM` indicates the first month the member is active on the project and `xx` is the initials of the member (e.g. [aether_201908_bl](https://clockify.me/bookmarks/5dab94738a17084c0337690d) and [aether_201908_yj](https://clockify.me/bookmarks/5dab94828a17084c03376911))
@@ -36,7 +36,7 @@ For clients and billing models that require timesheets, Clockify is used to gene
 This process is done using the Clockify [Summary Report](https://clockify.me/reports/summary).
 Saved reports are found under [Saved Reports](https://clockify.me/reports/saved).
 
-### Generating invoices
+### Generating Invoices
 
 1. Generate an invoice in **Quickbooks Online** based on the pricing structure (e.g. timesheet hours and project rate)
 1. Add operational cost line item, if applicable
@@ -47,7 +47,7 @@ The general guidance is that the client is responsible for paying applicable GST
 Invoices (and timesheets, if requested) are sent to clients and are payable in CAD, USD, or EUR.
 Invoices are due 14 days after the invoice date, after which a late fee may be charged for each additional week.
 
-## Member payroll
+## Member Payroll
 
 Member wages are paid at the end of each pay period and vary from cycle to cycle depending on their billable hours of work. At the end of each cycle, each Member's entitled pay is calculated based on the projects and roles they participate in. After withholding taxes and other applicable deductions (e.g. CPP and EI), the net amount is electronically tranferred to the Member's bank account.
 
@@ -58,13 +58,13 @@ This amount will be calculated and added to the paycheque per pay period.
 
 All payroll, expense reimbursements, and withheld taxes are managed using Quickbooks Online, which is linked to our main Desjardins account.
 
-### Calculating member wages
+### Calculating Member Wages
 
 Each Member's pay from billable project work will have a percent-based portion taken from it to fund administrative costs and collective programs. Collective programs may include non-billable projects, member health benefits, CPP & EI, member & co-op development fund, "rainy days" reserve contributions, as well as and other collective expenses of the co-operative.
 The amount is calculated based on the invoiced amount before transaction costs.
 The exact percentage is the same across all projects during a period and can be revised as necessary by consensus.
 
-### Reporting and remitting taxes
+### Reporting & Remitting Taxes
 
 Hypha has the following _program accounts_ with the Canada Revenue Agency (CRA):
 
