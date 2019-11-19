@@ -9,7 +9,10 @@ Members of Hypha adopt the following practices for mostly asynchoronous coordina
 - [`hyphacoop/organizing`](https://github.com/hyphacoop/organizing/): Default tasks
 - [`hyphacoop/organizing-private`](https://github.com/hyphacoop/organizing-private/): Confidential tasks
 
-A task is assigned to a _Working Group (WG)_ or _Project Group (PG)_ using [Labels](https://github.com/hyphacoop/organizing/labels/), then it becomes the responsibility of the group. A task may further be assigned to a specific member. Labels are also used to indicate priorities of tasks.
+A task is assigned to a _Working Group (WG)_ or _Project Group (PG)_ using [Labels](https://github.com/hyphacoop/organizing/labels/),
+then it becomes the responsibility of the group.
+A task may further be assigned to a specific member.
+Labels are also used to indicate priorities of tasks.
 
 The following table lists all the groups and search filters that help members keep track of tasks they are responsible for.
 
