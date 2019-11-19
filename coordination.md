@@ -1,4 +1,4 @@
-# Coordination
+# Coordination 🚧
 
 Members of Hypha adopt the following practices for mostly asynchoronous coordination using a couple digital platforms.
 
