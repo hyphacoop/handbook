@@ -4,12 +4,18 @@ Welcome to Hypha! This page is supposed to help those getting situated in our or
 
 ## Contacting Hypha 
 
-We also have the following communication and contact methods:
+We have the following communication and contact methods:
 
 - 📞 +1-437-887-6936 (We have specific guides for [Accessing][accessing-vm] and [Managing][managing-vm] Voicemail)
 - 📫 #1308-1403 Royal York Road, Etobicoke, Ontario  M9P 0A1
 - 🔗 [hypha.coop](https://hypha.coop)
 - 📧 hello@hypha.coop
+
+## Organizational Structure
+
+Hypha Worker Co-operative Inc. is a worker co-operative incorporated in Ontario, Canada.
+The business has seven Founding Members, of which four Directors have signing authority.
+As a non-share-capital worker co-operative, we are a non-profit organization, and every Member is both an employee and co-owner of the business.
 
 ## Our Virtual Office
 
