@@ -6,14 +6,14 @@ Hypha Organizational Handbook (H₂O) describes the vision, processes, and cultu
 <!-- Derived from: https://handbook.enspiral.com/#about-this-handbook -->
 
 This Handbook's primary audience is Hypha worker-members and their
-outside collaborators, but it will be publicly available for others who
-might find it useful. The goal is to give all of us as much clarity and
+collaborators, but it will be publicly available for others who
+might find it useful. The goal is to provide as much clarity and
 context as possible, while sharing our structures and practices with the
 outside world as well.
 
 ![Old-timey web 1.0 UNDER CONSTRUCTION banner](images/under-construction.gif)<br />
-This resource is in perpetual beta, and is constantly changing. If you
-see something that could be improved: that's your invitation to improve
+This resource is in perpetual beta and constantly changing. If you
+see something that could be improved, consider this your invitation to improve
 it!
 
 ## Mission and Vision
