@@ -84,7 +84,7 @@ members. Skip the steps below at your discretion for low-stakes topics.
 
 :iphone: **Mobile**
   1. Install the app. [Android][jitsi-android] | [iOS][jitsi-ios]
-  2. :link: **Visit** call URL to open app, or :clipboard: **copy-paste** call URL into app home screen.
+  2. :link: **Visit** call URL to open app, or :clipboard: **copy-paste** redirected call URL into app home screen.
   
    [jitsi-android]: http://jitsi.org/android
    [jitsi-ios]: http://jitsi.org/ios
