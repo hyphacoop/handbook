@@ -1,6 +1,6 @@
 {
   "structure": {
-    "readme": "README.md"
+    "readme": "handbook.md"
   },
   "plugins": [
     "anchors"
