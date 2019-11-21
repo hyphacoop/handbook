@@ -1,4 +1,12 @@
-# Values
+# Our Vision
+
+## Mission and Vision
+
+*Hypha Worker Co-operative* cultivates collective growth and meaningful livelihoods through learning and building technologies together.
+
+Working in solidarity with our neighbours, we support each other and provide safe harbour to imagine and create alternative futures.
+
+## Values
 
 During our 2019 retreat we [co-drafted a long list of values](https://github.com/hyphacoop/december-retreat/blob/master/2018-retreat/2018-12-04-retreat-day-01.md#finding-value-alignment), consensing that the list has broad alignment to those of the participants of this co-operative.
 
