@@ -30,7 +30,7 @@ A **member-owner**:
       - Inactive members can request to become active at any time
 
 An **employee**: 
-  - Is “someone who performs work for an employer for wages,” meeting the 
+  - Is "someone who performs work for an employer for wages," meeting the 
     [*Employment Standards Act, 2000*][es-act] [definition of employee][esa-employee] 
   - Is considered *permanent* if they:
     - Have completed a probationary period of one year 
