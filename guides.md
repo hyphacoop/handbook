@@ -80,11 +80,11 @@ members. Skip the steps below at your discretion for low-stakes topics.
   
 ### Joining a Jitsi Call
 
-:computer: **Desktop.** Follow [`link.hypha.coop/calls`](https://link.hypha.coop/calls) to our default conference platform.
+💻 **Desktop.** Follow [`link.hypha.coop/calls`](https://link.hypha.coop/calls) to our default conference platform.
 
-:iphone: **Mobile**
+📱 **Mobile**
   1. Install the app. [Android][jitsi-android] | [iOS][jitsi-ios]
-  2. :link: **Visit** call URL to open app, or :clipboard: **copy-paste** redirected call URL into app home screen.
+  2. 🔗 **Visit** call URL to open app, or 📋 **copy-paste** redirected call URL (e.g. `https://jitsi.hypha.coop/hyphacoop`) into app home screen.
   
    [jitsi-android]: http://jitsi.org/android
    [jitsi-ios]: http://jitsi.org/ios
