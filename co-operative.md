@@ -21,7 +21,7 @@ A **member-owner**:
   - Has completed a membership application (and/or been officially welcomed into 
     the membership)
   - Is a *permanent* or *founding* employee
-  - Is considered 
+  - Is considered:
     - *active* if they are in good standing with their membership fees and have 
       not requested to change their status
     - *inactive* if they have requested to change their status
