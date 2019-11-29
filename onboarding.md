@@ -11,12 +11,6 @@ We have the following communication and contact methods:
 - 🔗 [hypha.coop](https://hypha.coop)
 - 📧 hello@hypha.coop
 
-## Organizational Structure
-
-Hypha Worker Co-operative Inc. is a worker co-operative incorporated in Ontario, Canada.
-The business has seven Founding Members, of which four Directors have signing authority.
-As a non-share-capital worker co-operative, we are a non-profit organization, and every Member is both an employee and co-owner of the business.
-
 ## Our Virtual Office
 
 In place of a physical place we have virtual office comprised of the following spaces:
