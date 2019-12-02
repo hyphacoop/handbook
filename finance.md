@@ -74,7 +74,7 @@ Hypha has the following [_program accounts_][program-accounts] with the Canada R
 - :soon: `RP0001` **Payroll Deduction (RP)** is reported and paid each pay period
 - :soon: `RT0001` **GST/HST (RT)** is [reported and paid][sales-tax-how] each filing period (TBD)
 
-   [sales-tax-about]: https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/account-register.html#once
+   [sales-tax-how]: https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/account-register.html#once
 
 As a non-profit organization, our co-operative should have tax-exempt status and pay no corporate income tax.
 
