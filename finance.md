@@ -71,7 +71,7 @@ Hypha has the following [_program accounts_][program-accounts] with the Canada R
    [program-accounts]: https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/changes-your-business/adding-accounts-your-business-number-bn.html
 
 - :ballot_box_with_check: `RC0001` **Corporate Income Tax (RC)** is filed/reported and remitted/paid each tax year
-- :soon: `RP0001` **Payroll Deduction (RP)** is reported and paid each pay period
+- :ballot_box_with_check: `RP0001` **Payroll Deduction (RP)** is reported and paid each pay period
 - :soon: `RT0001` **GST/HST (RT)** is [reported and paid][sales-tax-how] each filing period (TBD)
 
    [sales-tax-how]: https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/account-register.html#once
