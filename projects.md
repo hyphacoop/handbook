@@ -34,7 +34,10 @@ Project proposals to be submitted to a potential client or grant committee shoul
 
 If a project is accepted, this team will lead the initial consultation meetings with the client (e.g. discuss terms of payment and project logistics) and gradually transfer the relationship entirely to the **project team**, which may not necessarily include everyone in the proposal team.
 
-Regardless whether the proposal is successful, we should snapshot artifacts in the archived proposals folder for future reference. For failed proposals, we highly encourage reaching out the the client or grant committee for feedback and have an internal retrospective.
+Regardless whether the proposal is successful,
+we should snapshot artifacts in the archived proposals folder for future reference.
+For failed proposals,
+we highly encourage reaching out the the client or grant committee for feedback and have an internal retrospective.
 
 ## Internal Proposal Template
 
