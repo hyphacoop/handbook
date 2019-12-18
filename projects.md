@@ -4,12 +4,11 @@
 
 While the Business Planning WG is mainly in charge of sales lead generation,
 all members may pursue leads as they come up.
-These may be a client or a grant opportunity.
 Members are strongly encouraged to record leads into the co-operative's [leads tracking system](https://link.hypha.coop/leads) whether or not we want to pursue this lead.
 Ask Business Planning WG for help doing this. 
 
 If a member decides to pursue a **lead**,
-they can reach out to them to see whether there's potential to work together.
+they can reach out to gauge potential interest in working together.
 If the lead expresses intention to proceed with a concrete project in mind,
 this becomes an **opportunity**.
 The member now heads up this sales effort and should draft an **internal proposal** and present it at a meeting to see whether the co-operative wants to move forward to submit a formal proposal to the prospective client.
@@ -27,16 +26,16 @@ A sample internal proposal should include:
 - Risks
 - Resources
 
-A [template](#internal-proposal-template) is included below. You can add more sections as appropriate for the project. This may include sample code, project roadmap, next steps, etc. You can find examples in our archived proposals folder in our [shared drive](http://link.hypha.coop/drive).
+A [template](#internal-proposal-template) is included below. You can add more sections as appropriate, including sample code, project roadmap, next steps, etc. Examples and archived proposals can be found in our [shared drive](http://link.hypha.coop/drive).
 
-## Client Proposal Drafting and Submissions
+## Client Proposal Drafting and Submission
 
 Project proposals to be submitted to a potential client or grant committee should be drafted by members who expect to participate in the project with the help of members of the Business Planning WG. The WG has expertise in drafting client and grant project proposals, and managing the proposal process, so it is helpful to involve members of that group from the drafting stage. All that are involved in the proposal drafting make up the **proposal team** that will eventually sign off on the final draft to be submitted.
 
 If a project is accepted, this team will lead the initial consultation meetings with the client (e.g. discuss terms of payment and project logistics) and gradually transfer the relationship entirely to the **project team**, which may not necessarily include everyone in the proposal team.
 
 Regardless whether the proposal is successful,
-we should snapshot artifacts in the archived proposals folder for future reference.
+the project team should add a copy to the archived proposals folder in our [shared drive](http://link.hypha.coop/drive) for future reference.
 For failed proposals,
 we highly encourage reaching out to the client or grant committee for feedback and having an internal retrospective.
 
