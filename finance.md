@@ -66,7 +66,7 @@ The exact percentage is the same across all projects during a period and can be 
 
 ### Reporting & Remitting Taxes
 
-Hypha has the following [_program accounts_][program-accounts] with the Canada Revenue Agency (CRA):
+Hypha has the following [program accounts][program-accounts] with the Canada Revenue Agency (CRA):
 
    [program-accounts]: https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/changes-your-business/adding-accounts-your-business-number-bn.html
 
