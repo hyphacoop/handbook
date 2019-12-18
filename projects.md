@@ -8,10 +8,10 @@ These may be a client or a grant opportunity.
 Members are strongly encouraged to record leads into the co-operative's [leads tracking system](https://link.hypha.coop/leads) whether or not we want to pursue this lead.
 
 If a member decides to pursue a **lead**,
-they can reach out for preliminary discussions to see whether there is a potential to work together.
+they can reach out to them to see whether there's potential to work together.
 If the lead expresses intention to proceed with a concrete project in mind,
 this becomes a **prospect**.
-The member now leads this sales effort and should draft an **internal proposal** and present it at a meeting to see whether the co-operative wants to move forward to submit a formal proposal to the prospective client.
+The member now heads up this sales effort and should draft an **internal proposal** and present it at a meeting to see whether the co-operative wants to move forward to submit a formal proposal to the prospective client.
 In this meeting, we should discuss any concerns by other members,
 and gauge team capacity given project timelines.
 A sample internal proposal should include:
