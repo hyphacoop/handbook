@@ -89,6 +89,10 @@ members. Skip the steps below at your discretion for low-stakes topics.
    [jitsi-android]: http://jitsi.org/android
    [jitsi-ios]: http://jitsi.org/ios
 
+📞 **Phone**
+  1. Use the private dial in number our [Jitsi documentation](https://github.com/hyphacoop/organizing-private/blob/master/documents/infrastructure/jitsi.md).
+  2. When prompted "Please enter your conference number followed by the hash key" Enter `307-314-3734 #` after the tone.
+
 ## Shortlinks
 
 ### Managing shortlinks
