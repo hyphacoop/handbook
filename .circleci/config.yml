@@ -5,7 +5,7 @@
 version: 2
   
 jobs:
-  build-docs:
+  build_docs:
     docker:
       - image: circleci/ruby:2.4.2-jessie-node
     environment:
@@ -37,19 +37,15 @@ jobs:
             ./node_modules/.bin/gitbook install && ./node_modules/.bin/gitbook build
             cp -R _book/* ~/$BRANCH/
 
-      # Use htmlproofer for testing HTML 
-      # 
-      # See: https://github.com/gjtorikian/html-proofer
-      # Also: https://circleci.com/blog/automate-your-static-site-deployment-with-circleci/
-      - run:
-          name: "Test links"
-          command: |
-            gem install html-proofer
-            htmlproofer ~/$BRANCH/ --allow-hash-href --check-html --empty-alt-ignore
-
       - add_ssh_keys:
           fingerprints: 35:f1:f1:05:bd:1f:f2:be:89:c0:df:09:5c:ca:79:0a
-          
+
+      - save_cache:
+          paths:
+            - node_modules
+          key: v1-dependencies-{{ checksum "package.json" }}
+  
+  deploy_docs:
       # Deploy site to github
       # 
       # See: https://github.com/metosin/reitit/blob/master/.circleci/config.yml
@@ -62,18 +58,42 @@ jobs:
             git add -A
             git commit -m "Build handbook from commit $CIRCLE_SHA1 [skip ci]"
             git push origin $BRANCH
-
-      - save_cache:
-          paths:
-            - node_modules
-          key: v1-dependencies-{{ checksum "package.json" }}
+  
+  test_docs:
+      # Use htmlproofer for testing HTML 
+      # 
+      # See: https://github.com/gjtorikian/html-proofer
+      # Also: https://circleci.com/blog/automate-your-static-site-deployment-with-circleci/
+      - run:
+          name: "Test links"
+          command: |
+            gem install html-proofer
+            htmlproofer ~/$BRANCH/ --allow-hash-href --check-html --empty-alt-ignore
 
 workflows:
   version: 2
-  build-handbook:
+  commit:
+  # For commits to branches other than gh-pages and master, build and run tests
+      - build_docs:
+          filters:
+            branches:
+              ignore:
+                - master
+                - gh-pages
+      - test_docs:
+          requires:
+            - build_docs 
+  deploy_handbook:
+  # Once code has been updated on master, build, run tests, and deploy docs
     jobs:
-      - build-docs:
+      - build_docs:
           filters:
             branches:
               only:
                 - master
+      - test_docs:
+          requires:
+            - build_docs 
+      - deploy_docs:
+          requires:
+            - test_docs           
