@@ -29,13 +29,13 @@ jobs:
       - run:
           name: "Clone gh-pages"
           command: |
-            git clone --branch $BRANCH $REPO ~/$BRANCH
+            git clone --branch $BRANCH $REPO ~/workspace
 
       - run:
           name: "Build Site"
           command: |
             ./node_modules/.bin/gitbook install && ./node_modules/.bin/gitbook build
-            cp -R _book/* ~/$BRANCH/
+            cp -R _book/* ~/workspace/
 
       - add_ssh_keys:
           fingerprints: 35:f1:f1:05:bd:1f:f2:be:89:c0:df:09:5c:ca:79:0a
@@ -44,6 +44,12 @@ jobs:
           paths:
             - node_modules
           key: v1-dependencies-{{ checksum "package.json" }}
+
+      # See: https://circleci.com/docs/2.0/configuration-reference/#attach_workspace
+      - persist_to_workspace:
+          root: ~/workspace
+          paths:
+            - .
   
   deploy_docs:
     docker:
@@ -52,14 +58,16 @@ jobs:
       BRANCH: gh-pages
       REPO: git@github.com:hyphacoop/handbook.git
     steps:
-      - checkout
+      - attach_workspace:
+          at: ~/workspace
+
       # Deploy site to github
       # 
       # See: https://github.com/metosin/reitit/blob/master/.circleci/config.yml
       - deploy:
           name: "Upload updated handbook"
           command: |
-            cd ~/$BRANCH/
+            cd ~/workspace
             git config user.name  "Automatic build"
             git config user.email "infra@hypha.coop"
             git add -A
@@ -73,7 +81,9 @@ jobs:
       BRANCH: gh-pages
       REPO: git@github.com:hyphacoop/handbook.git
     steps:
-      - checkout
+      - attach_workspace:
+          at: ~/workspace
+
       # Use htmlproofer for testing HTML 
       # 
       # See: https://github.com/gjtorikian/html-proofer
@@ -82,7 +92,7 @@ jobs:
           name: "Test links"
           command: |
             gem install html-proofer
-            htmlproofer ~/$BRANCH/ --allow-hash-href --check-html --empty-alt-ignore
+            htmlproofer ~/workspace --allow-hash-href --check-html --empty-alt-ignore
 
 workflows:
   version: 2
