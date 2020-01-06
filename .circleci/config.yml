@@ -46,6 +46,12 @@ jobs:
           key: v1-dependencies-{{ checksum "package.json" }}
   
   deploy_docs:
+    docker:
+      - image: circleci/ruby:2.4.2-jessie-node
+    environment:
+      BRANCH: gh-pages
+      REPO: git@github.com:hyphacoop/handbook.git
+    steps:
       # Deploy site to github
       # 
       # See: https://github.com/metosin/reitit/blob/master/.circleci/config.yml
@@ -60,6 +66,12 @@ jobs:
             git push origin $BRANCH
   
   test_docs:
+    docker:
+      - image: circleci/ruby:2.4.2-jessie-node
+    environment:
+      BRANCH: gh-pages
+      REPO: git@github.com:hyphacoop/handbook.git
+    steps:
       # Use htmlproofer for testing HTML 
       # 
       # See: https://github.com/gjtorikian/html-proofer
