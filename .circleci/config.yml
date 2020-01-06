@@ -13,7 +13,7 @@ jobs:
       REPO: git@github.com:hyphacoop/handbook.git
     steps:
       - checkout
-
+      
       # Download and cache dependencies
       - restore_cache:
           keys:
@@ -52,6 +52,7 @@ jobs:
       BRANCH: gh-pages
       REPO: git@github.com:hyphacoop/handbook.git
     steps:
+      - checkout
       # Deploy site to github
       # 
       # See: https://github.com/metosin/reitit/blob/master/.circleci/config.yml
@@ -72,6 +73,7 @@ jobs:
       BRANCH: gh-pages
       REPO: git@github.com:hyphacoop/handbook.git
     steps:
+      - checkout
       # Use htmlproofer for testing HTML 
       # 
       # See: https://github.com/gjtorikian/html-proofer
@@ -86,6 +88,7 @@ workflows:
   version: 2
   commit:
   # For commits to branches other than gh-pages and master, build and run tests
+    jobs:
       - build_docs:
           filters:
             branches:
