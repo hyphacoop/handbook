@@ -1,0 +1,50 @@
+name: Test PRs
+
+on: [pull_request]
+
+jobs:
+  test:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+
+    - name: Setup Node
+      uses: actions/setup-node@v1
+      with:
+        node-version: '10.x'
+
+    - name: Install and build gitbook
+      run: |
+        npm install gitbook-cli
+        ./node_modules/.bin/gitbook install
+        ./node_modules/.bin/gitbook build
+
+    - name: Set up Ruby 2.6
+      uses: actions/setup-ruby@v1
+      with:
+        ruby-version: 2.6.x
+
+    - name: Cache bundled gems
+      uses: actions/cache@v1
+      with:
+        path: vendor/bundle
+        # We'd normally use Gemfile.lock, but nonexistent here.
+        key: ${{ runner.os }}-gem-${{ hashFiles('**/Gemfile') }}
+        restore-keys: |
+          ${{ runner.os }}-gem-
+
+    - name: Install htmlproofer
+      run: |
+        gem install bundler
+        bundle config path vendor/bundle
+        bundle install
+
+    - name: Test the HTML
+      run: |
+        bundle exec htmlproofer ./_book \
+          --allow-hash-href \
+          --check-html \
+          --empty-alt-ignore \
+          --url-ignore "/github.com\/hyphacoop\/organizing-private/,/github.com\/issues/"
