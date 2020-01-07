@@ -96,7 +96,7 @@ jobs:
               --allow-hash-href \
               --check-html \
               --empty-alt-ignore \
-              --url-ignore "/github.com/"
+              --url-ignore "/github.com\/hyphacoop\/organizing-private/"
 
 workflows:
   version: 2
