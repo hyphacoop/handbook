@@ -90,7 +90,7 @@ members. Skip the steps below at your discretion for low-stakes topics.
    [jitsi-ios]: http://jitsi.org/ios
 
 📞 **Phone**
-  1. Use the private dial-in number from our [Jitsi documentation](https://github.com/hyphacoop/organizing-private/blob/master/documents/infrastructure/jitsi.md).
+  1. Use the private dial-in number from our [technical Jitsi documentation](https://github.com/hyphacoop/organizing-private/blob/master/documents/infrastructure/jitsi.md).
   2. _After_ prompt, enter conference code `307 314 3734 #`
 
 ## Shortlinks
