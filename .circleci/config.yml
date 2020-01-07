@@ -92,7 +92,11 @@ jobs:
           name: "Test links"
           command: |
             gem install html-proofer
-            htmlproofer ~/workspace --allow-hash-href --check-html --empty-alt-ignore
+            htmlproofer ~/workspace \
+              --allow-hash-href \
+              --check-html \
+              --empty-alt-ignore \
+              --url-ignore "/github.com/"
 
 workflows:
   version: 2
