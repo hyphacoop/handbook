@@ -15,7 +15,7 @@ that could be improved, consider this your invitation to improve it!
 - [**Gitbook.**][gitbook] A command line tool to help build documentation.
 - [**Node.js**][node] and [**npm**][npm]. A programming language and package 
   manager.
-- [**CircleCI.**][circleci] A script-running service that deploys the handbook 
+- [**GitHub Actions.**][gh-actions] A script-running service that deploys the handbook 
   website for us in the cloud.
 
 ## 💻 Local Development
@@ -44,14 +44,19 @@ indicated by the `gitbook serve` command) in a web browser.
 
 ## Deployment
 
-The handbook is automatically built and deployed using [CircleCI][circleci] 
+The handbook is automatically built and deployed using [GitHub Actions][gh-actions] 
 after a Pull Request is merged into master on [GitHub][repo].
+
+See: [`.github/workflows/deploy-github-pages.yml`](.github/workflows/deploy-github-pages.yml)
+
+Pull requests commits are lint-checked for concerns before merging.
+
+See: [`.github/workflows/test-pull-request.yml`](.github/workflows/test-pull-request.yml)
 
 
 <!-- Links -->
 [gitbook]: https://github.com/GitbookIO/gitbook-cli
 [node]: https://nodejs.org/en/
 [npm]: https://www.npmjs.com/
-[circleci]: https://circleci.com/docs/2.0/about-circleci/
+[gh-actions]: https://github.com/features/actions
 [repo]: https://github.com/hyphacoop/handbook
-[config]: .circleci/config.yml
