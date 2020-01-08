@@ -19,7 +19,7 @@ our values.
 
 - [Meetings](#meetings)
 - [Shortlinks](#shortlinks)
-- [Storage: Sensitive Data](#storage-sensitive-data)
+- [Sensitive Data](#sensitive-data)
 - [Voicemail](#voicemail)
 - [References](#references)
 
@@ -128,7 +128,7 @@ Instructions:
 [Chrome](https://www.techrepublic.com/article/pro-tip-add-custom-search-engines-in-chrome-for-more-efficient-searching/)
 | [Firefox (requires extension)](https://addons.mozilla.org/en-US/firefox/addon/add-custom-search-engine/)
 
-## Storage: Sensitive Data
+## Sensitive Data
 
 In general, most staff prefer not to use third-party SaaS services, like Google Drive, for storing sensitive information.
 
