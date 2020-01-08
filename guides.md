@@ -19,6 +19,7 @@ our values.
 
 - [Meetings](#meetings)
 - [Shortlinks](#shortlinks)
+- [Storage: Sensitive Data](#storage-sensitive-data)
 - [Voicemail](#voicemail)
 - [References](#references)
 
@@ -126,6 +127,16 @@ engine set in browser](https://i.imgur.com/2D8B7kS.gif)
 Instructions:
 [Chrome](https://www.techrepublic.com/article/pro-tip-add-custom-search-engines-in-chrome-for-more-efficient-searching/)
 | [Firefox (requires extension)](https://addons.mozilla.org/en-US/firefox/addon/add-custom-search-engine/)
+
+## Storage: Sensitive Data
+
+In general, most staff prefer not to use third-party SaaS services, like Google Drive, for storing sensitive information.
+
+We store **short strings** (like SINs or codes) as individual credentials in Passbolt. These can be shared with both the providing individual and a privileged group that requires access, like Finance WG.
+
+If we must **store sensitive docs** (like PDFs) on GDrive for convenience, we first encrypt them with a password. We keep this in Passbolt as entry "GDrive: File Encryption". All employees can access this password. Simpler encryption schemes are preferred, for example, default PDF encryption.
+
+As a last resort for sensitive docs, a member can choose to have the document **printed and stored** in a folder in the office.
 
 ## Voicemail
 
