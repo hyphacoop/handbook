@@ -70,9 +70,9 @@ Hypha has the following [program accounts][program-accounts] with the Canada Rev
 
    [program-accounts]: https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/changes-your-business/adding-accounts-your-business-number-bn.html
 
-- :ballot_box_with_check: `RC0001` **Corporate Income Tax (RC)** is filed/reported and remitted/paid each tax year
-- :ballot_box_with_check: `RP0001` **Payroll Deduction (RP)** is reported and paid each pay period
-- :soon: `RT0001` **GST/HST (RT)** is [reported and paid][sales-tax-how] each filing period (TBD)
+- ☑️ `RC0001` **Corporate Income Tax (RC)** is filed/reported and remitted/paid each tax year
+- ☑️ `RP0001` **Payroll Deduction (RP)** is reported and paid each pay period
+- 🔜 `RT0001` **GST/HST (RT)** is [reported and paid][sales-tax-how] each filing period (TBD)
 
    [sales-tax-how]: https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/account-register.html#once
 
@@ -81,4 +81,4 @@ As a non-profit organization, our co-operative should have tax-exempt status and
 The Finance WG is responsible for bookkeeping and calculating wage deductions using Quickbooks Online, then reporting and remitting appropriate withheld wages to CRA each month.
 
 At the end of each calendar year, Hypha's accountant will send a T4 to each Member and to CRA for personal income tax filings.
-The accountant will also file annual tax returns and coordinate with the Finance WG to facilitate filings and remittances.
+The accountant will also file annual tax returns for each fiscal year-end, set on June 30, and coordinate with the Finance WG to facilitate filings and remittances.
