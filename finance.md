@@ -17,8 +17,8 @@ This document outlines finance and accounting practices of Hypha Worker Co-opera
 
 Hypha is expected to conduct business with clients from other countries and is ready to [accept funds in CAD, USD, EUR, and GBP](https://transferwise.com/help-smart/11/getting-started/2571907/what-currencies-do-you-support).
 We use **TransferWise** to minimize transaction and currency exchange fees.
-Our Transferwise account has local accounts in Canada, United States, and Europe, so we can bill clients as a local financial institution in their local currency.
-Our TransferWise account does not require multiple signatures, and the Finance WG is responsible for transfering money into our main Desjardins account when accumulated funds exceed a CAD 10,000 threshold, or earlier as deemed appropriate.
+Our TransferWise account has local accounts in Canada, United States, and Europe, so we can bill clients as a local financial institution in their local currency.
+Our TransferWise account does not require multiple signatures, and the Finance WG is responsible for transferring money into our main Desjardins account when accumulated funds exceed a CAD 10,000 threshold, or earlier as deemed appropriate.
 
 ## Invoicing Clients
 
@@ -52,20 +52,20 @@ Refer to the guides for [Invoices](/guides.md#invoices) to handle the settling o
 
 ## Member Payroll
 
-Member wages are paid at the end of each pay period and vary from cycle to cycle depending on their billable hours of work. At the end of each cycle, each Member's entitled pay is calculated based on the projects and roles they participate in. After withholding taxes and other applicable deductions (e.g. CPP and EI), the net amount is electronically tranferred to the Member's bank account.
+Member wages are paid at the end of each pay period and vary from cycle to cycle depending on their billable hours of work. At the end of each cycle, each Member's entitled pay is calculated based on the projects and roles they participate in. After withholding taxes and other applicable deductions (e.g. CPP and EI), the net amount is electronically transferred to the Member's bank account using **Wagepoint**.
 
 Expense reimbursements, which require photos uploaded to Quickbooks Online, are paid out at each cycle as non-taxable items in the paycheque.
 
 Each Member is entitled to a public holiday pay and vacation pay, each one at approximately 4% of their total wages for the year.
 This amount will be calculated and added to the paycheque per pay period.
 
-All payroll, expense reimbursements, and withheld taxes are managed using Quickbooks Online, which is linked to our main Desjardins account.
+All payroll, expense reimbursements, and withheld taxes are managed using Wagepoint and Quickbooks Online, which are linked to our main Desjardins account.
 
 ### Calculating Member Wages
 
 Each Member's pay from billable project work will have a percent-based portion taken from it to fund administrative costs and collective programs. Collective programs may include non-billable projects, member health benefits, CPP & EI, member & co-op development fund, "rainy days" reserve contributions, as well as and other collective expenses of the co-operative.
 The amount is calculated based on the invoiced amount before transaction costs.
-The exact percentage is the same across all projects during a period and can be revised as necessary by consensus.
+This clip, currently set at **25%**, is the same across all projects during a period and can be revised as necessary by consensus.
 
 ### Reporting & Remitting Taxes
 
