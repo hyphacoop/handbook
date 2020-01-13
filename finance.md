@@ -23,39 +23,14 @@ Our TransferWise account does not require multiple signatures, and the Finance W
 ## Invoicing Clients
 
 Hypha charges clients on a sliding scale, and projects may be billed hourly, weekly, monthly, or per project, depending on the specifics of each project.
-For all projects, regardless of how a customer is charged, Members log their hours using **Clockify**.
-For clients and billing models that require timesheets, Clockify is used to generate these timesheets to calculate the amount to invoice each period.
+In order to create invoices and collect payments, there are three general steps that need to be performed in order.
 
 ### Generating Timesheets
 
-1. When a project begins, generate a **team project report** in Clockify and save with the name `project_YYYYMM` where `YYYYMM` indicates the first month the project is active (e.g. [aether_201908](https://clockify.me/bookmarks/5db255d9e8cd9c50073f35ad))
-1. When a member joins a project, generate a **personal project report** in Clockify and save with the name `project_YYYYMM_xx` where `YYYYMM` indicates the first month the member is active on the project and `xx` is the initials of the member (e.g. [aether_201908_bl](https://clockify.me/bookmarks/5dab94738a17084c0337690d) and [aether_201908_yj](https://clockify.me/bookmarks/5dab94828a17084c03376911))
-1. To generate timesheets, open the team or personal project report and export as PDF for the applicable report period (to be sent to client, if applicable)
-1. Timesheet PDFs sent to clients or for internal payroll calculation should be archived in our [shared drive](https://link.hypha.coop/drive) under the `Timesheets` directory. In this example:
+For clients with billing models that require tracked work hours, **Clockify** is used to generate timesheets for determining the invoice amount each period, and often for calculating member wages.
+These timesheets are archived in our [shared drive](https://link.hypha.coop/drive) under the `Timesheets` directory and may be attached to invoices at client request.
 
-    ```
-    Timesheets
-    ↳ aether_201908
-      ↳ personal
-        ↳ bl
-          # Personal timesheets for bl, used to calculate wages
-          - clockify-report-2019-08-01-to-2019-08-31.pdf
-          - clockify-report-2019-09-01-to-2019-09-30.pdf
-          - ...
-        ↳ yj
-          # Personal timesheets for yj, used to calculate wages
-          - clockify-report-2019-08-01-to-2019-08-31.pdf
-          - clockify-report-2019-09-01-to-2019-09-30.pdf
-          - ...
-      ↳ team
-          # Team timesheets, used to invoice client
-          - clockify-report-2019-08-01-to-2019-08-31.pdf
-          - clockify-report-2019-09-01-to-2019-09-30.pdf
-          - ...
-    ```
-
-This process is done using the Clockify [Summary Report](https://clockify.me/reports/summary).
-Saved reports are found under [Saved Reports](https://clockify.me/reports/saved).
+Refer to the guides for [Timesheets](/guides.md#timesheets) to generate and archive your project timesheets.
 
 ### Generating Invoices
 

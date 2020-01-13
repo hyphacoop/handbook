@@ -20,6 +20,7 @@ our values.
 - [Invoices](#invoices)
 - [Meetings](#meetings)
 - [Shortlinks](#shortlinks)
+- [Timesheets](#timesheets)
 - [Voicemail](#voicemail)
 - [References](#references)
 
@@ -131,6 +132,40 @@ engine set in browser](https://i.imgur.com/2D8B7kS.gif)
 Instructions:
 [Chrome](https://www.techrepublic.com/article/pro-tip-add-custom-search-engines-in-chrome-for-more-efficient-searching/)
 | [Firefox (requires extension)](https://addons.mozilla.org/en-US/firefox/addon/add-custom-search-engine/)
+
+## Timesheets
+
+Members log their work hours using **Clockify**, and project timesheets may be generated to determine the invoice amount each period for some clients, and often for calculating member wages.
+This process is done using the Clockify [Summary Report](https://clockify.me/reports/summary).
+Saved reports are found under [Saved Reports](https://clockify.me/reports/saved).
+
+Follow these steps to generate and archive your project timesheets:
+
+1. When a project begins, generate a **team project report** in Clockify and save with the name `project_YYYYMM` where `YYYYMM` indicates the first month the project is active (e.g. [aether_201908](https://clockify.me/bookmarks/5db255d9e8cd9c50073f35ad))
+1. When a member joins a project, generate a **personal project report** in Clockify and save with the name `project_YYYYMM_xx` where `YYYYMM` indicates the first month the member is active on the project and `xx` is the initials of the member (e.g. [aether_201908_bl](https://clockify.me/bookmarks/5dab94738a17084c0337690d) and [aether_201908_yj](https://clockify.me/bookmarks/5dab94828a17084c03376911))
+1. To generate timesheets, open the team or personal project report and export as PDF for the applicable report period (to be sent to client, if applicable)
+1. Timesheet PDFs sent to clients or for internal payroll calculation should be archived in our [shared drive](https://link.hypha.coop/drive) under the `Timesheets` directory. In this example:
+
+    ```
+    Timesheets
+    ↳ aether_201908
+      ↳ personal
+        ↳ bl
+          # Personal timesheets for bl, used to calculate wages
+          - clockify-report-2019-08-01-to-2019-08-31.pdf
+          - clockify-report-2019-09-01-to-2019-09-30.pdf
+          - ...
+        ↳ yj
+          # Personal timesheets for yj, used to calculate wages
+          - clockify-report-2019-08-01-to-2019-08-31.pdf
+          - clockify-report-2019-09-01-to-2019-09-30.pdf
+          - ...
+      ↳ team
+          # Team timesheets, used to invoice client
+          - clockify-report-2019-08-01-to-2019-08-31.pdf
+          - clockify-report-2019-09-01-to-2019-09-30.pdf
+          - ...
+    ```
 
 ## Voicemail
 
