@@ -15,10 +15,10 @@ This document outlines finance and accounting practices of Hypha Worker Co-opera
   - `<= CAD$200`: sign-off by **one** signing member in the Finance WG
   - ` > CAD$200`: sign-off by **two** signing members in the Finance WG
 
-Hypha is expected to conduct business with clients from other countries and is ready to [accept funds in CAD, USD, and EUR](https://transferwise.com/help-smart/11/getting-started/2571907/what-currencies-do-you-support).
+Hypha is expected to conduct business with clients from other countries and is ready to [accept funds in CAD, USD, EUR, and GBP](https://transferwise.com/help-smart/11/getting-started/2571907/what-currencies-do-you-support).
 We use **TransferWise** to minimize transaction and currency exchange fees.
 Our Transferwise account has local accounts in Canada, United States, and Europe, so we can bill clients as a local financial institution in their local currency.
-Our TransferWise account does not require multiple signatures, and the Finance WG is responsible for transfering money into our main Desjardins account when accumulated funds exceed a CAD 10,000 threshold.
+Our TransferWise account does not require multiple signatures, and the Finance WG is responsible for transfering money into our main Desjardins account when accumulated funds exceed a CAD 10,000 threshold, or earlier as deemed appropriate.
 
 ## Invoicing Clients
 
@@ -31,21 +31,49 @@ For clients and billing models that require timesheets, Clockify is used to gene
 1. When a project begins, generate a **team project report** in Clockify and save with the name `project_YYYYMM` where `YYYYMM` indicates the first month the project is active (e.g. [aether_201908](https://clockify.me/bookmarks/5db255d9e8cd9c50073f35ad))
 1. When a member joins a project, generate a **personal project report** in Clockify and save with the name `project_YYYYMM_xx` where `YYYYMM` indicates the first month the member is active on the project and `xx` is the initials of the member (e.g. [aether_201908_bl](https://clockify.me/bookmarks/5dab94738a17084c0337690d) and [aether_201908_yj](https://clockify.me/bookmarks/5dab94828a17084c03376911))
 1. To generate timesheets, open the team or personal project report and export as PDF for the applicable report period (to be sent to client, if applicable)
-1. Timesheet PDFs sent to clients or for internal payroll calculation should be archived in our [shared drive](https://link.hypha.coop/drive)
+1. Timesheet PDFs sent to clients or for internal payroll calculation should be archived in our [shared drive](https://link.hypha.coop/drive) under the `Timesheets` directory. In this example:
+
+    ```
+    Timesheets
+    ↳ aether_201908
+      ↳ personal
+        ↳ bl
+          # Personal timesheets for bl, used to calculate wages
+          - clockify-report-2019-08-01-to-2019-08-31.pdf
+          - clockify-report-2019-09-01-to-2019-09-30.pdf
+          - ...
+        ↳ yj
+          # Personal timesheets for yj, used to calculate wages
+          - clockify-report-2019-08-01-to-2019-08-31.pdf
+          - clockify-report-2019-09-01-to-2019-09-30.pdf
+          - ...
+      ↳ team
+          # Team timesheets, used to invoice client
+          - clockify-report-2019-08-01-to-2019-08-31.pdf
+          - clockify-report-2019-09-01-to-2019-09-30.pdf
+          - ...
+    ```
 
 This process is done using the Clockify [Summary Report](https://clockify.me/reports/summary).
 Saved reports are found under [Saved Reports](https://clockify.me/reports/saved).
 
 ### Generating Invoices
 
-1. Generate an invoice in **Quickbooks Online** based on the pricing structure (e.g. timesheet hours and project rate)
-1. Add operational cost line item, if applicable
-1. Add GST, if applicable
-
+Prior to generating an invoice, confirm with the client whether they would like to pay in CAD, USD, EUR, or GBP, and in what country their financial institution is based.
+Then refer to the guides for [Invoices](/guides.md#invoices) and generate an invoice in **Quickbooks Online** based on the project pricing structure (e.g. timesheet hours and project rate) and payment information.
 The general guidance is that the client is responsible for paying applicable GST and transaction costs charged by their financial institution, and Hypha absorbs the cost of receiving the money (e.g. cost of receiving a wire).
+Invoices, with attached timesheets if requested, are sent to clients and are due 14 days after the invoice date, after which a late fee may be charged for each additional week.
 
-Invoices (and timesheets, if requested) are sent to clients and are payable in CAD, USD, or EUR.
-Invoices are due 14 days after the invoice date, after which a late fee may be charged for each additional week.
+### Settling Payments
+
+After client payments are collected at our **Desjardins** or **TransferWise** accounts, we need to:
+
+1. Move money to the appropriate accounts at our financial instituions
+1. Record actual exchange rates and transaction costs
+1. Update our bookkeeping records in **Quickbooks Online**
+1. Finalize and archive invoices
+
+Refer to the guides for [Invoices](/guides.md#invoices) to handle the settling of payments with someone from the Finance WG.
 
 ## Member Payroll
 
@@ -81,4 +109,4 @@ As a non-profit organization, our co-operative should have tax-exempt status and
 The Finance WG is responsible for bookkeeping and calculating wage deductions using Quickbooks Online, then reporting and remitting appropriate withheld wages to CRA each month.
 
 At the end of each calendar year, Hypha's accountant will send a T4 to each Member and to CRA for personal income tax filings.
-The accountant will also file annual tax returns for each fiscal year-end, set on June 30, and coordinate with the Finance WG to facilitate filings and remittances.
+The accountant will also file annual tax returns for each fiscal year-end, set on **June 30**, and coordinate with the Finance WG to facilitate filings and remittances.
