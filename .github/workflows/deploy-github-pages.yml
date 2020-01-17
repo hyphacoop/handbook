@@ -27,14 +27,6 @@ jobs:
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v2
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
         PUBLISH_BRANCH: gh-pages
         PUBLISH_DIR: ./_book
-
-    # See: https://github.community/t5/GitHub-Actions/Github-action-not-triggering-gh-pages-upon-push/m-p/43192/highlight/true#M5281
-    - name: Request Github Pages build job
-      run: >-
-        curl --location --request POST 
-        --header "Content-Type: application/json"
-        --header "Authorization: token ${{ secrets.GITHUB_TOKEN }}"
-        "https://api.github.com/repos/${{ github.repository }}/pages/builds"
