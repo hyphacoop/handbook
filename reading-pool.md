@@ -31,7 +31,7 @@ Civics, Tech, Politics:
 
 - 🌐 [Paul Frazee "Information Civics"](https://infocivics.com/)
 - 📄 [Langdon Winner "Do Artifacts have Politics"](https://www.cc.gatech.edu/~beki/cs4001/Winner.pdf)
-- 🌐 [Diana Nucera "Two-way Streets: Forging the Paths Towards Participatory Civic Technology"](https://civicquarterly.com/article/two-way-streets/)
+- 🌐 [Diana Nucera "Two-way Streets: Forging the Paths Towards Participatory Civic Technology"](https://web.archive.org/web/20190707030109id_/https://civicquarterly.com/article/two-way-streets/)
 - 🌐 [Design Justice Principles](http://designjusticenetwork.org/network-principles/)
 - 🌐 [From "Openness" to Justice](http://hackeducation.com/2014/11/16/from-open-to-justice)
 - 📄 [Indigenous Cooperatives in Canada: The Complex Relationship Between Cooperatives, Community Economic Development, Colonization, and Culture](http://www.jeodonline.com/sites/jeodonline.com/files/articles/2015/08/13/6sengupta13aug2015.pdf)

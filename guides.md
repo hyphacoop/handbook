@@ -42,7 +42,7 @@ members. Skip the steps below at your discretion for low-stakes topics.
   - Ask in chat whether anyone who wants to attend has any blocks on any
     of the options
 - If short-notice or speed of booking is important:
-  - Claim an open HOLD [:information_source:](/meetings.md#holds) slot.
+  - Claim an open HOLD [:information_source:](/meetings.md#calendar-holds) slot.
     - If time permits or topic isn't an all-hands matter, consider
       leaving the hold available for someone else
     - If claiming a hold, edit the calendar immediately and announce
