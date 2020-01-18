@@ -34,8 +34,7 @@ Refer to the guides for [Timesheets](/guides.md#timesheets) to generate and arch
 
 ### Generating Invoices
 
-Prior to generating an invoice, confirm with the client whether they would like to pay in CAD, USD, EUR, or GBP, and in what country their financial institution is based.
-Then refer to the guides for [Invoices](/guides.md#invoices) and generate an invoice in **Quickbooks Online** based on the project pricing structure (e.g. timesheet hours and project rate) and payment information.
+Refer to the guides for [Invoices](/guides.md#invoices) and generate an invoice in **Quickbooks Online** based on the project pricing structure (e.g. timesheet hours and project rate) and payment information.
 The general guidance is that the client is responsible for paying applicable GST and transaction costs charged by their financial institution, and Hypha absorbs the cost of receiving the money (e.g. cost of receiving a wire).
 Invoices, with attached timesheets if requested, are sent to clients and are due 14 days after the invoice date, after which a late fee may be charged for each additional week.
 
@@ -43,7 +42,7 @@ Invoices, with attached timesheets if requested, are sent to clients and are due
 
 After client payments are collected at our **Desjardins** or **TransferWise** accounts, we need to:
 
-1. Move money to the appropriate accounts at our financial instituions
+1. Move money to the appropriate accounts at our financial institutions
 1. Record actual exchange rates and transaction costs
 1. Update our bookkeeping records in **Quickbooks Online**
 1. Finalize and archive invoices
