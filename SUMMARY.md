@@ -12,3 +12,4 @@
   - [Finance 🚧](finance.md)
 * [Guides](guides.md)
 * [Reading Pool](reading-pool.md)
+* [Glossary](glossary.md)
