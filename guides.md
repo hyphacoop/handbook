@@ -134,7 +134,12 @@ In general, most staff prefer not to use third-party SaaS services, like Google 
 
 We store **short strings** (like SINs or codes) as individual credentials in Passbolt. These can be shared with both the providing individual and a privileged group that requires access, like Finance WG.
 
-If we must **store sensitive docs** (like PDFs) on GDrive for convenience, we first encrypt them with a password. We keep this in Passbolt as entry "GDrive: File Encryption". All employees can access this password. Simpler encryption schemes are preferred, for example, default PDF encryption.
+If we must **store sensitive docs** (like PDFs) in a shared drive for convenience (e.g., Google Drive),
+we first encrypt them with a password.
+We keep this in Passbolt under the entry "Shared Drive: File Encryption".
+All employees can access this password.
+Simpler encryption schemes are preferred, for example, default PDF encryption.
+We recommend any secured `file.pdf` be renamed to `file.encrypted.pdf` for easy discovery.
 
 As a last resort for sensitive docs, a member can choose to have the document **printed and stored** in a folder in the office.
 
