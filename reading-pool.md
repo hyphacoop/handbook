@@ -25,7 +25,7 @@ Tech Worker Co-ops:
     - Resource [Git for Beginners](https://handbook.enspiral.com/guides/github_for_beginners.html)
     - Related [Root Systems "Pod"](https://www.rootsystems.nz/)
 - 🌐 [Lab.coop Reading List](http://www.lab.coop/blog/share-more-to-have-more-why-lab-coop-is-an-employee-owned-hol)
-- 📄 [Balancing Performance with Principles in Coops and Mutuals, Report by Ernst and Young](https://www.ey.com/Publication/vwLUAssets/Enlightened_co-operative_governance/$FILE/Enlightened%20co-operative%20governance_EN.pdf)
+- 📄 [Balancing Performance with Principles in Coops and Mutuals, Report by Ernst and Young](http://web.archive.org/web/20180329032602/http://www.ey.com/Publication/vwLUAssets/Enlightened_co-operative_governance/$FILE/Enlightened%20co-operative%20governance_EN.pdf)
 
 Civics, Tech, Politics:
 
@@ -47,7 +47,7 @@ Collaboration, Methodologies:
 - 🌐 [Beautiful Trouble: A Toolbox for Revolution](http://beautifultrouble.org/)
 - :books: [adrienne maree brown (2017) *Emergent Strategy: Shaping Change, Changing Worlds*](https://www.akpress.org/emergentstrategy.html)
 - 🌐 [Loconomics Cooperative Bylaws](https://loconomics.gitbooks.io/loconomics-cooperative-bylaws/content/)
-- 🌐 [Waag Co-creation Toolkit](https://co-creation.waag.org/)
+- 🌐 [Waag Co-creation Toolkit](http://web.archive.org/web/20161216125609/http://co-creation.waag.org/)
 - 🌐 [El LleialTec: Pla de Sobirania Tecnològica als equipaments municipals](https://tec.lleialtat.cat/) ([Google translated](https://translate.google.ca/translate?hl=en&sl=ca&tl=en&u=https%3A%2F%2Ftec.lleialtat.cat))
 
 New Economies:
