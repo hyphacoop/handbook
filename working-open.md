@@ -1,6 +1,6 @@
 # Working Open
 
-Hypha operates with democratic organizing principles informed by our [values](./values.md). As part of that, we've developed a set of guidelines for how (and exactly what) and why we work in the open.
+Hypha operates with democratic organizing principles informed by our [values](./vision.md#values). As part of that, we've developed a set of guidelines for how (and exactly what) and why we work in the open.
 
 ## Why?
 

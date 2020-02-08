@@ -4,7 +4,7 @@ Welcome to Hypha! This page is supposed to help those getting situated in our or
 
 ## Contacting Hypha 
 
-We also have the following communication and contact methods:
+We have the following communication and contact methods:
 
 - 📞 +1-437-887-6936 (We have specific guides for [Accessing][accessing-vm] and [Managing][managing-vm] Voicemail)
 - 📫 #1308-1403 Royal York Road, Etobicoke, Ontario  M9P 0A1

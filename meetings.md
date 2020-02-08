@@ -9,12 +9,11 @@ We have specific guides for [scheduling][scheduling] and
 ### Contents
 
 - [Types](#types)
-  - [All Hands: Full](#all-hands-full)
-  - [All Hands: Standup](#all-hands-standup)
+  - [All Hands: Full](#full)
+  - [All Hands: Standup](#standup)
 - [Calendar Holds](#calendar-holds)
-- [Scheduling](#scheduling)
-- [Hosting](#hosting)
-- [Expectations](#expectations)
+- [Scheduling][scheduling]
+- [Hosting][hosting]
 
 ## Types
 

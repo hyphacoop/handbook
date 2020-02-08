@@ -25,13 +25,13 @@ Tech Worker Co-ops:
     - Resource [Git for Beginners](https://handbook.enspiral.com/guides/github_for_beginners.html)
     - Related [Root Systems "Pod"](https://www.rootsystems.nz/)
 - 🌐 [Lab.coop Reading List](http://www.lab.coop/blog/share-more-to-have-more-why-lab-coop-is-an-employee-owned-hol)
-- 📄 [Balancing Performance with Principles in Coops and Mutuals, Report by Ernst and Young](https://www.ey.com/Publication/vwLUAssets/Enlightened_co-operative_governance/$FILE/Enlightened%20co-operative%20governance_EN.pdf)
+- 📄 [Balancing Performance with Principles in Coops and Mutuals, Report by Ernst and Young](http://web.archive.org/web/20180329032602/http://www.ey.com/Publication/vwLUAssets/Enlightened_co-operative_governance/$FILE/Enlightened%20co-operative%20governance_EN.pdf)
 
 Civics, Tech, Politics:
 
 - 🌐 [Paul Frazee "Information Civics"](https://infocivics.com/)
 - 📄 [Langdon Winner "Do Artifacts have Politics"](https://www.cc.gatech.edu/~beki/cs4001/Winner.pdf)
-- 🌐 [Diana Nucera "Two-way Streets: Forging the Paths Towards Participatory Civic Technology"](https://civicquarterly.com/article/two-way-streets/)
+- 🌐 [Diana Nucera "Two-way Streets: Forging the Paths Towards Participatory Civic Technology"](https://web.archive.org/web/20190707030109id_/https://civicquarterly.com/article/two-way-streets/)
 - 🌐 [Design Justice Principles](http://designjusticenetwork.org/network-principles/)
 - 🌐 [From "Openness" to Justice](http://hackeducation.com/2014/11/16/from-open-to-justice)
 - 📄 [Indigenous Cooperatives in Canada: The Complex Relationship Between Cooperatives, Community Economic Development, Colonization, and Culture](http://www.jeodonline.com/sites/jeodonline.com/files/articles/2015/08/13/6sengupta13aug2015.pdf)
@@ -47,7 +47,7 @@ Collaboration, Methodologies:
 - 🌐 [Beautiful Trouble: A Toolbox for Revolution](http://beautifultrouble.org/)
 - :books: [adrienne maree brown (2017) *Emergent Strategy: Shaping Change, Changing Worlds*](https://www.akpress.org/emergentstrategy.html)
 - 🌐 [Loconomics Cooperative Bylaws](https://loconomics.gitbooks.io/loconomics-cooperative-bylaws/content/)
-- 🌐 [Waag Co-creation Toolkit](https://co-creation.waag.org/)
+- 🌐 [Waag Co-creation Toolkit](http://web.archive.org/web/20161216125609/http://co-creation.waag.org/)
 - 🌐 [El LleialTec: Pla de Sobirania Tecnològica als equipaments municipals](https://tec.lleialtat.cat/) ([Google translated](https://translate.google.ca/translate?hl=en&sl=ca&tl=en&u=https%3A%2F%2Ftec.lleialtat.cat))
 
 New Economies:

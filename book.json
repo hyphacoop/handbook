@@ -1,4 +1,7 @@
 {
+  "structure": {
+    "readme": "handbook.md"
+  },
   "plugins": [
     "anchors"
   ]

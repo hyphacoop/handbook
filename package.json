@@ -1,0 +1,20 @@
+{
+  "name": "handbook",
+  "version": "1.0.0",
+  "description": "Hypha Organizational Handbook describes the vision, processes, and culture of Hypha Worker Co-operative. 🌿🍄",
+  "dependencies": {
+    "gitbook-cli": "^2.3.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyphacoop/handbook.git"
+  },
+  "keywords": [],
+  "author": "Hypha Worker Co-operative",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/hyphacoop/handbook/issues"
+  },
+  "homepage": "https://link.hypha.coop/handbook"
+}
