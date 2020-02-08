@@ -11,5 +11,4 @@
   - [Working Open](working-open.md)
   - [Finance 🚧](finance.md)
 * [Guides](guides.md)
-  - [Projects](projects.md)
 * [Reading Pool](reading-pool.md)
