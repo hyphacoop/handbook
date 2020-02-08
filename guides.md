@@ -19,8 +19,8 @@ our values.
 
 - [Invoices](#invoices)
 - [Meetings](#meetings)
-- [Shortlinks](#shortlinks)
 - [Sensitive Data](#sensitive-data)
+- [Shortlinks](#shortlinks)
 - [Timesheets](#timesheets)
 - [Voicemail](#voicemail)
 - [References](#references)
@@ -236,6 +236,21 @@ members. Skip the steps below at your discretion for low-stakes topics.
   1. Use the private dial-in number from our [technical Jitsi documentation](https://github.com/hyphacoop/organizing-private/blob/master/documents/infrastructure/jitsi.md).
   2. _After_ prompt, enter conference code `307 314 3734 #`
 
+## Sensitive Data
+
+In general, most staff prefer not to use third-party SaaS services, like Google Drive, for storing sensitive information.
+
+We store **short strings** (like SINs or codes) as password entries in Passbolt. These entries should be shared with both a privileged _group_ that needs access (e.g., Finance WG) and the _individual_.
+
+If we must **store sensitive docs** (like PDFs) in a shared drive for convenience (e.g., Google Drive),
+we first encrypt them with a password.
+We keep this in Passbolt under the entry "Shared Drive: File Encryption".
+All employees can access this password.
+Simpler encryption schemes are preferred, for example, default PDF encryption.
+We recommend any secured `file.pdf` be renamed to `file.encrypted.pdf` for easy discovery.
+
+As a last resort for sensitive docs, a member can choose to have the document **printed and stored** in a folder in the office.
+
 ## Shortlinks
 
 ### Managing shortlinks
@@ -269,21 +284,6 @@ engine set in browser](https://i.imgur.com/2D8B7kS.gif)
 Instructions:
 [Chrome](https://www.techrepublic.com/article/pro-tip-add-custom-search-engines-in-chrome-for-more-efficient-searching/)
 | [Firefox (requires extension)](https://addons.mozilla.org/en-US/firefox/addon/add-custom-search-engine/)
-
-## Sensitive Data
-
-In general, most staff prefer not to use third-party SaaS services, like Google Drive, for storing sensitive information.
-
-We store **short strings** (like SINs or codes) as password entries in Passbolt. These entries should be shared with both a privileged _group_ that needs access (e.g., Finance WG) and the _individual_.
-
-If we must **store sensitive docs** (like PDFs) in a shared drive for convenience (e.g., Google Drive),
-we first encrypt them with a password.
-We keep this in Passbolt under the entry "Shared Drive: File Encryption".
-All employees can access this password.
-Simpler encryption schemes are preferred, for example, default PDF encryption.
-We recommend any secured `file.pdf` be renamed to `file.encrypted.pdf` for easy discovery.
-
-As a last resort for sensitive docs, a member can choose to have the document **printed and stored** in a folder in the office.
 
 ## Timesheets
 
