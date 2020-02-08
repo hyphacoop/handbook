@@ -19,8 +19,9 @@ our values.
 
 - [Invoices](#invoices)
 - [Meetings](#meetings)
-- [Shortlinks](#shortlinks)
+- [Projects](#projects)
 - [Sensitive Data](#sensitive-data)
+- [Shortlinks](#shortlinks)
 - [Timesheets](#timesheets)
 - [Voicemail](#voicemail)
 - [References](#references)
@@ -236,6 +237,92 @@ members. Skip the steps below at your discretion for low-stakes topics.
   1. Use the private dial-in number from our [technical Jitsi documentation](https://github.com/hyphacoop/organizing-private/blob/master/documents/infrastructure/jitsi.md).
   2. _After_ prompt, enter conference code `307 314 3734 #`
 
+## Projects
+
+### Sales Prospect & Internal Proposals
+
+While the Business Planning WG is mainly in charge of sales lead generation,
+all members may pursue leads as they come up.
+Members are strongly encouraged to record leads into the co-operative's [leads tracking system](https://link.hypha.coop/leads) whether or not we want to pursue this lead.
+Ask Business Planning WG for help doing this. 
+
+If a member decides to pursue a **lead**,
+they can reach out to gauge potential interest in working together.
+If the lead expresses intention to proceed with a concrete project in mind,
+this becomes an **opportunity**.
+The member now heads up this sales effort and should draft an **internal proposal** with the Business Planning WG, then present it (e.g., at a meeting, or via virtual channels) to see whether the co-operative wants to move forward to submit a formal proposal to the prospective client.
+In this meeting, we should discuss any concerns by other members,
+and gauge team capacity given project timelines.
+A sample internal proposal should include:
+
+- Project Title
+- Background
+- Scope & Timeline
+- Outcomes & Opportunities
+- Skillsets
+- Budget
+- Communication
+- Risks
+- Resources
+
+A [template](#internal-proposal-template) is included below. You can add more sections as appropriate, including sample code, project roadmap, next steps, etc. Examples and archived proposals can be found in our [shared drive](http://link.hypha.coop/drive).
+
+### Client Proposal Drafting and Submission
+
+Project proposals to be submitted to a potential client or grant committee should be drafted by members who expect to participate in the project with the help of members of the Business Planning WG. The WG has expertise in drafting client and grant project proposals, and managing the proposal process, so it is helpful to involve members of that group from the drafting stage. All that are involved in the proposal drafting make up the **proposal team** that will eventually sign off on the final draft to be submitted.
+
+If a project is accepted, this team will lead the initial consultation meetings with the client (e.g. discuss terms of payment and project logistics) and gradually transfer the relationship entirely to the **project team**, which may not necessarily include everyone in the proposal team.
+
+Regardless whether the proposal is successful,
+the project team should add a copy to the archived proposals folder in our [shared drive](http://link.hypha.coop/drive) for future reference.
+For failed proposals,
+we highly encourage reaching out to the client or grant committee for feedback and having an internal retrospective.
+
+### Internal Proposal Template
+
+```
+# Project Title
+
+## Background
+Background information about the client/grant and the project.
+
+## Scope & Timeline
+What are the expected deliverables and the timeline.
+
+## Outcomes & Opportunities
+How this project may be beneficial beyond the scope of the project. For example, does it lead to developing new skillsets among members or starting a relationship with a potentially long-term client?
+
+## Skillsets
+What are the important skillsets needed to ship this. If some skillsets are not available, what are the plans to source them to ensure we can deliver on this?
+
+## Budget
+Project budget and payment terms if available.
+
+## Communication
+How the logistics would look like for members working on this project. Are there weekly calls or are there physical sessions? Is the project on GitHub or is the source closed? Are there consent and confidentiality terms?
+
+## Risks
+What are the expected risks associated with this project.
+
+## Resources
+Additional resources about the project not already listed above, such as link to a website or a call for proposal.
+```
+
+## Sensitive Data
+
+In general, most staff prefer not to use third-party SaaS services, like Google Drive, for storing sensitive information.
+
+We store **short strings** (like SINs or codes) as password entries in Passbolt. These entries should be shared with both a privileged _group_ that needs access (e.g., Finance WG) and the _individual_.
+
+If we must **store sensitive docs** (like PDFs) in a shared drive for convenience (e.g., Google Drive),
+we first encrypt them with a password.
+We keep this in Passbolt under the entry "Shared Drive: File Encryption".
+All employees can access this password.
+Simpler encryption schemes are preferred, for example, default PDF encryption.
+We recommend any secured `file.pdf` be renamed to `file.encrypted.pdf` for easy discovery.
+
+As a last resort for sensitive docs, a member can choose to have the document **printed and stored** in a folder in the office.
+
 ## Shortlinks
 
 ### Managing shortlinks
@@ -269,21 +356,6 @@ engine set in browser](https://i.imgur.com/2D8B7kS.gif)
 Instructions:
 [Chrome](https://www.techrepublic.com/article/pro-tip-add-custom-search-engines-in-chrome-for-more-efficient-searching/)
 | [Firefox (requires extension)](https://addons.mozilla.org/en-US/firefox/addon/add-custom-search-engine/)
-
-## Sensitive Data
-
-In general, most staff prefer not to use third-party SaaS services, like Google Drive, for storing sensitive information.
-
-We store **short strings** (like SINs or codes) as password entries in Passbolt. These entries should be shared with both a privileged _group_ that needs access (e.g., Finance WG) and the _individual_.
-
-If we must **store sensitive docs** (like PDFs) in a shared drive for convenience (e.g., Google Drive),
-we first encrypt them with a password.
-We keep this in Passbolt under the entry "Shared Drive: File Encryption".
-All employees can access this password.
-Simpler encryption schemes are preferred, for example, default PDF encryption.
-We recommend any secured `file.pdf` be renamed to `file.encrypted.pdf` for easy discovery.
-
-As a last resort for sensitive docs, a member can choose to have the document **printed and stored** in a folder in the office.
 
 ## Timesheets
 
