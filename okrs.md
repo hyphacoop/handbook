@@ -5,7 +5,7 @@ We currently define OKRs at the working group level and update them quarterly in
 
 ## About OKRs
 
-_Adapted from [Trello blog](https://blog.trello.com/okrs-set-achieve-track-trello) shared by patcon in chat._
+_Adapted from [Trello blog](https://blog.trello.com/okrs-set-achieve-track-trello)._
 
 **OKR stands for Objectives and Key Results.** The Objectives tend to be the desired outcomes that you want, and the Key Results are the measurable ways you know you’re on track to reach them.
 
