@@ -24,7 +24,7 @@ O4. Assess our financial sustainability (as “capacity to endure”) (cross-cut
 O5. Shorten our lead-to-proposal time (i.e. identifying an opportunity > getting member buy-in > submitting a proposal)  
 
 **Finance WG**:  
-O1. Define robust processes to support financial activities of the co-operative  	
+O1. Define robust processes to support financial activities of the co-operative  
 O2. Have well-defined roles and responsibilities to ensure smooth financial activities  
 O3. Effectively communicate our financial outlook to members  
 
