@@ -14,7 +14,7 @@ A **Key Result** helps answer, _“How will I know I’m getting there?”_
 
 ## Objectives for 2020 Q1/2 
 
-_See the objectives alongisde our key results in our [**OKR tracking sheet**](https://docs.google.com/spreadsheets/d/1hMFS3IhzZOFQA-yjt7lFcoVO0Ry6erFEH7D1NswvDtA/edit)._
+_See the objectives alongside our key results in our [**OKR tracking sheet**](https://docs.google.com/spreadsheets/d/1hMFS3IhzZOFQA-yjt7lFcoVO0Ry6erFEH7D1NswvDtA/edit)._
 
 **Business Planning WG**:  
 O1. Build our engagement strategy  
