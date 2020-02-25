@@ -30,7 +30,7 @@ O3. Effectively communicate our financial outlook to members
 
 **Governance WG**:  
 O1. Formalize a governance structure that meets legal requirements  
-O2. Build [governance] relationships with "neighbours" (cross-cut with Biz Dev/Ops WGs)  
+O2. Build [governance] relationships with "neighbours" (cross-cut with Business Planning/Ops WGs)  
 O3. Host initial Annual General Meeting by fiscal year-end  
 O4. Build organization-wide understanding of governance  
 
