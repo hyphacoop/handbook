@@ -316,7 +316,7 @@ We store **short strings** (like SINs or codes) as password entries in Passbolt.
 
 If we must **store sensitive docs** (like PDFs) in a shared drive for convenience (e.g., Google Drive),
 we first encrypt them with a password.
-We keep this in Passbolt under the entry "Shared Drive: File Encryption".
+We keep this in Passbolt under the entry `Shared Drive: Encrypted Files`.
 All employees can access this password.
 Simpler encryption schemes are preferred, for example, default PDF encryption.
 We recommend any secured `file.pdf` be renamed to `file.encrypted.pdf` for easy discovery.
