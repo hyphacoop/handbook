@@ -310,7 +310,7 @@ Additional resources about the project not already listed above, such as link to
 
 ## Sensitive Data
 
-In general, most staff prefer not to use third-party SaaS services, like Google Drive, for storing sensitive information.
+In general, most members prefer not to use third-party SaaS services, like Google Drive, for storing sensitive information.
 
 We store **short strings** (like SINs or codes) as password entries in Passbolt. These entries should be shared with both a privileged _group_ that needs access (e.g., Finance WG) and the _individual_.
 
