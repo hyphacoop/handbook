@@ -77,6 +77,10 @@ Hypha has the following [program accounts][program-accounts] with the Canada Rev
 - 🔜 `RT0001` **GST/HST (RT)** is [reported and paid][sales-tax-how] each filing period (TBD)
 
    [sales-tax-how]: https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/account-register.html#once
+   
+**Remittance schedule:** monthly, non-accelerated (handled [through Wagepoint][wagepoint-remittance])
+
+   [wagepoint-remittance]: https://wagepoint.kayako.com/article/2-add-company-and-payroll-information
 
 As a non-profit organization, our co-operative should have tax-exempt status and pay no corporate income tax.
 
