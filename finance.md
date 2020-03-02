@@ -51,7 +51,8 @@ Refer to the guides for [Invoices](/guides.md#invoices) to handle the settling o
 
 ## Member Payroll
 
-Member wages are paid at the end of each pay period and vary from cycle to cycle depending on their billable hours of work. At the end of each cycle, each Member's entitled pay is calculated based on the projects and roles they participate in. After withholding taxes and other applicable deductions (e.g. CPP and EI), the net amount is electronically transferred to the Member's bank account using **Wagepoint**.
+Member wages are paid at the end of each pay period and vary from cycle to cycle depending on their billable hours of work. At the end of each cycle, each Member's entitled pay is calculated based on the projects and roles they participate in. 
+After withholding taxes and other applicable deductions (e.g. CPP and EI), the net amount is electronically transferred to the Member's bank account using **Wagepoint**.
 
 Expense reimbursements, which require photos uploaded to Quickbooks Online, are paid out at each cycle as non-taxable items in the paycheque.
 
@@ -80,7 +81,10 @@ Hypha has the following [program accounts][program-accounts] with the Canada Rev
 
 As a non-profit organization, our co-operative should have tax-exempt status and pay no corporate income tax.
 
-The Finance WG is responsible for bookkeeping and calculating wage deductions using Quickbooks Online, then reporting and remitting appropriate withheld wages to CRA each month.
+The Finance WG is responsible for bookkeeping and calculating wage deductions using Quickbooks Online, then reporting and remitting withheld wages to CRA each month.
+These remittances are handled through Wagepoint on their [non-accelerated remittance schedule][wagepoint-remittance].
+
+   [wagepoint-remittance]: https://wagepoint.kayako.com/article/2-add-company-and-payroll-information
 
 At the end of each calendar year, Hypha's accountant will send a T4 to each Member and to CRA for personal income tax filings.
 The accountant will also file annual tax returns for each fiscal year-end, set on **June 30**, and coordinate with the Finance WG to facilitate filings and remittances.
