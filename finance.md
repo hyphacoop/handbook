@@ -23,11 +23,15 @@ Our TransferWise account does not require multiple signatures, and the Finance W
 ## Invoicing Clients
 
 Hypha charges clients on a sliding scale, and projects may be billed hourly, weekly, monthly, or per project, depending on the specifics of each project.
+The recommended practice is to send an invoice every month, or a quote, if the amount for the month is small and at the discretion of the project.
+
+In cases where an invoice is not collected in time for payroll, or failed to be collected altogether, this is treated as a cost to the Co-operative and we strongly advocate that this not affect the timely payroll to the Member.
+
 In order to create invoices and collect payments, there are three general steps that need to be performed in order.
 
 ### Generating Timesheets
 
-For clients with billing models that require tracked work hours, **Clockify** is used to generate timesheets for determining the invoice amount each period, and often for calculating member wages.
+For clients with billing models that require tracked work hours, **Clockify** is used to generate timesheets for determining the invoice amount each period, and often for calculating Member wages.
 These timesheets are archived in our [shared drive](https://link.hypha.coop/drive) under the `Timesheets` directory and may be attached to invoices at client request.
 
 Refer to the guides for [Timesheets](/guides.md#timesheets) to generate and archive your project timesheets.
@@ -36,7 +40,7 @@ Refer to the guides for [Timesheets](/guides.md#timesheets) to generate and arch
 
 Refer to the guides for [Invoices](/guides.md#invoices) and generate an invoice in **Quickbooks Online** based on the project pricing structure (e.g. timesheet hours and project rate) and payment information.
 The general guidance is that the client is responsible for paying applicable GST and transaction costs charged by their financial institution, and Hypha absorbs the cost of receiving the money (e.g. cost of receiving a wire).
-Invoices, with attached timesheets if requested, are sent to clients and are due 14 days after the invoice date, after which a late fee may be charged for each additional week.
+Invoices, with attached timesheets if requested, are sent to clients and are generally due 2 weeks after the invoice date (i.e. Net 15), after which a late fee may be charged for each additional week.
 
 ### Settling Payments
 
@@ -51,21 +55,45 @@ Refer to the guides for [Invoices](/guides.md#invoices) to handle the settling o
 
 ## Member Payroll
 
-Member wages are paid at the end of each pay period and vary from cycle to cycle depending on their billable hours of work. At the end of each cycle, each Member's entitled pay is calculated based on the projects and roles they participate in. 
-After withholding taxes and other applicable deductions (e.g. CPP and EI), the net amount is electronically transferred to the Member's bank account using **Wagepoint**.
+Member wages are paid on the **15th of each month**, for the billable hours of work that is done up to the end of the previous month.
+For example, the March 15 pay day covers the "pay period" of March, but it pays for the work rendered throughout the month of February.
 
-Expense reimbursements, which require photos uploaded to Quickbooks Online, are paid out at each cycle as non-taxable items in the paycheque.
+Before the **7th of each month**, Members must submit payroll information to the [Employee Payroll](https://link.hypha.coop/payroll) sheet in order to get paid for the current pay period.
 
-Each Member is entitled to a public holiday pay and vacation pay, each one at approximately 4% of their total wages for the year.
-This amount will be calculated and added to the paycheque per pay period.
+Expense reimbursements, which require photos uploaded to Quickbooks Online, are paid out at each period and should be submitted in the same quarter that they are incurred.
 
 All payroll, expense reimbursements, and withheld taxes are managed using Wagepoint and Quickbooks Online, which are linked to our main Desjardins account.
 
 ### Calculating Member Wages
 
-Each Member's pay from billable project work will have a percent-based portion taken from it to fund administrative costs and collective programs. Collective programs may include non-billable projects, member health benefits, CPP & EI, member & co-op development fund, "rainy days" reserve contributions, as well as and other collective expenses of the co-operative.
-The amount is calculated based on the invoiced amount before transaction costs.
-This clip, currently set at **25%**, is the same across all projects during a period and can be revised as necessary by consensus.
+Each Member's wage for a pay period is calculated based on the projects and roles they participate in, and it usually varies from month to month.
+
+Pay from billable project work will have a percent-based portion taken from it to fund administrative costs and collective programs of the Co-operative.
+Collective programs include:
+
+- Vacation pay
+- Public holiday pay
+- CPP & EI employer contributions
+- Member health benefits (future)
+- Non-billable projects (future)
+- Member & co-op development fund (future)
+- "Rainy days" reserve contributions (future)
+- Other collective expenses of the co-operative
+
+This clip amount is calculated based on the invoiced amount before transaction costs.
+It is currently set at **25%** and is the same across all projects during a period, but can be revised as necessary by consensus.
+
+
+In addition to regular pay (i.e. amount after clip), Members are are entitled to:
+
+- 4% vacation pay based on the regular pay amount
+- 5% public holiday pay based on the regular + vacation pay amount
+- CPP & EI employer contributions
+
+These annualized amounts are calculated and part of payroll in each pay period.
+You can use the [Wage Calculator](https://link.hypha.coop/wage) to determine these amounts.
+
+After withholding taxes and other applicable deductions (e.g. CPP & EI employee contributions), the net amount is electronically transferred to the Member's bank account using **Wagepoint**.
 
 ### Reporting & Remitting Taxes
 

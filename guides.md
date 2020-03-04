@@ -38,7 +38,7 @@ Prior to creating an invoice, confirm with the client whether they would like to
 
 1. Click `Create invoice` on the client you wish to invoice, and use the following settings:
     - Cc.: `finance@hypha.coop`
-    - Terms: `Net 15`
+    - Terms: `Net 15` (may be different per project)
     - Message on invoice: `[Payment instructions]` (e.g. Please pay USD 3,135.00)
     - Attachments: `[Timesheet PDFs]`
 
