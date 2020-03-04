@@ -95,6 +95,12 @@ You can use the [Wage Calculator](https://link.hypha.coop/wage) to determine the
 
 After withholding taxes and other applicable deductions (e.g. CPP & EI employee contributions), the net amount is electronically transferred to the Member's bank account using **Wagepoint**.
 
+### Work During Public Holidays
+
+The Co-operative recommends Members to not work on a public holiday, but in the case where Members voluntarily chooses to or under special circumstances, they will receive regular wages and "substitute time off", and there should be no expectation of "public holiday plus premium pay".
+
+Since Members have variable hours of work per period, and a 5% annualized public holiday pay is already included in Member wages, Members are already entitled to take substitute time off as needed, and will be paid regular wage for that work, as compliant with the [Employment Standards Act of Ontario](https://www.ontario.ca/document/your-guide-employment-standards-act-0/public-holidays).
+
 ### Reporting & Remitting Taxes
 
 Hypha has the following [program accounts][program-accounts] with the Canada Revenue Agency (CRA):
