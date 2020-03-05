@@ -1,5 +1,10 @@
 # Roles
 
+**Table of Contents**
+- [Cultivator](#cultivator-aka-meeting-chair)
+- [Notetaker](#notetaker)
+- [Social Media Steward](#social-media-steward)
+
 ### Cultivator (aka Meeting Chair)
 
 The *Cultivator* is responsible for tending to the all hands meetings and important shared fields of the co-operative: where we make decisions (Loomio), where we keep our documents (GitHub), and where we keep our calendar (Google Calendar).
@@ -37,3 +42,29 @@ The *Notetaker*
 
 **Length Succession**:
 Single meeting. Moves through alphabetical list of active member names.
+
+### Social Media Steward
+
+**Parent WG:** Business Development
+
+**Aim:** Maintain an active online presence amongst neighbors and co-operative allies.
+
+**Tasks:**
+- interacting on approved platforms
+- support or initiate discussions about presence on new platforms
+- share monthly updates with parent WG
+- track time under a specific tag
+
+**Authority:**
+- any interactions on our approved platforms:
+    - Twitter
+    - Linkedin
+
+**Limits:** (on Authority)
+- Permission of parent WG needed for:
+    - creating and activating new social media accounts
+    - squatting namespaces on new platforms
+
+**Time Budget:** Up to 2h/week.
+
+**Term:** 3 mo, with renewal. Max 2 terms.
