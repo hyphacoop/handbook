@@ -25,7 +25,7 @@ Tech Worker Co-ops:
     - Resource [Git for Beginners](https://handbook.enspiral.com/guides/github_for_beginners.html)
     - Related [Root Systems "Pod"](https://www.rootsystems.nz/)
 - 🌐 [Lab.coop Reading List](http://www.lab.coop/blog/share-more-to-have-more-why-lab-coop-is-an-employee-owned-hol)
-- 📄 [Balancing Performance with Principles in Coops and Mutuals, Report by Ernst and Young](http://web.archive.org/web/20180329032602/http://www.ey.com/Publication/vwLUAssets/Enlightened_co-operative_governance/$FILE/Enlightened%20co-operative%20governance_EN.pdf)
+- 📄 [Balancing Performance with Principles in Coops and Mutuals, Report by Ernst and Young](https://web.archive.org/web/20180329032602/http://www.ey.com/Publication/vwLUAssets/Enlightened_co-operative_governance/$FILE/Enlightened%20co-operative%20governance_EN.pdf)
 
 Civics, Tech, Politics:
 
