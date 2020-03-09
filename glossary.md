@@ -1,6 +1,6 @@
 # Glossary
 
-AKA the thing that no one ever reads. Below we've tried to provide a tweet-sized definition of some of the ecosystems terms and concepts we're using to help us describe the context that Hypha operates in.<sup>[1](#notes)</sup> Additions welcome! 
+AKA the thing that no one ever reads. Below we've provided tweet-sized definitions of some related terms and concepts we're using to describe the broader context Hypha is operating in.<sup>[1](#notes)</sup> Additions welcome! 
 
 - [**Capitalism**](https://en.wikipedia.org/wiki/Capitalism) an economic system based on private ownership of the means of production with the goal of generating profits. See: [The Black Socialists of America Glossary of Socialist Terms](https://blacksocialists.us/mumbo-jumbo)
 - [**Co-operative**](https://www.ica.coop/en/cooperatives/what-is-a-cooperative): a people-centred enterprise owned, controlled, and run by and for members to realise common economic, social, and cultural needs and aspirations.
@@ -14,4 +14,4 @@ AKA the thing that no one ever reads. Below we've tried to provide a tweet-sized
 
 ## Notes
 
-<sup>1. Inspired by [Black Socialists of America Mumbo-jumbo]https://blacksocialists.us/mumbo-jumbo) and [vTaiwan](https://info.vtaiwan.tw/) tweet-sized definitions.</sup>
+<sup>1. Inspired by [Black Socialists of America Mumbo-jumbo](https://blacksocialists.us/mumbo-jumbo) and [vTaiwan](https://info.vtaiwan.tw/) tweet-sized definitions.</sup>
