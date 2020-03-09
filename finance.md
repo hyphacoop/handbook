@@ -102,6 +102,7 @@ These annualized amounts are calculated and included for each pay period.
 You can use the [Wage Calculator](https://link.hypha.coop/wage) to determine these amounts.
 
 After tax withholdings and other applicable deductions (e.g. CPP & EI employee contributions), the net amount is electronically transferred to the Member's bank account on pay day using **Wagepoint**.
+Refer to the guides for [Payroll](/guides.md#payroll) to set up the payroll run for each pay period.
 
 ### Work on Public Holidays
 
