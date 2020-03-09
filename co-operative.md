@@ -6,11 +6,17 @@ Hypha Worker Co-operative Inc. is a worker co-operative incorporated on August
 1, 2019 in Ontario, Canada (Ontario Corporation No. 5019866).
 
 Hypha is incorporated as a **non-share capital** worker co-operative under the 
-[*Ontario Co-operative Corporations Act, 1990*][coop-act]. This entails specific 
-conditions on our primary object, size of membership, and role of members, as addressed in 
-Article [1], [1.1], [144] and [145.1] of the Act.
+[*Ontario Co-operative Corporations Act, 1990*][coop-act]. 
+This entails specific conditions on our primary object, size of membership, 
+and role of members, as addressed in Article [1], [1.1], [144], 
+and [145.1] of the Act.
 
-We are a non-profit _organization_. As per 2017's [_Cutting Unnecessary Red Tape Act_](https://www.ontario.ca/laws/statute/s17020), Hypha falls under neither the current [_Corporations Act_](https://www.ontario.ca/laws/statute/90c38), nor the upcoming [_Not-for-Profit Corporations Act_](https://www.ontario.ca/laws/statute/10n15), which both govern not-for-profit _corporations_ in Ontario.
+We are a non-profit _organization_. 
+That means our organization does not operate with the primary purpose of generating profit. 
+As per 2017's [_Cutting Unnecessary Red Tape Act_](https://www.ontario.ca/laws/statute/s17020), 
+Hypha falls under neither the current [_Corporations Act_](https://www.ontario.ca/laws/statute/90c38), 
+nor the upcoming [_Not-for-Profit Corporations Act_](https://www.ontario.ca/laws/statute/10n15), 
+which both govern not-for-profit _corporations_ in Ontario.
 
 ## Member-owners and Employees
 

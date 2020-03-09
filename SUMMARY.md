@@ -3,6 +3,7 @@
 * [Hypha Worker Co-operative](co-operative.md)
   - [About Us](co-operative.md#about-us)
   - [Mission, Vision and Values](vision.md)
+  - [Objectives and Key Results (OKRs)](okrs.md)
 * [Our Virtual Office](onboarding.md)
   - [Onboarding](onboarding.md)
   - [Coordination 🚧](coordination.md)
