@@ -73,7 +73,7 @@ Why Decentralize?
 - 📄 Nathan Schnieder n.d. "Decentralization: An Incomplete Ideology"
 - 🌐 [Data Together Reading List](https://github.com/datatogether/reading_datatogether) or [Zotero Group](https://www.zotero.org/groups/datatogether)
 
-Requirements for co-ops in Canada (Federal, Ontario) see [**2018 retreat playbook**](https://github.com/hyphacoop/organizing/tree/master/2018-december-retreat):
+Requirements for co-ops in Canada (Federal, Ontario) see [**2018 retreat playbook**](https://link.hypha.coop/retreat-playbook):
 
 - 📄 [Registering a coop - Official Guide by Financial Services Commision of Ontario](https://www.fsco.gov.on.ca/en/coops/Documents/register_co-ops-guide.pdf)
 - 📄 [Ontario.coop fact sheets](https://ontario.coop/sites/default/files/Complete%20list%20of%20FACTSheets%20-%20Updated.pdf)
