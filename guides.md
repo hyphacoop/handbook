@@ -321,12 +321,12 @@ If this is the first time you use Wagepoint, please first review the [Running yo
 
     You can review past payrolls under the `REPORTS` tab.
 
-1. **Process:** Verify the amounts and `APPROVE PAYROLL`. 
+1. **Process:** Verify the amounts.
+    Save the PDF output of `VIEW ALL`, our "Payroll Register", into the 🔒 [`Finance > Payroll` folder in our Drive](https://drive.google.com/drive/u/0/folders/1IWyDzyeixO4Z6TbIghorqTiCbrs2N4K8).
+    Click `APPROVE PAYROLL`.
 
 1. **Confirm:** Confirm the payroll run for this pay period.
     It will be queued for processing on the `Pay Date`.
-
-1. Save the PDF output of `VIEW ALL`, our "Payroll Register", into the 🔒 [`Finance > Payroll` folder in our Drive](https://drive.google.com/drive/u/0/folders/1IWyDzyeixO4Z6TbIghorqTiCbrs2N4K8).
 
 1. No further steps necessary.
     Wagepoint will withdraw funds from our bank account, and this will sync with our Quickbooks automatically.
