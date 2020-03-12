@@ -4,6 +4,7 @@
   - [About Us](co-operative.md#about-us)
   - [Mission, Vision and Values](vision.md)
   - [Objectives and Key Results (OKRs)](okrs.md)
+  - [Working Groups](working-groups.md)
 * [Our Virtual Office](onboarding.md)
   - [Onboarding](onboarding.md)
   - [Coordination 🚧](coordination.md)
