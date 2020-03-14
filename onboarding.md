@@ -23,12 +23,15 @@ In place of a physical place we have virtual office comprised of the following s
 We also have the following "helper" tools to navigate our office spaces:
 
 - [Service Inventory][service-inventory]
+- [Onboarding Checklist][onboarding-checklist]
 - [Link Shortener][link-shortener]: `link.hypha.coop`
+
 
 
 <!-- Links -->
 [link-shortener]: https://link.hypha.coop
 [service-inventory]: https://link.hypha.coop/inventory
+[onboarding-checklist]: /guides.md#onboarding-checklist
 [accessing-vm]: /guides.md#accessing-voicemail
 [managing-vm]: /guides.md#managing-voicemail-and-phone-forwarding
 [matrix-chat]: https://chat.tomesh.net/#/group/+hyphacoop:tomesh.net
