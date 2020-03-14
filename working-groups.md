@@ -4,7 +4,7 @@
 
 WG for performing feasibility study, and business planning to identify start up costs, fundraising mechanisms, and risks.
 
-📅 Weekly calls  
+📅 Calls: [Weekly][calendar]  
 👪 Members: [**@business-planning-wg**][t-biz]  
 ✅ Tasks: GitHub board > [`wg:business-planning` label][l-biz]  
 
@@ -12,7 +12,7 @@ WG for performing feasibility study, and business planning to identify start up 
 
 WG for establishing accounting practices, including setting up a bank account, administering payroll and expenses, invoicing, and handling remittances.
 
-📅 Weekly calls   
+📅 Calls: [Weekly][calendar]   
 👪 Members: [**@finance-wg**][t-fin]  
 ✅ Tasks: GitHub board > [`wg:finance` label][l-fin]  
 
@@ -20,7 +20,7 @@ WG for establishing accounting practices, including setting up a bank account, a
 
 WG for drafting by-laws, articles of incorporation, and planning for the first General Meeting (and subsequent structure).
 
-📅 Biweekly calls  
+📅 Calls: [Biweekly][calendar]  
 👪 Members: [**@governance-wg**][t-gov]  
 ✅ Tasks: GitHub board > [`wg:governance` label][l-gov]  
 
@@ -28,7 +28,7 @@ WG for drafting by-laws, articles of incorporation, and planning for the first G
 
 WG for setting up our "virtual office", in particular the infrastructure and processes to collaborate.
 
-📅 Biweekly(ish) calls  
+📅 Calls: [Biweekly-ish][calendar]   
 👪 Members: [**@infra-wg**][t-inf]  
 ✅ Tasks: GitHub board > [`wg:infra` label][l-inf]  
 
@@ -36,9 +36,12 @@ WG for setting up our "virtual office", in particular the infrastructure and pro
 
 WG for stewarding our shared practices and policies for effective remote collaboration.
 
-📅 We host biweekly calls   
+📅 Calls: [Biweekly][calendar]  
 👪 Members: [**@ops-wg**][t-ops]  
 ✅ Tasks: GitHub board > [`wg:ops` label][l-ops]  
+
+<!-- Links: Important -->
+[calendar]: https://link.hypha.coop/calendar
 
 <!-- Links: Working Groups -->
 [biz-wg]: https://link.hypha.coop/biz-wg
