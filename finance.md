@@ -41,7 +41,7 @@ Refer to the guides for [Timesheets](/guides.md#timesheets) to generate and arch
 Refer to the guides for [Invoices](/guides.md#invoices) and generate an invoice in **Quickbooks Online** based on the project pricing structure (e.g. timesheet hours and project rate) and payment information.
 
 In general, the client is responsible for paying applicable HST and transaction costs charged by their financial institution, and Hypha pays the cost of receiving the payment (e.g. cost of receiving a wire).
-Invoices are sent to clients and are generally due 2 weeks after the invoice date (i.e. Net 15), after which a late fee may be charged for each additional week.
+Invoices are sent to clients and are preferably due 2 weeks after the invoice date (i.e. Net 15), after which a late fee may be charged for each additional week.
 
 ### Settling Payments
 
@@ -72,7 +72,7 @@ All payroll, expense reimbursements, and withheld taxes are managed using Wagepo
 
 Each Member's wage for a pay period is calculated based on the projects and roles they participate in, and it usually varies from month to month.
 
-Pay from billable project work will have a percent-based portion deducted from it to fund administrative costs and collective programs of the Co-operative.
+Pay from billable project work will have a percent-based portion (the "clip") deducted from it to fund administrative costs and collective programs of the Co-operative.
 Collective programs, current and prospective, include:
 
 - Vacation pay
@@ -122,7 +122,7 @@ Hypha has the following [program accounts][program-accounts] with the Canada Rev
 
    [sales-tax-how]: https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/account-register.html#once
 
-As a non-profit organization, our co-operative has tax-exempt status and pay no corporate income tax.
+As a non-profit organization, our co-operative has tax-exempt status and pays no corporate income tax.
 
 The Finance WG is responsible for bookkeeping and calculating wage deductions using Quickbooks Online, then reporting and remitting withheld wages to CRA each month.
 These remittances are handled through Wagepoint on their [non-accelerated remittance schedule][wagepoint-remittance].

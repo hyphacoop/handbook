@@ -40,7 +40,7 @@ Prior to creating an invoice, confirm with the client whether they would like to
 
 1. Click `Create invoice` on the client you wish to invoice, and use the following settings:
     - Cc.: `finance@hypha.coop`
-    - Terms: `Net 15` (may be different per project)
+    - Terms: `Net 15` (may vary by project)
     - Message on invoice: `[Payment instructions]` (e.g. Please pay USD 3,135.00)
     - Attachments: `[Timesheet PDFs]`
 
@@ -263,7 +263,7 @@ This is a checklist for onboarding a new Member to the Co-operative 🚀
   - After acceptance, add to `Member-Worker` group
 
 1. Invite to [GitHub Organization](https://github.com/hyphacoop):
-  - Add to `Member-Worker` [GitHub Team](https://link.hypha.coop/teams)
+  - Add to `Worker-Owner` [GitHub Team](https://link.hypha.coop/teams)
 
 1. Get Google-friendly email address:
   - Share access to [Drive](https://link.hypha.coop/drive)
@@ -280,6 +280,7 @@ This is a checklist for onboarding a new Member to the Co-operative 🚀
 1. Collect information for [employee record](https://link.hypha.coop/employees).
 
 1. Add Member SIN to Passbolt and share access with `People Operations` group.
+    Change the Member access to the entry as read-only, as this information is for recording keeping and the Member should not be able to modify it.
 
 1. Collect encrypted (see [Sensitive Data](#sensitive-data) guide) [`TD1` and `TD1-ON` forms](https://www.canada.ca/en/revenue-agency/services/forms-publications/td1-personal-tax-credits-returns.html) to [Drive](https://link.hypha.coop/drive). 
 
