@@ -393,7 +393,7 @@ This is a checklist for onboarding a new Member to the Co-operative 🚀
   - Community `+hyphacoop:tomesh.net`
 
 1. Set up [`hypha.coop` email](https://link.hypha.coop/email):
-  - Create new mailbox with Mailcow
+  - [Create new mailbox with Mailcow](#creating-new-inboxes-administrators)
   - Set up initial forwarder
   - Add to `members@`
 
