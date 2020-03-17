@@ -62,7 +62,7 @@ We'll now log in to confirm access, and set up an initial forwarder to make firs
 7. Navigate through these menus:  
     _:gear:(top-left) > Mail menu item > Forward tab_
 8. Check "Forward incoming mail" and enter provided primary email, clicking "Keep a copy".
-9. From your own @hypha.com email, send a welcome email, like this template:
+9. From your own `@hypha.coop` email, send a welcome email, like this template:
     >
     > Hi XXXX --
     >
