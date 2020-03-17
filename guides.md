@@ -88,7 +88,7 @@ We'll now log in to confirm access, and set up an initial forwarder to make firs
 
 ### Using your new inbox (Users)
 
-Accessing your inbox can be done via the hosted webmail interface or by using the same desktop email client you're already using.
+Accessing your inbox can be done via the hosted webmail interface or by using the same email client you're already using.
 
 What you'll need:
 - Your new email address
