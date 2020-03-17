@@ -23,6 +23,7 @@ our values.
 - [Payroll](#payroll)
 - [Projects](#projects)
 - [Sensitive Data](#sensitive-data)
+- [Signatures](#signatures)
 - [Shortlinks](#shortlinks)
 - [Timesheets](#timesheets)
 - [Voicemail](#voicemail)
@@ -460,6 +461,44 @@ Simpler encryption schemes are preferred, for example, default PDF encryption.
 We recommend any secured `file.pdf` be renamed to `file.encrypted.pdf` for easy discovery.
 
 As a last resort for sensitive docs, a member can choose to have the document **printed and stored** in a folder in the office.
+
+## Signatures
+
+The Board of Directors uses PGP signatures to digitally sign [resolutions](https://github.com/hyphacoop/organizing/tree/master/resolutions).
+We recommend using the [GnuPG](https://gnupg.org) command line, but you can also use the [Keybase](https://keybase.io) command line, to sign and verify resolutions.
+
+- Signing with **GnuPG**:
+
+    ```
+    $ gpg --sign --armor \
+      --output resolution-001.md.github_handle.asc \
+      resolution-001.md
+    ```
+
+    with **Keybase**:
+
+    ```
+    $ keybase pgp sign \
+      --infile resolution-001.md \
+      --outfile resolution-001.md.github_handle.asc
+    ```
+- Verifying with **GnuPG**:
+
+    ```
+    $ gpg --verify resolution-001.md.github_handle.asc
+    ```
+
+    with **Keybase**:
+
+    ```
+    $ keybase pgp verify \
+      --infile resolution-001.md.github_handle.asc
+    ```
+
+The text of the signed document is embedded in the signature file, so you can drop any signature file `resolution-XXX.md.github_handle.asc` into [keybase.io/verify](https://keybase.io/verify) to verify a signature.
+For example, you can try verifying [resolution-001.md.benhylau.asc](https://github.com/hyphacoop/organizing/blob/master/resolutions/resolution-001.md.benhylau.asc).
+
+Members also use other tools such as [HelloSign](https://hellosign.com) for signing external documents.
 
 ## Shortlinks
 
