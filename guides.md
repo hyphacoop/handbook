@@ -464,6 +464,8 @@ As a last resort for sensitive docs, a member can choose to have the document **
 
 ## Signatures
 
+### Signing internal documents
+
 The Board of Directors uses PGP signatures to digitally sign [resolutions](https://github.com/hyphacoop/organizing/tree/master/resolutions).
 We recommend using the [GnuPG](https://gnupg.org) command line, but you can also use the [Keybase](https://keybase.io) command line, to sign and verify resolutions.
 
@@ -498,7 +500,9 @@ We recommend using the [GnuPG](https://gnupg.org) command line, but you can also
 The text of the signed document is embedded in the signature file, so you can drop any signature file `resolution-XXX.md.github_handle.asc` into [keybase.io/verify](https://keybase.io/verify) to verify a signature.
 For example, you can try verifying [resolution-001.md.benhylau.asc](https://github.com/hyphacoop/organizing/blob/master/resolutions/resolution-001.md.benhylau.asc).
 
-Members also use other tools such as [HelloSign](https://hellosign.com) for signing external documents.
+### Signing external documents
+
+Members also use other tools such as [HelloSign](http://link.hypha.coop/inventory#HelloSign) for signing client-facing documents.
 
 ## Shortlinks
 
