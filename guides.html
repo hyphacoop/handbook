@@ -368,6 +368,7 @@ our values.</p>
 <li><a href="#payroll">Payroll</a></li>
 <li><a href="#projects">Projects</a></li>
 <li><a href="#sensitive-data">Sensitive Data</a></li>
+<li><a href="#signatures">Signatures</a></li>
 <li><a href="#shortlinks">Shortlinks</a></li>
 <li><a href="#timesheets">Timesheets</a></li>
 <li><a href="#voicemail">Voicemail</a></li>
@@ -831,6 +832,31 @@ All employees can access this password.
 Simpler encryption schemes are preferred, for example, default PDF encryption.
 We recommend any secured <code>file.pdf</code> be renamed to <code>file.encrypted.pdf</code> for easy discovery.</p>
 <p>As a last resort for sensitive docs, a member can choose to have the document <strong>printed and stored</strong> in a folder in the office.</p>
+<h2 id="signatures"><a name="signatures" class="plugin-anchor" href="#signatures"><i class="fa fa-link" aria-hidden="true"></i></a>Signatures</h2>
+<h3 id="signing-internal-documents"><a name="signing-internal-documents" class="plugin-anchor" href="#signing-internal-documents"><i class="fa fa-link" aria-hidden="true"></i></a>Signing internal documents</h3>
+<p>The Board of Directors uses PGP signatures to digitally sign <a href="https://github.com/hyphacoop/organizing/tree/master/resolutions" target="_blank">resolutions</a>.
+We recommend using the <a href="https://gnupg.org" target="_blank">GnuPG</a> command line, but you can also use the <a href="https://keybase.io" target="_blank">Keybase</a> command line, to sign and verify resolutions.</p>
+<ul>
+<li><p>Signing with <strong>GnuPG</strong>:</p>
+<pre><code>  $ gpg --sign --armor \
+    --output resolution-001.md.github_handle.asc \
+    resolution-001.md
+</code></pre><p>  with <strong>Keybase</strong>:</p>
+<pre><code>  $ keybase pgp sign \
+    --infile resolution-001.md \
+    --outfile resolution-001.md.github_handle.asc
+</code></pre></li>
+<li><p>Verifying with <strong>GnuPG</strong>:</p>
+<pre><code>  $ gpg --verify resolution-001.md.github_handle.asc
+</code></pre><p>  with <strong>Keybase</strong>:</p>
+<pre><code>  $ keybase pgp verify \
+    --infile resolution-001.md.github_handle.asc
+</code></pre></li>
+</ul>
+<p>The text of the signed document is embedded in the signature file, so you can drop any signature file <code>resolution-XXX.md.github_handle.asc</code> into <a href="https://keybase.io/verify" target="_blank">keybase.io/verify</a> to verify a signature.
+For example, you can try verifying <a href="https://github.com/hyphacoop/organizing/blob/master/resolutions/resolution-001.md.benhylau.asc" target="_blank">resolution-001.md.benhylau.asc</a>.</p>
+<h3 id="signing-external-documents"><a name="signing-external-documents" class="plugin-anchor" href="#signing-external-documents"><i class="fa fa-link" aria-hidden="true"></i></a>Signing external documents</h3>
+<p>Members also use other tools such as <a href="http://link.hypha.coop/inventory#HelloSign" target="_blank">HelloSign</a> for signing client-facing documents.</p>
 <h2 id="shortlinks"><a name="shortlinks" class="plugin-anchor" href="#shortlinks"><i class="fa fa-link" aria-hidden="true"></i></a>Shortlinks</h2>
 <h3 id="managing-shortlinks"><a name="managing-shortlinks" class="plugin-anchor" href="#managing-shortlinks"><i class="fa fa-link" aria-hidden="true"></i></a>Managing shortlinks</h3>
 <p>We use a custom shortlink service at <code>link.hypha.coop</code>. It helps us:</p>
@@ -960,7 +986,7 @@ Dial <code>*98</code></li>
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Guides","level":"1.4","depth":1,"next":{"title":"Reading Pool","level":"1.5","depth":1,"path":"reading-pool.md","ref":"reading-pool.md","articles":[]},"previous":{"title":"Finance 🚧","level":"1.3.6","depth":2,"path":"finance.md","ref":"finance.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["anchors"],"pluginsConfig":{"anchors":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"handbook.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"guides.md","mtime":"2020-03-17T10:10:49.055Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2020-03-17T10:11:35.851Z"},"basePath":".","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Guides","level":"1.4","depth":1,"next":{"title":"Reading Pool","level":"1.5","depth":1,"path":"reading-pool.md","ref":"reading-pool.md","articles":[]},"previous":{"title":"Finance 🚧","level":"1.3.6","depth":2,"path":"finance.md","ref":"finance.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["anchors"],"pluginsConfig":{"anchors":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"handbook.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"guides.md","mtime":"2020-03-17T22:46:18.132Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2020-03-17T22:47:06.353Z"},"basePath":".","book":{"language":""}});
         });
     </script>
 </div>
