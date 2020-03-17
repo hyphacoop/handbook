@@ -36,9 +36,9 @@ our values.
 What you'll need:
 - Admin access to [our Mailcow email server](https://link.hypha.coop/email)
 - The following user info (from https://link.hypha.coop/employees):
-    - preferred email handle@hypha.coop
+    - preferred email `handle@hypha.coop`
     - preferred value for "Full Name"
-    - primary email (where they'd like @hypha.com emails to be forwarded initially)
+    - primary email (where they'd like `@hypha.coop` emails to be forwarded initially)
     - Signal-friendly phone number
 
 _(Consider creating a [new GitHub issue in `hyphacoop/organizing`](https://github.com/hyphacoop/organizing/issues/new) to track email onboarding.)_
@@ -80,7 +80,7 @@ We'll now log in to confirm access, and set up an initial forwarder to make firs
     >
     > Once you're set up, let us know by sending a test email to infra@hypha.coop, ideally with a short emoji-only story. (Keypad mashes a-ok!) We'll send a friendly poke in a week if we haven't heard back.
     >
-    > Questions? Feedback? Reach out via infra@hypha.coop or [`#hyphacoop-infra-ops:tomesh.net`](https://chat.tomesh.net/#/room/#hyphacoop-infra-ops:tomesh.net) for chat.
+    > Questions? Feedback? Reach out via infra@hypha.coop or [`#hyphacoop-infra:tomesh.net`](https://chat.tomesh.net/#/room/#hyphacoop-infra:tomesh.net) for chat.
     >
     > In Solidarity,  
     > xxxxx
