@@ -47,8 +47,8 @@ and it will be added to others within a few minutes.
 To **delete an existing label**, search for the label you'd like to delete,
 [like so](https://github.com/issues?q=org:hyphacoop+label:doomed-label).
 Our automation is cautious, and so will only delete labels from repos where it's _NOT in use_.
-For any repos represented search results, delete the label from that repo.
-Once not labelled issues show up, delete the label from `hyphacoop/organizing`,
+For any repos represented in the search results, delete the label from that repo.
+Once no labelled issues show up, delete the label from `hyphacoop/organizing`,
 and anything else will be cleaned up. If you leave any issues labelled,
 the automation will simply do cleanup on its next run.
 As soon as a label is unused in a repo, the automation will remove it on the next run.
