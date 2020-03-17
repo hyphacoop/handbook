@@ -507,20 +507,21 @@ Open the file and multiply the amounts with the exchange rate column, then save.
 </li>
 <li><p>After the money arrives to Desjardins, we need to update our records in Quickbooks Online:</p>
 <ol>
-<li><p>Click <code>View/Edit</code> on the invoice and add a line item that accommodates for the discrepancy in estimated and actual exchange rates.</p>
-<p> In our example where we deposited <strong>4,904.11 CAD</strong> to Desjardins, if our invoice estimated a CAD <code>AMOUNT</code> of <strong>4,950.00 CAD</strong>, we would record a <code>Exchange rate adjustment @ 1.31235</code> line item with <code>-45.89</code> as <code>AMOUNT</code>.</p>
+<li><p>Click on the invoice and add a line item that accommodates for the discrepancy in estimated and actual exchange rates.</p>
+<p> In our example where we deposited <strong>4,904.11 CAD</strong> to Desjardins, if our invoice estimated a CAD <code>AMOUNT</code> of <strong>4,950.00 CAD</strong>, we would record an <code>Exchange rate adjustment @ 1.31235</code> line item with <code>-45.89</code> as <code>AMOUNT</code>.
+ Make sure you take the exchange rate from the TransferWise CSV.</p>
 </li>
 <li><p>In the <code>Banking</code> tab, select our <code>Chequing</code> account and click <code>Update</code> to sync our Desjardins account.
  Find the transaction from TransferWise and click on it, then change the <code>Category</code> to <code>TransferWise</code> and click <code>Add</code>.</p>
 </li>
 <li><p>In the <code>Banking</code> tab, select our <code>TransferWise</code> account to click <code>File upload</code> (down arrow next to <code>Update</code>) to update our TransferWise account.
- <code>Browse</code> and upload the TransferWise CSV we saved earlier, click <code>Next</code> and enter the following:</p>
+ <code>Browse</code> and upload the TransferWise CSV we saved earlier, select <code>TransferWise</code> as the account, then click <code>Next</code> and enter the following:</p>
 <ul>
 <li>Date: <code>Column 2</code></li>
 <li>Description: <code>Column 5</code></li>
 <li>Amount: <code>Column 3</code></li>
 </ul>
-<p>Click <code>Next</code> and then <code>Import</code>.</p>
+<p>Click <code>Next</code> twice, and then <code>Yes</code> to import.</p>
 </li>
 <li><p>Find the transaction from the client and click on it, then select <code>Find match</code> to select the incoming transaction to match.
  There should be no discrepancy in the amounts.</p>
@@ -959,7 +960,7 @@ Dial <code>*98</code></li>
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Guides","level":"1.4","depth":1,"next":{"title":"Reading Pool","level":"1.5","depth":1,"path":"reading-pool.md","ref":"reading-pool.md","articles":[]},"previous":{"title":"Finance 🚧","level":"1.3.6","depth":2,"path":"finance.md","ref":"finance.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["anchors"],"pluginsConfig":{"anchors":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"handbook.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"guides.md","mtime":"2020-03-14T14:24:37.143Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2020-03-14T14:25:23.767Z"},"basePath":".","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Guides","level":"1.4","depth":1,"next":{"title":"Reading Pool","level":"1.5","depth":1,"path":"reading-pool.md","ref":"reading-pool.md","articles":[]},"previous":{"title":"Finance 🚧","level":"1.3.6","depth":2,"path":"finance.md","ref":"finance.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["anchors"],"pluginsConfig":{"anchors":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"handbook.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"guides.md","mtime":"2020-03-17T10:08:24.900Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2020-03-17T10:09:06.971Z"},"basePath":".","book":{"language":""}});
         });
     </script>
 </div>
