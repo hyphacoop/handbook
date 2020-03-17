@@ -74,9 +74,9 @@ We'll now log in to confirm access, and set up an initial forwarder to make firs
     > Having said that, when you'd like to start _sending_ email as XXX@hypha.coop, you'll need to take some more steps.
     >
     > The next steps will depend on how you like to handle email:
-    > - [If you'd like to use it from your existing Gmail account...]()
-    > - [If you'd like to use it from our hosted webmail interface...]()
-    > - [If you'd like to use it from another email client...]()
+    > - [If you'd like to use it from your existing Gmail account...](#using-gmail)
+    > - [If you'd like to use it from our hosted webmail interface...](#using-the-web-interface)
+    > - [If you'd like to use it from another email client...](l#using-your-existing-email-client)
     >
     > Once you're set up, let us know by sending a test email to infra@hypha.coop, ideally with a short emoji-only story. (Keypad mashes a-ok!) We'll send a friendly poke in a week if we haven't heard back.
     >
