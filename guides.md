@@ -44,8 +44,16 @@ What you'll need:
 _(Consider creating a [new GitHub issue in `hyphacoop/organizing`](https://github.com/hyphacoop/organizing/issues/new) to track email onboarding.)_
 
 1. Sign into Mailcow: https://link.hypha.coop/email
+    <details>
+      <summary>View Screenshot</summary>
+      <img alt="Screenshot of Mailcow login page" src="images/email-mailbox-1.png" />
+    </details>
 2. Navigate to "Mailboxes" tab
 3. Click "+Add mailbox" button at top-right of screen
+    <details>
+      <summary>View Screenshot</summary>
+      <img alt="Screenshot of Mailcow mailbox tab" src="images/email-mailbox-2.png" />
+    </details>
     - If the namespace is already taken by an alias, ensure it's not in use before deleting it.
 4. Fill out the following fields, noting the password:
     - Username: info provided by new user
@@ -54,14 +62,26 @@ _(Consider creating a [new GitHub issue in `hyphacoop/organizing`](https://githu
     - Quota: `4096`
     - Password: auto-generated
     - Active: checked :ballot_box_with_check:
+    <details>
+      <summary>View Screenshot</summary>
+      <img alt="Screenshot of Mailcow mailbox creation popup" src="images/email-mailbox-3.png" />
+    </details>
 
 We'll now log in to confirm access, and set up an initial forwarder to make first-time usage simpler.
 
 5. Open an incognito browser and access webmail login: https://mailninja.aseriesoftubez.com/SOGo/
 6. Log into the account you just created.
+    <details>
+      <summary>View Screenshot</summary>
+      <img alt="Screenshot of webmail login screen" src="images/email-mailbox-4.png" />
+    </details>
 7. Navigate through these menus:  
     _:gear:(top-left) > Mail menu item > Forward tab_
 8. Check "Forward incoming mail" and enter provided primary email, clicking "Keep a copy".
+    <details>
+      <summary>View Screenshot</summary>
+      <img alt="Screenshot of webmail forwarding settings" src="images/email-mailbox-5.png" />
+    </details>
 9. From your own `@hypha.coop` email, send a welcome email, like this template:
     >
     > Hi XXXX --
