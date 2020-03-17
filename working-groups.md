@@ -10,7 +10,7 @@ WG for performing feasibility study, and business planning to identify start up 
 
 ### [Finance][fin-wg]
 
-WG for establishing accounting practices, including setting up a bank account, administering payroll and expenses, invoicing, and handling remittances.
+WG for stewarding the financial sustainability of the organization, this includes establishing accounting practices, maintaining financial accounts, processing invoices, expenses, and payroll, and creating reports on our financial statements and tax obligations.
 
 📅 Calls: [Weekly][calendar]   
 👪 Members: [**@finance-wg**][t-fin]  
