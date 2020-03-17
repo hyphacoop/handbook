@@ -8,7 +8,7 @@ Working in solidarity with our neighbours, we support each other and provide saf
 
 ## Values
 
-During our 2019 retreat we [co-drafted a long list of values](https://github.com/hyphacoop/organizing/blob/master/2018-december-retreat/2018-12-04-retreat-day-01.md#finding-value-alignment), consensing that the list has broad alignment to those of the participants of this co-operative.
+During our 2019 retreat we [co-drafted a long list of values](https://meetings.hypha.coop/2018-12-04-retreat-day-01.html#finding-value-alignment), consensing that the list has broad alignment to those of the participants of this co-operative.
 
 This is an early group of collected approaches, motivations, and commitments:
 

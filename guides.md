@@ -19,6 +19,8 @@ our values.
 
 - [Invoices](#invoices)
 - [Meetings](#meetings)
+- [Onboarding Checklist](#onboarding-checklist)
+- [Payroll](#payroll)
 - [Projects](#projects)
 - [Sensitive Data](#sensitive-data)
 - [Shortlinks](#shortlinks)
@@ -32,13 +34,13 @@ Prior to creating an invoice, confirm with the client whether they would like to
 
 ### Creating an invoice for a client
 
-1. Go to **Quickbooks Online**, open the `Invoicing > Customers` tab.
+1. Go to [Quickbooks Online](https://quickbooks.intuit.com/ca/), open the `Invoicing > Customers` tab.
 
 1. If the client is not in the customer list, click `New customer` to create a new profile for the client.
 
 1. Click `Create invoice` on the client you wish to invoice, and use the following settings:
     - Cc.: `finance@hypha.coop`
-    - Terms: `Net 15`
+    - Terms: `Net 15` (may vary by project)
     - Message on invoice: `[Payment instructions]` (e.g. Please pay USD 3,135.00)
     - Attachments: `[Timesheet PDFs]`
 
@@ -94,7 +96,7 @@ Prior to creating an invoice, confirm with the client whether they would like to
 
 ### Settling an invoice payment
 
-Once the client has paid the invoice, we must check the amount received at our receiving account at **Desjardins** (domestic) or **TransferWise** (foreign currency), and record the transaction in **Quickbooks Online**.
+Once the client has paid the invoice, we must check the amount received at our receiving account at [Desjardins](https://www.desjardins.com/ca/) (domestic) or [TransferWise](https://transferwise.com) (foreign currency), and record the transaction in [Quickbooks Online](https://quickbooks.intuit.com/ca/).
 
 #### Domestic
 
@@ -238,6 +240,141 @@ members. Skip the steps below at your discretion for low-stakes topics.
   1. Use the private dial-in number from our [technical Jitsi documentation](https://github.com/hyphacoop/organizing-private/blob/master/documents/infrastructure/jitsi.md).
   2. _After_ prompt, enter conference code `307 314 3734 #`
 
+## Onboarding Checklist
+
+This is a checklist for onboarding a new Member to the Co-operative 🚀
+
+### Setting up communications
+
+1. Get Signal number and add to group.
+
+1. Get Matrix account and invite to spaces:
+  - Private chat `#hyphacoop-private:tomesh.net`
+  - Public chat `#hyphacoop-open:tomesh.net`
+  - Community `+hyphacoop:tomesh.net`
+
+1. Set up [`hypha.coop` email](https://link.hypha.coop/email):
+  - Create new mailbox with Mailcow
+  - Set up initial forwarder
+  - Add to `members@`
+
+### Setting up virtual office
+
+1. Invite to [Passbolt](https://pass.hypha.coop):
+  - After acceptance, add to `Member-Worker` group
+
+1. Invite to [GitHub Organization](https://github.com/hyphacoop):
+  - Add to `Worker-Owner` [GitHub Team](https://link.hypha.coop/teams)
+
+1. Get Google-friendly email address:
+  - Share access to [Drive](https://link.hypha.coop/drive)
+  - Invite to calendars:
+    - https://link.hypha.coop/calendar
+    - https://link.hypha.coop/availability
+
+1. Invite to [Loomio](https://loomio.hypha.coop/).
+
+1. Share [weekly schedule](https://link.hypha.coop/schedules) (recommend without password).
+
+### Setting up employee record and payroll
+
+1. Collect information for [employee record](https://link.hypha.coop/employees).
+
+1. Add Member SIN to Passbolt and share access with `People Operations` group.
+    Change the Member access to the entry as read-only, as this information is for recording keeping and the Member should not be able to modify it.
+
+1. Collect encrypted (see [Sensitive Data](#sensitive-data) guide) [`TD1` and `TD1-ON` forms](https://www.canada.ca/en/revenue-agency/services/forms-publications/td1-personal-tax-credits-returns.html) to [Drive](https://link.hypha.coop/drive). 
+
+1. Add Member [as Employee in Wagepoint](#adding-a-new-employee) for payroll.
+
+## Payroll
+
+This guide describes how to use our payroll service provider, [Wagepoint](https://wagepoint.com), to set up a payroll run for the pay period.
+You should have a completed [Employee Payroll](http://link.hypha.coop/payroll) sheet for the pay period ready, which indicates the wage information for each Employee that you will need to enter into Wagepoint.
+
+If this is the first time you use Wagepoint, please first review the [Running your first payroll with Wagepoint - Canada](https://www.youtube.com/watch?v=KfLMcqGTDwE)video.
+
+### Running payroll
+
+1. Log into Wagepoint as a user with admin privileges.
+
+1. Visit the `PAYROLL` tab.
+
+1. **Paygroup:** Hit `NEXT` since we only have one monthly paygroup.
+
+    ![payroll-running-payroll-0](images/payroll-running-payroll-0.png)
+
+1. **Paydates:** Set the pay cycle to cover the current month (e.g., March 1-31) and the `Pay Date` to be the 15th of the current month (e.g., March 15) or the last working day prior if the 15th happens to land on a holiday (e.g., March 13).
+    During that period, we settle amounts owed up to the _end of the previous month_ (e.g., Feb 29).
+
+    ![payroll-running-payroll-1](images/payroll-running-payroll-1.png)
+    
+    Set the dates as per the above, and hit `NEXT`.
+    Nothing is finalized until the last step, and you must hit `SAVE/NEXT` during each step to preserve "draft" progress.
+
+1. **Hours:** Hit `SAVE/NEXT` to skip since we currently do not use the `Hourly` pay type.
+
+1. **Salary:** Enter `HOURS`, `CURRENT PAY`, and `PUBLIC HOLIDAY PAY` according to the [Employee Payroll](http://link.hypha.coop/payroll) sheet for the pay period.
+    Ensure that hours and pay line up, as these are the basis for ensuring legal minimum wage.
+
+    The `VACATION HRS` for everyone is `0` due to our variable work hours and that annualized amounts will be paid out each pay period.
+    
+    In the `PAY?` column, select `YES` for any Employee who will be paid in this payroll.
+
+    You can review past payrolls under the `REPORTS` tab.
+
+1. **Process:** Verify the amounts.
+    Save the PDF output of `VIEW ALL`, our "Payroll Register", into the 🔒 [`Finance > Payroll` folder in our Drive](https://drive.google.com/drive/u/0/folders/1IWyDzyeixO4Z6TbIghorqTiCbrs2N4K8).
+    Click `APPROVE PAYROLL`.
+
+1. **Confirm:** Confirm the payroll run for this pay period.
+    It will be queued for processing on the `Pay Date`.
+
+1. No further steps necessary.
+    Wagepoint will withdraw funds from our bank account, and this will sync with our Quickbooks automatically.
+    Our bookkeeper will see our Payroll Register in the Drive and update Quickbooks for us once per month.
+
+### Adding a new employee
+
+1. Log into Wagepoint as a user with admin privileges.
+
+1. Click the `EMPLOYEES` tab and then the `ADD NEW EMPLOYEE` button at the bottom right corner.
+
+1. Add stub details for new employee.
+    Since we calculate wages per pay period outside of Wagepoint, set:
+    -  Pay Type: `Yearly`
+    -  Pay Rate: `0`
+
+    ![payroll-new-employee-0](images/payroll-new-employee-0.png)
+
+1. Return to the `EMPLOYEES` tab and click the Employee's name.
+    You should now be on their profile, specifically `THE PERSON` tab, which you can fill out with info from our [employee records](https://link.hypha.coop/employees).
+
+    ![payroll-new-employee-1](images/payroll-new-employee-1.png)
+
+    Fill out everything you can, but leave `External ID` blank.
+
+1. In the `THE JOB` tab, set up the Employee with the salaried method:
+    - Pay Type: `Yearly`
+    - Annual Salary: `$0.00`
+    - Expected Hour per Week: `0.00`
+    - Job Title: `No title`
+    - Department: `Salary`
+    - Vacation will: `be paid out each pay`
+
+    ![payroll-new-employee-2](images/payroll-new-employee-2.png)
+
+1. In the `TAX INFO` tab, set up the Employee's tax info based on the `TD1` and `TD1-ON` forms they submitted.
+    For example:
+
+    ![payroll-new-employee-3](images/payroll-new-employee-3.png)
+
+1. In the `DIRECT DEPOSIT` tab, set up the bank account for direct deposit based on account information or a void cheque they submitted.
+
+1. Return to the "Employee" tab listing, and use the "mail" icon to send an invite to the Employee to Wagepoint.
+
+    ![payroll-new-employee-4](images/payroll-new-employee-4.png)
+
 ## Projects
 
 ### Sales Prospect & Internal Proposals
@@ -360,7 +497,7 @@ Instructions:
 
 ## Timesheets
 
-Members log their work hours using **Clockify**, and project timesheets may be generated to determine the invoice amount each period for some clients, and often for calculating member wages.
+Members log their work hours using [Clockify](https://clockify.me), and project timesheets may be generated to determine the invoice amount each period for some clients, and often for calculating member wages.
 This process is done using the Clockify [Summary Report](https://clockify.me/reports/summary).
 Saved reports are found under [Saved Reports](https://clockify.me/reports/saved).
 
