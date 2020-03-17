@@ -142,20 +142,21 @@ The following example shows how to do that in a single transaction from Transfer
 
 1. After the money arrives to Desjardins, we need to update our records in Quickbooks Online:
 
-    1. Click `View/Edit` on the invoice and add a line item that accommodates for the discrepancy in estimated and actual exchange rates.
+    1. Click on the invoice and add a line item that accommodates for the discrepancy in estimated and actual exchange rates.
 
-        In our example where we deposited **4,904.11 CAD** to Desjardins, if our invoice estimated a CAD `AMOUNT` of **4,950.00 CAD**, we would record a `Exchange rate adjustment @ 1.31235` line item with `-45.89` as `AMOUNT`.
+        In our example where we deposited **4,904.11 CAD** to Desjardins, if our invoice estimated a CAD `AMOUNT` of **4,950.00 CAD**, we would record an `Exchange rate adjustment @ 1.31235` line item with `-45.89` as `AMOUNT`.
+        Make sure you take the exchange rate from the TransferWise CSV.
 
     1. In the `Banking` tab, select our `Chequing` account and click `Update` to sync our Desjardins account.
         Find the transaction from TransferWise and click on it, then change the `Category` to `TransferWise` and click `Add`.
 
     1. In the `Banking` tab, select our `TransferWise` account to click `File upload` (down arrow next to `Update`) to update our TransferWise account.
-        `Browse` and upload the TransferWise CSV we saved earlier, click `Next` and enter the following:
+        `Browse` and upload the TransferWise CSV we saved earlier, select `TransferWise` as the account, then click `Next` and enter the following:
         - Date: `Column 2`
         - Description: `Column 5`
         - Amount: `Column 3`
 
-    Click `Next` and then `Import`.
+    Click `Next` twice, and then `Yes` to import.
 
     1. Find the transaction from the client and click on it, then select `Find match` to select the incoming transaction to match.
         There should be no discrepancy in the amounts.
