@@ -31,10 +31,10 @@ our values.
 
 ## Managing Labels
 
-We have _synced repos_ configured that mirror all labels from the root `hyphacoop/organizing`,
+We have specific repos (known as _synced repos_ throughout this guide) configured to mirror all labels from the root `hyphacoop/organizing`,
 on each change to the root repo's labels.
 Though some of the below steps are more complicated than we'd ideally like,
-this is because the automation is cautious and won't delete in-use labels,
+this is because the automation is cautious and won't delete _any_ in-use labels (regardless of open/closed state),
 so _nothing destructive will happen_.
 
 To **manage the list of _synced repos_** (e.g., ensuring a new repo starts having labels synced),
