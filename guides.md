@@ -542,6 +542,8 @@ For example, you can try verifying [resolution-001.md.benhylau.asc](https://gith
 
 Members also use other tools such as [HelloSign](http://link.hypha.coop/inventory#HelloSign) for signing client-facing documents.
 
+See [this related GitHub issue](https://github.com/hyphacoop/organizing/issues/195#issuecomment-580393377) for an example of prior usage.
+
 ## Shortlinks
 
 ### Managing shortlinks
