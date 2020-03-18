@@ -56,12 +56,12 @@ _(Consider creating a [new GitHub issue in `hyphacoop/organizing`](https://githu
     </details>
     - If the namespace is already taken by an alias, ensure it's not in use before deleting it.
 4. Fill out the following fields, noting the password:
-    - Username: info provided by new user
+    - Username: `[info provided by new user]`
     - Domain: `hypha.coop`
-    - Full name: info provided by new user
+    - Full name: `[info provided by new user]`
     - Quota: `4096`
-    - Password: auto-generated
-    - Active: checked :ballot_box_with_check:
+    - Password: `[auto-generated]`
+    - Active: `checked` :ballot_box_with_check:
     <details>
       <summary>View Screenshot</summary>
       <img alt="Screenshot of Mailcow mailbox creation popup" src="images/email-mailbox-3.png" />
@@ -125,19 +125,19 @@ What you'll need:
       <img alt="Screenshot of GMail settings page" src="https://i.imgur.com/oQMdIS9.png" />
     </details>
 5. In the new popup, enter:
-    - _Name_: as will appear to email recipients
-    - _Email address_: new email address e.g., `handle@hypha.coop`
-    - _Treat as alias_: checked :ballot_box_with_check:
+    - Name: e.g., `Maria S` (as will appear to email recipients)
+    - Email address: e.g., `maria@hypha.coop`
+    - Treat as alias: `checked` :ballot_box_with_check:
     <details>
       <summary>View Screenshot</summary>
       <img alt="Screenshot of new alias popup" src="https://i.imgur.com/I2RGv80.png" />
     </details>
 4. Click "Next", then:
-    - _SMTP Server_: `mailninja.aseriesoftubez.com` (auto-filled)
-    - _Port_: `587` (auto-filled)
-    - _Username_: replace with new email address, e.g., `handle@hypha.coop`
-    - _Password_: your password
-    - TLS: checked :ballot_box_with_check:
+    - SMTP Server: `mailninja.aseriesoftubez.com` (auto-filled)
+    - Port: `587` (auto-filled)
+    - Username: e.g., `maria@hypha.coop` (ignore auto-filled)
+    - Password: `[your password]`
+    - TLS: `checked` :ballot_box_with_check:
     <details>
       <summary>View Screenshot</summary>
       <img alt="Screenshot of new alias popup" src="https://i.imgur.com/rh3YhK4.png" />
