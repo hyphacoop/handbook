@@ -17,8 +17,8 @@ our values.
 
 ### Contents
 
-- [GitHub](#github)
 - [Invoices](#invoices)
+- [Issue Labels](#issue-labels)
 - [Meetings](#meetings)
 - [Projects](#projects)
 - [Sensitive Data](#sensitive-data)
