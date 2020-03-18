@@ -50,11 +50,11 @@ _(Consider creating a [new GitHub issue in `hyphacoop/organizing`](https://githu
     </details>
 2. Navigate to "Mailboxes" tab
 3. Click "+Add mailbox" button at top-right of screen
+    - If the namespace is already taken by an alias, ensure it's not in use before deleting it.
     <details>
       <summary>View Screenshot</summary>
       <img alt="Screenshot of Mailcow mailbox tab" src="images/email-mailbox-2.png" />
     </details>
-    - If the namespace is already taken by an alias, ensure it's not in use before deleting it.
 4. Fill out the following fields, noting the password:
     - Username: `[info provided by new user]`
     - Domain: `hypha.coop`
