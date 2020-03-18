@@ -29,7 +29,7 @@ our values.
 
 ## Issue Labels
 
-We have specific repos (known as _synced repos_ throughout this guide) configured to mirror all labels from the root `hyphacoop/organizing`,
+We have specific GitHub repos (known as _synced repos_ throughout this guide) configured to mirror all labels from the root `hyphacoop/organizing`,
 on each change to the root repo's labels.
 Though some of the below steps are more complicated than we'd ideally like,
 this is because the automation is cautious and won't delete _any_ in-use labels (regardless of open/closed state),
