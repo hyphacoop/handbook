@@ -10,7 +10,7 @@
 
 - 🌐 [ICA Cooperative identity, values & principles](https://www.ica.coop/en/whats-co-op/co-operative-identity-values-principles)
 - 📄 [ICA Guidance Notes to the Co-operative Principles](https://www.ica.coop/sites/default/files/publication-files/ica-guidance-notes-en-310629900.pdf)
-- 🌐 [Willy Street Seven Cooperative Principles](https://www.willystreet.coop/seven-cooperative-principles)
+- 🌐 [Willy Street Seven Cooperative Principles](https://www.willystreet.coop/pages/seven-cooperative-principles)
 - 🌐 [Grassroots Economic Organizing: The Cooperative Principles, the Common Good, and Solidarity](http://www.geo.coop/story/cooperative-principles-common-good-and-solidarity)
 
 Tech Worker Co-ops:
