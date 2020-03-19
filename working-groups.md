@@ -2,7 +2,7 @@
 
 ### [Business Planning][biz-wg]
 
-WG for performing feasibility study, and business planning to identify start up costs, fundraising mechanisms, and risks.
+WG for stewarding our business strategy, this includes generating and pursuing business opportunities, relationships, branding, and communications.
 
 📅 Calls: [Weekly][calendar]  
 👪 Members: [**@business-planning-wg**][t-biz]  
