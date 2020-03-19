@@ -18,7 +18,7 @@ WG for stewarding the financial sustainability of the organization, this include
 
 ### [Governance][gov-wg]
 
-WG for drafting by-laws, articles of incorporation, and planning for the first General Meeting (and subsequent structure).
+WG for ensuring our cooperative has a healthy structure, this includes drafting by-laws, maintaining articles of incorporation, and planning annual members meetings.
 
 📅 Calls: [Biweekly][calendar]  
 👪 Members: [**@governance-wg**][t-gov]  
