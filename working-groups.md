@@ -29,16 +29,16 @@ WG for drafting by-laws, articles of incorporation, and planning for the first G
 WG for setting up our "virtual office", in particular the infrastructure and processes to collaborate.
 
 📅 Calls: [Biweekly-ish][calendar]   
-👪 Members: [**@infra-wg**][t-inf]  
-✅ Tasks: GitHub board > [`wg:infra` label][l-inf]  
+👪 Members: [**@infrastructure-wg**][t-inf]  
+✅ Tasks: GitHub board > [`wg:infrastructure` label][l-inf]  
 
 ### [Operations][ops-wg]
 
 WG for stewarding our shared practices and policies for effective remote collaboration.
 
 📅 Calls: [Biweekly][calendar]  
-👪 Members: [**@ops-wg**][t-ops]  
-✅ Tasks: GitHub board > [`wg:ops` label][l-ops]  
+👪 Members: [**@operations-wg**][t-ops]  
+✅ Tasks: GitHub board > [`wg:operations` label][l-ops]  
 
 <!-- Links: Important -->
 [calendar]: https://link.hypha.coop/calendar
@@ -53,11 +53,11 @@ WG for stewarding our shared practices and policies for effective remote collabo
 [l-biz]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"wg:business-planning"
 [l-fin]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"wg:finance"
 [l-gov]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"wg:governance"
-[l-ops]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"wg:ops"
-[l-inf]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"wg:infra"
+[l-ops]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"wg:operations"
+[l-inf]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"wg:infrastructure"
 
 [t-biz]: https://github.com/orgs/hyphacoop/teams/business-planning-wg/members
 [t-fin]: https://github.com/orgs/hyphacoop/teams/finance-wg/members
 [t-gov]: https://github.com/orgs/hyphacoop/teams/governance-wg/members 
-[t-ops]: https://github.com/orgs/hyphacoop/teams/ops-wg/members
-[t-inf]: https://github.com/orgs/hyphacoop/teams/infra-wg/members
+[t-ops]: https://github.com/orgs/hyphacoop/teams/operations-wg/members
+[t-inf]: https://github.com/orgs/hyphacoop/teams/infrastructure-wg/members
