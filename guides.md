@@ -41,7 +41,7 @@ What you'll need:
     - primary email (where they'd like `@hypha.coop` emails to be forwarded initially)
     - Signal-friendly phone number
 
-_(Consider creating a [new GitHub issue in `hyphacoop/organizing`](https://github.com/hyphacoop/organizing/issues/new) to track email onboarding.)_
+_Note: Consider creating a [new GitHub issue in `hyphacoop/organizing`](https://github.com/hyphacoop/organizing/issues/new) to track email onboarding._
 
 1. Sign into Mailcow: https://link.hypha.coop/email
     <details>
@@ -118,7 +118,7 @@ What you'll need:
 
 1. Log into Gmail
 2. Go to Gmail settings, by navigating:  
-    _:gear: (top-right) > Settings > Accounts and Import_
+    `⚙ (top-right) > Settings > Accounts and Import`
 3. Under "Send mail as", click "Add another email address".
     <details>
       <summary>View Screenshot</summary>
@@ -332,8 +332,8 @@ The following example shows how to do that in a single transaction from Transfer
 
 ### Scheduling a meeting
 
-Note: Consider whether this meeting might be a global interest to other
-members. Skip the steps below at your discretion for low-stakes topics.
+_Note: Consider whether this meeting might be a global interest to other
+members. Skip the steps below at your discretion for low-stakes topics._
 
 - Try to announce your intention to schedule a meeting on a topic and ask
   who's interested in participating. Allow _at least_ 48 hours for people to respond.
