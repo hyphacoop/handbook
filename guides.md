@@ -48,8 +48,8 @@ _Note: Consider creating a [new GitHub issue in `hyphacoop/organizing`](https://
       <summary>View Screenshot</summary>
       <img alt="Screenshot of Mailcow login page" src="images/email-mailbox-1.png" />
     </details>
-2. Navigate to "Mailboxes" tab
-3. Click "+Add mailbox" button at top-right of screen
+2. Navigate to `Mailboxes` tab
+3. Click `+Add mailbox` button at top-right of screen
     - If the namespace is already taken by an alias, ensure it's not in use before deleting it.
     <details>
       <summary>View Screenshot</summary>
@@ -76,7 +76,7 @@ We'll now log in to confirm access, and set up an initial forwarder to make firs
       <img alt="Screenshot of webmail login screen" src="images/email-mailbox-4.png" />
     </details>
 7. Navigate through these menus:  
-    _⚙ (top-left) > Mail menu item > Forward tab_
+    `⚙` (top-left) > `Mail` menu item > `Forward` tab
 8. Check "Forward incoming mail" and enter provided primary email, clicking "Keep a copy".
     <details>
       <summary>View Screenshot</summary>
@@ -117,8 +117,8 @@ What you'll need:
 #### Using Gmail
 
 1. Log into Gmail
-2. Go to Gmail settings, by navigating:  
-    `⚙ (top-right) > Settings > Accounts and Import`
+2. Go to Gmail settings, by navigating through these menus:  
+    `⚙` (top-left) > `Settings` menu item > `Accounts and Import` tab
 3. Under "Send mail as", click "Add another email address".
     <details>
       <summary>View Screenshot</summary>
@@ -153,7 +153,7 @@ We'll now send your first email to Mailinator, a cloud inbox that's helpful for 
       <img alt="Screenshot of selecting new email alias" src="https://i.imgur.com/rOEElJ2.png" />
     </details>
 8. Enter hyphacoop@mailinator.com as the "To" address, add a short subject and message, and hit send!
-9. Visit [the corresponding cloud inbox](https://www.mailinator.com/v3/index.jsp?zone=public&query=hyphacoop) and confirm your message has arrived. (It might take a few minutes.)
+9. Visit [the corresponding cloud inbox](https://www.mailinator.com/v3/index.jsp?zone=public&query=hyphacoop) and confirm your message has arrived, it might take a few minutes.
     <details>
       <summary>View Screenshot</summary>
       <img alt="Screenshot of Mailinator interface" src="https://i.imgur.com/yWNjdue.png" />
@@ -164,7 +164,7 @@ We'll now send your first email to Mailinator, a cloud inbox that's helpful for 
 #### Using the webmail interface
 
 1. Visit our email server: https://link.hypha.coop/email
-2. Click on Webmail button.
+2. Click on `Webmail` button.
 3. Enter your username and password:
     - Username is your `@hypha.coop` email
 4. Once logged in you can read your emails and configure your user settings.
@@ -172,20 +172,21 @@ We'll now send your first email to Mailinator, a cloud inbox that's helpful for 
 
 #### Using your existing email client
 
-<sup>These docs are condensed from [Mailcow's in-depth email client configuration docs](https://mailcow.github.io/mailcow-dockerized-docs/client/#host=MailNinja.aseriesoftubez.com&email=maria%40hypha.coop&name=Maria+Sanchez&ui=mailninja.aseriesoftubez.com&port=443&outlookEAS=1&connector=60.0.2). (Substitute your info for that of "Maria Sanchez".)</sup>
+<sup>These docs are condensed from [Mailcow's in-depth email client configuration docs](https://mailcow.github.io/mailcow-dockerized-docs/client/#host=MailNinja.aseriesoftubez.com&email=maria%40hypha.coop&name=Maria+Sanchez&ui=mailninja.aseriesoftubez.com&port=443&outlookEAS=1&connector=60.0.2). (Substitute your info for that of "Maria Sanchez").</sup>
 
-1. By default emails to your `@hypha.coop` are forwarded to your personal email address if prefered that you want to turn off forwarding of your @hypha.coop email, log in to webmail (instructions above)
-    - Navigate through _:gear:(top-left) > Mail > Forward tab_
-2. Uncheck the "Forward incoming messages", and click save.
+1. By default emails to your `@hypha.coop` are forwarded to your personal email address if prefered that you want to turn off forwarding of your `@hypha.coop` email, log in to webmail (instructions above)
+    - Navigate through these menus:  
+        `⚙` (top-left) > `Mail` menu item > `Forward` tab
+2. Uncheck the "Forward incoming messages", and save.
 3. Open your email client.
 4. Go to the "add email account" setting in your client.
 5. Enter your name that you prefer that will show up in your outgoing emails and email address when prompted.
-6. When prompted for username and password use your new email address eg. `handle@hypha.coop` for username and your password for your new email.
+6. When prompted for username and password use your new email address e.g., `handle@hypha.coop` for username and your password for your new email.
 7. Most email clients will auto-detect server settings based on your email address. If your email client does not auto-detect these settings, enter:
     - IMAP: `mailninja.aseriesoftubez.com` Port: 993 (TLS/SSL)
     - SMTP: `mailninja.aseriesoftubez.com` Port: 465 (TLS/SSL)
-8. Once added, you should now be able to send from your new email. In your email client, compose an email to hyphacoop@mailinator.com with a short subject and click send.
-9. Visit [the corresponding cloud inbox](https://www.mailinator.com/v3/index.jsp?zone=public&query=hyphacoop) and confirm your message has arrived. (It might take a few minutes.)
+8. Once added, you should now be able to send from your new email. In your email client, compose an email to hyphacoop@mailinator.com with a short subject and send.
+9. Visit [the corresponding cloud inbox](https://www.mailinator.com/v3/index.jsp?zone=public&query=hyphacoop) and confirm your message has arrived, It might take a few minutes.
 10. Don’t forget to email Infra WG as mentioned in onboarding email.
 
 ## Invoices
