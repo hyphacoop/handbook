@@ -76,7 +76,7 @@ We'll now log in to confirm access, and set up an initial forwarder to make firs
       <img alt="Screenshot of webmail login screen" src="images/email-mailbox-4.png" />
     </details>
 7. Navigate through these menus:  
-    _:gear:(top-left) > Mail menu item > Forward tab_
+    _⚙ (top-left) > Mail menu item > Forward tab_
 8. Check "Forward incoming mail" and enter provided primary email, clicking "Keep a copy".
     <details>
       <summary>View Screenshot</summary>
