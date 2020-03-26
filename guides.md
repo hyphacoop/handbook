@@ -104,7 +104,7 @@ We'll now log in to confirm access, and set up an initial forwarder to make firs
     >
     > In Solidarity,  
     > xxxxx
-10. Send a low-entropy Signal message with the previously noted password, for example: `🍄 password: xxxxxxxx`
+10. Send a Signal message with the previously noted password, for example: `🍄 hypha email password: xxxxxxxx`
 
 ### Using your new inbox (Users)
 
