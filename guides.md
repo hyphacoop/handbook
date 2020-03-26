@@ -94,7 +94,7 @@ We'll now log in to confirm access, and set up an initial forwarder to make firs
     > Having said that, when you'd like to start _sending_ email as XXX@hypha.coop, you'll need to take some more steps.
     >
     > The next steps will depend on how you like to handle email:
-    > - [If you'd like to use it from your existing Gmail account...](#using-gmail)
+    > - [If you'd like to use it from your existing Gmail account...](#using-Gmail)
     > - [If you'd like to use it from our hosted webmail interface...](#using-the-web-interface)
     > - [If you'd like to use it from another email client...](l#using-your-existing-email-client)
     >
@@ -114,15 +114,15 @@ What you'll need:
 - Your new email address
 - Your password (sent to you by admin on initial setup)
 
-#### Using GMail
+#### Using Gmail
 
-1. Log into GMail
-2. Go to GMail settings, by navigating:  
+1. Log into Gmail
+2. Go to Gmail settings, by navigating:  
     _:gear: (top-right) > Settings > Accounts and Import_
 3. Under "Send mail as", click "Add another email address".
     <details>
       <summary>View Screenshot</summary>
-      <img alt="Screenshot of GMail settings page" src="https://i.imgur.com/oQMdIS9.png" />
+      <img alt="Screenshot of Gmail settings page" src="https://i.imgur.com/oQMdIS9.png" />
     </details>
 5. In the new popup, enter:
     - Name: e.g., `Maria S` (as will appear to email recipients)
@@ -146,7 +146,7 @@ What you'll need:
 
 We'll now send your first email to Mailinator, a cloud inbox that's helpful for email testing. Then you can confirm for yourself whether it works.
 
-5. Back in your GMail inbox, click "Compose" to create a new email message.
+5. Back in your Gmail inbox, click "Compose" to create a new email message.
 6. Click the "From" address, and select your new email address from the drop-down.
     <details>
       <summary>View Screenshot</summary>
