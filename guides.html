@@ -375,6 +375,7 @@ our values.</p>
 </blockquote>
 <h3 id="contents"><a name="contents" class="plugin-anchor" href="#contents"><i class="fa fa-link" aria-hidden="true"></i></a>Contents</h3>
 <ul>
+<li><a href="#email">Email</a></li>
 <li><a href="#invoices">Invoices</a></li>
 <li><a href="#issue-labels">Issue Labels</a></li>
 <li><a href="#meetings">Meetings</a></li>
@@ -388,6 +389,162 @@ our values.</p>
 <li><a href="#voicemail">Voicemail</a></li>
 <li><a href="#references">References</a></li>
 </ul>
+<h2 id="email"><a name="email" class="plugin-anchor" href="#email"><i class="fa fa-link" aria-hidden="true"></i></a>Email</h2>
+<h3 id="creating-new-inboxes-administrators"><a name="creating-new-inboxes-administrators" class="plugin-anchor" href="#creating-new-inboxes-administrators"><i class="fa fa-link" aria-hidden="true"></i></a>Creating new inboxes (Administrators)</h3>
+<p>What you&apos;ll need:</p>
+<ul>
+<li>Admin access to <a href="https://link.hypha.coop/email" target="_blank">our Mailcow email server</a></li>
+<li>The following user info (from <a href="https://link.hypha.coop/employees" target="_blank">https://link.hypha.coop/employees</a>):<ul>
+<li>preferred email handle e.g., <code>handle@hypha.coop</code> (under &quot;@hypha.coop&quot; column)</li>
+<li>preferred public name (under &quot;Public Name&quot;)</li>
+<li>email they&apos;d like <code>@hypha.coop</code> forwarded to (under &quot;Primary Email&quot;)</li>
+<li>Signal-friendly phone number (under &quot;Signal Phone&quot; or &quot;Phone&quot;)</li>
+</ul>
+</li>
+</ul>
+<p><em>Note: Consider creating a <a href="https://github.com/hyphacoop/organizing/issues/new" target="_blank">new GitHub issue in <code>hyphacoop/organizing</code></a> to track email onboarding.</em></p>
+<ol>
+<li>Sign into Mailcow: <a href="https://link.hypha.coop/email" target="_blank">https://link.hypha.coop/email</a> <details>
+   <summary>View Screenshot &#x1F50E;</summary>
+   <img alt="Screenshot of Mailcow login page" src="images/email-mailbox-1.png">
+ </details></li>
+<li>Navigate to &quot;Mailboxes&quot; tab</li>
+<li>Click &quot;+Add mailbox&quot; button at top-right of screen<ul>
+<li>If the namespace is already taken by an alias, ensure it&apos;s not in use before deleting it.<details>
+<summary>View Screenshot &#x1F50E;</summary>
+<img alt="Screenshot of Mailcow mailbox tab" src="images/email-mailbox-2.png">
+</details></li>
+</ul>
+</li>
+<li>Fill out the following fields, noting the password:<ul>
+<li>Username: <code>[use preferred email handle]</code></li>
+<li>Domain: <code>hypha.coop</code></li>
+<li>Full name: <code>[use preferred public name]</code></li>
+<li>Quota: <code>4096</code></li>
+<li>Password: <code>[auto-generated]</code></li>
+<li>Active: <code>checked</code> &#x2611;<details>
+<summary>View Screenshot &#x1F50E;</summary>
+<img alt="Screenshot of Mailcow mailbox creation popup" src="images/email-mailbox-3.png">
+</details>
+
+</li>
+</ul>
+</li>
+</ol>
+<p>We&apos;ll now log in to confirm access, and set up an initial forwarder to make first-time usage simpler.</p>
+<ol>
+<li>Open an incognito browser and access webmail login: <a href="https://mailninja.aseriesoftubez.com/SOGo/" target="_blank">https://mailninja.aseriesoftubez.com/SOGo/</a></li>
+<li>Log into the account you just created. <details>
+   <summary>View Screenshot &#x1F50E;</summary>
+   <img alt="Screenshot of webmail login screen" src="images/email-mailbox-4.png">
+ </details></li>
+<li>Navigate through these menus:<br> <code>&#x2699;</code> (top-left) &gt; <code>Mail</code> menu item &gt; <code>Forward</code> tab</li>
+<li>Check &quot;Forward incoming mail&quot; and enter provided primary email, clicking &quot;Keep a copy&quot;. <details>
+   <summary>View Screenshot &#x1F50E;</summary>
+   <img alt="Screenshot of webmail forwarding settings" src="images/email-mailbox-5.png">
+ </details></li>
+<li>From your own <code>@hypha.coop</code> email, send a welcome email, like this template:<blockquote>
+<p>Hi XXXX --</p>
+<p>Yay! Your Hypha email&apos;s set up and forwarding to your personal inbox. People can start emailing you at this address immediately, without any extra effort on your part.</p>
+<p>Your new email (and login): XXX@hypha.coop<br>Your password: Sent via Signal to XXX-XXX-XXXX</p>
+<p>Having said that, when you&apos;d like to start <em>sending</em> email as XXX@hypha.coop, you&apos;ll need to take some more steps.</p>
+<p>The next steps will depend on how you like to handle email:</p>
+<ul>
+<li><a href="#using-Gmail">If you&apos;d like to use it from your existing Gmail account...</a></li>
+<li><a href="#using-the-web-interface">If you&apos;d like to use it from our hosted webmail interface...</a></li>
+<li><a href="l#using-your-existing-email-client">If you&apos;d like to use it from another email client...</a></li>
+</ul>
+<p>Once you&apos;re set up, let us know by sending a test email to infra@hypha.coop, ideally with a short emoji-only story. (Keypad mashes a-ok!) We&apos;ll send a friendly poke in a week if we haven&apos;t heard back.</p>
+<p>Questions? Feedback? Reach out via infra@hypha.coop or <a href="https://chat.tomesh.net/#/room/#hyphacoop-infra:tomesh.net" target="_blank"><code>#hyphacoop-infra:tomesh.net</code></a> for chat.</p>
+<p>In Solidarity,<br>xxxxx</p>
+</blockquote>
+</li>
+<li>Send a Signal message with the previously noted password, for example: <code>&#x1F344; hypha email password: xxxxxxxx</code></li>
+</ol>
+<h3 id="using-your-new-inbox-users"><a name="using-your-new-inbox-users" class="plugin-anchor" href="#using-your-new-inbox-users"><i class="fa fa-link" aria-hidden="true"></i></a>Using your new inbox (Users)</h3>
+<p>Accessing your inbox can be done via the hosted webmail interface or by using the same email client you&apos;re already using.</p>
+<p>What you&apos;ll need:</p>
+<ul>
+<li>Your new email address</li>
+<li>Your password (sent to you by admin on initial setup)</li>
+</ul>
+<h4 id="using-gmail"><a name="using-gmail" class="plugin-anchor" href="#using-gmail"><i class="fa fa-link" aria-hidden="true"></i></a>Using Gmail</h4>
+<ol>
+<li>Log into Gmail</li>
+<li>Go to Gmail settings, by navigating through these menus:<br> <code>&#x2699;</code> (top-left) &gt; <code>Settings</code> menu item &gt; <code>Accounts and Import</code> tab</li>
+<li>Under &quot;Send mail as&quot;, click &quot;Add another email address&quot;. <details>
+   <summary>View Screenshot &#x1F50E;</summary>
+   <img alt="Screenshot of Gmail settings page" src="https://i.imgur.com/oQMdIS9.png">
+ </details></li>
+<li>In the new popup, enter:<ul>
+<li>Name: e.g., <code>Maria S</code> (as will appear to email recipients)</li>
+<li>Email address: e.g., <code>maria@hypha.coop</code></li>
+<li>Treat as alias: <code>checked</code> &#x2611;<details>
+<summary>View Screenshot &#x1F50E;</summary>
+<img alt="Screenshot of new alias popup" src="https://i.imgur.com/I2RGv80.png">
+</details></li>
+</ul>
+</li>
+<li>Click &quot;Next&quot;, then:<ul>
+<li>SMTP Server: <code>mailninja.aseriesoftubez.com</code> (auto-filled)</li>
+<li>Port: <code>587</code> (auto-filled)</li>
+<li>Username: e.g., <code>maria@hypha.coop</code> (ignore auto-filled)</li>
+<li>Password: <code>[your password]</code></li>
+<li>TLS: <code>checked</code> &#x2611;<details>
+<summary>View Screenshot &#x1F50E;</summary>
+<img alt="Screenshot of new alias popup" src="https://i.imgur.com/rh3YhK4.png">
+</details></li>
+</ul>
+</li>
+<li>Click &quot;Add Account&quot;.</li>
+</ol>
+<p>We&apos;ll now send your first email to Mailinator, a cloud inbox that&apos;s helpful for email testing. Then you can confirm for yourself whether it works.</p>
+<ol>
+<li>Back in your Gmail inbox, click &quot;Compose&quot; to create a new email message.</li>
+<li>Click the &quot;From&quot; address, and select your new email address from the drop-down. <details>
+   <summary>View Screenshot &#x1F50E;</summary>
+   <img alt="Screenshot of selecting new email alias" src="https://i.imgur.com/rOEElJ2.png">
+ </details></li>
+<li>Enter hyphacoop@mailinator.com as the &quot;To&quot; address, add a short subject and message, and hit send!</li>
+<li>Visit <a href="https://www.mailinator.com/v3/index.jsp?zone=public&amp;query=hyphacoop" target="_blank">the corresponding cloud inbox</a> and confirm your message has arrived, it might take a few minutes. <details>
+   <summary>View Screenshot &#x1F50E;</summary>
+   <img alt="Screenshot of Mailinator interface" src="https://i.imgur.com/yWNjdue.png">
+ </details></li>
+<li>Once it&apos;s safely arrived, you&apos;re all set! Start sending email!</li>
+<li>Don&apos;t forget to <strong>email Infra WG</strong> as mentioned in onboarding email. &#x1F4E4;&#x1F389;</li>
+</ol>
+<h4 id="using-the-webmail-interface"><a name="using-the-webmail-interface" class="plugin-anchor" href="#using-the-webmail-interface"><i class="fa fa-link" aria-hidden="true"></i></a>Using the webmail interface</h4>
+<ol>
+<li>Visit our email server: <a href="https://link.hypha.coop/email" target="_blank">https://link.hypha.coop/email</a></li>
+<li>Click on <code>Webmail</code> button.</li>
+<li>Enter your username and password:<ul>
+<li>Username is your <code>@hypha.coop</code> email</li>
+</ul>
+</li>
+<li>Once logged in you can read your emails and configure your user settings.</li>
+<li>By default your emails are forwarded to your personal email to disable that follow step 1 in <code>Using your existing email client</code>.</li>
+</ol>
+<h4 id="using-your-existing-email-client"><a name="using-your-existing-email-client" class="plugin-anchor" href="#using-your-existing-email-client"><i class="fa fa-link" aria-hidden="true"></i></a>Using your existing email client</h4>
+<p><sup>These docs are condensed from <a href="https://mailcow.github.io/mailcow-dockerized-docs/client/#host=MailNinja.aseriesoftubez.com&amp;email=maria%40hypha.coop&amp;name=Maria+Sanchez&amp;ui=mailninja.aseriesoftubez.com&amp;port=443&amp;outlookEAS=1&amp;connector=60.0.2" target="_blank">Mailcow&apos;s in-depth email client configuration docs</a>. (Substitute your info for that of &quot;Maria Sanchez&quot;).</sup></p>
+<ol>
+<li>By default emails to your <code>@hypha.coop</code> are forwarded to your personal email address if prefered that you want to turn off forwarding of your <code>@hypha.coop</code> email, log in to webmail (instructions above)<ul>
+<li>Navigate through these menus:<br>  <code>&#x2699;</code> (top-left) &gt; <code>Mail</code> menu item &gt; <code>Forward</code> tab</li>
+</ul>
+</li>
+<li>Uncheck the &quot;Forward incoming messages&quot;, and save.</li>
+<li>Open your email client.</li>
+<li>Go to the &quot;add email account&quot; setting in your client.</li>
+<li>Enter your name that you prefer that will show up in your outgoing emails and email address when prompted.</li>
+<li>When prompted for username and password use your new email address e.g., <code>handle@hypha.coop</code> for username and your password for your new email.</li>
+<li>Most email clients will auto-detect server settings based on your email address. If your email client does not auto-detect these settings, enter:<ul>
+<li>IMAP: <code>mailninja.aseriesoftubez.com</code> Port: 993 (TLS/SSL)</li>
+<li>SMTP: <code>mailninja.aseriesoftubez.com</code> Port: 465 (TLS/SSL)</li>
+</ul>
+</li>
+<li>Once added, you should now be able to send from your new email. In your email client, compose an email to hyphacoop@mailinator.com with a short subject and send.</li>
+<li>Visit <a href="https://www.mailinator.com/v3/index.jsp?zone=public&amp;query=hyphacoop" target="_blank">the corresponding cloud inbox</a> and confirm your message has arrived, It might take a few minutes.</li>
+<li>Don&#x2019;t forget to email Infra WG as mentioned in onboarding email.</li>
+</ol>
 <h2 id="invoices"><a name="invoices" class="plugin-anchor" href="#invoices"><i class="fa fa-link" aria-hidden="true"></i></a>Invoices</h2>
 <p>Prior to creating an invoice, confirm with the client whether they would like to pay in CAD, USD, EUR, or GBP, and in what country their financial institution is based, then proceed with the following steps.</p>
 <h3 id="creating-an-invoice-for-a-client"><a name="creating-an-invoice-for-a-client" class="plugin-anchor" href="#creating-an-invoice-for-a-client"><i class="fa fa-link" aria-hidden="true"></i></a>Creating an invoice for a client</h3>
@@ -584,8 +741,8 @@ and it will ensure the label is removed in any repos where it wasn&apos;t in-use
 slightly change a <em>description</em> or <em>color</em> of a label in <code>hyphacoop/organizing</code>.</p>
 <h2 id="meetings"><a name="meetings" class="plugin-anchor" href="#meetings"><i class="fa fa-link" aria-hidden="true"></i></a>Meetings</h2>
 <h3 id="scheduling-a-meeting"><a name="scheduling-a-meeting" class="plugin-anchor" href="#scheduling-a-meeting"><i class="fa fa-link" aria-hidden="true"></i></a>Scheduling a meeting</h3>
-<p>Note: Consider whether this meeting might be a global interest to other
-members. Skip the steps below at your discretion for low-stakes topics.</p>
+<p><em>Note: Consider whether this meeting might be a global interest to other
+members. Skip the steps below at your discretion for low-stakes topics.</em></p>
 <ul>
 <li>Try to announce your intention to schedule a meeting on a topic and ask
 who&apos;s interested in participating. Allow <em>at least</em> 48 hours for people to respond.</li>
@@ -681,7 +838,7 @@ into agenda from chat</li>
 </li>
 <li><p>Set up <a href="https://link.hypha.coop/email" target="_blank"><code>hypha.coop</code> email</a>:</p>
 <ul>
-<li>Create new mailbox with Mailcow</li>
+<li><a href="#creating-new-inboxes-administrators">Create new mailbox with Mailcow</a></li>
 <li>Set up initial forwarder</li>
 <li>Add to <code>members@</code></li>
 </ul>
@@ -1031,7 +1188,7 @@ Dial <code>*98</code></li>
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Guides","level":"1.4","depth":1,"next":{"title":"Reading Pool","level":"1.5","depth":1,"path":"reading-pool.md","ref":"reading-pool.md","articles":[]},"previous":{"title":"Finance 🚧","level":"1.3.6","depth":2,"path":"finance.md","ref":"finance.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["anchors"],"pluginsConfig":{"anchors":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"handbook.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"guides.md","mtime":"2020-03-19T18:32:06.095Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2020-03-19T18:32:53.379Z"},"basePath":".","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Guides","level":"1.4","depth":1,"next":{"title":"Reading Pool","level":"1.5","depth":1,"path":"reading-pool.md","ref":"reading-pool.md","articles":[]},"previous":{"title":"Finance 🚧","level":"1.3.6","depth":2,"path":"finance.md","ref":"finance.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["anchors"],"pluginsConfig":{"anchors":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"handbook.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"guides.md","mtime":"2020-03-26T18:59:44.392Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2020-03-26T19:00:39.159Z"},"basePath":".","book":{"language":""}});
         });
     </script>
 </div>
