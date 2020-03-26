@@ -36,10 +36,10 @@ our values.
 What you'll need:
 - Admin access to [our Mailcow email server](https://link.hypha.coop/email)
 - The following user info (from https://link.hypha.coop/employees):
-    - preferred email `handle@hypha.coop`
-    - preferred value for "Full Name"
-    - primary email (where they'd like `@hypha.coop` emails to be forwarded initially)
-    - Signal-friendly phone number
+    - preferred email handle e.g., `handle@hypha.coop` (under "@hypha.coop" column)
+    - preferred public name (under "Public Name")
+    - email they'd like `@hypha.coop` forwarded to (under "Primary Email")
+    - Signal-friendly phone number (under "Signal Phone" or "Phone")
 
 _Note: Consider creating a [new GitHub issue in `hyphacoop/organizing`](https://github.com/hyphacoop/organizing/issues/new) to track email onboarding._
 
@@ -56,12 +56,12 @@ _Note: Consider creating a [new GitHub issue in `hyphacoop/organizing`](https://
       <img alt="Screenshot of Mailcow mailbox tab" src="images/email-mailbox-2.png" />
     </details>
 4. Fill out the following fields, noting the password:
-    - Username: `[info provided by new user]`
+    - Username: `[use preferred email handle]`
     - Domain: `hypha.coop`
-    - Full name: `[info provided by new user]`
+    - Full name: `[use preferred public name]`
     - Quota: `4096`
     - Password: `[auto-generated]`
-    - Active: `checked` :ballot_box_with_check:
+    - Active: `checked` ☑
     <details>
       <summary>View Screenshot</summary>
       <img alt="Screenshot of Mailcow mailbox creation popup" src="images/email-mailbox-3.png" />
@@ -83,7 +83,6 @@ We'll now log in to confirm access, and set up an initial forwarder to make firs
       <img alt="Screenshot of webmail forwarding settings" src="images/email-mailbox-5.png" />
     </details>
 9. From your own `@hypha.coop` email, send a welcome email, like this template:
-    >
     > Hi XXXX --
     >
     > Yay! Your Hypha email's set up and forwarding to your personal inbox. People can start emailing you at this address immediately, without any extra effort on your part.
@@ -127,7 +126,7 @@ What you'll need:
 5. In the new popup, enter:
     - Name: e.g., `Maria S` (as will appear to email recipients)
     - Email address: e.g., `maria@hypha.coop`
-    - Treat as alias: `checked` :ballot_box_with_check:
+    - Treat as alias: `checked` ☑
     <details>
       <summary>View Screenshot</summary>
       <img alt="Screenshot of new alias popup" src="https://i.imgur.com/I2RGv80.png" />
@@ -137,7 +136,7 @@ What you'll need:
     - Port: `587` (auto-filled)
     - Username: e.g., `maria@hypha.coop` (ignore auto-filled)
     - Password: `[your password]`
-    - TLS: `checked` :ballot_box_with_check:
+    - TLS: `checked` ☑
     <details>
       <summary>View Screenshot</summary>
       <img alt="Screenshot of new alias popup" src="https://i.imgur.com/rh3YhK4.png" />
@@ -159,7 +158,7 @@ We'll now send your first email to Mailinator, a cloud inbox that's helpful for 
       <img alt="Screenshot of Mailinator interface" src="https://i.imgur.com/yWNjdue.png" />
     </details>
 11. Once it's safely arrived, you're all set! Start sending email!
-12. Don't forget to email Infra WG as mentioned in onboarding email. :outbox_tray::tada:
+12. Don't forget to **email Infra WG** as mentioned in onboarding email. 📤🎉
 
 #### Using the webmail interface
 
