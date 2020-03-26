@@ -45,14 +45,14 @@ _Note: Consider creating a [new GitHub issue in `hyphacoop/organizing`](https://
 
 1. Sign into Mailcow: https://link.hypha.coop/email
     <details>
-      <summary>View Screenshot</summary>
+      <summary>View Screenshot 🔎</summary>
       <img alt="Screenshot of Mailcow login page" src="images/email-mailbox-1.png" />
     </details>
-2. Navigate to `Mailboxes` tab
-3. Click `+Add mailbox` button at top-right of screen
+2. Navigate to "Mailboxes" tab
+3. Click "+Add mailbox" button at top-right of screen
     - If the namespace is already taken by an alias, ensure it's not in use before deleting it.
     <details>
-      <summary>View Screenshot</summary>
+      <summary>View Screenshot 🔎</summary>
       <img alt="Screenshot of Mailcow mailbox tab" src="images/email-mailbox-2.png" />
     </details>
 4. Fill out the following fields, noting the password:
@@ -63,7 +63,7 @@ _Note: Consider creating a [new GitHub issue in `hyphacoop/organizing`](https://
     - Password: `[auto-generated]`
     - Active: `checked` ☑
     <details>
-      <summary>View Screenshot</summary>
+      <summary>View Screenshot 🔎</summary>
       <img alt="Screenshot of Mailcow mailbox creation popup" src="images/email-mailbox-3.png" />
     </details>
 
@@ -72,14 +72,14 @@ We'll now log in to confirm access, and set up an initial forwarder to make firs
 5. Open an incognito browser and access webmail login: https://mailninja.aseriesoftubez.com/SOGo/
 6. Log into the account you just created.
     <details>
-      <summary>View Screenshot</summary>
+      <summary>View Screenshot 🔎</summary>
       <img alt="Screenshot of webmail login screen" src="images/email-mailbox-4.png" />
     </details>
 7. Navigate through these menus:  
     `⚙` (top-left) > `Mail` menu item > `Forward` tab
 8. Check "Forward incoming mail" and enter provided primary email, clicking "Keep a copy".
     <details>
-      <summary>View Screenshot</summary>
+      <summary>View Screenshot 🔎</summary>
       <img alt="Screenshot of webmail forwarding settings" src="images/email-mailbox-5.png" />
     </details>
 9. From your own `@hypha.coop` email, send a welcome email, like this template:
@@ -120,7 +120,7 @@ What you'll need:
     `⚙` (top-left) > `Settings` menu item > `Accounts and Import` tab
 3. Under "Send mail as", click "Add another email address".
     <details>
-      <summary>View Screenshot</summary>
+      <summary>View Screenshot 🔎</summary>
       <img alt="Screenshot of Gmail settings page" src="https://i.imgur.com/oQMdIS9.png" />
     </details>
 5. In the new popup, enter:
@@ -128,7 +128,7 @@ What you'll need:
     - Email address: e.g., `maria@hypha.coop`
     - Treat as alias: `checked` ☑
     <details>
-      <summary>View Screenshot</summary>
+      <summary>View Screenshot 🔎</summary>
       <img alt="Screenshot of new alias popup" src="https://i.imgur.com/I2RGv80.png" />
     </details>
 4. Click "Next", then:
@@ -138,7 +138,7 @@ What you'll need:
     - Password: `[your password]`
     - TLS: `checked` ☑
     <details>
-      <summary>View Screenshot</summary>
+      <summary>View Screenshot 🔎</summary>
       <img alt="Screenshot of new alias popup" src="https://i.imgur.com/rh3YhK4.png" />
     </details>
 5. Click "Add Account".
@@ -148,13 +148,13 @@ We'll now send your first email to Mailinator, a cloud inbox that's helpful for 
 5. Back in your Gmail inbox, click "Compose" to create a new email message.
 6. Click the "From" address, and select your new email address from the drop-down.
     <details>
-      <summary>View Screenshot</summary>
+      <summary>View Screenshot 🔎</summary>
       <img alt="Screenshot of selecting new email alias" src="https://i.imgur.com/rOEElJ2.png" />
     </details>
 8. Enter hyphacoop@mailinator.com as the "To" address, add a short subject and message, and hit send!
 9. Visit [the corresponding cloud inbox](https://www.mailinator.com/v3/index.jsp?zone=public&query=hyphacoop) and confirm your message has arrived, it might take a few minutes.
     <details>
-      <summary>View Screenshot</summary>
+      <summary>View Screenshot 🔎</summary>
       <img alt="Screenshot of Mailinator interface" src="https://i.imgur.com/yWNjdue.png" />
     </details>
 11. Once it's safely arrived, you're all set! Start sending email!
