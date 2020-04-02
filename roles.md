@@ -10,15 +10,17 @@
 The *Cultivator* is responsible for tending to the all hands meetings and important shared fields of the co-operative: where we make decisions (Loomio), where we keep our documents (GitHub), and where we keep our calendar (Google Calendar).
 
 **Tasks**:
--  chairing all hands meetings. This includes...
-   - preparing a pad in advance so we start on time
-   - asking for agenda items (start of meeting)
-   - facilitating discussion
-   - keeping time
-- adding reminders to calendar after meeting
-- reviewing and merging notes
-- as needed, set up loomio theads and decisions
-- as needed, sending reminders of action items
+- chair all hands meetings (Weekly):
+   - prepare meeting pad in advance so we start on time
+   - ask for additional agenda items at start of meeting
+   - facilitate discussion
+   - keep time
+- review and merge notes (Weekly)
+- help member-owners stay organized (As needed):
+  - add meetings and important dates to calendar after meeting
+  - set up required loomio theads and decisions
+  - send reminders on time-sensitive action items
+- run [OKR review and identification process](okrs.md#reviewing-and-identifying-okrs-🚧) (Quarterly)
 
 For more details, see our Guides for [scheduling][] and [hosting][]
 meetings (summarized above).
