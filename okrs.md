@@ -49,43 +49,44 @@ O1. Create operations workspace
 O2. Develop a public voice for the work we do (cross-cut with Governance WG)  
 O3. Cultivate the culture needed to be an effective remote organization (cross-cut with Infra WG)  
 
-## Process of Setting OKRs 🚧
+## Reviewing and Identifying OKRs 🚧
 
-The OKR process is stewarded over **three weeks** by the Cultivator for the month. We follow a four-stage process for identifying and agreeing on goals:
+The OKR process is stewarded over **three weeks** by the [Cultivator](roles.md#cultivator-aka-meeting-chair) for the month. We follow a four-stage process for identifying and agreeing on goals:
 
 #### 1. Recap and review (Week 1 All hands)
 
-- Separate meeting from all-hands (30 minutes after schedule)
+- Host at end of all-hands (~30 minutes)
 - Look at OKRs from previous period
 - Review current annual Strategic Plan (temporarily, the business plan) and Financial Forecast
-- Check-in on other relevant information (e.g., our mission, values, time-sensitive information)
+- Check-in on other relevant information (e.g., our mission, values, time-sensitive information) and reflect on process
 
-Outcomes:
-- Notes from all-hands meeting
+Session outcomes:
+- Notes and reflections from all-hands meeting
 
-#### 2. Individual Brainstorming Org-Wide Goals (All hands)
+#### 2. Brainstorm of organization and Working Group goals (Week 1 All hands)
 
-- Host conversation at all hands
-- Individual brainstorming of goals, can add in async after
-- Cluster items into working groups
+- Host at end of all-hands (~10 minutes)
+- Conduct individual brainstorming of goals, encourage people to add in more after call
+- Group goals into existing working groups
 
-Outcomes:
+Session outcomes:
 - Notes with draft goals from all-hands meeting separated into WGs
 
-#### 3. Working Group goals identified and refined into OKRs (Week 2 WG meetings)
+#### 3. Working Groups refine goals into OKRs (Week 2 WG meetings)
 
-- Working groups take OKRs and discuss at their own meeting
-- WGs convert "goals" into "objectives" and identify "key results"
+- WGs take these goals and previous OKRs and discuss during their own meetings
+- WGs convert goals into "objectives" and identify "key results" and update OKR spreadsheet
 
-Outcomes:
-- Each WG has document with OKRs 
+Session outcomes:
+- Each WG has document with identified goals represented in/as OKRs 
+- Updated OKR spreadsheet (each WG)
 
-#### 4. Present and Agree on OKRs (Week 3 All hands)
+#### 4. Present and agree on OKRs (Week 3 All hands)
 
-- Instead of working group updates, each working group presents their OKRs, steward presents org-wide OKRs
-- Use spreadsheet to discuss and make minor adjustments
+- During all hands, instead of WG updates each WG presents their OKRs and Cultivator presents org-wide OKRs
+- Use OKR spreadsheet to discuss and make minor adjustments
 
-Outcomes:
+Session outcomes:
 - Shared understanding among members 
 - Updated OKR spreadsheet (each WG and org-wide), with names assigned
 - Updated page on handbook
