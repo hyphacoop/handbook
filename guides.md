@@ -18,6 +18,7 @@ our values.
 ### Contents
 
 - [Email](#email)
+- [Expense Reimbursement](#expense-reimbursement)
 - [Invoices](#invoices)
 - [Issue Labels](#issue-labels)
 - [Meetings](#meetings)
@@ -189,6 +190,43 @@ We'll now send your first email to Mailinator, a cloud inbox that's helpful for 
 8. Once added, you should now be able to send from your new email. In your email client, compose an email to hyphacoop@mailinator.com with a short subject and send.
 9. Visit [the corresponding cloud inbox](https://www.mailinator.com/v3/index.jsp?zone=public&query=hyphacoop) and confirm your message has arrived, It might take a few minutes.
 10. Don’t forget to email Infra WG as mentioned in onboarding email.
+
+## Expense Reimbursement
+
+Employees should try to submit eligible expenses in the same quarter they are incurred.
+The Finance WG reviews submitted expenses before each pay period, and pays out reimbursement amounts on the next pay day.
+
+### Submitting an expense
+
+1. Upload the expense receipt to [Employee Expenses](https://link.hypha.coop/receipts) with file name `xx-YYYY-MM-DD.ext` where `xx` is the initials of the member and `ext` the file extension, then make note of the URL.
+
+1. Open the [Expense Reimbursement](https://link.hypha.coop/expenses) sheet and fill in a new row according to instructions in the sheet.
+    - Date of Expense: `[date on your receipt]`
+    - Employee: `[employee to reimburse]`
+    - Description of Expense: `[short description of what the expense is for]`
+    - Total Amount: `[total receipt amount, including HST]`
+    - HST Amount: `[total HST on the receipt]` 
+    - Currency: `[currency of the receipt]` (default to `CAD`)
+    - Exchange Rate: `[currency exchange rate to CAD]` (default to `1.000` for CAD)
+    - Receipt Link: `[link to uploaded receipt]`
+
+1. That's it.
+    Once finance approves the expense it will show up beside your name on the [Employee Payroll](http://link.hypha.coop/payroll) sheet and you will be reimbursed in that pay period.
+    The amount will _not_ appear on your tax forms.
+
+### Approving an expense for reimbursement
+
+For the Finance WG to approve an expense:
+
+1. Verify all expenses that do not have a `Pay Period of Reimbursement` selected.
+
+1. Select a `Cost Center / Project` and `Pay Period of Reimbursement`.
+
+1. Verify that the `Total Amount (CAD)` is added to the [Reimbursement Summary](http://link.hypha.coop/reimbursement) sheet to the correct `Pay Period of Reimbursement` and `Employee`.
+
+1. Verify that the amount shows up correctly on the `Expense Reimbursement` column on [Employee Payroll](http://link.hypha.coop/payroll) of the applicable pay period, so it gets entered into Wagepoint on the next payroll run.
+
+1. 🚧 Track the expense appropriately in [Quickbooks Online](https://quickbooks.intuit.com/ca/).
 
 ## Invoices
 
@@ -513,7 +551,7 @@ If this is the first time you use Wagepoint, please first review the [Running yo
 
 1. **Hours:** Hit `SAVE/NEXT` to skip since we currently do not use the `Hourly` pay type.
 
-1. **Salary:** Enter `HOURS`, `CURRENT PAY`, and `PUBLIC HOLIDAY PAY` according to the [Employee Payroll](http://link.hypha.coop/payroll) sheet for the pay period.
+1. **Salary:** Enter `HOURS`, `CURRENT PAY`, `EXPENSE REIMBURSEMENT`, and `PUBLIC HOLIDAY PAY` according to the [Employee Payroll](http://link.hypha.coop/payroll) sheet for the pay period.
     Ensure that hours and pay line up, as these are the basis for ensuring legal minimum wage.
 
     The `VACATION HRS` for everyone is `0` due to our variable work hours and that annualized amounts will be paid out each pay period.

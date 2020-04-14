@@ -64,9 +64,7 @@ For example:
 
 Before the **7th of each month**, Members must submit payroll information to the [Employee Payroll](https://link.hypha.coop/payroll) sheet in order to be paid for the current pay period.
 
-Expense reimbursements, which require photos uploaded to Quickbooks Online, are paid out at each period and should be submitted in the same quarter that they are incurred.
-
-All payroll, expense reimbursements, and withheld taxes are managed using Wagepoint and Quickbooks Online, which are linked to our main Desjardins account.
+All wages, expense reimbursements, and withheld taxes are managed using Wagepoint and Quickbooks Online, which are linked to our main Desjardins account.
 
 ### Calculating Member Wages
 
@@ -103,6 +101,13 @@ You can use the [Wage Calculator](https://link.hypha.coop/wage) to determine the
 
 After tax withholdings and other applicable deductions (e.g. CPP & EI employee contributions), the net amount is electronically transferred to the Member's bank account on pay day using **Wagepoint**.
 Refer to the guides for [Payroll](/guides.md#payroll) to set up the payroll run for each pay period.
+
+### Expense Reimbursement
+
+Member expenses eligible for reimbursement should be submitted to the [Expense Reimbursement](https://link.hypha.coop/expenses) sheet and receipts uploaded to [Employee Expenses](https://link.hypha.coop/receipts) in the same quarter they are incurred.
+Reimbursement amounts are paid out with wages on the next pay day, but does not appear on tax forms.
+
+Follow the guides for [Expense Reimbursement](/guides.md#expense-reimbursement) to submit an eligible expense.
 
 ### Work on Public Holidays
 
