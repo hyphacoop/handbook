@@ -26,7 +26,7 @@ WG for ensuring our cooperative has a healthy structure, this includes drafting 
 
 ### [Infrastructure][inf-wg]
 
-WG for setting up our "virtual office", in particular the infrastructure and processes to collaborate.
+WG for maintaining our "virtual office" and public services, employing sustainable and privacy-protective practices to operate reliable and reproducible digital infrastructure.
 
 📅 Calls: [Biweekly-ish][calendar]   
 👪 Members: [**@infrastructure-wg**][t-inf]  
