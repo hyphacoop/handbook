@@ -2,18 +2,15 @@
 
 Welcome to Hypha! This page is supposed to help those getting situated in our organization.
 
-## Contacting Hypha 
+## Our Virtual Office
 
-We have the following communication and contact methods:
+We interact with the public though the following channels:
 
 - 📞 +1-437-887-6936 (We have specific guides for [Accessing][accessing-vm] and [Managing][managing-vm] Voicemail)
 - 📫 #1308-1403 Royal York Road, Etobicoke, Ontario  M9P 0A1
-- 🔗 [hypha.coop](https://hypha.coop)
-- 📧 hello@hypha.coop
+- 📧 hello@hypha.coop (we have specific guides for [Using][accessing-em] Email)
 
-## Our Virtual Office
-
-In place of a physical place we have virtual office comprised of the following spaces:
+Instead of a physical place we have virtual office with the following spaces:
 
 - [Matrix Chat][matrix-chat]: `chat.tomesh.net`
 - [Loomio][loomio]: `loomio.hypha.coop`
@@ -32,6 +29,7 @@ We also have the following "helper" tools to navigate our office spaces:
 [link-shortener]: https://link.hypha.coop
 [service-inventory]: https://link.hypha.coop/inventory
 [onboarding-checklist]: /guides.md#onboarding-checklist
+[accessing-em]: /guides.html#using-your-new-inbox-users
 [accessing-vm]: /guides.md#accessing-voicemail
 [managing-vm]: /guides.md#managing-voicemail-and-phone-forwarding
 [matrix-chat]: https://chat.tomesh.net/#/group/+hyphacoop:tomesh.net

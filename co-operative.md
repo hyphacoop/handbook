@@ -18,6 +18,13 @@ Hypha falls under neither the current [_Corporations Act_](https://www.ontario.c
 nor the upcoming [_Not-for-Profit Corporations Act_](https://www.ontario.ca/laws/statute/10n15), 
 which both govern not-for-profit _corporations_ in Ontario.
 
+You can contact us the following ways:
+
+- 📞 +1-437-887-6936
+- 📫 #1308-1403 Royal York Road, Etobicoke, Ontario  M9P 0A1
+- 🔗 [hypha.coop](https://hypha.coop)
+- 📧 hello@hypha.coop
+
 ## Member-owners and Employees
 
 Every **member-owner** is both an employee and co-owner of Hypha. There are 
