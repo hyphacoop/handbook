@@ -12,6 +12,7 @@
   - [Roles](roles.md)
   - [Working Open](working-open.md)
   - [Finance 🚧](finance.md)
+  - [Novel Coronavirus (2019) 🦠](coronavirus.md) 
 * [Guides](guides.md)
 * [Reading Pool](reading-pool.md)
 * [Glossary](glossary.md)
