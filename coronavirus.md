@@ -4,18 +4,18 @@ Like others in the Great Lakes region and Toronto, we’ve been closely monitori
 
 In order to stay safe as workers and community members during this we've drafted this document, which contains our pandemic-specific policies and guidance, resources, and information on business and personal supports for responding to COVID-19.
 
-- [Working in the Time of COVID-19](#Working-in-the-Time-of-COVID-19) 
-- [Communication and Education](#Communication-and-Education) 
-- [Health and Safety Considerations](#Health-and-Safety-Considerations)
-  - [Social Distancing and Self Isolation](#Social-Distancing-and-Self-Isolation) 
-  - [Personal Protective Equipment (PPE)](#Personal-Protective-Equipment-PPE) 
-  - [Assessing Symptoms, Seeking Testing, Treatment, and Quarantine](#Assessing-Symptoms-Seeking-Testing-Treatment-and-Quarantine) 
-- [Business Continuity](#Business-Continuity)
-  - [Risks and Maintaining Critical Processes](#Risks-and-Maintaining-Critical-Processes) 
-- [Accessing Federal and Provincial Supports](#Accessing-Federal-and-Provincial-Supports) 
-- [Relevant Information and Resources](#Relevant-Information-and-Resources) 
-- [Public health information](#Public-health-information) 
-- [Co-operative Resources](#Co-operative-Resources) 
+- [Working in the Time of COVID-19](#working-in-the-time-of-covid-19) 
+- [Communication and Education](#communication-and-education) 
+- [Health and Safety Considerations](#health-and-safety-considerations)
+  - [Social Distancing and Self Isolation](#social-distancing-and-self-isolation) 
+  - [Personal Protective Equipment (PPE)](#personal-protective-equipment-ppe) 
+  - [Assessing Symptoms, Seeking Testing, Treatment, and Quarantine](#assessing-symptoms-seeking-testing-treatment-and-quarantine) 
+- [Business Continuity](#business-continuity)
+  - [Risks and Maintaining Critical Processes](#risks-and-maintaining-critical-processes) 
+- [Accessing Federal and Provincial Supports](#accessing-federal-and-provincial-supports) 
+- [Relevant Information and Resources](#relevant-information-and-resources) 
+- [Public Health Information](#public-health-information) 
+- [Co-operative Resources](#co-operative-resources) 
 
 
 ## Working in the Time of COVID-19
@@ -139,7 +139,7 @@ _*Note: CERB eligibility critera are:
 
 ## Relevant Information and Resources
 
-## Public health information 
+## Public Health Information 
 
 - Canadian Public Health: https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html
 - Ontario Ministry of Health: https://www.ontario.ca/page/2019-novel-coronavirus
