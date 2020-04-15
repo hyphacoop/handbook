@@ -154,5 +154,3 @@ _*Note: CERB eligibility critera are:
     - CWCF-hosted Loomio, email communications@canadianworker.coop to join
 - **OCA**: [Information and Support for Co-operatives on COVID-19](https://ontario.coop/information-and-support-co-operatives-covid-19)
 - **CoopZone Legal Network** - [Ontario Practitioners](https://www.coopzone.coop/legal-network/legal-network-members-in-private-practice/region/Ontario/)
-- Michael Hackl, Iler Campbell LLP, mhackl@ilercampbell.com 416-562-8956 https://ilercampbell.com
-- Dan Brunette Cooperatives and Mutuals Canada on Federal supports, dbrunette@canada.coop 613-915-2846 https://canada.coop
