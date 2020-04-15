@@ -27,32 +27,35 @@ Body typeface (web)
 
 ### Colours
 
+<img src="images/hypha-colours.png" alt="Hypha colours" width="90%"/>
+
 Registration Black   
-#000000;
-rgb(0, 0, 0);
+`#000000;`  
+`rgb(0, 0, 0);`  
 
-White     
-#FFFFFF;
-rgb(255, 255, 255);
+Grey   
+`#777777;`   
+`rgb(119, 119, 119);`
 
-Grey 
-#777777;
-rgb(119, 119, 119);
+White  
+`#FFFFFF;`  
+`rgb(255, 255, 255);`  
+  
+Vivid Violet  
+`#9900FC;`  
+`rgb(153, 0, 252);`  
 
-Vivid Violet
-#9900FC;
-rgb(153, 0, 252);
-
-Lime (Web) (X11 Green)
-#00ff00;
-rgb(0, 255, 0);
+Lime (Web) (X11 Green)  
+`#00ff00;`  
+`rgb(0, 255, 0);`  
 
 
 ### Preferred icons and emoji
 
-⚑
-🍄 `:mushroom:`
+We tend to use the following emoji and iconography: 
 
+🍄 `:mushroom:`  
+⚑  
 
 ### Assets and Templates
 
