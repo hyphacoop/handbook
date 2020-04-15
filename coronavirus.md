@@ -27,7 +27,7 @@ After a process of research, consultation, and review of our requirements as an 
 - Member-owner's work should continue from home/safe environments
     - Client work and internal meetings will continue as virtual meetings
     - Work-related travel or professional gatherings/onsite meetings will be moved to virtual hosting or be rescheduled to a time when public health officials have deemed it safe to do so
-    - Due to the nature of our work (virtual office, remote) we **are not providing** [Personal Protective Equipment (PPE)](#Personal-Protective-Equipment-PPE) at this time
+    - Due to the nature of our work (virtual office, remote) we **are not providing** [Personal Protective Equipment (PPE)](#personal-protective-equipment-ppe) at this time
 - Member-owners should take care of the health (including mental health) of themselves and their loved ones first
     - We encourage all member-owners to **take the time they need right now, it's not business as usual**
     - **You are your own best judge** of how much client work you can take on and track during this time
