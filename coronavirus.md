@@ -4,18 +4,18 @@ Like others in the Great Lakes region and Toronto, we’ve been closely monitori
 
 In order to stay safe as workers and community members during this we've drafted this document, which contains our pandemic-specific policies and guidance, resources, and information on business and personal supports for responding to COVID-19.
 
-- Working in the Time of COVID-19 
-- Communication and Education 
-- Health and Safety Considerations
-  - Social Distancing and Self Isolation 
-  - Personal Protective Equipment (PPE) 
-  - Assessing Symptoms, Seeking Testing, Treatment, and Quarantine 
-- Business Continuity
-  - Risks and Maintaining Critical Processes 
-- Accessing Federal and Provincial Supports 
-- Relevant Information and Resources 
-- Public health information 
-- Co-operative Resources 
+- [Working in the Time of COVID-19](#Working-in-the-Time-of-COVID-19) 
+- [Communication and Education](#Communication-and-Education) 
+- [Health and Safety Considerations](#Health-and-Safety-Considerations)
+  - [Social Distancing and Self Isolation](#Social-Distancing-and-Self-Isolation) 
+  - [Personal Protective Equipment (PPE)](#Personal-Protective-Equipment-PPE) 
+  - [Assessing Symptoms, Seeking Testing, Treatment, and Quarantine](#Assessing-Symptoms-Seeking-Testing-Treatment-and-Quarantine) 
+- [Business Continuity](#Business-Continuity)
+  - [Risks and Maintaining Critical Processes](#Risks-and-Maintaining-Critical-Processes) 
+- [Accessing Federal and Provincial Supports](#Accessing-Federal-and-Provincial-Supports) 
+- [Relevant Information and Resources](#Relevant-Information-and-Resources) 
+- [Public health information](#Public-health-information) 
+- [Co-operative Resources](#Co-operative-Resources) 
 
 
 ## Working in the Time of COVID-19
