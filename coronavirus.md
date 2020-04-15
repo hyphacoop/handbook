@@ -2,7 +2,7 @@
 
 Like others in the Great Lakes region and Toronto, we’ve been closely monitoring the Novel Coronavirus 2019 situation. With the pace the situation has evolved since the World Health Organization [declared COVID-19 a pandemic on March 11](https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020), we can assume that things will continue to change rapidly in the weeks and months ahead.
 
-In order to stay safe as workers and community members during this we've drafted this document, which contains our pandemic-specific policies and guidance, resources, and information on business and personal supports for responding to COVID-19.
+In order to stay safe as workers and community members during this we've drafted this document, which contains our pandemic-specific policies and guidance, resources, and information on business and personal supports for responding to COVID-19. It was last updated on **April 15, 2020**.
 
 - [Working in the Time of COVID-19](#working-in-the-time-of-covid-19) 
 - [Communication and Education](#communication-and-education) 
