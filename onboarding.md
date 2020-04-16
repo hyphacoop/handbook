@@ -6,7 +6,7 @@ Welcome to Hypha! This page is supposed to help those getting situated in our or
 
 Check out the board for announcements and notices! Please feel free to [add your own][bb] and put a readable copy in the [folder][bb-folder].
 
-<img src="https://docs.google.com/drawings/d/e/2PACX-1vScf7VtN05yDlUFNVXcc8dcgY7J_zmAozp-Nvz51cnNQ5cHPJ_Xfdp6u5rChpLBKKDryD0junefuHsZ/pub?w=1433&amp;h=975">
+[![Bulletin Board](https://docs.google.com/drawings/d/e/2PACX-1vScf7VtN05yDlUFNVXcc8dcgY7J_zmAozp-Nvz51cnNQ5cHPJ_Xfdp6u5rChpLBKKDryD0junefuHsZ/pub?w=1433&amp;h=975)][bb-folder]
 
 
 ## Our Virtual Office
