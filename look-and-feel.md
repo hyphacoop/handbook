@@ -2,52 +2,64 @@
 
 ### Name and wordmark
 
-Our name uses title case with the following variations:
+In prose or body text our name is in title case:
 
-> **HYPHA**  
-> **HYPHA** Worker Co-operative  
-> Hypha Worker Co-operative Inc. [our legal name]  
+- Hypha Worker Co-operative [when referenced for the first time in body text]
+- Hypha [short form and after initial reference]
+- Hypha Worker Co-operative Inc. [our legal name]  
 
-We use the following wordmark in online spaces, services and social media where we represent the organization (e.g., [Twitter](https://twitter.com/hyphacoop) and [LinkedIn](https://ca.linkedin.com/company/hyphacoop)). 
+For web or print treatments we uppercase "Hypha": 
 
-<img src="images/hypha-wordmark.png" alt="Hypha Wordmark in white on purple background" width="50%"/>
+- **HYPHA** Worker Co-operative  
+- **HYPHA**  
+
+We use the following wordmark in online spaces, services, and social media where we represent the organization: 
+
+<img src="images/hypha-wordmark.png" alt="Hypha Wordmark in white on violet background" width="50%"/>
+
 
 ### Typography
 
-Our **heading typeface** is [Work Sans](https://github.com/weiweihuanghuang/Work-Sans) and our **secondary (body) typeface** is !!!!. For the web we prefer using the [system font stack](https://css-tricks.com/snippets/css/system-font-stack/) sans-serif typeface.
+Our **heading typeface** is [Work Sans](https://github.com/weiweihuanghuang/Work-Sans) and our **secondary (body) typeface** is [Proxima Nova](https://www.marksimonson.com/fonts/view/proxima-nova). For the web we prefer using the sans-serif [system font stack](https://css-tricks.com/snippets/css/system-font-stack/) as our typeface.
 
-Heading typeface 
->
+#### Heading typeface 
 
-Body typeface 
->
 
-Body typeface (web)
+
+> `font-family: WorkSans;`
+
+#### Body typeface 
+
+
+
+#### Body typeface (web)
+
 > `font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, helvetica neue, helvetica, ubuntu, roboto, noto, segoe ui, arial, sans-serif`
+
 
 ### Colours
 
-<img src="images/hypha-colours.png" alt="Hypha colours" width="90%"/>
+<img src="images/hypha-colours.png" alt="Hypha colours" width="95%"/>
 
-Registration Black   
-`#000000;`  
-`rgb(0, 0, 0);`  
+**Black (X11 Black)**  
+> `#000000;`  
+> `rgb(0, 0, 0);`  
 
-Grey   
-`#777777;`   
-`rgb(119, 119, 119);`
+**Grey**   
+> `#777777;`   
+> `rgb(119, 119, 119);`
 
-White  
-`#FFFFFF;`  
-`rgb(255, 255, 255);`  
+**White**  
+> `#FFFFFF;`  
+> `rgb(255, 255, 255);`  
   
-Vivid Violet  
-`#9900FC;`  
-`rgb(153, 0, 252);`  
+**Vivid Violet**  
+> `#9900FC;`  
+> `rgb(153, 0, 252);`  
 
-Lime (Web) (X11 Green)  
-`#00ff00;`  
-`rgb(0, 255, 0);`  
+**Lime (Web) (X11 Green)**  
+> `#00ff00;`  
+> `rgb(0, 255, 0);`  
 
 
 ### Preferred icons and emoji
@@ -55,9 +67,13 @@ Lime (Web) (X11 Green)
 We tend to use the following emoji and iconography: 
 
 🍄 `:mushroom:`  
-⚑  `&#9873;`
+🌿 `:herb:`  
+🏴 `:black_flag:` or  ⚑ `&#9873;`  
+
 
 ### Assets and templates
+
+Look and feel assets are available in our [Public Drive](https://drive.google.com/drive/folders/1URLZzO0P2IuLjRzvmg_C3ecV0N54GbeJ), and include:
 
 - Wordmark
 - Image bank
