@@ -55,11 +55,11 @@ Lime (Web) (X11 Green)
 We tend to use the following emoji and iconography: 
 
 🍄 `:mushroom:`  
-⚑  
+⚑  `&#9873;`
 
-### Assets and Templates
+### Assets and templates
 
 - Wordmark
 - Image bank
 - Letterhead 
-- Report Template
+- Report template
