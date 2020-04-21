@@ -22,16 +22,6 @@ We use the following wordmark in online spaces, services, and social media where
 
 Our **heading typeface** is [Work Sans](https://github.com/weiweihuanghuang/Work-Sans) and our **secondary (body) typeface** is [Proxima Nova](https://www.marksimonson.com/fonts/view/proxima-nova). For the web we prefer using the sans-serif [system font stack](https://css-tricks.com/snippets/css/system-font-stack/) as our typeface.
 
-#### Heading typeface 
-
-
-
-> `font-family: WorkSans;`
-
-#### Body typeface 
-
-
-
 #### Body typeface (web)
 
 > `font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, helvetica neue, helvetica, ubuntu, roboto, noto, segoe ui, arial, sans-serif`
