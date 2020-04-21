@@ -14,7 +14,7 @@ We use the following wordmark in online spaces, services and social media where 
 
 ### Typography
 
-Our **heading typeface** is [Work Sans](https://fonts.google.com/specimen/Work+Sans) and our **secondary (body) typeface** is !!!!. For the web we prefer using the [system font stack](https://css-tricks.com/snippets/css/system-font-stack/) sans-serif typeface.
+Our **heading typeface** is [Work Sans](https://github.com/weiweihuanghuang/Work-Sans) and our **secondary (body) typeface** is !!!!. For the web we prefer using the [system font stack](https://css-tricks.com/snippets/css/system-font-stack/) sans-serif typeface.
 
 Heading typeface 
 >
