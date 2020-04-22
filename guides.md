@@ -193,12 +193,12 @@ We'll now send your first email to Mailinator, a cloud inbox that's helpful for 
 
 ## Expense Reimbursement
 
-Employees should try to submit eligible expenses in the same quarter they are incurred.
+Employees should submit eligible expenses in the same quarter they are incurred.
 The Finance WG reviews submitted expenses before each pay period, and pays out reimbursement amounts on the next pay day.
 
 ### Submitting an expense
 
-1. Upload the expense receipt to [Employee Expenses](https://link.hypha.coop/receipts) with file name `xx-YYYY-MM-DD.ext` where `xx` is the initials of the member and `ext` the file extension, then make note of the URL.
+1. Upload the expense receipt to [Employee Expense Receipts](https://link.hypha.coop/receipts) with file name `xx-YYYY-MM-DD.ext` where `xx` is the initials of the member and `ext` the file extension, then make note of the URL.
 
 1. Open the [Expense Reimbursement](https://link.hypha.coop/expenses) sheet and fill in a new row according to instructions in the sheet.
     - Date of Expense: `[date on your receipt]`

@@ -104,8 +104,8 @@ Refer to the guides for [Payroll](/guides.md#payroll) to set up the payroll run 
 
 ### Expense Reimbursement
 
-Member expenses eligible for reimbursement should be submitted to the [Expense Reimbursement](https://link.hypha.coop/expenses) sheet and receipts uploaded to [Employee Expenses](https://link.hypha.coop/receipts) in the same quarter they are incurred.
-Reimbursement amounts are paid out with wages on the next pay day, but does not appear on tax forms.
+Member expenses eligible for reimbursement should be submitted to the [Expense Reimbursement](https://link.hypha.coop/expenses) sheet and receipts uploaded to [Employee Expense Receipts](https://link.hypha.coop/receipts) in the same quarter they are incurred.
+Reimbursements are paid out with wages on the next pay day, but do not appear on tax forms.
 
 Follow the guides for [Expense Reimbursement](/guides.md#expense-reimbursement) to submit an eligible expense.
 
