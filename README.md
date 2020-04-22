@@ -10,9 +10,10 @@ but it will be publicly available for others who might find it useful.
 This resource is in perpetual beta and constantly changing. If you see 
 something that could be improved, consider this your invitation to improve it!
 
-## 📝 License 
+## 📃 License 
 
-Hypha Organizational Handbook is Copyright © 2018-2020 individual contributors. 
+Copyright © 2018-2020 individual contributors. 
+
 Unless otherwise indicated it is licensed under a 
 [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). 
 A copy is included with the handbook at [LICENSE](./LICENSE).
@@ -49,7 +50,7 @@ $ gitbook serve
 After starting the server, visit `http://localhost:4000` (or the address 
 indicated by the `gitbook serve` command) in a web browser.
 
-## Deployment
+## 🚀 Deployment
 
 The handbook is automatically built and deployed using 
 [GitHub Actions][gh-actions] after a Pull Request is merged into master on 
