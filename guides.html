@@ -402,6 +402,7 @@ our values.</p>
 <h3 id="contents"><a name="contents" class="plugin-anchor" href="#contents"><i class="fa fa-link" aria-hidden="true"></i></a>Contents</h3>
 <ul>
 <li><a href="#email">Email</a></li>
+<li><a href="#expense-reimbursement">Expense Reimbursement</a></li>
 <li><a href="#invoices">Invoices</a></li>
 <li><a href="#issue-labels">Issue Labels</a></li>
 <li><a href="#meetings">Meetings</a></li>
@@ -570,6 +571,44 @@ our values.</p>
 <li>Once added, you should now be able to send from your new email. In your email client, compose an email to hyphacoop@mailinator.com with a short subject and send.</li>
 <li>Visit <a href="https://www.mailinator.com/v3/index.jsp?zone=public&amp;query=hyphacoop" target="_blank">the corresponding cloud inbox</a> and confirm your message has arrived, It might take a few minutes.</li>
 <li>Don&#x2019;t forget to email Infra WG as mentioned in onboarding email.</li>
+</ol>
+<h2 id="expense-reimbursement"><a name="expense-reimbursement" class="plugin-anchor" href="#expense-reimbursement"><i class="fa fa-link" aria-hidden="true"></i></a>Expense Reimbursement</h2>
+<p>Employees should submit eligible expenses in the same quarter they are incurred.
+The Finance WG reviews submitted expenses before each pay period, and pays out reimbursement amounts on the next pay day.</p>
+<h3 id="submitting-an-expense"><a name="submitting-an-expense" class="plugin-anchor" href="#submitting-an-expense"><i class="fa fa-link" aria-hidden="true"></i></a>Submitting an expense</h3>
+<ol>
+<li><p>Upload the expense receipt to <a href="https://link.hypha.coop/receipts" target="_blank">Employee Expense Receipts</a> with file name <code>xx-YYYY-MM-DD.ext</code> where <code>xx</code> is the initials of the member and <code>ext</code> the file extension, then make note of the URL.</p>
+</li>
+<li><p>Open the <a href="https://link.hypha.coop/expenses" target="_blank">Expense Reimbursement</a> sheet and fill in a new row according to instructions in the sheet.</p>
+<ul>
+<li>Date of Expense: <code>[date on your receipt]</code></li>
+<li>Employee: <code>[employee to reimburse]</code></li>
+<li>Description of Expense: <code>[short description of what the expense is for]</code></li>
+<li>Total Amount: <code>[total receipt amount, including HST]</code></li>
+<li>HST Amount: <code>[total HST on the receipt]</code> </li>
+<li>Currency: <code>[currency of the receipt]</code> (default to <code>CAD</code>)</li>
+<li>Exchange Rate: <code>[currency exchange rate to CAD]</code> (default to <code>1.000</code> for CAD, you use the rate on your credit card statement or market rate on the receipt date)</li>
+<li>Receipt Link: <code>[link to uploaded receipt]</code></li>
+</ul>
+</li>
+<li><p>That&apos;s it.
+ Once finance approves the expense it will show up beside your name on the <a href="http://link.hypha.coop/payroll" target="_blank">Employee Payroll</a> sheet and you will be reimbursed in that pay period.
+ The amount will <em>not</em> appear on your tax forms.</p>
+</li>
+</ol>
+<h3 id="approving-an-expense-for-reimbursement"><a name="approving-an-expense-for-reimbursement" class="plugin-anchor" href="#approving-an-expense-for-reimbursement"><i class="fa fa-link" aria-hidden="true"></i></a>Approving an expense for reimbursement</h3>
+<p>For the Finance WG to approve an expense:</p>
+<ol>
+<li><p>Verify all expenses that do not have a <code>Pay Period of Reimbursement</code> selected.</p>
+</li>
+<li><p>Select a <code>Cost Center / Project</code> and <code>Pay Period of Reimbursement</code>.</p>
+</li>
+<li><p>Verify that the <code>Total Amount (CAD)</code> is added to the <a href="http://link.hypha.coop/reimbursement" target="_blank">Reimbursement Summary</a> sheet to the correct <code>Pay Period of Reimbursement</code> and <code>Employee</code>.</p>
+</li>
+<li><p>Verify that the amount shows up correctly on the <code>Expense Reimbursement</code> column on <a href="http://link.hypha.coop/payroll" target="_blank">Employee Payroll</a> of the applicable pay period, so it gets entered into Wagepoint on the next payroll run.</p>
+</li>
+<li><p>&#x1F6A7; Track the expense appropriately in <a href="https://quickbooks.intuit.com/ca/" target="_blank">Quickbooks Online</a>.</p>
+</li>
 </ol>
 <h2 id="invoices"><a name="invoices" class="plugin-anchor" href="#invoices"><i class="fa fa-link" aria-hidden="true"></i></a>Invoices</h2>
 <p>Prior to creating an invoice, confirm with the client whether they would like to pay in CAD, USD, EUR, or GBP, and in what country their financial institution is based, then proceed with the following steps.</p>
@@ -930,7 +969,7 @@ You should have a completed <a href="http://link.hypha.coop/payroll" target="_bl
 </li>
 <li><p><strong>Hours:</strong> Hit <code>SAVE/NEXT</code> to skip since we currently do not use the <code>Hourly</code> pay type.</p>
 </li>
-<li><p><strong>Salary:</strong> Enter <code>HOURS</code>, <code>CURRENT PAY</code>, and <code>PUBLIC HOLIDAY PAY</code> according to the <a href="http://link.hypha.coop/payroll" target="_blank">Employee Payroll</a> sheet for the pay period.
+<li><p><strong>Salary:</strong> Enter <code>HOURS</code>, <code>CURRENT PAY</code>, <code>EXPENSE REIMBURSEMENT</code>, and <code>PUBLIC HOLIDAY PAY</code> according to the <a href="http://link.hypha.coop/payroll" target="_blank">Employee Payroll</a> sheet for the pay period.
  Ensure that hours and pay line up, as these are the basis for ensuring legal minimum wage.</p>
 <p> The <code>VACATION HRS</code> for everyone is <code>0</code> due to our variable work hours and that annualized amounts will be paid out each pay period.</p>
 <p> In the <code>PAY?</code> column, select <code>YES</code> for any Employee who will be paid in this payroll.</p>
@@ -1214,7 +1253,7 @@ Dial <code>*98</code></li>
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Guides","level":"1.4","depth":1,"next":{"title":"Reading Pool","level":"1.5","depth":1,"path":"reading-pool.md","ref":"reading-pool.md","articles":[]},"previous":{"title":"Novel Coronavirus (2019) 🦠","level":"1.3.7","depth":2,"path":"coronavirus.md","ref":"coronavirus.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["anchors"],"pluginsConfig":{"anchors":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"handbook.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"guides.md","mtime":"2020-04-25T15:40:31.156Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2020-04-25T15:41:12.847Z"},"basePath":".","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Guides","level":"1.4","depth":1,"next":{"title":"Reading Pool","level":"1.5","depth":1,"path":"reading-pool.md","ref":"reading-pool.md","articles":[]},"previous":{"title":"Novel Coronavirus (2019) 🦠","level":"1.3.7","depth":2,"path":"coronavirus.md","ref":"coronavirus.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["anchors"],"pluginsConfig":{"anchors":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"handbook.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"guides.md","mtime":"2020-04-25T15:43:30.159Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2020-04-25T15:44:06.834Z"},"basePath":".","book":{"language":""}});
         });
     </script>
 </div>
