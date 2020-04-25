@@ -86,7 +86,7 @@ The previous Cultivator is responsible for making time to mentor and support the
 	- [prepare payroll](https://handbook.hypha.coop/guides.html#running-payroll)
 	- ensure payroll taxes are remitted, manually file a nil remittance if a pay period is skipped
 	- archive [Employee Payroll sheet](http://link.hypha.coop/payroll) and [processed payroll records](https://drive.google.com/drive/u/0/folders/1wWo9KqNwWdUK5d-jkApV3id_Y_dpftT9)
-- [onboard employees and contractors](https://handbook.hypha.coop/guides.html#onboarding-checklist), keeping appropriate records
+- assist Operations WG in [employee and contractor onboarding](https://handbook.hypha.coop/guides.html#onboarding-checklist) and keep appropriate records
 - adhere to legal requirements around [keeping records](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/keeping-records.html) and [handling of Social Insurance Number](https://www.canada.ca/en/employment-social-development/services/sin/reports/code-of-practice/section-3.html), and [our sensitive data practices](https://handbook.hypha.coop/guides.html#sensitive-data)
 
 **Authority:**
