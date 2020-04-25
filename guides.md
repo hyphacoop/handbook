@@ -340,7 +340,7 @@ this is because the automation is cautious and won't delete _any_ in-use labels 
 so _nothing destructive will happen_.
 
 To **manage the list of _synced repos_** (e.g., ensuring a new repo starts having labels synced),
-add a new entry to `LABEL_REPO_TARGETS` in [this configuration file](https://github.com/hyphacoop/organizing/blob/master/.github/workflows/sync-labels.yml#L24)
+add a new entry to `LABEL_REPO_TARGETS` in [this configuration file](https://github.com/hyphacoop/organizing/blob/master/.github/workflows/sync-labels.yml#L24) and ensure [@hyphacoop-bot has write-access](https://github.com/orgs/hyphacoop/people/hyphacoop-bot) to each synced repo.
 
 To **create a new label**, just add it to the `hyphacoop/organizing` repo,
 and it will be added to others within a few minutes.
