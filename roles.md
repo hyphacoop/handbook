@@ -2,9 +2,9 @@
 
 **Table of Contents**
 - [Cultivator](#cultivator-aka-meeting-chair)
-- [Finance (External)](#finance-external)
-- [Finance (Internal)](#finance-internal)
+- [Finance Steward](#finance-steward)
 - [Notetaker](#notetaker)
+- [Payroll Coordinator](#payroll-coordinator)
 - [Social Media Steward](#social-media-steward)
 
 ### Cultivator (aka Meeting Chair)
@@ -36,7 +36,7 @@ meetings (summarized above).
 **Support**:
 The previous Cultivator is responsible for making time to mentor and support the incoming Cultivator for the first week as needed.
 
-### Finance (External)
+### Finance Steward
 
 **Parent WG:** Finance
 
@@ -73,7 +73,18 @@ The previous Cultivator is responsible for making time to mentor and support the
 
 **Term:** 6 mo, with renewal. Max 2 terms.
 
-### Finance (Internal)
+### Notetaker
+
+The *Notetaker*
+
+**Tasks** (Weekly):
+- taking notes
+- cleaning up notes, adding to gh and pinging for review
+
+**Length Succession**:
+Single meeting. Moves through alphabetical list of active member names.
+
+### Payroll Coordinator
 
 **Parent WG:** Finance
 
@@ -101,17 +112,6 @@ The previous Cultivator is responsible for making time to mentor and support the
 **Time Budget:** Up to 2h/week.
 
 **Term:** 6 mo, with renewal. Max 2 terms.
-
-### Notetaker
-
-The *Notetaker*
-
-**Tasks** (Weekly):
-- taking notes
-- cleaning up notes, adding to gh and pinging for review
-
-**Length Succession**:
-Single meeting. Moves through alphabetical list of active member names.
 
 ### Social Media Steward
 
