@@ -2,7 +2,7 @@
 
 Members of Hypha adopt the following practices for mostly asynchoronous coordination using a couple digital platforms.
 
-## Primary coordination
+## Primary Coordination
 
 [GitHub](https://github.com/hyphacoop/) is our primary tool for coordinating asynchronously. We use [GitHub Projects](https://link.hypha.coop/tasks) to track tasks that primarily come from two repositories:
 
@@ -38,19 +38,19 @@ Note that while most tasks show up as Issues from `hyphacoop/organizing` and `hy
 
 Members are encouraged to use emojis liberally to indicate they have, for example: 👀 read the comment, 👍 agree or 👎 disagree with the comment, etc. This applies generally to all our tools.
 
-## Making decisions
+## Making Decisions
 
 Once tasks are assigned to groups, the group is entrusted to make decisions on the task and make judgment on when it is necessary to consult the wider membership or request specific members for input. Larger group decisions are made either **at an All-hands Call and captured in meeting notes** or using **voting tools in Loomio**.
 
 When using [Loomio](https://loomio.hypha.coop) to set up a vote using the Proposal or Poll tool, the recommended voting period is 5 to 7 days. Post the voting link on the associated GitHub issue and tag `@hyphacoop/member-workers` or applicable GitHub handles, since GitHub is the primary place that everyone is actively checking for notification.
 
-## Real-time chat
+## Real-time Chat
 
 We use [Matrix](https://chat.tomesh.net/#/group/+hyphacoop:tomesh.net) as real-time chat for day-to-day task discussions and pinging members for urgent requests.
 
 All members are encouraged to install a Matrix client on their phone, and configure notifications for `+hyphacoop:tomesh.net` rooms to **Mentions only**. In messages, we refer to members by initials and only use handles when trying to trigger a notification to bring someone to a conversation (i.e., an urgent ping). There is otherwise no expectation that members will check the chat regularly, or catch up on backscrolls, therefore it is important to be intentional in bringing summaries of decisions made back into Issues in GitHub.
 
-## Shared calendar
+## Shared Calendar
 
 We have two shared Google Calendars:
 

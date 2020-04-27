@@ -207,7 +207,7 @@ The Finance WG reviews submitted expenses before each pay period, and pays out r
     - Total Amount: `[total receipt amount, including HST]`
     - HST Amount: `[total HST on the receipt]` 
     - Currency: `[currency of the receipt]` (default to `CAD`)
-    - Exchange Rate: `[currency exchange rate to CAD]` (default to `1.000` for CAD, you use the rate on your credit card statement or market rate on the receipt date)
+    - Exchange Rate: `[currency exchange rate to CAD]` (default to `1.000` for CAD, you can use the rate on your credit card statement or [Bank of Canada rate](https://www.bankofcanada.ca/rates/exchange/) on the receipt date)
     - Receipt Link: `[link to uploaded receipt]`
 
 1. That's it.

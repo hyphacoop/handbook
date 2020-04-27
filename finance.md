@@ -7,6 +7,19 @@ This document outlines finance and accounting practices of Hypha Worker Co-opera
 - Member payroll and expense reimbursements
 - Tools and procedures for bookkeeping, accounting, and tax remittances
 
+### Contents
+
+- [Financial Accounts](#financial-accounts)
+- [Invoicing Clients](#invoicing-clients)
+  - [Generating Timesheets](#generating-timesheets)
+  - [Generating Invoices](#generating-invoices)
+  - [Settling Payments](#settling-payments)
+- [Member Payroll](#member-payroll)
+  - [Calculating Member Wages](#calculating-member-wages)
+  - [Expense Reimbursement](#expense-reimbursement)
+  - [Work on Public Holidays](#work-on-public-holidays)
+- [Reporting & Remitting Taxes](#reporting--remitting-taxes)
+
 ## Financial Accounts
 
 - Financial institution: **Desjardins**
@@ -115,7 +128,7 @@ The Co-operative recommends Members to not work on a public holiday, but in the 
 Since Members have variable hours of work per period, and a 5% annualized public holiday pay is included in Member wages in every pay period, Members are already adequately compensated for any "substitute time off".
 Therefore, wages for work performed on public holidays are calculated without "premium pay", and this policy is compliant with the [Employment Standards Act of Ontario](https://www.ontario.ca/document/your-guide-employment-standards-act-0/public-holidays).
 
-### Reporting & Remitting Taxes
+## Reporting & Remitting Taxes
 
 Hypha has the following [program accounts][program-accounts] with the Canada Revenue Agency (CRA):
 
