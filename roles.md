@@ -2,7 +2,9 @@
 
 **Table of Contents**
 - [Cultivator](#cultivator-aka-meeting-chair)
+- [Finance Steward](#finance-steward)
 - [Notetaker](#notetaker)
+- [Payroll Coordinator](#payroll-coordinator)
 - [Social Media Steward](#social-media-steward)
 
 ### Cultivator (aka Meeting Chair)
@@ -34,6 +36,43 @@ meetings (summarized above).
 **Support**:
 The previous Cultivator is responsible for making time to mentor and support the incoming Cultivator for the first week as needed.
 
+### Finance Steward
+
+**Parent WG:** Finance
+
+**Aim:** Facilitate income and expense transactions for the organization, and steward our financial accounts, records, and projections.
+
+**Tasks:**
+- invoice clients and settle income transactions
+	- work with project leads to [draft and send invoices](https://handbook.hypha.coop/guides.html#creating-an-invoice-for-a-client)
+	- [settle invoice payments](https://handbook.hypha.coop/guides.html#settling-an-invoice-payment)
+- make timely bill payments and ensure organization is in good financial standing
+- keep our books synchronized with bank accounts and match transactions to appropriate categories
+- review quarterly financial reports
+- update financial projections and communicate financial health to members
+- serve as contact person for our accountant and bookkeeper
+- oversee all tax obligations
+	- familiarize with [GST/HST Information for Non-Profit Organizations](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4081/gst-hst-information-non-profit-organizations.html)
+	- report and remit HST and any other non-payroll taxes as applicable
+	- file annual tax return with our accountant at fiscal year-end
+
+**Authority:**
+- move balances across our internal accounts for amounts <= CAD$10,000
+- work with our accountant and bookkeeper as needed
+
+**Limits:** (on Authority)
+- permission of parent WG needed to:
+    - move balances across our internal accounts for amounts > CAD$10,000
+    - move balances outside of our internal accounts for any reason and amount
+    - make non-routine adjustments to our financial accounts, records, and projections
+    - submit our annual tax return
+- permission of project lead needed to:
+	- alter or send an invoice to a client
+
+**Time Budget:** Up to 2h/week.
+
+**Term:** 6 mo, with renewal. Max 2 terms.
+
 ### Notetaker
 
 The *Notetaker*
@@ -45,6 +84,35 @@ The *Notetaker*
 **Length Succession**:
 Single meeting. Moves through alphabetical list of active member names.
 
+### Payroll Coordinator
+
+**Parent WG:** Finance
+
+**Aim:** Fulfill financial responsibilities to employees and contractors, and adhere to associated legal and tax obligations.
+
+**Tasks:**
+- run payroll for each pay period
+	- [verify timesheets](https://handbook.hypha.coop/guides.html#timesheets)
+	- [approve reimbursement of expenses](https://handbook.hypha.coop/guides.html#expense-reimbursement)
+	- [prepare payroll](https://handbook.hypha.coop/guides.html#running-payroll)
+	- ensure payroll taxes are remitted, manually file a nil remittance if a pay period is skipped
+	- archive [Employee Payroll sheet](http://link.hypha.coop/payroll) and [processed payroll records](https://drive.google.com/drive/u/0/folders/1wWo9KqNwWdUK5d-jkApV3id_Y_dpftT9)
+- assist Operations WG in [employee and contractor onboarding](https://handbook.hypha.coop/guides.html#onboarding-checklist) and keep appropriate records
+- adhere to legal requirements around [keeping records](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/keeping-records.html) and [handling of Social Insurance Number](https://www.canada.ca/en/employment-social-development/services/sin/reports/code-of-practice/section-3.html), and [our sensitive data practices](https://handbook.hypha.coop/guides.html#sensitive-data)
+
+**Authority:**
+- access to sensitive data on employee records
+- approve reimbursement of employee and project expenses <= CAD$200
+
+**Limits:** (on Authority)
+- permission of parent WG needed to:
+    - approve reimbursement of employee and project expenses > CAD$200
+	- approve payroll for employees and contractors
+
+**Time Budget:** Up to 2h/week.
+
+**Term:** 6 mo, with renewal. Max 2 terms.
+
 ### Social Media Steward
 
 **Parent WG:** Business Development
@@ -52,7 +120,7 @@ Single meeting. Moves through alphabetical list of active member names.
 **Aim:** Maintain an active online presence amongst neighbors and co-operative allies.
 
 **Tasks:**
-- interacting on approved platforms
+- interact on approved platforms
 - support or initiate discussions about presence on new platforms
 - share monthly updates with parent WG
 - track time under a specific tag
@@ -63,9 +131,9 @@ Single meeting. Moves through alphabetical list of active member names.
     - Linkedin
 
 **Limits:** (on Authority)
-- Permission of parent WG needed for:
-    - creating and activating new social media accounts
-    - squatting namespaces on new platforms
+- permission of parent WG needed to:
+    - create and activate new social media accounts
+    - squat namespaces on new platforms
 
 **Time Budget:** Up to 2h/week.
 
