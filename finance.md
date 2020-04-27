@@ -1,4 +1,4 @@
-# Finance 🚧
+# Finance
 
 This document outlines finance and accounting practices of Hypha Worker Co-operative, including:
 
