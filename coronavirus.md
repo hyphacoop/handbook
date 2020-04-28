@@ -153,4 +153,3 @@ _*Note: CERB eligibility critera are:
     - Larger succession planning project
     - CWCF-hosted Loomio, email communications@canadianworker.coop to join
 - **OCA**: [Information and Support for Co-operatives on COVID-19](https://ontario.coop/information-and-support-co-operatives-covid-19)
-- **CoopZone Legal Network** - [Ontario Practitioners](https://www.coopzone.coop/legal-network/legal-network-members-in-private-practice/region/Ontario/)
