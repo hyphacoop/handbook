@@ -1,10 +1,14 @@
 # Reading Pool
  
 **Legend**  
-🌐 Web/online resources `:globe_with_meridians:`  
-📄 PDF reports or articles `:page_facing_up:`  
-🔉 Audio`:speaker:`  
-🎬 Video `:clapper:`     
+
+🔉 Audio clips `:speaker:`  
+📚 Books `:books:`  
+📄 PDF reports or articles `:page_facing_up:`   
+🎬 Videos `:clapper:`  
+🌐 Web sites or online resources `:globe_with_meridians:`    
+   
+---
 
 **7 International Co-operative Principles**:
 
@@ -45,7 +49,7 @@ Collaboration, Methodologies:
 - 🌐 [Designing Methodologies 2018, Shannon Mattern](http://www.wordsinspace.net/designingmethods/spring2018/)
 - 🌐 [Aspiration Tech Facilication Resources](https://facilitation.aspirationtech.org/index.php?title=Main_Page)
 - 🌐 [Beautiful Trouble: A Toolbox for Revolution](http://beautifultrouble.org/)
-- :books: [adrienne maree brown (2017) *Emergent Strategy: Shaping Change, Changing Worlds*](https://www.akpress.org/emergentstrategy.html)
+- 📚 [adrienne maree brown (2017) *Emergent Strategy: Shaping Change, Changing Worlds*](https://www.akpress.org/emergentstrategy.html)
 - 🌐 [Loconomics Cooperative Bylaws](https://loconomics.gitbooks.io/loconomics-cooperative-bylaws/content/)
 - 🌐 [Waag Co-creation Toolkit](http://web.archive.org/web/20161216125609/http://co-creation.waag.org/)
 - 🌐 [El LleialTec: Pla de Sobirania Tecnològica als equipaments municipals](https://tec.lleialtat.cat/) ([Google translated](https://translate.google.ca/translate?hl=en&sl=ca&tl=en&u=https%3A%2F%2Ftec.lleialtat.cat))
@@ -57,7 +61,7 @@ New Economies:
 
 Commons, Anti-capitalism:
 
-- :books: Elinor Ostrom (1990) *Governing the Commons*
+- 📚 Elinor Ostrom (1990) *Governing the Commons*
     - 🌐 [8 principles for designing common pool resources](http://www.onthecommons.org/magazine/elinor-ostroms-8-principles-managing-commmons)
 - 📄 JK Gibson-Graham, J Cameron, & S Healy (2016) "Commoning as a postcapitalist politics" In *Releasing the Commons: Rethinking the futures of the commons*
 - 📄 G Caffentzis, S Frederici (2014) "Commons against and beyond capitalism"
@@ -73,7 +77,7 @@ Why Decentralize?
 - 📄 Nathan Schnieder n.d. "Decentralization: An Incomplete Ideology"
 - 🌐 [Data Together Reading List](https://github.com/datatogether/reading_datatogether) or [Zotero Group](https://www.zotero.org/groups/datatogether)
 
-Requirements for co-ops in Canada (Federal, Ontario) see [**2018 retreat playbook**](https://link.hypha.coop/retreat-playbook):
+Requirements for co-ops in Canada (Federal and Provincial) (for more see [**2018 retreat playbook**](https://link.hypha.coop/retreat-playbook)):
 
 - 📄 [Registering a coop - Official Guide by Financial Services Commision of Ontario](https://www.fsco.gov.on.ca/en/coops/Documents/register_co-ops-guide.pdf)
 - 📄 [Ontario.coop fact sheets](https://ontario.coop/sites/default/files/Complete%20list%20of%20FACTSheets%20-%20Updated.pdf)

@@ -22,7 +22,7 @@ Instead of a physical place we have virtual office with the following spaces:
 - [Matrix Chat][matrix-chat]: `chat.tomesh.net`
 - [Loomio][loomio]: `loomio.hypha.coop`
 - [GitHub Organization](https://github.com/hyphacoop/), with a [task tracker][task-tracker]
-- [Google Drive][google-drive] (with both priviledged and public folders)
+- [Google Drive][google-drive] (with both privileged 🔒 and public folders)
 
 We also have the following "helper" tools to navigate our office spaces:
 
