@@ -18,6 +18,11 @@ Hypha falls under neither the current [_Corporations Act_](https://www.ontario.c
 nor the upcoming [_Not-for-Profit Corporations Act_](https://www.ontario.ca/laws/statute/10n15), 
 which both govern not-for-profit _corporations_ in Ontario.
 
+Hypha is a member of [Canadian Worker Co-op Federation (CWCF)](https://canadianworker.coop/), 
+and through that a member of the [Ontario Co-operative Association (OCA)](https://ontario.coop/) and [Cooperatives and Mutuals Canada (CMC)](https://canada.coop/).<sup>[1](#notes)</sup> 
+
+<a href="https://canadianworker.coop/"><img src="images/cwcf-logo.jpg" alt="CWCF logo in deep salmon and green" width="20%"/></a>
+
 You can contact us the following ways:
 
 - 📞 +1-437-887-6936
@@ -55,6 +60,14 @@ A **contractor**:
 A **collaborator**:
   - Participates in open Hypha activities and projects without a formal 
     relationship
+
+## Notes
+
+<sup>1. On our Loomio we have a [list of public communication spaces 🔒](https://loomio.hypha.coop/d/sWnNveKO/public-communication-spaces), 
+along with places we have a presence as a co-operative.</sup>
+
+
+
 
 
 <!-- Links -->
