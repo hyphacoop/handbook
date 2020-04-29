@@ -67,9 +67,6 @@ A **collaborator**:
 along with places we have a presence as a co-operative.</sup>
 
 
-
-
-
 <!-- Links -->
 [coop-act]: https://www.ontario.ca/laws/statute/90c35
 [es-act]: https://www.ontario.ca/laws/statute/00e41
