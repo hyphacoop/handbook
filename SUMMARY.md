@@ -15,5 +15,6 @@
   - [Finance](finance.md)
   - [Novel Coronavirus (2019) 🦠](coronavirus.md) 
 * [Guides](guides.md)
+* [How We Use Data](data.md)
 * [Reading Pool](reading-pool.md)
 * [Glossary](glossary.md)
