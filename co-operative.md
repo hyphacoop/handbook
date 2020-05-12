@@ -19,7 +19,7 @@ nor the upcoming [_Not-for-Profit Corporations Act_](https://www.ontario.ca/laws
 which both govern not-for-profit _corporations_ in Ontario.
 
 Hypha is a member of [Canadian Worker Co-op Federation (CWCF)](https://canadianworker.coop/), 
-and through that a member of the [Ontario Co-operative Association (OCA)](https://ontario.coop/) and [Cooperatives and Mutuals Canada (CMC)](https://canada.coop/).<sup>[1](#notes)</sup> 
+and through that affiliation is a member of the [Ontario Co-operative Association (OCA)](https://ontario.coop/) and [Cooperatives and Mutuals Canada (CMC)](https://canada.coop/).<sup>[1](#notes)</sup> 
 
 <a href="https://canadianworker.coop/"><img src="images/cwcf-logo.jpg" alt="CWCF logo in deep salmon and green" width="20%"/></a>
 
@@ -63,8 +63,8 @@ A **collaborator**:
 
 ## Notes
 
-<sup>1. On our Loomio we have a [list of public communication spaces 🔒](https://loomio.hypha.coop/d/sWnNveKO/public-communication-spaces), 
-along with places we have a presence as a co-operative.</sup>
+<sup>1. A full list of [CWCF affiliations](https://canadianworker.coop/about/affliations/) is on their website. We have a [list of public communication spaces 🔒](https://loomio.hypha.coop/d/sWnNveKO/public-communication-spaces), 
+along with places we have a presence as a co-operative on our Loomio.</sup>
 
 
 <!-- Links -->
