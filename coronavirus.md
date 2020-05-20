@@ -77,7 +77,7 @@ Ontario has [declared](https://news.ontario.ca/opo/en/2020/03/ontario-enacts-dec
 
 Are we considered an [**essential workplace**](https://www.ontario.ca/page/list-essential-workplaces)? **No**, though we do not maintain a physical workplace. The closest business [listed by the province of Ontario](https://www.ontario.ca/page/list-essential-workplaces#section-5) is "17. Information Technology (IT) services" Regardless, the province explicitly indicates "teleworking and online commerce are permitted at all times for all businesses."
 
-The Province has released [A framework for reopening our province](https://www.ontario.ca/page/framework-reopening-our-province?_ga=2.214603412.2031385203.1590009009-79856860.1590009009) (April 27) which describes three stages to gradually reopen all workplaces and public spaces.
+The Province has released [A framework for reopening our province](https://www.ontario.ca/page/framework-reopening-our-province) (April 27) which describes three stages to gradually reopen all workplaces and public spaces.
 
 ### Risks and Maintaining Critical Processes
 
