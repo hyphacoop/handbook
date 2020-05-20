@@ -11,6 +11,7 @@ Hypha operates with democratic organizing principles informed by our [values](./
 # How and what?
 
 - We currently accommodate redactions and going off-the-record for meeting notes. Participants can request to stop taking notes, or redact and correct notes after they have been taken.
+- We recognize that some information should be treated as sensitive and confidential for the benefit of Hypha and its clients and partners. An employee or contractor with access to such information is responsible for keeping this information confidential.
 
 **Legend**  
 👀  view only  
@@ -19,7 +20,8 @@ Hypha operates with democratic organizing principles informed by our [values](./
 **Default open to public**:
 
 - Scope: Organization
-  - Meeting notes (all hands, working groups) and final documents (handbook), on GitHub and other platforms 👀
+  - [Meeting notes (all hands, working groups)](https://meetings.hypha.coop) and final documents ([handbook](https://handbook.hypha.coop)) 👀
+  - [Task tracking](https://link.hypha.coop/tasks) 👀
   - Aggregated financial statements 👀
 - Scope: Project
   - Project deliverables*, task tracking, meeting notes, and aggregated financial statements 👀
@@ -39,7 +41,7 @@ Hypha operates with democratic organizing principles informed by our [values](./
 **Default closed to specific working groups and project members**:
 
 - Scope: Organization
-  - Full personal/financial information of members (e.g., home addresses, banking information, and social insurance numbers)
+  - Full personal/financial information of members (e.g., home addresses, banking information, and social insurance numbers) 📝 
   - Personal/financial information involving external parties 📝 
   - Administration privileges including financial for services and infrastructure 📝 
 - Scope: Project
@@ -51,3 +53,10 @@ Hypha operates with democratic organizing principles informed by our [values](./
 - Chat transcripts
 - Notes involving external parties and collaborators
 - Materials from project retrospectives
+
+**Sensitive and confidential**:
+
+- Passwords, credentials, and sensitive personal information
+- Data sets, software, and other content in project work that we don't have consent to share
+- Financial or other information of our clients and partners that we don't have consent to share
+- Data collected through our digital infrastructure, which may contain user account information or personally identifiable information (PII)
