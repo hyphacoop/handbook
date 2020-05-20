@@ -2,7 +2,7 @@
 
 Like others in the Great Lakes region and Toronto, we’ve been closely monitoring the Novel Coronavirus 2019 situation. With the pace the situation has evolved since the World Health Organization [declared COVID-19 a pandemic on March 11](https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020), we can assume that things will continue to change rapidly in the weeks and months ahead.
 
-In order to stay safe as workers and community members during this we've drafted this document, which contains our pandemic-specific policies and guidance, resources, and information on business and personal supports for responding to COVID-19. It was last updated on **April 15, 2020**.
+In order to stay safe as workers and community members during this we've drafted this document, which contains our pandemic-specific policies and guidance, resources, and information on business and personal supports for responding to COVID-19. It was last updated on **May 20, 2020**.
 
 - [Working in the Time of COVID-19](#working-in-the-time-of-covid-19) 
 - [Communication and Education](#communication-and-education) 
@@ -73,9 +73,11 @@ As an employer we recognize/commit to the following:
 
 ## Business Continuity
 
-Ontario has [declared](https://news.ontario.ca/opo/en/2020/03/ontario-enacts-declaration-of-emergency-to-protect-the-public.html) (March 17) and [extended](https://news.ontario.ca/opo/en/2020/03/ontario-extends-emergency-declaration-to-stop-the-spread-of-covid-19.html) (March 30), [twice](https://news.ontario.ca/opo/en/2020/04/ontario-extends-declaration-of-emergency-to-continue-the-fight-against-covid-19) (April 14) a **Declaration of a provincial emergency** and associated emergency measures, including the closure of non-essential workplaces and restrictions on social gathering, until **May 12**.
+Ontario has [declared](https://news.ontario.ca/opo/en/2020/03/ontario-enacts-declaration-of-emergency-to-protect-the-public.html) (March 17) and [extended](https://news.ontario.ca/opo/en/2020/03/ontario-extends-emergency-declaration-to-stop-the-spread-of-covid-19.html) (March 30), [twice](https://news.ontario.ca/opo/en/2020/04/ontario-extends-declaration-of-emergency-to-continue-the-fight-against-covid-19) (April 14), [thrice](https://news.ontario.ca/opo/en/2020/05/ontario-extends-emergency-orders-to-keep-people-safe.html) (May 19) a **Declaration of a provincial emergency** and associated emergency measures, including the closure of non-essential workplaces and restrictions on social gathering, until **May 29**.
 
 Are we considered an [**essential workplace**](https://www.ontario.ca/page/list-essential-workplaces)? **No**, though we do not maintain a physical workplace. The closest business [listed by the province of Ontario](https://www.ontario.ca/page/list-essential-workplaces#section-5) is "17. Information Technology (IT) services" Regardless, the province explicitly indicates "teleworking and online commerce are permitted at all times for all businesses."
+
+The Province has released [A framework for reopening our province](https://www.ontario.ca/page/framework-reopening-our-province?_ga=2.214603412.2031385203.1590009009-79856860.1590009009) (April 27) which describes three stages to gradually reopen all workplaces and public spaces.
 
 ### Risks and Maintaining Critical Processes
 
