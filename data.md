@@ -1,4 +1,5 @@
 ## How We Use Data
+<<<<<<< HEAD
 
 _The outline and format of this page is adopted from [Projects by IF: How IF uses data](https://www.projectsbyif.com/how-if-uses-data/)._
 
@@ -104,3 +105,10 @@ We also use third-party services to host and deliver services and content, almos
 - [Matrix chat services](https://chat.tomesh.net) by [Toronto Mesh](https://tomesh.net)
 
 For a full list of services we use, please refer to our [Services Inventory](https://link.hypha.coop/inventory).
+=======
+Our [BigBlueButton server](https://bbb.hypha.coop) keeps a database for registered users and room information. This information is not backed up.
+
+Uploaded presentations are kept for 5 days after you have ended your meeting and log history is kept for 28 days. These are BigBlueButton's default configurations and automated purging is performed by the software.
+
+Our Jitsi instance we keep standard system logs for debugging purpose only.
+>>>>>>> 023e24cf4ce39cffaf837ac7db80011ded8fe8e6
