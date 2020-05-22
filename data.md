@@ -96,7 +96,7 @@ We use several social media accounts to share our work. We occasionally use the 
 Our social media accounts include:
 
 - [hyphacoop on Twitter](https://link.hypha.coop/twitter) ([privacy policy](https://twitter.com/en/privacy))
-- [hyphacoop on LinkedIn](https://link.hypha.coop/linkedin) ([privacy policy](https://www.linkedin.com/legal/privacy-policy))
+  <li><a href="https://link.hypha.coop/linkedin" data-proofer-ignore="true" target="_blank">hyphacoop on LinkedIn</a> (<a href="https://www.linkedin.com/legal/privacy-policy" data-proofer-ignore="true" target="_blank">privacy policy</a>)</li>
 
 We also use third-party services to host and deliver services and content, almost exclusively to our members, however in some cases we may use them with our collaborators:
 
