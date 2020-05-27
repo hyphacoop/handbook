@@ -2,6 +2,7 @@
 
 _The outline and format of this page is adopted from [Projects by IF: How IF uses data](https://www.projectsbyif.com/how-if-uses-data/)._
 
+### Contents
 - [How We Use Data](#how-we-use-data)
 - [Our Websites and Hosted Services](#our-websites-and-hosted-services)
     - [What data we collect](#what-data-we-collect)
