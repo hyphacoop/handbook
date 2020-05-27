@@ -1,4 +1,4 @@
-## How We Use Data
+# How We Use Data
 
 _The outline and format of this page is adopted from [Projects by IF: How IF uses data](https://www.projectsbyif.com/how-if-uses-data/)._
 
