@@ -1,9 +1,9 @@
 # Handbook
 
-Hypha Organizational Handbook (H₂O) describes the vision, processes, 
+Hypha handbook describing the vision, processes, 
 and culture of Hypha Worker Co-operative. 🌿🍄
 
-This Handbook's primary audience is Hypha member-owners and collaborators, 
+This handbook's primary audience is Hypha member-owners and collaborators, 
 but it will be publicly available for others who might find it useful. 
 
 ![Old-timey web 1.0 UNDER CONSTRUCTION banner](images/under-construction.gif)<br />
