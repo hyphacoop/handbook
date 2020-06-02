@@ -1,7 +1,7 @@
 {
   "name": "handbook",
   "version": "1.0.0",
-  "description": "Hypha Organizational Handbook describes the vision, processes, and culture of Hypha Worker Co-operative. 🌿🍄",
+  "description": "Hypha handbook describes the vision, processes, and culture of Hypha Worker Co-operative. 🌿🍄",
   "dependencies": {
     "gitbook-cli": "^2.3.2"
   },
