@@ -11,7 +11,7 @@ Hypha operates with democratic organizing principles informed by our [values](./
 # How and what?
 
 - We currently accommodate redactions and going off-the-record for meeting notes. Participants can request to stop taking notes, or redact and correct notes after they have been taken.
-- We recognize that some information should be treated as sensitive and confidential for the benefit of Hypha and its clients and partners. An employee or contractor with access to such information is responsible for keeping this information confidential.
+- We recognize that some information should be treated as sensitive and confidential for the benefit of Hypha and its clients and collaborators. Anyone with access to confidential information is responsible for doing their best to keep that information secret and are expected to adhere to these guidelines.
 
 **Legend**  
 👀  view only  
@@ -41,7 +41,7 @@ Hypha operates with democratic organizing principles informed by our [values](./
 **Default closed to specific working groups and project members**:
 
 - Scope: Organization
-  - Full personal/financial information of members (e.g., home addresses, banking information, and social insurance numbers) 📝 
+  - Full financial and personal information of members (e.g., home addresses, banking information, and social insurance numbers) 📝 
   - Personal/financial information involving external parties 📝 
   - Administration privileges including financial for services and infrastructure 📝 
 - Scope: Project
@@ -58,5 +58,5 @@ Hypha operates with democratic organizing principles informed by our [values](./
 
 - Passwords, credentials, and sensitive personal information
 - Data sets, software, and other content in project work that we don't have consent to share
-- Financial or other information of our clients and partners that we don't have consent to share
-- Data collected through our digital infrastructure, which may contain user account information or personally identifiable information (PII)
+- Financial or other business information of our clients and collaborators that we don't have consent to share
+- Data collected through our digital infrastructure, which may contain user account information or personal information
