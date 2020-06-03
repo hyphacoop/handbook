@@ -1,9 +1,8 @@
 # How We Use Data
 
-_The outline and format of this page is adopted from [Projects by IF: How IF uses data](https://www.projectsbyif.com/how-if-uses-data/)._
+_This page's outline and format of this page is adopted from [Projects by IF: How IF uses data](https://www.projectsbyif.com/how-if-uses-data/)._
 
 ### Contents
-- [How We Use Data](#how-we-use-data)
 - [Our Websites and Hosted Services](#our-websites-and-hosted-services)
     - [What data we collect](#what-data-we-collect)
     - [Why we collect data](#why-we-collect-data)
@@ -11,7 +10,9 @@ _The outline and format of this page is adopted from [Projects by IF: How IF use
     - [How long we keep data](#how-long-we-keep-data)
 - [Our Social Media Accounts and Third-party Services](#our-social-media-accounts-and-third-party-services)
 
+
 ---
+## Our Websites and Hosted Services
 
 Hypha is [a worker co-operative incorporated in Ontario, Canada](https://handbook.hypha.coop/co-operative.html). We run our public website, member handbook, and a variety of services at the domain [hypha.coop](https://hypha.coop) and its subdomains:
 
@@ -25,9 +26,8 @@ Hypha is [a worker co-operative incorporated in Ontario, Canada](https://handboo
 - Jitsi: [jitsi.hypha.coop](https://jitsi.hypha.coop)
 - COVID-19 Solidarity: [covid19.hypha.coop](https://covid19.hypha.coop)
 
-This page was last updated on May 25, 2020. You can see previous versions on [GitHub](https://github.com/hyphacoop/handbook/).
+This page was last updated on June 3, 2020. You can see previous versions on [GitHub](https://github.com/hyphacoop/handbook/).
 
-## Our Websites and Hosted Services
 
 ### What data we collect
 
@@ -51,7 +51,7 @@ This page was last updated on May 25, 2020. You can see previous versions on [Gi
 - Phone numbers that connect to meetings (if audio connection is made via a telephone call)
 
 We do not knowingly collect any information from children under the age of 13 without appropriate consent and authorization.
-If you believe we have inadvertently collected personal information from a child under 13 without proper consents please contact `data [at] hypha.coop` so that we may delete such information as soon as possible.
+If you believe we have inadvertently collected personal information from a child under 13 without proper consents please contact <a href="mailto:%64%61%74%61%40%68%79%70%68%61%2E%63%6F%6F%70">data@hypha.coop</a> so that we may delete such information as soon as possible.
 
 ### Why we collect data
 
@@ -77,7 +77,7 @@ System logs are generally retained for a duration that is appropriate for the pa
 
 User accounts necessary to deliver services and content are generally kept indefinitely, and periodically backed up, until the account holders have requested to delete them.
 Deleting your account on a particular service generally does not mean all your information is deleted from our periodic backups.
-If you have a concern, please email `data [at] hypha.coop`.
+If you have a concern, please email <a href="mailto:%64%61%74%61%40%68%79%70%68%61%2E%63%6F%6F%70">data@hypha.coop</a>.
 
 Videoconferencing audio and video are only kept briefly in the buffer throughout the call and not recorded.
 
