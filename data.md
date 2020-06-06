@@ -1,8 +1,9 @@
 # How We Use Data
 
-_This page's outline and format of this page is adopted from [Projects by IF: How IF uses data](https://www.projectsbyif.com/how-if-uses-data/)._
+This page's outline and format is inspired by [Projects by IF: How IF uses data](https://www.projectsbyif.com/how-if-uses-data/).
 
 ### Contents
+
 - [Our Websites and Hosted Services](#our-websites-and-hosted-services)
     - [What data we collect](#what-data-we-collect)
     - [Why we collect data](#why-we-collect-data)
@@ -10,11 +11,10 @@ _This page's outline and format of this page is adopted from [Projects by IF: Ho
     - [How long we keep data](#how-long-we-keep-data)
 - [Our Social Media Accounts and Third-party Services](#our-social-media-accounts-and-third-party-services)
 
-
----
 ## Our Websites and Hosted Services
 
-Hypha is [a worker co-operative incorporated in Ontario, Canada](https://handbook.hypha.coop/co-operative.html). We run our public website, member handbook, and a variety of services at the domain [hypha.coop](https://hypha.coop) and its subdomains:
+Hypha is [a worker co-operative incorporated in Ontario, Canada](https://handbook.hypha.coop/co-operative.html). 
+We run our public website, this member handbook, and a variety of services at the domain [hypha.coop](https://hypha.coop) and its subdomains:
 
 - Website: [hypha.coop](https://hypha.coop)
 - Handbook: [handbook.hypha.coop](https://handbook.hypha.coop)
@@ -26,8 +26,7 @@ Hypha is [a worker co-operative incorporated in Ontario, Canada](https://handboo
 - Jitsi: [jitsi.hypha.coop](https://jitsi.hypha.coop)
 - COVID-19 Solidarity: [covid19.hypha.coop](https://covid19.hypha.coop)
 
-This page was last updated on June 3, 2020. You can see previous versions on [GitHub](https://github.com/hyphacoop/handbook/).
-
+This page was last updated on June 6, 2020. You can see previous versions on [GitHub](https://github.com/hyphacoop/handbook/).
 
 ### What data we collect
 
@@ -96,8 +95,10 @@ However, as Matrix is a federated chat protocol, chat history older than 3 month
 We use several social media accounts to share our work. We occasionally use the analytics tools provided by these platforms.
 Our social media accounts include:
 
-- [hyphacoop on Twitter](https://link.hypha.coop/twitter) ([privacy policy](https://twitter.com/en/privacy))
-  <li><a href="https://link.hypha.coop/linkedin" data-proofer-ignore="true" target="_blank">hyphacoop on LinkedIn</a> (<a href="https://www.linkedin.com/legal/privacy-policy" data-proofer-ignore="true" target="_blank">privacy policy</a>)</li>
+<ul>
+  <li><a href="https://link.hypha.coop/twitter" target="_blank">@hyphacoop on Twitter</a> (<a href="https://twitter.com/en/privacy" target="_blank">privacy policy</a>)</li>
+  <li><a href="https://link.hypha.coop/linkedin" data-proofer-ignore="true" target="_blank">Hypha Worker Co-operative on LinkedIn</a> (<a href="https://www.linkedin.com/legal/privacy-policy" target="_blank">privacy policy</a>)</li>
+</ul>
 
 We also use third-party services to host and deliver services and content, almost exclusively to our members, however in some cases we may use them with our collaborators:
 
