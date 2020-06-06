@@ -58,7 +58,7 @@ A **contractor**:
   - Provides services clearly specified in a time-limited contractor agreement
 
 A **collaborator**:
-  - Participates in open Hypha activities and projects without a formal 
+  - Participates in open Hypha activities and projects without a formal employment
     relationship
 
 ## Notes
