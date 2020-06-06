@@ -32,6 +32,19 @@ You can contact us the following ways:
 
 ## Member-owners and Employees
 
+As a worker co-operative, there are specific conditions regaring employees and members, 
+addressed in Article [1], [1.1], [144] and [145.1] of the [*Ontario Co-operative Corporations Act*][coop-act]. 
+A summary is provided below:
+
+> Article 1.1
+> "Worker co-operative" means a co-operative whose primary object is to provide employment to its members and as a condition of membership that, except in certain circumstances, a member must be employed by the co-operative (roughly at least 75 % of all employees are members of the co-operative, there are specific exemptions).
+>
+> Article 1.2 (and repeated in 144.1.4)
+> An employee is not a permanent full-time employee if they are employed for a probationary period of one year or less; are employed under a contract for a term of two years or less; or have regular hours of work [that are] less than fifteen hours per week.
+>
+> Article 145.4  
+> The co-operative must maintain a minimum of three members.
+
 Every **member-owner** is both an employee and co-owner of Hypha. There are 
 seven member-owners, all of which are founding employees, with four Directors.
 
