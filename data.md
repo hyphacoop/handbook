@@ -1,6 +1,10 @@
 # How We Use Data
 
-This page's outline and format is inspired by [Projects by IF: How IF uses data](https://www.projectsbyif.com/how-if-uses-data/).
+Hypha is [a worker co-operative incorporated in Ontario, Canada](https://handbook.hypha.coop/co-operative.html). 
+We run our public website, this member handbook, and a variety of services at the domain [hypha.coop](https://hypha.coop) and its subdomains. 
+This page identifes what data we collect and why, as well as where and how long we store collected data for.
+
+This page was last updated on June 6, 2020. You can see previous versions on [GitHub](https://github.com/hyphacoop/handbook/). The outline and format is inspired by [Projects by IF: How IF uses data](https://www.projectsbyif.com/how-if-uses-data/).
 
 ### Contents
 
@@ -13,8 +17,7 @@ This page's outline and format is inspired by [Projects by IF: How IF uses data]
 
 ## Our Websites and Hosted Services
 
-Hypha is [a worker co-operative incorporated in Ontario, Canada](https://handbook.hypha.coop/co-operative.html). 
-We run our public website, this member handbook, and a variety of services at the domain [hypha.coop](https://hypha.coop) and its subdomains:
+The collowing sites and services are at the domain [hypha.coop](https://hypha.coop) and its subdomains:
 
 - Website: [hypha.coop](https://hypha.coop)
 - Handbook: [handbook.hypha.coop](https://handbook.hypha.coop)
@@ -26,7 +29,6 @@ We run our public website, this member handbook, and a variety of services at th
 - Jitsi: [jitsi.hypha.coop](https://jitsi.hypha.coop)
 - COVID-19 Solidarity: [covid19.hypha.coop](https://covid19.hypha.coop)
 
-This page was last updated on June 6, 2020. You can see previous versions on [GitHub](https://github.com/hyphacoop/handbook/).
 
 ### What data we collect
 
