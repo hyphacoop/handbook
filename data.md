@@ -17,7 +17,7 @@ This page was last updated on June 6, 2020. You can see previous versions on [Gi
 
 ## Our Websites and Hosted Services
 
-The collowing sites and services are at the domain [hypha.coop](https://hypha.coop) and its subdomains:
+The following sites and services are at the domain [hypha.coop](https://hypha.coop) and its subdomains:
 
 - Website: [hypha.coop](https://hypha.coop)
 - Handbook: [handbook.hypha.coop](https://handbook.hypha.coop)
