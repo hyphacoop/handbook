@@ -200,7 +200,7 @@ The Finance WG reviews submitted expenses before each pay period, and pays out r
 
 1. Upload the expense receipt to [Employee Expense Receipts](https://link.hypha.coop/receipts) with file name `xx-YYYY-MM-DD-title.ext` where `xx` is the initials of the member, `title` describes the expense, and `ext` is the file extension, then make note of the URL.
 
-1. Open the [Expense Reimbursement](https://link.hypha.coop/expenses) sheet and fill in a new row according to instructions in the sheet.
+1. Open the [Employee Expenses](https://link.hypha.coop/expenses) sheet and fill in a new row according to instructions in the sheet.
     - Date of Expense: `[date on your receipt]`
     - Employee: `[employee to reimburse]`
     - Description of Expense: `[short description of what the expense is for]`
@@ -226,7 +226,7 @@ For the Finance WG to approve an expense:
 
 1. Verify that the amount shows up correctly on the `Expense Reimbursement` column on [Employee Payroll](http://link.hypha.coop/payroll) of the applicable pay period, so it gets entered into Wagepoint on the next payroll run.
 
-1. 🚧 Track the expense appropriately in [Quickbooks Online](https://quickbooks.intuit.com/ca/).
+1. After reimbursements are paid out through Wagepoint, our bookkeeper will file the the amounts into expense accounts in [Quickbooks Online](https://quickbooks.intuit.com/ca/) based on the [Posting Journals](https://drive.google.com/drive/u/0/folders/1wWo9KqNwWdUK5d-jkApV3id_Y_dpftT9) and [Employee Expenses](https://link.hypha.coop/expenses) sheet.
 
 ## Invoices
 
@@ -279,20 +279,15 @@ Prior to creating an invoice, confirm with the client whether they would like to
 
     All invoices are in CAD, even if the customer is paying in a foreign currency. This means `RATE` and `AMOUNT` columns are in CAD, and if the contract is an hourly rate based on a foreign currency, you can include the information in the `DESCRIPTION` column, and use an estimated CAD equivalent in the `RATE` column and to calculate the `AMOUNT`.
 
-1. Create a `Subtotal` line item.
-    See example below.
-
-1. Add a line item for Canadian HST, and if it is not applicable, indicate the reason in the line item `DESCRIPTION`.
+1. In the `SALES TAX` column, select one of `HST ON`, `zero-rated`, `exempt`, or `out of scope` for each line item.
     See example below.
 
 1. Review the invoice preview, then click `Save and send` to email the invoice to the client.
 
-| DESCRIPTION | QTY | RATE | AMOUNT |
-|:------------|----:|-----:|-------:|
-| Software development for Jan 2020<br />(52.25 @ USD 60.00 = 3,135.00) | 52.25    | 80.00 | 4,180.00           |
-| Software development for Feb 2020<br />(20.00 @ USD 60.00 = 1,200.00) | 20.00    | 80.00 | 1,600.00           |
-|                                                                       |          |       | Subtotal: 5,780.00 |
-| HST @ 0%<br />Intellectual property exports, zero-rated               | 5,780.00 | 0     | 0.00               |
+| DESCRIPTION | QTY | RATE | AMOUNT | SALES TAX |
+|:------------|----:|-----:|-------:|----------:|
+| Software development for Jan 2020<br />(52.25 @ USD 60.00 = 3,135.00) | 52.25    | 80.00 | 4,180.00           | zero-rated |
+| Software development for Feb 2020<br />(20.00 @ USD 60.00 = 1,200.00) | 20.00    | 80.00 | 1,600.00           | zero-rated |
 
 ### Settling an invoice payment
 
@@ -560,16 +555,16 @@ If this is the first time you use Wagepoint, please first review the [Running yo
 
     You can review past payrolls under the `REPORTS` tab.
 
-1. **Process:** Verify the amounts.
-    Save the PDF output of `VIEW ALL`, our "Payroll Register", into the 🔒 [`Finance > Payroll` folder in our Drive](https://drive.google.com/drive/u/0/folders/1IWyDzyeixO4Z6TbIghorqTiCbrs2N4K8).
+1. **Process:** Click `VIEW ALL` to verify each Employee's amount, and that we have sufficient funds in our [bank account](https://www.desjardins.com/ca/) to pay the invoice total.
     Click `APPROVE PAYROLL`.
 
 1. **Confirm:** Confirm the payroll run for this pay period.
-    It will be queued for processing on the `Pay Date`.
+    It will be queued for processing and deposits to Employee accounts will happen on the `Pay Date`.
 
-1. No further steps necessary.
-    Wagepoint will withdraw funds from our bank account, and this will sync with our Quickbooks automatically.
-    Our bookkeeper will see our Payroll Register in the Drive and update Quickbooks for us once per month.
+1. Three working days ahead of the `Pay Date`, Wagepoint will withdraw funds from our bank account.
+    After we receive a notification from Wagepoint that payroll reports are ready, we need to upload the following PDFs for our bookkeeper to update Quickbooks once per month:
+    - [Payroll Register](https://secure.wagepoint.com/payrollRegister) and [Posting Journal](https://secure.wagepoint.com/postingJournal) to 🔒 [`Finance > Payroll > Payroll Information`](https://drive.google.com/drive/u/0/folders/1wWo9KqNwWdUK5d-jkApV3id_Y_dpftT9)
+    - [Payroll Invoices](https://secure.wagepoint.com/invoice) to 🔒 [`Finance > Expenses > Wagepoint Receipts`](https://drive.google.com/drive/u/0/folders/19kHFXd50bw6x-sw9qEVnAGMkwpd1i2Vv)
 
 ### Adding a new employee
 

@@ -50,6 +50,7 @@ The previous Cultivator is responsible for making time to mentor and support the
 - keep our books synchronized with bank accounts and match transactions to appropriate categories
 - review quarterly financial reports
 - update financial projections and communicate financial health to members
+- upload bank statement to 🔒 [`Finance > Desjardins Account > Monthly Statements`](https://drive.google.com/drive/u/0/folders/1gEcomHQe4OqVAPUqHwvrtdQJz-mc23K9) each month
 - serve as contact person for our accountant and bookkeeper
 - oversee all tax obligations
 	- familiarize with [GST/HST Information for Non-Profit Organizations](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4081/gst-hst-information-non-profit-organizations.html)
@@ -96,7 +97,7 @@ Single meeting. Moves through alphabetical list of active member names.
 	- [approve reimbursement of expenses](https://handbook.hypha.coop/guides.html#expense-reimbursement)
 	- [prepare payroll](https://handbook.hypha.coop/guides.html#running-payroll)
 	- ensure payroll taxes are remitted, manually file a nil remittance if a pay period is skipped
-	- archive [Employee Payroll sheet](http://link.hypha.coop/payroll) and [processed payroll records](https://drive.google.com/drive/u/0/folders/1wWo9KqNwWdUK5d-jkApV3id_Y_dpftT9)
+	- archive [Employee Payroll sheet](http://link.hypha.coop/payroll) and payroll reports
 - issue T4 (to each employee) and T4A (to each contractor) for each year
 - assist Operations WG in [employee and contractor onboarding](https://handbook.hypha.coop/guides.html#onboarding-checklist) and keep appropriate records
 - adhere to legal requirements around [keeping records](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/keeping-records.html) and [handling of Social Insurance Number](https://www.canada.ca/en/employment-social-development/services/sin/reports/code-of-practice/section-3.html), and [our sensitive data practices](https://handbook.hypha.coop/guides.html#sensitive-data)
