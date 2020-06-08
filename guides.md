@@ -499,6 +499,8 @@ This is a checklist for onboarding a new Member to the Co-operative 🚀
 
 1. Invite to [Passbolt](https://pass.hypha.coop):
   - After acceptance, add to `Member-Worker` group
+  - Ensure Member understands it is their responsibility to back-up their own private key
+  - Ensure Member understands when creating a password, they need to grant access to appropriate groups (e.g., when a password is meant to be shared between Members, otherwise others do not know that password exists in Passbolt)
 
 1. Invite to [GitHub Organization](https://github.com/hyphacoop):
   - Add to `Worker-Owner` [GitHub Team](https://link.hypha.coop/teams)
