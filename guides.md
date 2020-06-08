@@ -301,7 +301,7 @@ Once the client has paid the invoice, we must check the amount received at our r
 
     1. Find the transaction from the client and click on it, then select `Find match` to select the incoming transaction to match.
 
-    1. If there is a discrepancy in the amounts, click the `Resolve` button and change `CATEGORY` to `Bank charges`, then click `Save`.
+    1. If there is a discrepancy in the amounts, click the `Resolve` button and change `CATEGORY` to `Bank charges`, and `GST/HST` to `Exempt (0%)` since bank charges are exempt items, then click `Save`.
 
 1. Archive the PDF of the paid and finalized invoice in our [shared drive](https://link.hypha.coop/drive) under the `Invoices` directory with filename `xxxx-project.pdf`, where `xxxx` is the invoice number (e.g. `1001-aether.pdf`).
 
@@ -343,7 +343,7 @@ The following example shows how to do that in a single transaction from Transfer
         Make sure you take the exchange rate from the TransferWise CSV.
 
     1. In the `Banking` tab, select our `Chequing` account and click `Update` to sync our Desjardins account.
-        Find the transaction from TransferWise and click on it, then change the `Category` to `TransferWise` and click `Add`.
+        Find the transaction from TransferWise and click on it, and change the `Category` to `TransferWise`, change `Tax code` to `Out of Scope (Sales)` since this is an internal transfer, then click `Add`.
 
     1. In the `Banking` tab, select our `TransferWise` account to click `File upload` (down arrow next to `Update`) to update our TransferWise account.
         `Browse` and upload the TransferWise CSV we saved earlier, select `TransferWise` as the account, then click `Next` and enter the following:
@@ -360,7 +360,7 @@ The following example shows how to do that in a single transaction from Transfer
         We expect a discrepancy in the amounts.
         Click the `Resolve` button and change `CATEGORY` to `Bank charges`, then click `Save`.
 
-    1. If there is a discrepancy, click the `Resolve` button and change `CATEGORY` to `Bank charges`, then click `Save`.
+    1. If there is a discrepancy, click the `Resolve` button and change `CATEGORY` to `Bank charges`, and `GST/HST` to `Exempt (0%)` since bank charges are exempt items, then click `Save`.
 
 1. Archive the PDF of the paid and finalized invoice in our [shared drive](https://link.hypha.coop/drive) under the `Invoices` directory with filename `xxxx-project.pdf`, where `xxxx` is the invoice number (e.g. `1001-aether.pdf`).
 
