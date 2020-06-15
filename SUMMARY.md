@@ -14,6 +14,7 @@
   - [Roles](roles.md)
   - [Working Open](working-open.md)
   - [Finance](finance.md)
+  - [Fiscal Sponsorship](fiscal-sponsorship.md)
   - [Novel Coronavirus (2019) 🦠](coronavirus.md) 
 * [Guides](guides.md)
 * [How We Use Data](data.md)
