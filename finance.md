@@ -78,9 +78,9 @@ Member wages are paid on the **pay day**, which is the **15th of each month** or
 A Member's wage is calculated based on the billable hours of work rendered up to the end of the previous month.
 For example:
 
-> The March 15 pay day covers the "pay period" of March, and it pays for the work rendered throughout the month of February.
+> The March 15 pay day covers the "pay period" of February, and it pays for the work rendered throughout the month of February.
 
-Before the **7th of each month**, Members must submit payroll information to the [Employee Payroll](https://link.hypha.coop/payroll) sheet in order to be paid for the current pay period.
+Before the **7th of each month**, Members must submit payroll information to the [Employee Payroll](https://link.hypha.coop/payroll) sheet in order to be paid for the pay period covering the previous month.
 
 All wages, expense reimbursements, and withheld taxes are managed by the [Payroll Coordinator](roles.md#payroll-coordinator) using Wagepoint and Quickbooks Online, which are linked to our main Desjardins account.
 
@@ -139,7 +139,7 @@ Hypha has the following [program accounts](https://www.canada.ca/en/revenue-agen
 
 - ☑️ `RC0001` **Corporate Income Tax (RC)** is filed/reported and remitted/paid each tax year
 - ☑️ `RP0001` **Payroll Deduction (RP)** is reported and paid each pay period
-- 🔜 `RT0001` **GST/HST (RT)** is [reported and paid](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/account-register.html#once) each filing period (TBD)
+- ☑️ `RT0001` **GST/HST (RT)** is reported and paid each quarter
 
 ### Corporate Income Tax (RC)
 
@@ -159,14 +159,13 @@ At the end of each year, Hypha issues a T4 to each employee and a T4A to each co
 ### GST/HST (RT)
 
 The [GST/HST Information for Non-Profit Organizations](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4081/gst-hst-information-non-profit-organizations.html) applies to Hypha for GST/HST purposes.
-
-At the moment, our revenue in the last four consecutive calendar quarters is < CAD$50,000, and is therefore considered a small supplier where we do not need to collect GST/HST.
+We started collecting GST/HST as of **May 15, 2020** with a [quarterly reporting period](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/pay-when.html) and our fiscal year end date for GST/HST return on **June 30**.
 
 Much of our digital services (e.g. software development, system administration, design) for international clients (outside of Canada) are GST/HST _zero-rated_ as they are classified as _exported goods and services_.
 This is different from GST/HST _exempt_ because _zero-rated_ items are still eligible for _Input Tax Credit (ITC)_ on related expenditures.
 This is described under [Intangible personal property](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-090/gst-hst-electronic-commerce.html#P22_9331) and [Excise Tax Act section 10 of Part V of Schedule VI](https://laws-lois.justice.gc.ca/eng/acts/E-15/page-179.html#h-201391).
 
-When we start collecting GST/HST, where we will charge and claim GST/HST is dependent on a few factors.
+Whether we will charge and claim GST/HST is dependent on a few factors.
 Here are some likely scenarios that may apply to Hypha projects:
 
 1. **Hypha provides IT consultation and software development service to a Canadian client and subcontracts a Canadian web developer, spends $100 on web hosting and $1,000 on a laptop to help us fulfill the contract.**
@@ -178,7 +177,7 @@ Here are some likely scenarios that may apply to Hypha projects:
   - We are eligible to reclaim the 13% HST of $1,000 paid to acquire the laptop as ITC
 
   i. **Same scenario, but the client is a non-Canadian company.**
-  - We will charge **no HST** when invoicing the client, and mark as _Intellectual property exports, zero-rated_ on the invoice
+  - We will charge **no HST** when invoicing the client, and mark as _zero-rated_ on the invoice since the service is considered _intellectual property exports_
   - The Canadian subcontractor may charge us 13% HST when invoicing us, which we can still reclaim as ITC
   - We are still eligible for all ITC claims as above
   
