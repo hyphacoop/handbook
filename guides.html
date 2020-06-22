@@ -618,7 +618,7 @@ The Finance WG reviews submitted expenses before each pay period, and pays out r
 <ol>
 <li><p>Upload the expense receipt to <a href="https://link.hypha.coop/receipts" target="_blank">Employee Expense Receipts</a> with file name <code>xx-YYYY-MM-DD-title.ext</code> where <code>xx</code> is the initials of the member, <code>title</code> describes the expense, and <code>ext</code> is the file extension, then make note of the URL.</p>
 </li>
-<li><p>Open the <a href="https://link.hypha.coop/expenses" target="_blank">Expense Reimbursement</a> sheet and fill in a new row according to instructions in the sheet.</p>
+<li><p>Open the <a href="https://link.hypha.coop/expenses" target="_blank">Employee Expenses</a> sheet and fill in a new row according to instructions in the sheet.</p>
 <ul>
 <li>Date of Expense: <code>[date on your receipt]</code></li>
 <li>Employee: <code>[employee to reimburse]</code></li>
@@ -646,7 +646,7 @@ The Finance WG reviews submitted expenses before each pay period, and pays out r
 </li>
 <li><p>Verify that the amount shows up correctly on the <code>Expense Reimbursement</code> column on <a href="http://link.hypha.coop/payroll" target="_blank">Employee Payroll</a> of the applicable pay period, so it gets entered into Wagepoint on the next payroll run.</p>
 </li>
-<li><p>&#x1F6A7; Track the expense appropriately in <a href="https://quickbooks.intuit.com/ca/" target="_blank">Quickbooks Online</a>.</p>
+<li><p>After reimbursements are paid out through Wagepoint, our bookkeeper will file the the amounts into expense accounts in <a href="https://quickbooks.intuit.com/ca/" target="_blank">Quickbooks Online</a> based on the <a href="https://drive.google.com/drive/u/0/folders/1wWo9KqNwWdUK5d-jkApV3id_Y_dpftT9" target="_blank">Posting Journals</a> and <a href="https://link.hypha.coop/expenses" target="_blank">Employee Expenses</a> sheet.</p>
 </li>
 </ol>
 <h2 id="invoices"><a name="invoices" class="plugin-anchor" href="#invoices"><i class="fa fa-link" aria-hidden="true"></i></a>Invoices</h2>
@@ -694,10 +694,7 @@ The Finance WG reviews submitted expenses before each pay period, and pays out r
  See example below.</p>
 <p> All invoices are in CAD, even if the customer is paying in a foreign currency. This means <code>RATE</code> and <code>AMOUNT</code> columns are in CAD, and if the contract is an hourly rate based on a foreign currency, you can include the information in the <code>DESCRIPTION</code> column, and use an estimated CAD equivalent in the <code>RATE</code> column and to calculate the <code>AMOUNT</code>.</p>
 </li>
-<li><p>Create a <code>Subtotal</code> line item.
- See example below.</p>
-</li>
-<li><p>Add a line item for Canadian HST, and if it is not applicable, indicate the reason in the line item <code>DESCRIPTION</code>.
+<li><p>In the <code>SALES TAX</code> column, select one of <code>HST ON</code>, <code>zero-rated</code>, <code>exempt</code>, or <code>out of scope</code> for each line item.
  See example below.</p>
 </li>
 <li><p>Review the invoice preview, then click <code>Save and send</code> to email the invoice to the client.</p>
@@ -710,6 +707,7 @@ The Finance WG reviews submitted expenses before each pay period, and pays out r
 <th style="text-align:right">QTY</th>
 <th style="text-align:right">RATE</th>
 <th style="text-align:right">AMOUNT</th>
+<th style="text-align:right">SALES TAX</th>
 </tr>
 </thead>
 <tbody>
@@ -718,24 +716,14 @@ The Finance WG reviews submitted expenses before each pay period, and pays out r
 <td style="text-align:right">52.25</td>
 <td style="text-align:right">80.00</td>
 <td style="text-align:right">4,180.00</td>
+<td style="text-align:right">zero-rated</td>
 </tr>
 <tr>
 <td style="text-align:left">Software development for Feb 2020<br>(20.00 @ USD 60.00 = 1,200.00)</td>
 <td style="text-align:right">20.00</td>
 <td style="text-align:right">80.00</td>
 <td style="text-align:right">1,600.00</td>
-</tr>
-<tr>
-<td style="text-align:left"></td>
-<td style="text-align:right"></td>
-<td style="text-align:right"></td>
-<td style="text-align:right">Subtotal: 5,780.00</td>
-</tr>
-<tr>
-<td style="text-align:left">HST @ 0%<br>Intellectual property exports, zero-rated</td>
-<td style="text-align:right">5,780.00</td>
-<td style="text-align:right">0</td>
-<td style="text-align:right">0.00</td>
+<td style="text-align:right">zero-rated</td>
 </tr>
 </tbody>
 </table>
@@ -749,7 +737,7 @@ The Finance WG reviews submitted expenses before each pay period, and pays out r
 </li>
 <li><p>Find the transaction from the client and click on it, then select <code>Find match</code> to select the incoming transaction to match.</p>
 </li>
-<li><p>If there is a discrepancy in the amounts, click the <code>Resolve</code> button and change <code>CATEGORY</code> to <code>Bank charges</code>, then click <code>Save</code>.</p>
+<li><p>If there is a discrepancy in the amounts, click the <code>Resolve</code> button and change <code>CATEGORY</code> to <code>Bank charges</code>, and <code>GST/HST</code> to <code>Exempt (0%)</code> since bank charges are exempt items, then click <code>Save</code>.</p>
 </li>
 </ol>
 </li>
@@ -788,7 +776,7 @@ Open the file and multiply the amounts with the exchange rate column, then save.
  Make sure you take the exchange rate from the TransferWise CSV.</p>
 </li>
 <li><p>In the <code>Banking</code> tab, select our <code>Chequing</code> account and click <code>Update</code> to sync our Desjardins account.
- Find the transaction from TransferWise and click on it, then change the <code>Category</code> to <code>TransferWise</code> and click <code>Add</code>.</p>
+ Find the transaction from TransferWise and click on it, and change the <code>Category</code> to <code>TransferWise</code>, change <code>Tax code</code> to <code>Out of Scope (Sales)</code> since this is an internal transfer, then click <code>Add</code>.</p>
 </li>
 <li><p>In the <code>Banking</code> tab, select our <code>TransferWise</code> account to click <code>File upload</code> (down arrow next to <code>Update</code>) to update our TransferWise account.
  <code>Browse</code> and upload the TransferWise CSV we saved earlier, select <code>TransferWise</code> as the account, then click <code>Next</code> and enter the following:</p>
@@ -806,7 +794,7 @@ Open the file and multiply the amounts with the exchange rate column, then save.
  We expect a discrepancy in the amounts.
  Click the <code>Resolve</code> button and change <code>CATEGORY</code> to <code>Bank charges</code>, then click <code>Save</code>.</p>
 </li>
-<li><p>If there is a discrepancy, click the <code>Resolve</code> button and change <code>CATEGORY</code> to <code>Bank charges</code>, then click <code>Save</code>.</p>
+<li><p>If there is a discrepancy, click the <code>Resolve</code> button and change <code>CATEGORY</code> to <code>Bank charges</code>, and <code>GST/HST</code> to <code>Exempt (0%)</code> since bank charges are exempt items, then click <code>Save</code>.</p>
 </li>
 </ol>
 </li>
@@ -1016,16 +1004,18 @@ You should have a completed <a href="http://link.hypha.coop/payroll" target="_bl
 <p> In the <code>PAY?</code> column, select <code>YES</code> for any Employee who will be paid in this payroll.</p>
 <p> You can review past payrolls under the <code>REPORTS</code> tab.</p>
 </li>
-<li><p><strong>Process:</strong> Verify the amounts.
- Save the PDF output of <code>VIEW ALL</code>, our &quot;Payroll Register&quot;, into the &#x1F512; <a href="https://drive.google.com/drive/u/0/folders/1IWyDzyeixO4Z6TbIghorqTiCbrs2N4K8" target="_blank"><code>Finance &gt; Payroll</code> folder in our Drive</a>.
+<li><p><strong>Process:</strong> Click <code>VIEW ALL</code> to verify each Employee&apos;s amount, and that we have sufficient funds in our <a href="https://www.desjardins.com/ca/" target="_blank">bank account</a> to pay the invoice total.
  Click <code>APPROVE PAYROLL</code>.</p>
 </li>
 <li><p><strong>Confirm:</strong> Confirm the payroll run for this pay period.
- It will be queued for processing on the <code>Pay Date</code>.</p>
+ It will be queued for processing and deposits to Employee accounts will happen on the <code>Pay Date</code>.</p>
 </li>
-<li><p>No further steps necessary.
- Wagepoint will withdraw funds from our bank account, and this will sync with our Quickbooks automatically.
- Our bookkeeper will see our Payroll Register in the Drive and update Quickbooks for us once per month.</p>
+<li><p>Three working days ahead of the <code>Pay Date</code>, Wagepoint will withdraw funds from our bank account.
+ After we receive a notification from Wagepoint that payroll reports are ready, we need to upload the following PDFs for our bookkeeper to update Quickbooks once per month:</p>
+<ul>
+<li><a href="https://secure.wagepoint.com/payrollRegister" target="_blank">Payroll Register</a> and <a href="https://secure.wagepoint.com/postingJournal" target="_blank">Posting Journal</a> to &#x1F512; <a href="https://drive.google.com/drive/u/0/folders/1wWo9KqNwWdUK5d-jkApV3id_Y_dpftT9" target="_blank"><code>Finance &gt; Payroll &gt; Payroll Information</code></a></li>
+<li><a href="https://secure.wagepoint.com/invoice" target="_blank">Payroll Invoices</a> to &#x1F512; <a href="https://drive.google.com/drive/u/0/folders/19kHFXd50bw6x-sw9qEVnAGMkwpd1i2Vv" target="_blank"><code>Finance &gt; Expenses &gt; Wagepoint Receipts</code></a></li>
+</ul>
 </li>
 </ol>
 <h3 id="adding-a-new-employee"><a name="adding-a-new-employee" class="plugin-anchor" href="#adding-a-new-employee"><i class="fa fa-link" aria-hidden="true"></i></a>Adding a new employee</h3>
@@ -1294,7 +1284,7 @@ Dial <code>*98</code></li>
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Guides","level":"1.4","depth":1,"next":{"title":"How We Use Data","level":"1.5","depth":1,"path":"data.md","ref":"data.md","articles":[]},"previous":{"title":"Novel Coronavirus (2019) 🦠","level":"1.3.8","depth":2,"path":"coronavirus.md","ref":"coronavirus.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["anchors"],"pluginsConfig":{"anchors":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"handbook.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"guides.md","mtime":"2020-06-15T03:44:21.373Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2020-06-15T03:44:58.232Z"},"basePath":".","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Guides","level":"1.4","depth":1,"next":{"title":"How We Use Data","level":"1.5","depth":1,"path":"data.md","ref":"data.md","articles":[]},"previous":{"title":"Novel Coronavirus (2019) 🦠","level":"1.3.8","depth":2,"path":"coronavirus.md","ref":"coronavirus.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["anchors"],"pluginsConfig":{"anchors":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"handbook.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"guides.md","mtime":"2020-06-22T07:28:40.249Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2020-06-22T07:29:25.472Z"},"basePath":".","book":{"language":""}});
         });
     </script>
 </div>
