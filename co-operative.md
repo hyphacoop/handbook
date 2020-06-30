@@ -16,6 +16,7 @@ As per 2017's [_Cutting Unnecessary Red Tape Act_](https://www.ontario.ca/laws/s
 Hypha falls under neither the current [_Corporations Act_](https://www.ontario.ca/laws/statute/90c38), 
 nor the upcoming [_Not-for-Profit Corporations Act_](https://www.ontario.ca/laws/statute/10n15), 
 which both govern not-for-profit _corporations_ in Ontario.
+We are a [not-for-profit _co-operative_][not-for-profit-coop].
 
 Hypha is a member of [Canadian Worker Co-op Federation (CWCF)](https://canadianworker.coop/), 
 and through that affiliation is a member of the [Ontario Co-operative Association (OCA)](https://ontario.coop/) and [Cooperatives and Mutuals Canada (CMC)](https://canada.coop/).<sup>[1](#notes)</sup> 
@@ -29,15 +30,15 @@ You can contact us the following ways:
 - 🔗 [hypha.coop](https://hypha.coop)
 - 📧 hello@hypha.coop
 
-## Member-owners and Employees
+## Members and Employees
 
-Every **member-owner** is both an employee and co-owner of Hypha. There are 
-seven member-owners, all of which are founding members, with six directors.
+Every **member-worker**, or **member** in short, is both a member and an employee of Hypha.
+There are seven members, all of which are founding members, with six also serving as directors.
 
-A **member-owner**:
+A **member**:
   - Has completed a membership application (and/or been officially welcomed into 
     the membership)
-  - Is a *permanent* or *founding* employee
+  - Is a *founding*, or *permanent*, member if they are one of the seven members who founded Hypha
   - Is considered:
     - *active* if they have not requested to change their status
     - *inactive* if they have requested to change their status
@@ -46,6 +47,7 @@ A **member-owner**:
       - Inactive members can request to become active at any time
 
 An **employee**: 
+  - Works under a *contract of service* with Hypha
   - Is "someone who performs work for an employer for wages," meeting the 
     [*Employment Standards Act, 2000*][es-act] [definition of employee][esa-employee] 
   - Is considered *permanent* if they:
@@ -53,13 +55,24 @@ An **employee**:
     - Are not working under contract
 
 A **contractor**:
+  - Works as an *independent* contractor under a *contract for service* with Hypha
   - Provides services clearly specified in a time-limited contractor agreement
+  - May be a natural person or incorporated entity, domestic or foreign
 
 A **collaborator**:
   - Participates in open Hypha activities and projects without a formal employment
     relationship
 
-As a worker co-operative, there are specific conditions regarding employees and members, 
+As every member holds a dual position as both a member and an employee of Hypha,
+they must make a distinction between *member duties* and *employee work*.
+Members are expected to acknowledge these components of their relationship with Hypha by signing the *Membership Acknowledgement*.
+
+Employees, as well as contractors and collaborators engaged in certain initiatives with Hypha,
+are expected to sign an *Employee and Contractor Intellectual Property Agreement* and comply with
+[tax obligations as applicable to them](https://handbook.hypha.coop/finance.html#gsthst-rt).
+Hypha currently does not employ anyone as *member-contractor* or *dependent contractor*.
+
+As a worker co-operative, there are specific conditions regarding members and employees, 
 addressed in Article [1], [144.1] and [145] of the [*Ontario Co-operative Corporations Act*][coop-act]. 
 A summary is provided below:
 
@@ -82,3 +95,4 @@ along with places we have a presence as a co-operative on our Loomio.</sup>
 [coop-act]: https://www.ontario.ca/laws/statute/90c35
 [es-act]: https://www.ontario.ca/laws/statute/00e41
 [esa-employee]: https://www.ontario.ca/document/changing-workplaces-review-final-report/chapter-8-who-employer-and-who-employee-under-employment-standards-act-2000#section-1
+[not-for-profit-coop]: https://ontario.coop/sites/default/files/STR06_For%20Profit%20and%20Not%20for%20Profit%20Co-ops.pdf
