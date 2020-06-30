@@ -8,8 +8,7 @@ Hypha Worker Co-operative Inc. is a worker co-operative incorporated on August
 Hypha is incorporated as a **non-share capital** worker co-operative under the 
 [*Ontario Co-operative Corporations Act, 1990*][coop-act]. 
 This entails specific conditions on our primary object, size of membership, 
-and role of members, as addressed in Article [1], [1.1], [144], 
-and [145.1] of the Act.
+and role of members, as addressed in Article [1], [144.1], and [145] of the Act.
 
 We are a non-profit _organization_. 
 That means our organization does not operate with the primary purpose of generating profit. 
@@ -33,15 +32,14 @@ You can contact us the following ways:
 ## Member-owners and Employees
 
 Every **member-owner** is both an employee and co-owner of Hypha. There are 
-seven member-owners, all of which are founding employees, with four Directors.
+seven member-owners, all of which are founding members, with six directors.
 
 A **member-owner**:
   - Has completed a membership application (and/or been officially welcomed into 
     the membership)
   - Is a *permanent* or *founding* employee
   - Is considered:
-    - *active* if they are in good standing with their membership fees and have 
-      not requested to change their status
+    - *active* if they have not requested to change their status
     - *inactive* if they have requested to change their status
       - Inactive members are unable to vote, serve as a director, participate in 
         projects, or work as an employee for so long as they remain so
@@ -62,16 +60,16 @@ A **collaborator**:
     relationship
 
 As a worker co-operative, there are specific conditions regarding employees and members, 
-addressed in Article [1], [1.1], [144] and [145.1] of the [*Ontario Co-operative Corporations Act*][coop-act]. 
+addressed in Article [1], [144.1] and [145] of the [*Ontario Co-operative Corporations Act*][coop-act]. 
 A summary is provided below:
 
-> Article 1.1
+> Article 1 (1)
 > "Worker co-operative" means a co-operative whose primary object is to provide employment to its members and as a condition of membership that, except in certain circumstances, a member must be employed by the co-operative (roughly at least 75 % of all employees are members of the co-operative, there are specific exemptions).
 >
-> Article 1.2 (and repeated in 144.1.4)
+> Article 1 (1.2) (and repeated in 144.1 (2))
 > An employee is not a permanent full-time employee if they are employed for a probationary period of one year or less; are employed under a contract for a term of two years or less; or have regular hours of work [that are] less than fifteen hours per week.
 >
-> Article 145.4  
+> Article 145 (4)  
 > The co-operative must maintain a minimum of three members.
 
 ## Notes
