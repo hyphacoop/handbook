@@ -778,35 +778,29 @@ Instructions:
 
 Members log their work hours using [Clockify](https://clockify.me), and project timesheets may be generated to determine the invoice amount each period for some clients, and often for calculating member wages.
 This process is done using the Clockify [Summary Report](https://clockify.me/reports/summary).
-Saved reports are found under [Saved Reports](https://clockify.me/reports/saved).
+Shared reports are found under [Shared Reports](https://clockify.me/reports/shared).
 
-Follow these steps to generate and archive your project timesheets:
+### Setting up a new project
 
-1. When a project begins, generate a **team project report** in Clockify and save with the name `project_YYYYMM` where `YYYYMM` indicates the first month the project is active (e.g. [aether_201908](https://clockify.me/bookmarks/5db255d9e8cd9c50073f35ad))
-1. When a member joins a project, generate a **personal project report** in Clockify and save with the name `project_YYYYMM_xx` where `YYYYMM` indicates the first month the member is active on the project and `xx` is the initials of the member (e.g. [aether_201908_bl](https://clockify.me/bookmarks/5dab94738a17084c0337690d) and [aether_201908_yj](https://clockify.me/bookmarks/5dab94828a17084c03376911))
-1. To generate timesheets, open the team or personal project report and export as PDF for the applicable report period (to be sent to client, if applicable)
-1. Timesheet PDFs sent to clients or for internal payroll calculation should be archived in our [shared drive](https://link.hypha.coop/drive) under the `Timesheets` directory. In this example:
+When a project begins, generate a [Summary Report](https://clockify.me/reports/summary) for the project:
 
-    ```
-    Timesheets
-    ↳ aether_201908
-      ↳ personal
-        ↳ bl
-          # Personal timesheets for bl, used to calculate wages
-          - clockify-report-2019-08-01-to-2019-08-31.pdf
-          - clockify-report-2019-09-01-to-2019-09-30.pdf
-          - ...
-        ↳ yj
-          # Personal timesheets for yj, used to calculate wages
-          - clockify-report-2019-08-01-to-2019-08-31.pdf
-          - clockify-report-2019-09-01-to-2019-09-30.pdf
-          - ...
-      ↳ team
-          # Team timesheets, used to invoice client
-          - clockify-report-2019-08-01-to-2019-08-31.pdf
-          - clockify-report-2019-09-01-to-2019-09-30.pdf
-          - ...
-    ```
+1. Select the appropriate `Client` (and/or `Project`) and `Billing` filters
+![timesheets-0](images/timesheets-0.png)
+
+1. Configure the table headings to `Group by: Project > User > Description`
+
+1. Click the share button to reveal the `Share report` dialog
+![timesheets-1](images/timesheets-1.png)
+
+1. Name the report `project_YYYYMM` where `YYYYMM` indicates the first month the project is active, leave the `Lock dates` unlocked, and select the appropriate `Visibility` for the project
+
+1. You can now find the link to your project under [Shared Reports](https://clockify.me/reports/shared)
+
+### Generating project timesheets
+
+1. To generate timesheets, open the Shared Report for your project (e.g. [meetcoop_202005](https://clockify.me/shared/5ee22fd6486d877565000755)) and export as PDF for the applicable report period (to be sent to client, if applicable)
+
+1. Timesheet PDFs sent to clients or for internal payroll calculation should be archived in our [shared drive](https://link.hypha.coop/drive) under the `Timesheets` directory
 
 ## Voicemail
 
