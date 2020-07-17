@@ -17,6 +17,7 @@ our values.
 
 ### Contents
 
+- [Calendar](#calendar)
 - [Email](#email)
 - [Expense Reimbursement](#expense-reimbursement)
 - [Invoices](#invoices)
@@ -31,6 +32,24 @@ our values.
 - [Timesheets](#timesheets)
 - [Voicemail](#voicemail)
 - [References](#references)
+
+## Calendar
+
+### Creating a SOGo calendar
+
+1. Login to your [SOGo account](https://mailninja.aseriesoftubez.com/SOGo/)
+
+1. Navigate to the Calendar interface and create a new calendar
+
+1. Configure shared access by selecting `Sharing...` in the new calendar
+
+1. If there are external collaborators who need `Modify` access, request a SOGo account for them on the `hypha.local` domain and configure as follow
+
+  ![calendar-0](images/calendar-0.png)
+
+1. Optionally, sync with your calendar applications:
+    -  Use the CalDAV and WebDAV URLs for `Authenticated User Access` and `Public Access` as needed for desktop and mobile calendar applications
+    - For two-way sync with Gmail app on Android, install [CalDAV Sync Adapter](https://f-droid.org/en/packages/org.gege.caldavsyncadapter/) from F-Droid, then navigate to `Settings > Accounts` and configure the Sync Adapter with server `https://mailninja.aseriesoftubez.com/SOGo/dav/` and your SOGo credentials
 
 ## Email
 
