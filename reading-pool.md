@@ -69,7 +69,7 @@ Commons, Anti-capitalism:
 - 📄 Yochai Benkler [Commons-Based Peer Production and Virtue](https://nissenbaum.tech.cornell.edu/papers/jopp_235.pdf)
 - 📄 Stavros Stavrides [Common Space: The City as Commons](https://zajednicko.org/mreznabibliografija/wp-content/uploads/sites/2/2018/04/Stavrides-Stavros_Common-Space-The-City-as-Commons.pdf)
 - 🎬 Richard Sennett [The Decline of the Skills Society](https://www.youtube.com/watch?v=mjd5iM42APA)
-- 🌐 Scott Alexander [Meditations On Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
+- 🌐 Scott Alexander _Meditations On Moloch_ (link removed, [see explanation](https://slatestarcodex.com))
 
 Why Decentralize?
 
