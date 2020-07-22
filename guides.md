@@ -35,7 +35,17 @@ our values.
 
 ## Calendar
 
-### Creating a SOGo calendar
+### Syncing your SOGo calendar
+
+You can use CalDAV to two-way sync your SOGo calendar with calendar applications on mobile and desktop devices:
+
+For Gmail app on **Android**, install [CalDAV Sync Adapter](https://f-droid.org/en/packages/org.gege.caldavsyncadapter/) from F-Droid, then navigate to `Settings > Accounts` and configure the Sync Adapter with server `https://mailninja.aseriesoftubez.com/SOGo/dav/` and your SOGo credentials.
+
+For **iOS**, navigate to `Settings > Mail, Contacts, Calendars > Add Account > Other`, under `Calendars` select `Add CalDAV Account` and configure with server `https://mailninja.aseriesoftubez.com/SOGo/dav/` and your SOGo credentials.
+
+For other applications and platforms that support CalDAV, configure with server `https://mailninja.aseriesoftubez.com/SOGo/dav/` and your SOGo credentials.
+
+### Creating a shared calendar
 
 1. Login to your [SOGo account](https://mailninja.aseriesoftubez.com/SOGo/)
 
@@ -47,10 +57,7 @@ our values.
 
   ![calendar-0](images/calendar-0.png)
 
-1. Optionally, sync with your calendar applications:
-    - Use the CalDAV and WebDAV URLs for `Authenticated User Access` and `Public Access` as needed for desktop and mobile calendar applications
-    - For two-way sync with Gmail app on Android, install [CalDAV Sync Adapter](https://f-droid.org/en/packages/org.gege.caldavsyncadapter/) from F-Droid, then navigate to `Settings > Accounts` and configure the Sync Adapter with server `https://mailninja.aseriesoftubez.com/SOGo/dav/` and your SOGo credentials
-    - For two-way sync on iOS, navigate to `Settings > Mail, Contacts, Calendars > Add Account > Other`, under `Calendars` select `Add CalDAV Account` and configure with server `https://mailninja.aseriesoftubez.com/SOGo/dav/` and your SOGo credentials
+1. Optionally, sync with calendar applications using the CalDAV and WebDAV URLs for `Authenticated User Access` and `Public Access`
 
 ## Email
 
