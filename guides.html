@@ -457,7 +457,12 @@ our values.</p>
 <li><a href="#references">References</a></li>
 </ul>
 <h2 id="calendar"><a name="calendar" class="plugin-anchor" href="#calendar"><i class="fa fa-link" aria-hidden="true"></i></a>Calendar</h2>
-<h3 id="creating-a-sogo-calendar"><a name="creating-a-sogo-calendar" class="plugin-anchor" href="#creating-a-sogo-calendar"><i class="fa fa-link" aria-hidden="true"></i></a>Creating a SOGo calendar</h3>
+<h3 id="syncing-your-sogo-calendar"><a name="syncing-your-sogo-calendar" class="plugin-anchor" href="#syncing-your-sogo-calendar"><i class="fa fa-link" aria-hidden="true"></i></a>Syncing your SOGo calendar</h3>
+<p>You can use CalDAV to two-way sync your SOGo calendar with calendar applications on mobile and desktop devices:</p>
+<p>For Gmail app on <strong>Android</strong>, install <a href="https://f-droid.org/en/packages/org.gege.caldavsyncadapter/" target="_blank">CalDAV Sync Adapter</a> from F-Droid, then navigate to <code>Settings &gt; Accounts</code> and configure the Sync Adapter with server <code>https://mailninja.aseriesoftubez.com/SOGo/dav/</code> and your SOGo credentials.</p>
+<p>For <strong>iOS</strong>, navigate to <code>Settings &gt; Mail, Contacts, Calendars &gt; Add Account &gt; Other</code>, under <code>Calendars</code> select <code>Add CalDAV Account</code> and configure with server <code>https://mailninja.aseriesoftubez.com/SOGo/dav/</code> and your SOGo credentials.</p>
+<p>For other applications and platforms that support CalDAV, configure with server <code>https://mailninja.aseriesoftubez.com/SOGo/dav/</code> and your SOGo credentials.</p>
+<h3 id="creating-a-shared-calendar"><a name="creating-a-shared-calendar" class="plugin-anchor" href="#creating-a-shared-calendar"><i class="fa fa-link" aria-hidden="true"></i></a>Creating a shared calendar</h3>
 <ol>
 <li><p>Login to your <a href="https://mailninja.aseriesoftubez.com/SOGo/" target="_blank">SOGo account</a></p>
 </li>
@@ -468,12 +473,7 @@ our values.</p>
 <li><p>If there are external collaborators who need <code>Modify</code> access, request a SOGo account for them on the <code>hypha.local</code> domain and configure as follow</p>
 <p><img src="images/calendar-0.png" alt="calendar-0"></p>
 </li>
-<li><p>Optionally, sync with your calendar applications:</p>
-<ul>
-<li>Use the CalDAV and WebDAV URLs for <code>Authenticated User Access</code> and <code>Public Access</code> as needed for desktop and mobile calendar applications</li>
-<li>For two-way sync with Gmail app on Android, install <a href="https://f-droid.org/en/packages/org.gege.caldavsyncadapter/" target="_blank">CalDAV Sync Adapter</a> from F-Droid, then navigate to <code>Settings &gt; Accounts</code> and configure the Sync Adapter with server <code>https://mailninja.aseriesoftubez.com/SOGo/dav/</code> and your SOGo credentials</li>
-<li>For two-way sync on iOS, navigate to <code>Settings &gt; Mail, Contacts, Calendars &gt; Add Account &gt; Other</code>, under <code>Calendars</code> select <code>Add CalDAV Account</code> and configure with server <code>https://mailninja.aseriesoftubez.com/SOGo/dav/</code> and your SOGo credentials</li>
-</ul>
+<li><p>Optionally, sync with calendar applications using the CalDAV and WebDAV URLs for <code>Authenticated User Access</code> and <code>Public Access</code></p>
 </li>
 </ol>
 <h2 id="email"><a name="email" class="plugin-anchor" href="#email"><i class="fa fa-link" aria-hidden="true"></i></a>Email</h2>
@@ -1302,7 +1302,7 @@ Dial <code>*98</code></li>
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Guides","level":"1.4","depth":1,"next":{"title":"How We Use Data","level":"1.5","depth":1,"path":"data.md","ref":"data.md","articles":[]},"previous":{"title":"Novel Coronavirus (2019) 🦠","level":"1.3.8","depth":2,"path":"coronavirus.md","ref":"coronavirus.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["anchors"],"pluginsConfig":{"anchors":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"handbook.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"guides.md","mtime":"2020-07-22T21:04:36.996Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2020-07-22T21:05:27.032Z"},"basePath":".","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Guides","level":"1.4","depth":1,"next":{"title":"How We Use Data","level":"1.5","depth":1,"path":"data.md","ref":"data.md","articles":[]},"previous":{"title":"Novel Coronavirus (2019) 🦠","level":"1.3.8","depth":2,"path":"coronavirus.md","ref":"coronavirus.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["anchors"],"pluginsConfig":{"anchors":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"handbook.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"guides.md","mtime":"2020-07-22T23:45:08.097Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2020-07-22T23:45:49.096Z"},"basePath":".","book":{"language":""}});
         });
     </script>
 </div>
