@@ -778,7 +778,7 @@ We use a custom shortlink service at `link.hypha.coop`. It helps us:
 - align on shorthand keywords for resources.
 
 Instructions on creating and managing shortlinks are available in
-our [`shortlinks` repo](https://github.com/hyphacoop/shortlinks).
+our [`configuration` repo under `hyphacoop/shortlinks` directory](https://github.com/hyphacoop/configurations/tree/master/hyphacoop/shortlinks).
 
 ### Accessing shortlinks
 
