@@ -5,6 +5,7 @@
   - [Look and Feel](look-and-feel.md)
   - [Mission, Vision and Values](vision.md)
   - [Co-operative Principles](co-operative-principles.md)
+  - [Bylaws](bylaws.md)
   - [Objectives and Key Results (OKRs)](okrs.md)
   - [Working Groups](working-groups.md)
 * [Our Virtual Office](onboarding.md)
