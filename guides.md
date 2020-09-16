@@ -17,6 +17,7 @@ our values.
 
 ### Contents
 
+- [Calendar](#calendar)
 - [Email](#email)
 - [Expense Reimbursement](#expense-reimbursement)
 - [Invoices](#invoices)
@@ -31,6 +32,32 @@ our values.
 - [Timesheets](#timesheets)
 - [Voicemail](#voicemail)
 - [References](#references)
+
+## Calendar
+
+### Syncing your SOGo calendar
+
+You can use CalDAV to two-way sync your SOGo calendar with calendar applications on mobile and desktop devices:
+
+For Gmail app on **Android**, install [CalDAV Sync Adapter](https://f-droid.org/en/packages/org.gege.caldavsyncadapter/) from F-Droid, then navigate to `Settings > Accounts` and configure the Sync Adapter with server `https://mailninja.aseriesoftubez.com/SOGo/dav/` and your SOGo credentials.
+
+For **iOS**, navigate to `Settings > Mail, Contacts, Calendars > Add Account > Other`, under `Calendars` select `Add CalDAV Account` and configure with server `https://mailninja.aseriesoftubez.com/SOGo/dav/` and your SOGo credentials.
+
+For other applications and platforms that support CalDAV, configure with server `https://mailninja.aseriesoftubez.com/SOGo/dav/` and your SOGo credentials.
+
+### Creating a shared calendar
+
+1. Login to your [SOGo account](https://mailninja.aseriesoftubez.com/SOGo/)
+
+1. Navigate to the Calendar interface and create a new calendar
+
+1. Configure shared access by selecting `Sharing...` in the new calendar
+
+1. If there are external collaborators who need `Modify` access, request a SOGo account for them on the `hypha.local` domain and configure as follow
+
+  ![calendar-0](images/calendar-0.png)
+
+1. Optionally, sync with calendar applications using the CalDAV and WebDAV URLs for `Authenticated User Access` and `Public Access`
 
 ## Email
 
@@ -751,7 +778,7 @@ We use a custom shortlink service at `link.hypha.coop`. It helps us:
 - align on shorthand keywords for resources.
 
 Instructions on creating and managing shortlinks are available in
-our [`shortlinks` repo](https://github.com/hyphacoop/shortlinks).
+our [`configuration` repo under `hyphacoop/shortlinks` directory](https://github.com/hyphacoop/configurations/tree/master/hyphacoop/shortlinks).
 
 ### Accessing shortlinks
 
