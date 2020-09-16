@@ -19,7 +19,7 @@
 
 Tech Worker Co-ops:
 
-- 📄 [A technology freelancer's guide to starting a worker's coop](https://cryptography.dog/TechCoopHOWTO.pdf)
+- 📄 [A technology freelancer's guide to starting a worker's coop](https://drive.google.com/file/d/1-K99g0J-3lkDUKbvs4F_xKlUqiHw2B6F/view)
 - 🔉 Soundcloud Podcast: [Worker Cooperatives: Widening Spheres of Democracy](https://www.upstreampodcast.org/workercoops1)
 - 🌐 Tech Worker Co-op Repo: [Incredible list of resources including a db of active tech co-ops worldwide](https://github.com/hng/tech-coops)
 - 🌐 [Vibes Theory of Organization Design - Enspiral](http://richdecibels.com/stories/vibes-theory/vibes-theory.html)
