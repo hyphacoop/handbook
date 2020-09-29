@@ -1,6 +1,10 @@
 # Hypha Worker Co-operative
 
-## About Us 
+## About Us
+
+Hypha is a worker co-operative based in Toronto who helps organizations and communities redesign their relationships with digital technology. Our team of technologists, designers, and community organizers provide digital strategy and coaching, research, web and mobile design and development, and infrastructure deployment services.
+
+## The Co-operative
 
 Hypha Worker Co-operative Inc. is a worker co-operative incorporated on August 
 1, 2019 in Ontario, Canada (Ontario Corporation No. 5019866).
