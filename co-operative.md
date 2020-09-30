@@ -2,7 +2,7 @@
 
 ## About Us
 
-Hypha is a worker co-operative based in Toronto who helps organizations and communities redesign their relationships with digital technology. Our team of technologists, designers, and community organizers provide digital strategy and coaching, research, web and mobile design and development, and infrastructure deployment services.
+Hypha is a worker co-operative based in Toronto which helps organizations and communities redesign their relationships with digital technology. Our team of technologists, designers, and community organizers provide digital strategy and coaching, research, web and mobile design and development, and infrastructure deployment services.
 
 ## The Co-operative
 
