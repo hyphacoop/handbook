@@ -102,7 +102,7 @@ This Fiscal Sponsorship Agreement sets out how Hypha Worker Co-operative Inc. wi
 
     You also indemnity Us in relation to any claims from third parties that you have violated any intellectual property laws.
 
-14. Force majeure. Neither party is liable to the other for any failure to perform its obligations under the Agreement to the extent caused by force majeure (which are events beyond the reasonable control of the affected party, such as a pandemic or natural disaster), provided that the affected party:
+14. **Force majeure.** Neither party is liable to the other for any failure to perform its obligations under the Agreement to the extent caused by force majeure (which are events beyond the reasonable control of the affected party, such as a pandemic or natural disaster), provided that the affected party:
 
     - immediately notifies the other party and provides full information about the force majeure;
     - uses best efforts to overcome the force majeure; and
