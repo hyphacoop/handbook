@@ -91,8 +91,7 @@ A summary is provided below:
 
 ## Notes
 
-<sup>1. A full list of [CWCF affiliations](https://canadianworker.coop/about/affliations/) is on their website. We have a [list of public communication spaces 🔒](https://loomio.hypha.coop/d/sWnNveKO/public-communication-spaces), 
-along with places we have a presence as a co-operative on our Loomio.</sup>
+<sup>1. A full list of [CWCF affiliations](https://canadianworker.coop/about/affliations/) is on their website.</sup>
 
 
 <!-- Links -->
