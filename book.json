@@ -3,6 +3,19 @@
     "readme": "handbook.md"
   },
   "plugins": [
+    "tooltips",
+    "add-js-css",
     "anchors"
-  ]
+  ],
+  "pluginsConfig": {
+    "add-js-css": {
+      "js": [
+        "./assets/jquery-ui.min.js"
+      ],
+      "css": [
+        "./assets/tooltip-fix.css",
+        "./assets/jquery-ui.css"
+      ]
+    }
+  }
 }
