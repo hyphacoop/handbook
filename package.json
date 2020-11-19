@@ -10,6 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/hyphacoop/handbook.git"
   },
+  "scripts": {
+    "start": "gitbook --port ${PORT:=4000} serve",
+    "build": "gitbook build"
+  },
   "keywords": [],
   "author": "Hypha Worker Co-operative",
   "license": "",
