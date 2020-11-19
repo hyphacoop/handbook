@@ -11,6 +11,7 @@
     "url": "git+https://github.com/hyphacoop/handbook.git"
   },
   "scripts": {
+    "postinstall": "gitbook install",
     "start": "gitbook --port ${PORT:=4000} serve",
     "build": "gitbook build"
   },
