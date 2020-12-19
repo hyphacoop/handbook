@@ -833,17 +833,21 @@ When a project begins, generate a [Summary Report](https://clockify.me/reports/s
 
 ### Accessing Voicemail 
 
-We use a VoIP phone line provider with forwarding and voicemail from [FreePhoneLine.ca](https://www.freephoneline.ca/login). It helps us:
+We use a VoIP phone line provider with forwarding and voicemail from [voip.md](https://www.voip.ms). It helps us:
 
 - Have a phone number without tying it to a physical location
 - Receive voicemail by email to [members@hypha.coop](mailto:members@hypha.coop)
+- Receive text messages (SMS) to common e-mail
 
 To access voicemail inbox you can either call remotely or through a configured SIP client.
 
-- Remotely:
-  1. Call the dial-in number `14164770355`
-  1. Enter our account number `14378876936`
-  1. Enter our password: <in our shared password manager [Passbolt](https://pass.hypha.coop/auth/login)>
+- Remotely
+  1. Call the hypha number `4378876936`  
+  1. Wait for the intro audio to finish and then a short 1 secon pause
+  1. When the audio resumes press `*`
+  1. Listen and confirm you hear the prompt `Extension 3101, password`
+  1. Enter our password followed by #: <in our shared password manager [Passbolt](https://pass.hypha.coop/auth/login)>
+
 - SIP client: 
   Dial `*98`
 
@@ -851,10 +855,8 @@ To access voicemail inbox you can either call remotely or through a configured S
 
 To record or update the voicemail greeting [access the voicemail](#accessing-voicemail) per above and select the following options:
 
-- 3 - Personal options
-- 3 - Greetings 
-- 2 - Personal greeting 
-- 2 - Record a personal greeting
+- 0 - Mailbox Options
+- 1 - Record your unavailable message
 
 ## References
 
