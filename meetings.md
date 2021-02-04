@@ -9,8 +9,9 @@ We have specific guides for [scheduling][scheduling] and
 ### Contents
 
 - [Types](#types)
-  - [All Hands: Full](#full)
-  - [All Hands: Standup](#standup)
+  - [All Hands](#all-hands)
+  - [Members Meeting](#annual-members-meeting)
+  - [Board Meeting](#board-meeting)
 - [Calendar Holds](#calendar-holds)
 - [Scheduling][scheduling]
 - [Hosting][hosting]
@@ -22,31 +23,37 @@ All meetings are expected to have someone in the **Cultivator** &
 
 ### All Hands
 
+📆 **Schedule:** We currently meet every 2 weeks
+🕙 **Duration:** 60 minutes  
+📋 **Template:** [`link.hypha.coop/template`](https://link.hypha.coop/template)
+
 All Hands meetings are our general sync-up. We all try our best to be
 there. We adjust regularity and format of meetings based on time of
 year, member workload (inside and outside co-op), and needs of
 organization-wide initiatives.
 
-📆 **Schedule:** We currently meet every 2 weeks, alternating between
-format of a short **standup** and a **full** meeting.
-
-#### Full
-🕙 **Duration:** 60 minutes  
-📋 **Template:** [`link.hypha.coop/template`](https://link.hypha.coop/template)
-
 This format involves: review of previous action items, working group
 updates, announcements, etc. (See template for specifics.)
 
-#### Standup
-🕙 **Duration:** 15 minutes  
-📋 **Template:** [`link.hypha.coop/standup-template`](https://link.hypha.coop/standup-template)
+#### Annual Members Meeting
 
-This format involves rotating through each meeting participant and
-having them answer 3 questions about past and future intentions and
-blocks to those. (See template for specifics.)
+📆 **Schedule:** Annually, by our [Bylaws](https://handbook.hypha.coop/bylaws.html#3-member-meetings) they "shall be held within 4 months of the fiscal year end and within 15 months of any previous annual meetings", with appropriate notice given
+🕙 **Duration:** 0.5 day 
+📋 **Template:** 
 
-We expect no longer than **3 minutes per person**. If people have more
-to say, they're welcome to stay after the close of he call to discuss.
+Members meetings are our annual review where we elect the board, accept finance statements, and hear updates on the work done over the previous year. We tend to schedule this with a board meeting and strategic retreat.
+
+##### Special Members Meeting
+
+This format is a variation of the members meeting that can be called by the board or any 20% portion of the active members to cover urgent matters that can't be handled at a All Hands (e.g., something requiring a formal motion or vote by the member).
+
+#### Board Meeting
+
+📆 **Schedule:** As often as required, with appropriate notice
+🕙 **Duration:** 60 mins
+📋 **Template:** 
+
+Board meetings are our ad hoc meetings open to all members where the board conducts votes on and approves resolutions. Meetings have to happen at least annually in order to approve resolutions in advance or arising from members meetings. We tend to schedule this with the annual members meeting and strategic retreat.
 
 ## Calendar Holds
 
