@@ -42,9 +42,4 @@ jobs:
         bundle install
 
     - name: Test the HTML
-      run: |
-        bundle exec htmlproofer ./_book \
-          --allow-hash-href \
-          --check-html \
-          --empty-alt-ignore \
-          --url-ignore "/github.com\/hyphacoop\/organizing-private/,/github.com\/issues/"
+      run: make check
