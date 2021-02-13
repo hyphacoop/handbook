@@ -35,7 +35,7 @@ organization-wide initiatives.
 This format involves: review of previous action items, working group
 updates, announcements, etc. (See template for specifics.)
 
-#### Annual Members Meeting
+### Annual Members Meeting
 
 📆 **Schedule:** Annually, by our [Bylaws](https://handbook.hypha.coop/bylaws.html#3-member-meetings) they "shall be held within 4 months of the fiscal year end and within 15 months of any previous annual meetings", with appropriate notice given
 🕙 **Duration:** 0.5 day 
@@ -43,11 +43,11 @@ updates, announcements, etc. (See template for specifics.)
 
 Members meetings are our annual review where we elect the board, accept finance statements, and hear updates on the work done over the previous year. We tend to schedule this with a board meeting and strategic retreat.
 
-##### Special Members Meeting
+#### Special Members Meeting
 
 This format is a variation of the members meeting that can be called by the board or any 20% portion of the active members to cover urgent matters that can't be handled at a All Hands (e.g., something requiring a formal motion or vote by the member).
 
-#### Board Meeting
+### Board Meeting
 
 📆 **Schedule:** As often as required, with appropriate notice
 🕙 **Duration:** 60 mins
