@@ -24,7 +24,6 @@ The following sites and services are at the domain [hypha.coop](https://hypha.co
 - Meetings: [meetings.hypha.coop](https://meetings.hypha.coop)
 - Shortlinks: [link.hypha.coop](https://link.hypha.coop)
 - Loomio: [loomio.hypha.coop](https://loomio.hypha.coop)
-- Nextcloud: [cloud.hypha.coop](https://cloud.hypha.coop)
 - BigBlueButton: [bbb.hypha.coop](https://bbb.hypha.coop)
 - Jitsi: [jitsi.hypha.coop](https://jitsi.hypha.coop)
 - COVID-19 Solidarity: [covid19.hypha.coop](https://covid19.hypha.coop)
