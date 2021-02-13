@@ -97,8 +97,8 @@ We use several social media accounts to share our work. We occasionally use the 
 Our social media accounts include:
 
 <ul>
-  <li><a href="https://link.hypha.coop/twitter" target="_blank" data-proofer-ignore>@hyphacoop on Twitter</a> (<a href="https://twitter.com/en/privacy" target="_blank">privacy policy</a>)</li>
-  <li><a href="https://link.hypha.coop/linkedin" data-proofer-ignore="true" target="_blank">Hypha Worker Co-operative on LinkedIn</a> (<a href="https://www.linkedin.com/legal/privacy-policy" target="_blank">privacy policy</a>)</li>
+  <li><a href="https://link.hypha.coop/twitter" data-proofer-ignore target="_blank">@hyphacoop on Twitter</a> (<a href="https://twitter.com/en/privacy" target="_blank">privacy policy</a>)</li>
+  <li><a href="https://link.hypha.coop/linkedin" data-proofer-ignore target="_blank">Hypha Worker Co-operative on LinkedIn</a> (<a href="https://www.linkedin.com/legal/privacy-policy" target="_blank">privacy policy</a>)</li>
 </ul>
 
 We also use third-party services to host and deliver services and content, almost exclusively to our members, however in some cases we may use them with our collaborators:
