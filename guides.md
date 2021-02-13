@@ -842,8 +842,8 @@ We use a VoIP phone line provider with forwarding and voicemail from [voip.md](h
 To access voicemail inbox you can either call remotely or through a configured SIP client.
 
 - Remotely
-  1. Call the hypha number `4378876936`  
-  1. Wait for the intro audio to finish and then a short 1 secon pause
+  1. Call the number `4378876936`  
+  1. Wait for the intro audio to finish followed by a 1 second pause
   1. When the audio resumes press `*`
   1. Listen and confirm you hear the prompt `Extension 3101, password`
   1. Enter our password followed by #: <in our shared password manager [Passbolt](https://pass.hypha.coop/auth/login)>
