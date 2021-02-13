@@ -1,9 +1,12 @@
+# Max seconds for both full http request and connection phase of link checker.
+TIMEOUT = 30
 RUN = bundle exec
 
 check: ## Check HTML and links
 	$(RUN) htmlproofer ./_book \
 			--allow-hash-href \
 			--check-html \
+			--typhoeus-config '{ "timeout": $(TIMEOUT), "connecttimeout": $(TIMEOUT) }' \
 			--url-ignore "/github.com\/hyphacoop\/organizing-private/,/github.com\/issues/"
 
 %:
