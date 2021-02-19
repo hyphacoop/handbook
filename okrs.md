@@ -14,7 +14,7 @@ A **Key Result** helps answer, _“How will I know I’m getting there?”_
 
 ## Current Objectives
 
-_See the objectives alongside our key results in our [**OKR tracking sheet**](https://docs.google.com/spreadsheets/d/1hMFS3IhzZOFQA-yjt7lFcoVO0Ry6erFEH7D1NswvDtA/edit). Previous OKRs are available on our [meetings site](https://meetings.hypha.coop/okrs/)_ 
+_See the objectives alongside our key results in our [**OKR tracking sheet**](https://docs.google.com/spreadsheets/d/1hMFS3IhzZOFQA-yjt7lFcoVO0Ry6erFEH7D1NswvDtA/edit). Previous OKRs are available on our [meetings site](https://meetings.hypha.coop/)_ 
 
 ## Reviewing and Identifying OKRs 🚧
 
