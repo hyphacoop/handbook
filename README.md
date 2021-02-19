@@ -12,7 +12,7 @@ something that could be improved, consider this your invitation to improve it!
 
 ## 📃 License 
 
-Copyright © 2018-2020 individual contributors. 
+Copyright © 2018-2021 individual contributors. 
 
 Unless otherwise indicated it is licensed under a 
 [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). 
