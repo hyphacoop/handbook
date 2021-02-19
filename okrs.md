@@ -1,4 +1,6 @@
-# Objectives and Key Results (OKRs)
+# Objectives and Key Results (OKRs) ⚠️
+
+⚠️ _Warning: OKRs are in the process of being phased out at Hypha, the content below will soon be out of date._ ⚠️
 
 Hypha uses Objectives and Key Results for planning and setting collective goals.
 We currently define OKRs at the working group level and update them quarterly in our [**OKR tracking sheet**](https://docs.google.com/spreadsheets/d/1hMFS3IhzZOFQA-yjt7lFcoVO0Ry6erFEH7D1NswvDtA/edit). 
@@ -12,43 +14,9 @@ _Adapted from [Trello blog](https://blog.trello.com/okrs-set-achieve-track-trell
 An **Objective** helps answer the question, _“Where do I want to go?”_  
 A **Key Result** helps answer, _“How will I know I’m getting there?”_
 
-## Objectives for 2020 Q3
+## Current Objectives
 
-_See the objectives alongside our key results in our [**OKR tracking sheet**](https://docs.google.com/spreadsheets/d/1hMFS3IhzZOFQA-yjt7lFcoVO0Ry6erFEH7D1NswvDtA/edit)._
-
-#### Business Planning WG
-
-O1. Continue building our engagement strategy    
-O2. Refine our market positioning   
-O3. Find new and recurring revenue sources    
-O4. Assess our financial sustainability (as “capacity to endure”) (cross-cut with Finance WG)  
-O5. Shorten our lead-to-proposal time (i.e. identifying an opportunity > getting member buy-in > submitting a proposal)  
-O6. Develop our leads and opportunities pipeline   
-
-#### Finance WG
-
-O1. Complete our first year Financial setup and responsibilities
-O2. Reduce the amount of recurring Finance workload to members
-O3. Develop Finance processes to better support the livelihood of members and neighbours
-
-#### Governance WG 
-
-O1. Ensure our governance structure sets us up for Y2 and beyond
-O2. Develop early strategy for embodying our values in practice (cross-cut with Operations, Finance WG - Goal 8)
-O3. Create initial good member statement from AGM conversations (cross-cut with Operationss, Infra WG - Goal 7)
-
-#### Infrastructure WG
-
-O1. Engage in marketing activities and development of public communication materials
-O2. Develop the automation resources and associated costs to acquire and maintain virtual office for client
-O3. Improve our deployment infrastructure
-
-#### Operations WG
-
-O1. Continue to set-up operations workspace
-O2. Cultivate the culture needed to be an effective remote organization (cross-cut with Governance, Infra WG)
-O3. Examine which of our workflow and processes support a culture of accountability
-O4. Review operational practices where we know our values are enacted
+_See the objectives alongside our key results in our [**OKR tracking sheet**](https://docs.google.com/spreadsheets/d/1hMFS3IhzZOFQA-yjt7lFcoVO0Ry6erFEH7D1NswvDtA/edit). Previous OKRs are available on our [meetings site](https://meetings.hypha.coop/)_ 
 
 ## Reviewing and Identifying OKRs 🚧
 
