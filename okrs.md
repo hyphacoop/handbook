@@ -1,5 +1,7 @@
 # Objectives and Key Results (OKRs)
 
+⚠️ _Warning: OKRs are in the process of being phased out at Hypha, the content below will soon be out of date._ ⚠️
+
 Hypha uses Objectives and Key Results for planning and setting collective goals.
 We currently define OKRs at the working group level and update them quarterly in our [**OKR tracking sheet**](https://docs.google.com/spreadsheets/d/1hMFS3IhzZOFQA-yjt7lFcoVO0Ry6erFEH7D1NswvDtA/edit). 
 
