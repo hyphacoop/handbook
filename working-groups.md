@@ -1,4 +1,6 @@
-# Working Groups 
+# Working Groups ⚠️
+
+⚠️ _Warning: Working groups are in the process of being phased out at Hypha, the content below will soon be out of date._ ⚠️
 
 ### [Business Planning][biz-wg]
 
