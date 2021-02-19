@@ -1,4 +1,4 @@
-# Objectives and Key Results (OKRs)
+# Objectives and Key Results (OKRs) ⚠️
 
 ⚠️ _Warning: OKRs are in the process of being phased out at Hypha, the content below will soon be out of date._ ⚠️
 
