@@ -28,4 +28,4 @@
 
 **Length and Succession**: [length, renewal. Term limit. E.g.: 3 months, with renewal. Max 2 terms. Can add description of succession process for rotating roles]
 
-**Support**: [and addtional onboarding or training materials mentioned here.]
+**Support**: [and additional onboarding or training materials mentioned here.]
