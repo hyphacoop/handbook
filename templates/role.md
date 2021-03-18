@@ -19,7 +19,7 @@
 - []
 
 **Limits:** (on Authority)
-- permisions of member-workers needed to:
+- permissions of member-workers needed to:
   - []
 - permission of parent initiative needed to:
   - []
