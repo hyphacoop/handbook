@@ -18,11 +18,11 @@ The *Cultivator* is responsible for tending to the all hands meetings and import
    - facilitate discussion
    - keep time
 - review and merge notes (Weekly)
+- host and plan activity for social call (Monthly)
 - help member-owners stay organized (As needed):
   - add meetings and important dates to calendar after meeting
   - set up required loomio theads and decisions
   - send reminders on time-sensitive action items
-- run [OKR review and identification process](okrs.md#reviewing-and-identifying-okrs-🚧) (Quarterly)
 
 For more details, see our Guides for [scheduling][] and [hosting][]
 meetings (summarized above).
@@ -30,11 +30,22 @@ meetings (summarized above).
    [scheduling]: guides.md#scheduling-a-meeting
    [hosting]: guides.md#hosting-a-meeting
 
+
+**Authority:**
+- set agenda and determine discussion items for all hands
+
+**Limits:** (on Authority)
+- permission of member-workers needed to:
+	- cancel or reschedule call for week
+
+**Time Budget:** Up to 2 hours/week.
+
 **Length and Succession**:
-1 month. Last meeting of each month, the Cultivator asks for volunteers for the next person, if no one volunteers they can request those who have not been one recently to do so, which can be declined within based on discussion and with cause.
+1 month, rotates through member-workers. Last meeting of each month, the Cultivator asks for volunteers for the next person, if no one volunteers they can request those who have not been one recently to do so, which can be declined within based on discussion and with cause.
 
 **Support**:
 The previous Cultivator is responsible for making time to mentor and support the incoming Cultivator for the first week as needed.
+
 
 ### Finance Steward
 
