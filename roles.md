@@ -30,7 +30,6 @@ meetings (summarized above).
    [scheduling]: guides.md#scheduling-a-meeting
    [hosting]: guides.md#hosting-a-meeting
 
-
 **Authority:**
 - set agenda and determine discussion items for all hands
 
@@ -81,9 +80,9 @@ The previous Cultivator is responsible for making time to mentor and support the
 - permission of project lead needed to:
 	- alter or send an invoice to a client
 
-**Time Budget:** Up to 2h/week.
+**Time Budget:** Up to 2 hours/week.
 
-**Term:** 6 mo, with renewal. Max 2 terms.
+**Term:** 6 months, with renewal. Max 2 terms.
 
 ### Notetaker
 
@@ -122,9 +121,10 @@ Single meeting. Moves through alphabetical list of active member names.
     - approve reimbursement of employee and project expenses > CAD$200
 	- approve payroll for employees and contractors
 
-**Time Budget:** Up to 2h/week.
+**Time Budget:** Up to 2 hours/week.
 
-**Term:** 6 mo, with renewal. Max 2 terms.
+**Term:** 6 months, with renewal. Max 2 terms.
+
 
 ### Social Media Steward
 
@@ -148,6 +148,6 @@ Single meeting. Moves through alphabetical list of active member names.
     - create and activate new social media accounts
     - squat namespaces on new platforms
 
-**Time Budget:** Up to 2h/week.
+**Time Budget:** Up to 2 hours/week.
 
-**Term:** 3 mo, with renewal. Max 2 terms.
+**Term:** 3 months, with renewal. Max 2 terms.
