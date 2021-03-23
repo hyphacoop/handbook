@@ -72,7 +72,7 @@ Much more casual than meetings, these social activities do not require formal cu
 
 Casual social hangout with an activity led by the [Cultivator][cultivator] and sometimes including outside collaborators.
 
-### Coffee Break! ☕
+#### Coffee Break! ☕
 
 📆 **Schedule:** Tuesday, Wednesday, and Thursday afternoons  
 🕙 **Duration:** 15 mins  
