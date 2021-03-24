@@ -499,55 +499,6 @@ members. Skip the steps below at your discretion for low-stakes topics._
   1. Use the private dial-in number from our [technical Jitsi documentation](https://github.com/hyphacoop/organizing-private/blob/master/documents/infrastructure/jitsi.md).
   2. _After_ prompt, enter conference code `307 314 3734 #`
 
-## Onboarding Checklist
-
-This is a checklist for onboarding a new Member to the Co-operative 🚀
-
-### Setting up communications
-
-1. Get Signal number and add to group.
-
-1. Get Matrix account and invite to spaces:
-  - Private chat `#hyphacoop-private:tomesh.net`
-  - Public chat `#hyphacoop-open:tomesh.net`
-  - Community `+hyphacoop:tomesh.net`
-
-1. Set up [`hypha.coop` email](https://link.hypha.coop/email):
-  - [Create new mailbox with Mailcow](#creating-new-inboxes-administrators)
-  - Set up initial forwarder
-  - Add to `members@`
-
-### Setting up virtual office
-
-1. Invite to [Passbolt](https://pass.hypha.coop):
-  - After acceptance, add to `Member-Worker` group
-  - Ensure Member understands it is their responsibility to back-up their own private key
-  - Ensure Member understands when creating a password, they need to grant access to appropriate groups (e.g., when a password is meant to be shared between Members, otherwise others do not know that password exists in Passbolt)
-
-1. Invite to [GitHub Organization](https://github.com/hyphacoop):
-  - Add to `Worker-Owner` [GitHub Team](https://link.hypha.coop/teams)
-
-1. Get Google-friendly email address:
-  - Share access to [Drive](https://link.hypha.coop/drive)
-  - Invite to calendars:
-    - https://link.hypha.coop/calendar
-    - https://link.hypha.coop/availability
-
-1. Invite to [Loomio](https://loomio.hypha.coop/).
-
-1. Share [weekly schedule](https://link.hypha.coop/schedules) (recommend without password).
-
-### Setting up employee record and payroll
-
-1. Collect information for [employee record](https://link.hypha.coop/employees).
-
-1. Add Member SIN to Passbolt and share access with `People Operations` group.
-    Change the Member access to the entry as read-only, as this information is for recording keeping and the Member should not be able to modify it.
-
-1. Collect encrypted (see [Sensitive Data](#sensitive-data) guide) [`TD1` and `TD1-ON` forms](https://www.canada.ca/en/revenue-agency/services/forms-publications/td1-personal-tax-credits-returns.html) to [Drive](https://link.hypha.coop/drive). 
-
-1. Add Member [as Employee in Wagepoint](#adding-a-new-employee) for payroll.
-
 ## Payroll
 
 This guide describes how to use our payroll service provider, [Wagepoint](https://wagepoint.com), to set up a payroll run for the pay period.
