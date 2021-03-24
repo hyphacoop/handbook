@@ -19,6 +19,7 @@
   - [Fiscal Sponsorship](fiscal-sponsorship.md)
   - [Novel Coronavirus (2019) 🦠](coronavirus.md) 
 * [Guides](guides.md)
+* [Templates](templates/README.md)
 * [How We Use Data](data.md)
 * [Reading Pool](reading-pool.md)
 * [Glossary](glossary.md)
