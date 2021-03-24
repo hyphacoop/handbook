@@ -94,7 +94,7 @@ This is a checklist for onboarding new members, workers, and contractors to the 
 <!-- Links -->
 [link-shortener]: https://link.hypha.coop
 [service-inventory]: https://link.hypha.coop/inventory
-[accessing-em]: /guides.html#using-your-new-inbox-users
+[accessing-em]: /guides.md#using-your-new-inbox-users
 [accessing-vm]: /guides.md#accessing-voicemail
 [managing-vm]: /guides.md#managing-voicemail-and-phone-forwarding
 [matrix-chat]: https://chat.tomesh.net/#/group/+hyphacoop:tomesh.net
@@ -104,4 +104,4 @@ This is a checklist for onboarding new members, workers, and contractors to the 
 [google-drive]: https://link.hypha.coop/drive
 [bb]: https://docs.google.com/drawings/d/1tpczePR5ky0EkdOGGdfU16irDz-gjdC61p2QGoAKhIE/edit
 [bb-folder]: https://drive.google.com/drive/folders/1XN1xw_3Lm6gWEuMla3MrbuK1VW0FmABt
-[operations]: http://localhost:4000/working-groups.html#operations
+[operations]: /working-groups.md#operations
