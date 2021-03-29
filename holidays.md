@@ -3,7 +3,7 @@
 ### Public and Additional Holidays
 
 Our virtual office is closed during [Ontario's nine public holidays](https://www.ontario.ca/document/your-guide-employment-standards-act-0/public-holidays) 
-and member-workers are entitled (encouraged) to those days off and receive an [annualized public holiday pay](/finance.htmlfinance.md#public-holiday-pay). 
+and member-workers are entitled (encouraged) to those days off and receive an [annualized public holiday pay](finance.md#public-holiday-pay). 
 We recognize three additional holidays where the office is closed and members are encouraged not to work: 
 Civic Holiday (first Monday in August), May Day or International Workers' Day (May 1), and Remembrance Day (November 11). 
 During December Holidays the virtual office is closed for roughly two weeks. 
