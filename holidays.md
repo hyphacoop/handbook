@@ -3,15 +3,15 @@
 ### Public and Additional Holidays
 
 Our virtual office is closed during [Ontario's nine public holidays](https://www.ontario.ca/document/your-guide-employment-standards-act-0/public-holidays) 
-and member-workers are entitled (encouraged) to those days off and receive an [annualized public holiday pay](https://handbook.hypha.coop/finance.html#work-on-public-holidays). 
+and member-workers are entitled (encouraged) to those days off and receive an [annualized public holiday pay](/finance.htmlfinance.md#public-holiday-pay). 
 We recognize three additional holidays where the office is closed and members are encouraged not to work: 
 Civic Holiday (first Monday in August), May Day or International Workers' Day (May 1), and Remembrance Day (November 11). 
 During December Holidays the virtual office is closed for roughly two weeks. 
 
 In cases where members choose to work on these days, or under special circumstances where a project requires, 
-they will receive regular wages and are entitled to take substitute time off. 
+they will receive [regular wages](/finance.md#public-holiday-pay) for those hours and are entitled to take substitute time off. 
 
-| **Holiday**                                      | **2020**          | **2021**          | **2022**         |
+| **Holiday**                                      | **2020**          | **2021**          | **202**         |
 |--------------------------------------------------|-------------------|-------------------|------------------|
 | New Year's Day<br />January 1                    | Wed, January 1    | Fri, January 1    | Sat, January 1   |
 | Ontario Family Day<br />Third Monday in February | Mon, February 17  | Mon, February 15  | Mon, February 21 |
