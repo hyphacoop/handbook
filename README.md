@@ -50,7 +50,7 @@ $ gitbook serve
 After starting the server, visit `http://localhost:4000` (or the address 
 indicated by the `gitbook serve` command) in a web browser.
 
-To test that all links works, you make run html-proofer via:
+To test that all links works, you may run html-proofer via:
 
 ```bash
 bundle install
