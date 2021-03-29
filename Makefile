@@ -6,7 +6,8 @@ check: ## Check HTML and links
 	$(RUN) htmlproofer ./_book \
 			--allow-hash-href \
 			--check-html \
-			--typhoeus-config '{ "timeout": $(TIMEOUT), "connecttimeout": $(TIMEOUT) }' \
+			--typhoeus-config '{ "timeout": $(TIMEOUT), "connecttimeout": $(TIMEOUT), "max_concurrency": 1 }' \
+			--hydra-config '{ "max_concurrency": 1 }' \
 			--url-ignore "/github.com\/hyphacoop\/organizing-private/,/github.com\/issues/"
 
 %:
