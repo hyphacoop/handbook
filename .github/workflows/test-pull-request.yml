@@ -42,4 +42,4 @@ jobs:
         bundle install
 
     - name: Test the HTML
-      run: make check
+      run: make check-cautious

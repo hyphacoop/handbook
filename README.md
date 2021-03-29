@@ -50,6 +50,18 @@ $ gitbook serve
 After starting the server, visit `http://localhost:4000` (or the address 
 indicated by the `gitbook serve` command) in a web browser.
 
+To test that all links works, you make run html-proofer via:
+
+```bash
+bundle install
+
+# Run with defaults (faster)
+make check
+
+# Run slower (to avoid failing links from servers throttling you)
+make check-cautious
+```
+
 ## 🚀 Deployment
 
 The handbook is automatically built and deployed using 
