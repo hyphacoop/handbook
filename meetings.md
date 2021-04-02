@@ -26,26 +26,54 @@ All formal meetings are expected to have someone in the **Cultivator** &
 
 ### All Hands
 
-📆 **Schedule:** We currently meet every 2 weeks  
-🕙 **Duration:** 60 minutes  
+📆 **Schedule:** Biweekly  
+🕙 **Duration:** 60 minutes   
 📋 **Template:** [`link.hypha.coop/template`](https://link.hypha.coop/template)
 
-All Hands meetings are our general sync-up. We all try our best to be
-there. We adjust regularity and format of meetings based on time of
-year, member workload (inside and outside co-op), and needs of
-organization-wide initiatives.
+All Hands meetings are our general sync-up. We all try our best to be there. These meetings are intended to enable cross-initiative discussion, provide a space to seek input, build trust through co-presense, to identify and re-assign issues to appropriate initiatives, to vote and consense on organization-wide decisions. 
 
-This format involves: review of previous action items, working group
-updates, announcements, etc. (See template for specifics.)
+This format involves: check-ins, announcements, initiative updates, and discussions (See template for specifics). We adjust the regularity and format based on our workload (inside and outside co-op), the time of year, and the needs of organization-wide initiatives.
 
 
-### Annual Members Meeting
+### Quarterly Planning 🐛🌱🎛️ 
 
-📆 **Schedule:** Annually, according to our [Bylaws][bylaws] they "shall be held within 4 months of the fiscal year end and within 15 months of any previous annual meetings", with appropriate notice given  
-🕙 **Duration:** 0.5 day  
+📆 **Schedule:** Every 3 months (supplanted by retreat and AGM)   
+🕙 **Duration:** 2.0 hours   
 📋 **Template:** 
 
-Members meetings are our annual review where we elect the board, accept finance statements, and hear updates on the work done over the previous year. We tend to schedule this with a board meeting and strategic retreat.
+Quarterly Planning meetings are our place to sync on strategic goals and initiative progress and timelines. We also make some organization-wide decisions on priorities and member capacity. This is a place to vote and consense on organization-wide decisions. It is important for us all to be there, preferrably in-person. 
+
+This format involves: check-ins, announcements, initiative updates and budgeting, member and organization capacity, and finances.
+
+
+### Semi-annual Retreat 🌴🍹
+
+📆 **Schedule:** Every 6 months (co-scheduled with AGM every second retreat)   
+🕙 **Duration:** 1 day   
+📋 **Template:** 
+
+Semi-annual Retreat meetings are our place to propose strategic goals (3-5), align on initiatives, develop key results (measures) and links those to both goals and initatives, to identify and re-assign issues to appropriate initiatives, to vote and consense on organization-wide decisions and build trust through co-presense. 
+It is important for us all to be there, preferrably in-person.
+
+This format involves: check-ins, announcements, strategic goal development, initiative updates and budgeting, member and organization capacity, and finances. We adjust the specific scheduling based on our workload and timing of organization-wide initiatives.
+
+
+### Initiative Calls
+
+📆 **Schedule:** As needed
+🕙 **Duration:** As needed  
+📋 **Template:** [`link.hypha.coop/xxx`](https://link.hypha.coop/xxx)
+
+These meetings are set up by initiative leads and member-workers on an as needed basis to enable the work of initatives, manage tasks and check-in on progress.
+
+
+### Annual Members Meeting (AGM) ☀️🛰️
+
+📆 **Schedule:** Annually, by our [Bylaws](https://handbook.hypha.coop/bylaws.html#3-member-meetings) they "shall be held within 4 months of the fiscal year end and within 15 months of any previous annual meetings", with appropriate notice given  
+🕙 **Duration:** 0.5 day  
+📋 **Template:**  
+
+Members meetings are our annual review where we elect the board, accept finance statements, and hear updates on the work done over the previous year. We schedule this with a board meeting and strategic retreat and adjust the specific scheduling based on timing of organization-wide initiatives.
 
 #### Special Members Meeting
 
