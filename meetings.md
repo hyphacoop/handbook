@@ -10,12 +10,14 @@ We have specific guides for [scheduling][scheduling] and
 
 - [Types](#types)
   - [All Hands](#all-hands)
-  - [Members Meeting](#annual-members-meeting)
+  - [Quarterly Planning](#quarterly-planning-🐛🌱🎛️)
+  - [Semi-annual Retreat](#semi-annual-retreat-🌴🍹)
+  - [Members Meeting](#annual-members-meeting-☀️🛰️)
   - [Board Meeting](#board-meeting)
   - [Social Time](#social-time)
 - [Calendar Holds](#calendar-holds)
-- [Scheduling][scheduling]
-- [Hosting][hosting]
+- [Scheduling][scheduling] 🔗
+- [Hosting][hosting] 🔗
 
 
 ## Types
@@ -67,13 +69,13 @@ This format involves: check-ins, announcements, strategic goal development, init
 These meetings are set up by initiative leads and member-workers on an as needed basis to enable the work of initatives, manage tasks and check-in on progress.
 
 
-### Annual Members Meeting (AGM) ☀️🛰️
+### Annual Members Meeting ☀️🛰️
 
 📆 **Schedule:** Annually, by our [Bylaws](https://handbook.hypha.coop/bylaws.html#3-member-meetings) they "shall be held within 4 months of the fiscal year end and within 15 months of any previous annual meetings", with appropriate notice given  
 🕙 **Duration:** 0.5 day  
 📋 **Template:**  
 
-Members meetings are our annual review where we elect the board, accept finance statements, and hear updates on the work done over the previous year. We schedule this with a board meeting and strategic retreat and adjust the specific scheduling based on timing of organization-wide initiatives.
+Annual members meetings (AGMs) are our annual review where we elect the board, accept finance statements, and hear updates on the work done over the previous year. We schedule this with a board meeting and strategic retreat and adjust the specific scheduling based on timing of organization-wide initiatives.
 
 #### Special Members Meeting
 
@@ -122,7 +124,7 @@ up-to-date [weekly availability schedules][schedules].
 
    [roles]: /roles.md
    [cultivator]: /roles.md#cultivator-aka-meeting-chair
-   [bylaws]: /bylaws.html#3-member-meetings
+   [bylaws]: /bylaws.md#3-member-meetings
    [scheduling]: /guides.md#scheduling-a-meeting
    [hosting]: /guides.md#hosting-a-meeting
    [availability]: https://link.hypha.coop/availability
