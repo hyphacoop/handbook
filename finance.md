@@ -19,7 +19,7 @@ There are two organizational roles associated with carrying out the day-to-day f
 - [Member Payroll](#member-payroll)
   - [Calculating Member Wages](#calculating-member-wages)
   - [Expense Reimbursement](#expense-reimbursement)
-  - [Work on Public Holidays](#work-on-public-holidays)
+  - [Public Holiday Pay](#public-holiday-pay)
 - [Reporting & Remitting Taxes](#reporting--remitting-taxes)
   - [Corporate Income Tax (RC)](#corporate-income-tax-rc)
   - [Payroll Deduction (RP)](#payroll-deduction-rp)
@@ -127,11 +127,12 @@ Reimbursements are paid out with wages on the next pay day, but do not appear on
 
 Follow the guides for [Expense Reimbursement](/guides.md#expense-reimbursement) to submit an eligible expense.
 
-### Work on Public Holidays
+### Public Holiday Pay
 
-The Co-operative recommends Members to not work on a public holiday, but in the case where Members voluntarily chooses to, or under special circumstances, they will receive regular wages with "substitute time off", and there should be no expectation of "public holiday plus premium pay".
-Since Members have variable hours of work per period, and a 5% annualized public holiday pay is included in Member wages in every pay period, Members are already adequately compensated for any "substitute time off".
-Therefore, wages for work performed on public holidays are calculated without "premium pay", and this policy is compliant with the [Employment Standards Act of Ontario](https://www.ontario.ca/document/your-guide-employment-standards-act-0/public-holidays).
+Hypha is [closed on public holidays](/holidays.md#public-and-additional-holidays) and Members recieve 5% annualized public holiday pay in their wages every pay period. 
+
+In the case where Member-workers [work on holidays](holidays.md#public-and-additional-holidays), they receive regular wages with "substitute time off" and there is no expectation of "public holiday plus premium pay", following the [Employment Standards Act of Ontario](https://www.ontario.ca/document/your-guide-employment-standards-act-0/public-holidays). Wages for work performed on public holidays are calculated without "premium pay" because Members have significantly variable hours of work per period and a 5% annualized public holiday pay is included in Member wages in every pay period. Members are already adequately compensated for any "substitute time off" and set their own schedule. This strikes a balance between those who want the time off and those who want the flexibility to work on the day. 
+
 
 ## Reporting & Remitting Taxes
 
