@@ -71,7 +71,7 @@ These meetings are set up by initiative leads and member-workers on an as needed
 
 ### Annual Members Meeting ☀️🛰️
 
-📆 **Schedule:** Annually, per our [Bylaws](https://handbook.hypha.coop/bylaws.md#3-member-meetings) they "shall be held within 4 months of the fiscal year end and within 15 months of any previous annual meetings", with appropriate notice given  
+📆 **Schedule:** Annually, per our [Bylaws][bylaws-3] they "shall be held within 4 months of the fiscal year end and within 15 months of any previous annual meetings", with appropriate notice given  
 🕙 **Duration:** 0.5 day  
 📋 **Template:**  
 
@@ -84,7 +84,7 @@ This format is a variation of the members meeting that can be called by the boar
 
 ### Board Meeting
 
-📆 **Schedule:** As often as required with appropriate notice, per our [Bylaws](https://handbook.hypha.coop/bylaws.md#4-board-of-directors)
+📆 **Schedule:** As often as required with appropriate notice, per our [Bylaws][bylaws-4]
 🕙 **Duration:** 60 mins  
 📋 **Template:** 
 
@@ -124,7 +124,8 @@ up-to-date [weekly availability schedules][schedules].
 
    [roles]: /roles.md
    [cultivator]: /roles.md#cultivator-aka-meeting-chair
-   [bylaws]: /bylaws.md#3-member-meetings
+   [bylaws-3]: /bylaws.md#3-member-meetings
+   [bylaws-4]: /bylaws.md#4-board-of-directors
    [scheduling]: /guides.md#scheduling-a-meeting
    [hosting]: /guides.md#hosting-a-meeting
    [availability]: https://link.hypha.coop/availability
