@@ -5,6 +5,39 @@ with six currently serving as directors of the board.
 Members are expected to acknowledge the duties of their relationship with Hypha by signing the *Membership Acknowledgement*.
 
 
+## Being a Good Member
+
+At our [2020 AGM][2020-agm] we began the process of defining what it means to be a good members, we came up with the following preliminary understanding:
+
+In order to be a good member, we commit to:
+- being accountable to others, doing the work we've committed to and coming prepared to our initiatives and meetings 
+- making time for each other to learn and grow through co-working and peer sessions 
+- actively soliciting and providing feedback as we work on specific proposals
+- providing confirmations and a sense of closure for others on tasks and initiatives (both synchronously and asynchronously)
+
+Our understanding was shaped from the following prompts and examples:
+
+- Prompts:
+    - _How do you feel accomplished or that you have completed a task?_
+    - _What are the things you do before you come to a meeting?_
+    - _What do you need to (effectively) make a decision together?_
+    - _When do you feel like you've collaborated with hypha members well, what did you do?_
+- What our member statement is / isn't:
+    **IS**:
+        - Skill-based, looking at individual capacities
+        - "We" and "us"-focused (i.e., "I think this will help us work better together")
+    **ISN'T**:
+        - List of working group responsibilities (we have those: https://handbook.hypha.coop/working-groups.html
+        - Managerial ("I think that others need to do...")
+- Examples:
+    > Self-Management is the art of autonomously recognizing what needs to be done, combined with the initiative to work cooperatively, in order to best meeting the collective needs of yourself and the cooperative.
+    - [Casa Nueva](https://institute.coop/sites/default/files/resources/Casa-Nueva-Member-Handbook-2011.pdf)
+    > Careful listening, summarizing and synthesis help us reach a good knowledge and understanding of what everyone needs, and find solutions everyone can accept. Put simply:
+    > - good listening enables us to hear what others are saying;
+    > - summaries help remind us of the key points in the discussion and check we have the same understanding;
+    > - synthesis is the skill that allows us to draw together different views and ideas to form one proposal that works for everyone.
+     - [Seeds for Change "Skills for Consensus"](https://www.seedsforchange.org.uk/consensus#core_skills)
+
 
 ## Members and Employees
 
@@ -65,4 +98,4 @@ A summary is provided below:_
 [esa-employee]: https://www.ontario.ca/document/changing-workplaces-review-final-report/chapter-8-who-employer-and-who-employee-under-employment-standards-act-2000#section-1
 [not-for-profit-coop]: https://ontario.coop/sites/default/files/STR06_For%20Profit%20and%20Not%20for%20Profit%20Co-ops.pdf
 [cwcf-guidelines]: https://canadianworker.coop/guidelines-for-determining-whether-or-not-there-is-an-employer-employee-relationship-in-a-worker-co-op/
-
+[2020-agm]: https://meetings.hypha.coop/2020-06-13-annual-members-meeting.html
