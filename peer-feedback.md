@@ -14,7 +14,7 @@ We have a developing system of peer feedback to set self-development goals and r
 3. periodic check-in (at quarterly calls)
     - record these personal feedback and actionable approaches, you will check in with your peer around the next quarterly meeting
 
-Random Distribution Process: roll 7 dice using https://www.random.org/dice/?num=7, work left from right and assign, skip once you have 3 then 2 of a number, re-roll if necessary
+Random Distribution Process: _By dice_ roll 7 dice using https://www.random.org/dice/?num=7, work left from right and assign, skip once you have 3 then 2 of a number, re-roll if necessary. _By random list_ copy our initials into https://www.random.org/lists/, press randomize and group into 2, 2, 3.
 
 | name | number |
 |------|--------|
