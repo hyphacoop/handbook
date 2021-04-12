@@ -8,7 +8,7 @@ We have a developing system of peer feedback to set self-development goals and r
     - at least 1 thing you did well
     - 1-3 things you'd like to improve
 2. 15 mins share with your partner
-    - before you start, review this handout on feedback: https://www.seedsforchange.org.uk/feedback.pdf
+    - before you start, review this handout on feedback, together if helpful: https://www.seedsforchange.org.uk/feedback.pdf
     - discuss with your partner!
     - try to identify how to take action around addressing what you want to improve 
 3. periodic check-in (at quarterly calls)
