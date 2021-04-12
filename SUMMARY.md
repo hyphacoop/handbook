@@ -7,6 +7,7 @@
   - [Co-operative Principles](co-operative-principles.md)
   - [Bylaws](bylaws.md)
   - [Board of Directors](board-of-directors.md)
+  - [Members-workers.md](member-workers.md)
 * [Our Virtual Office](onboarding.md)
   - [Onboarding](onboarding.md)
   - [Coordination 🚧](coordination.md)
