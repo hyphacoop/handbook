@@ -64,7 +64,7 @@ This format involves: check-ins, announcements, strategic goal development, init
 
 📆 **Schedule:** As needed
 🕙 **Duration:** As needed  
-📋 **Template:** [`link.hypha.coop/xxx`](https://link.hypha.coop/xxx)
+📋 **Template:** [`link.hypha.coop/wg-template`](https://link.hypha.coop/wg-template)
 
 These meetings are set up by initiative leads and member-workers on an as needed basis to enable the work of initatives, manage tasks and check-in on progress.
 
