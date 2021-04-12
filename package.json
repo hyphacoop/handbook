@@ -3,12 +3,20 @@
   "version": "1.0.0",
   "description": "Hypha handbook describes the vision, processes, and culture of Hypha Worker Co-operative. 🌿🍄",
   "dependencies": {
-    "gitbook-cli": "^2.3.2"
+    "gitbook-cli": "^2.3.2",
+    "gitbook-plugin-add-js-css": "0.0.1",
+    "gitbook-plugin-anchors": "^0.7.1",
+    "gitbook-plugin-tooltips": "0.0.1"
   },
   "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/hyphacoop/handbook.git"
+  },
+  "scripts": {
+    "postinstall": "gitbook install",
+    "start": "gitbook --port ${PORT:=4000} serve",
+    "build": "gitbook build"
   },
   "keywords": [],
   "author": "Hypha Worker Co-operative",
