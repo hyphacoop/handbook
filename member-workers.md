@@ -1,13 +1,13 @@
 # Member-workers
 
 Hypha has seven **member-workers**, or **members**, all of which are founding members, 
-with six currently serving as directors of the board.
+with six currently serving as directors on the board.
 Members are expected to acknowledge the duties of their relationship with Hypha by signing the *Membership Acknowledgement*.
 
 
 ## Being a Good Member
 
-At our [2020 AGM][2020-agm] we began the process of defining what it means to be a good members, we came up with the following preliminary understanding:
+At our [2020 AGM][2020-agm] we began the process of defining what it means to be a good member, we came up with the following initial description:
 
 In order to be a good member, we commit to:
 - being accountable to others, doing the work we've committed to and coming prepared to our initiatives and meetings 
