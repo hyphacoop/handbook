@@ -12,7 +12,7 @@ At our [2020 AGM][2020-agm] we began the process of defining what it means to be
 In order to be a good member, we commit to:
 - being accountable to others, doing the work we've committed to and coming prepared to our initiatives and meetings 
 - making time for each other to learn and grow through co-working and peer sessions 
-- actively soliciting and providing feedback as we work on specific proposals
+- actively soliciting and providing feedback as we work on specific tasks
 - providing confirmations and a sense of closure for others on tasks and initiatives (both synchronously and asynchronously)
 
 Our understanding was shaped from the following prompts and examples:
