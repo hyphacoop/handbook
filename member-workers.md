@@ -23,10 +23,10 @@ Our understanding was shaped from the following prompts and examples:
     - _What do you need to (effectively) make a decision together?_
     - _When do you feel like you've collaborated with hypha members well, what did you do?_
 - What our member statement is / isn't:
-    **IS**:
+    - **IS**:
         - Skill-based, looking at individual capacities
         - "We" and "us"-focused (i.e., "I think this will help us work better together")
-    **ISN'T**:
+    - **ISN'T**:
         - List of working group responsibilities (we have those: https://handbook.hypha.coop/working-groups.html
         - Managerial ("I think that others need to do...")
 - Examples:
