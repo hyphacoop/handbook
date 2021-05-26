@@ -23,7 +23,6 @@ our values.
 - [Invoices](#invoices)
 - [Issue Labels](#issue-labels)
 - [Meetings](#meetings)
-- [Onboarding Checklist](#onboarding-checklist)
 - [Payroll](#payroll)
 - [Projects](#projects)
 - [Sensitive Data](#sensitive-data)
