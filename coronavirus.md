@@ -2,7 +2,7 @@
 
 Like others in the Great Lakes region and Toronto, we’ve been closely monitoring the Novel Coronavirus 2019 situation. With the pace the situation has evolved since the World Health Organization [declared COVID-19 a pandemic on March 11](https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020), we can assume that things will continue to change rapidly in the weeks and months ahead.
 
-In order to stay safe as workers and community members during this we've drafted this document, which contains our pandemic-specific policies and guidance, resources, and information on business and personal supports for responding to COVID-19. It was last updated on **July 27, 2020**.
+In order to stay safe as workers and community members during this we've drafted this document, which contains our pandemic-specific policies and guidance, resources, and information on business and personal supports for responding to COVID-19. It was last updated on **May 26, 2021**.
 
 - [Working in the Time of COVID-19](#working-in-the-time-of-covid-19) 
 - [Communication and Education](#communication-and-education) 
@@ -71,9 +71,25 @@ As an employer we recognize/commit to the following:
     - Hypha does not yet provide benefits, we recognize this could put our employees at a disadvantage at this time, if there are ways Hypha could support, let Operations WG know
     - We ask you to be **proactive and communicate your availability with Operations WG as soon as possible**, especially if you are responsible for critical processes (e.g., Finance WG, lead on client project)
 
+### Vaccinations 
+
+- As of May 18, 2021, all people residing in Ontario 18+ are [eligible to book a vaccine](https://news.ontario.ca/en/release/1000143/covid-19-vaccine-booking-expanding-to-ontarians-18-ahead-of-schedule) and **recieve a paid sick day** for doing so
+
+### Paid Sick Pay
+
+- Per the changes introduced by Ontario April 29, 2021, all employees have the right to **3 paid days** of [infectious disease emergency leave](https://www.ontario.ca/document/your-guide-employment-standards-act-0/sick-leave) for COVID-19. The entitlement is retroactive to April 19, 2021 and will end on September 25, 2021, with the possibility that it might be extended [because the government doesn't believe in paid sick days]. 
+- Employees are entitled to three days of paid leave without providing a medical note if they are:
+  - Under medical investigation, supervision or treatment related to COVID-19;
+  - Going to get vaccinated;
+  - Experiencing a side effect from a COVID-19 vaccination;
+  - Under a direction from their employer, medical practitioner or other authority to self-isolate;
+  - Providing care or support to a dependent who is:
+    - Sick with COVID-19 or has symptoms of COVID-19; or
+    - Self-isolating due to COVID-19
+
 ## Business Continuity
 
-Ontario has [declared](https://news.ontario.ca/opo/en/2020/03/ontario-enacts-declaration-of-emergency-to-protect-the-public.html) (March 17) and [extended](https://news.ontario.ca/opo/en/2020/03/ontario-extends-emergency-declaration-to-stop-the-spread-of-covid-19.html) (March 30), [twice](https://news.ontario.ca/opo/en/2020/04/ontario-extends-declaration-of-emergency-to-continue-the-fight-against-covid-19) (April 14), [thrice](https://news.ontario.ca/opo/en/2020/05/ontario-extends-emergency-orders-to-keep-people-safe.html) (May 19), [four times](https://www.news.ontario.ca/opo/en/2020/06/ontario-extends-declaration-of-emergency-until-june-30.html) (June 2), [five times](https://news.ontario.ca/opo/en/2020/06/ontario-extends-declaration-of-emergency-to-july-15.html?_ga=2.24592250.1338280308.1595879662-652925183.1589333660) (June 24) a **Declaration of a provincial emergency** and associated emergency measures, including the closure of non-essential workplaces and restrictions on social gathering. The  provincial declaration of emergency is currently in effect until **July 24** and the extended emergency orders until **July 29**, up to date information is available at the [Ontario Emergency Information page](https://www.ontario.ca/page/emergency-information).
+Ontario has [declared](https://news.ontario.ca/opo/en/2020/03/ontario-enacts-declaration-of-emergency-to-protect-the-public.html) (March 17) and [extended](https://news.ontario.ca/opo/en/2020/03/ontario-extends-emergency-declaration-to-stop-the-spread-of-covid-19.html) (March 30), [twice](https://news.ontario.ca/opo/en/2020/04/ontario-extends-declaration-of-emergency-to-continue-the-fight-against-covid-19) (April 14), [thrice](https://news.ontario.ca/opo/en/2020/05/ontario-extends-emergency-orders-to-keep-people-safe.html) (May 19), [four times](https://news.ontario.ca/opo/en/2020/06/ontario-extends-declaration-of-emergency-until-june-30.html) (June 2), [five times](https://news.ontario.ca/opo/en/2020/06/ontario-extends-declaration-of-emergency-to-july-15.html?_ga=2.24592250.1338280308.1595879662-652925183.1589333660) (June 24) a **Declaration of a provincial emergency** and associated emergency measures, including the closure of non-essential workplaces and restrictions on social gathering. A subsequent declaration of provincial emergency and [stay-at-home order](https://www.ontario.ca/page/covid-19-provincewide-shutdown) was announced (January 14), [twice](https://news.ontario.ca/en/release/1000124/ontario-extending-stay-at-home-order-until-june-2) (April 1), currently in effect until June 2, 2021 as an [emergency brake](https://news.ontario.ca/en/release/60986/ontario-implements-provincewide-emergency-brake).
 
 Are we considered an [**essential workplace**](https://www.ontario.ca/page/list-essential-workplaces)? **No**, though we do not maintain a physical workplace. The closest business [listed by the province of Ontario](https://www.ontario.ca/page/list-essential-workplaces#section-5) is "17. Information Technology (IT) services" Regardless, the province explicitly indicates "teleworking and online commerce are permitted at all times for all businesses."
 
@@ -146,6 +162,7 @@ _*Note: CERB eligibility critera are:
 - Canadian Public Health: https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html
 - Ontario Ministry of Health: https://www.ontario.ca/page/2019-novel-coronavirus
 - Toronto Public Health: https://www.toronto.ca/home/covid-19/
+- Ontario's 2021 Roadmap to Reopen Plan: https://www.ontario.ca/page/reopening-ontario
 
 ## Co-operative Resources
 
