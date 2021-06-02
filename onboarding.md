@@ -34,7 +34,8 @@ We also have the following "helper" tools to navigate our office spaces:
 
 This is a checklist for onboarding new members, workers, and contractors to the Co-operative that should be done by the [Operations WG][operations]. 🚀
 
-**New members will provide...**:
+### _New members will provide..._
+
 - A [Signal](https://www.signal.org/)-friendly number 
 - A [Matrix](https://matrix.org/) account (feel free to register on the [Toronto Mesh homeserver](https://chat.tomesh.net/#/register) where Hypha rooms exist)
 - A [Github](https://github.com/) account
@@ -45,9 +46,11 @@ This is a checklist for onboarding new members, workers, and contractors to the 
   - Their Social Insurance Number (SIN) 
   - Completed `TD1` and `TD1-ON` forms 
 
-**Operations will...**
+### _Operations will..._
 
-### Set up employee record and payroll
+#### Set up employee documents, employee record and payroll
+
+1. Prepare and provide an Employee Acknowledgement outlining the job description, employment relationship, and Intellectual Property Agreement
 
 1. Collect information above and complete [employee record](https://link.hypha.coop/employees)
 
@@ -58,7 +61,7 @@ This is a checklist for onboarding new members, workers, and contractors to the 
 
 1. Add member [as Employee in Wagepoint](#adding-a-new-employee) for payroll
 
-### Set up communications
+#### Set up communications
 
 1. Add member to Signal `hyphacoop (Emergency Channel)` group
 
@@ -69,10 +72,11 @@ This is a checklist for onboarding new members, workers, and contractors to the 
 
 1. Set up a [`hypha.coop` email](https://link.hypha.coop/email) address:
   - [Create new mailbox with Mailcow](#creating-new-inboxes-administrators)
-  - Set up initial forwarder
+  - Set up forwarder (if needed)
   - Add to `members@`
+  - Add to relevant WG forwarders
 
-### Set up virtual office
+#### Set up virtual office
 
 1. Invite to [Passbolt](https://pass.hypha.coop):
   - After acceptance, add to `Member-Worker` group
@@ -89,6 +93,7 @@ This is a checklist for onboarding new members, workers, and contractors to the 
 
 1. Invite them to share their [weekly schedule](https://link.hypha.coop/schedules) (recommended without password)
 
+1. Add them to specific WG services (if needed)
 
 
 <!-- Links -->

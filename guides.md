@@ -20,8 +20,10 @@ our values.
 - [Calendar](#calendar)
 - [Email](#email)
 - [Expense Reimbursement](#expense-reimbursement)
+- [Hiring](#hiring)
 - [Invoices](#invoices)
 - [Issue Labels](#issue-labels)
+- [Inactivating Membership](#inactivating-membership)
 - [Meetings](#meetings)
 - [Payroll](#payroll)
 - [Projects](#projects)
@@ -253,6 +255,19 @@ For the Finance WG to approve an expense:
 1. Verify that the amount shows up correctly on the `Expense Reimbursement` column on [Employee Payroll](http://link.hypha.coop/payroll) of the applicable pay period, so it gets entered into Wagepoint on the next payroll run.
 
 1. After reimbursements are paid out through Wagepoint, our bookkeeper will file the the amounts into expense accounts in [Quickbooks Online](https://quickbooks.intuit.com/ca/) based on the [Posting Journals](https://drive.google.com/drive/u/0/folders/1wWo9KqNwWdUK5d-jkApV3id_Y_dpftT9) and [Employee Expenses](https://link.hypha.coop/expenses) sheet.
+
+## Hiring 
+
+
+
+
+## Inactivating Membership
+
+When members seek to go inactive they should do the following:
+
+1. Send an email to [operations@hypha.coop](mailto:operations@hypha.coop) with notification of the change and the date you wish to become inactive and return (if known).
+
+Operations then will work with Infrastructure to update appropriate permissions and access inline with our Working Open guidelines and the offboarding checklist.
 
 ## Invoices
 
