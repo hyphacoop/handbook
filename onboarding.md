@@ -62,9 +62,9 @@ This is a checklist for onboarding new members, workers, and contractors to the 
 1. Add member SIN to Passbolt and share access with `People Operations` group.
    Change the member access to the entry as read-only, as this information is for recording keeping and the Member should not be able to modify it
 
-1. Collect encrypted (see [Sensitive Data](#sensitive-data) guide) [`TD1` and `TD1-ON` forms](https://www.canada.ca/en/revenue-agency/services/forms-publications/td1-personal-tax-credits-returns.html) to [Drive](https://link.hypha.coop/drive)
+1. Collect encrypted (see [Sensitive Data](./guides.md#sensitive-data) guide) [`TD1` and `TD1-ON` forms](https://www.canada.ca/en/revenue-agency/services/forms-publications/td1-personal-tax-credits-returns.html) to [Drive](https://link.hypha.coop/drive)
 
-1. Add member to Clockify and [as Employee in Wagepoint](#adding-a-new-employee) for payroll
+1. Add member to Clockify and [as Employee in Wagepoint](./guides.md#adding-a-new-employee) for payroll
 
 #### Set up communications
 
@@ -76,10 +76,10 @@ This is a checklist for onboarding new members, workers, and contractors to the 
   - Community `+hyphacoop:tomesh.net`
 
 1. Set up a [`hypha.coop` email](https://link.hypha.coop/email) address:
-  - [Create new mailbox with Mailcow](#creating-new-inboxes-administrators)
-  - Set up forwarder (if needed)
-  - Add to `members@`
-  - Add to relevant WG forwarders
+  - Ask Infrastructure to [create new mailbox with Mailcow](./guides.md#creating-new-inboxes-administrators)
+    - Set up forwarder (if needed)
+    - Add to `members@`
+    - Add to relevant WG forwarders
 
 #### Set up virtual office
 
