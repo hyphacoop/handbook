@@ -3,6 +3,7 @@
 **Table of Contents**
 - [Cultivator](#cultivator-aka-meeting-chair)
 - [Finance Steward](#finance-steward)
+- [Initiative Lead](#initiative-lead)
 - [Notetaker](#notetaker)
 - [Payroll Coordinator](#payroll-coordinator)
 - [Social Media Steward](#social-media-steward)
@@ -82,6 +83,41 @@ The previous Cultivator is responsible for making time to mentor and support the
 **Time Budget:** Up to 2 hours/week.
 
 **Length and Succession**: 6 months, with renewal. Max 2 terms.
+
+
+### Initiative Lead
+
+The *Initiative lead* is part project-manager, part-coach and responsible for ensuring initiatives are on track and all members of the squad are able to work on tasks.
+
+**Parent Initiative:** Per initative
+
+**Aim:** responsible for ensuring initiatives are on track and all members of the squad are able to work on tasks.
+
+**Tasks**:
+- chair all hands meetings (Weekly):
+   - prepare meeting pad in advance so we start on time
+   - ask for additional agenda items at start of meeting
+   - facilitate discussion
+   - keep time
+- review and merge notes (Weekly)
+- help squad members stay organized (As needed):
+  - add meetings and important dates to calendar after meeting
+  - set up required tasks or documents
+  - send reminders on time-sensitive action items
+
+**Authority:**
+- set strategy and direction within intiative
+
+**Limits:** (on Authority)
+- permissions of member-workers needed to:
+  - []
+- permission of parent initiative needed to:
+  - []
+
+**Time Budget:** Variable depending on needs of initative.
+
+**Length and Succession**: Variable depending on needs of initative.
+
 
 ### Notetaker
 
