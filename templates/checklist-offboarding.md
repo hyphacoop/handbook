@@ -1,6 +1,6 @@
-# Checklist for offboarding
+# Checklist - Offboarding
 
-
+This is a checklist for offboarding a member of the Co-operative 👋😢
 
 ## Going Inactive
 

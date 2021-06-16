@@ -259,6 +259,9 @@ For the Finance WG to approve an expense:
 ## Hiring 
 
 
+### Onboarding a member 
+
+When a new member or employee is about to start their position at Hypha,  Operations will work set them up in the virtual office following the [Onboarding](./onboarding.md) materials and [checklist](./templates/checklist-onboarding.md).
 
 
 ## Inactivating Membership
@@ -267,7 +270,7 @@ When members seek to go inactive they should do the following:
 
 1. Send an email to [operations@hypha.coop](mailto:operations@hypha.coop) with notification of the change and the date you wish to become inactive and return (if known).
 
-Operations then will work with Infrastructure to update appropriate permissions and access inline with our Working Open guidelines and the offboarding checklist.
+Operations then will work with Infrastructure to update appropriate permissions and access inline with our Working Open guidelines and [offboarding checklist](./templates/checklist-offboarding.md).
 
 ## Invoices
 
