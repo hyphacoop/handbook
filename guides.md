@@ -20,10 +20,11 @@ our values.
 - [Calendar](#calendar)
 - [Email](#email)
 - [Expense Reimbursement](#expense-reimbursement)
+- [Hiring](#hiring)
 - [Invoices](#invoices)
 - [Issue Labels](#issue-labels)
+- [Inactivating Membership](#inactivating-membership)
 - [Meetings](#meetings)
-- [Onboarding Checklist](#onboarding-checklist)
 - [Payroll](#payroll)
 - [Projects](#projects)
 - [Sensitive Data](#sensitive-data)
@@ -254,6 +255,22 @@ For the Finance WG to approve an expense:
 1. Verify that the amount shows up correctly on the `Expense Reimbursement` column on [Employee Payroll](http://link.hypha.coop/payroll) of the applicable pay period, so it gets entered into Wagepoint on the next payroll run.
 
 1. After reimbursements are paid out through Wagepoint, our bookkeeper will file the the amounts into expense accounts in [Quickbooks Online](https://quickbooks.intuit.com/ca/) based on the [Posting Journals](https://drive.google.com/drive/u/0/folders/1wWo9KqNwWdUK5d-jkApV3id_Y_dpftT9) and [Employee Expenses](https://link.hypha.coop/expenses) sheet.
+
+## Hiring 
+
+
+### Onboarding a member 
+
+When a new member or employee is about to start their position at Hypha,  Operations will work set them up in the virtual office following the [Onboarding](./onboarding.md) materials and [checklist](./templates/checklist-onboarding.md).
+
+
+## Inactivating Membership
+
+When members seek to go inactive they should do the following:
+
+1. Send an email to [operations@hypha.coop](mailto:operations@hypha.coop) with notification of the change and the date you wish to become inactive and return (if known).
+
+Operations then will work with Infrastructure to update appropriate permissions and access inline with our Working Open guidelines and [offboarding checklist](./templates/checklist-offboarding.md).
 
 ## Invoices
 
@@ -498,55 +515,6 @@ members. Skip the steps below at your discretion for low-stakes topics._
 📞 **Phone**
   1. Use the private dial-in number from our [technical Jitsi documentation](https://github.com/hyphacoop/organizing-private/blob/master/documents/infrastructure/jitsi.md).
   2. _After_ prompt, enter conference code `307 314 3734 #`
-
-## Onboarding Checklist
-
-This is a checklist for onboarding a new Member to the Co-operative 🚀
-
-### Setting up communications
-
-1. Get Signal number and add to group.
-
-1. Get Matrix account and invite to spaces:
-  - Private chat `#hyphacoop-private:tomesh.net`
-  - Public chat `#hyphacoop-open:tomesh.net`
-  - Community `+hyphacoop:tomesh.net`
-
-1. Set up [`hypha.coop` email](https://link.hypha.coop/email):
-  - [Create new mailbox with Mailcow](#creating-new-inboxes-administrators)
-  - Set up initial forwarder
-  - Add to `members@`
-
-### Setting up virtual office
-
-1. Invite to [Passbolt](https://pass.hypha.coop):
-  - After acceptance, add to `Member-Worker` group
-  - Ensure Member understands it is their responsibility to back-up their own private key
-  - Ensure Member understands when creating a password, they need to grant access to appropriate groups (e.g., when a password is meant to be shared between Members, otherwise others do not know that password exists in Passbolt)
-
-1. Invite to [GitHub Organization](https://github.com/hyphacoop):
-  - Add to `Worker-Owner` [GitHub Team](https://link.hypha.coop/teams)
-
-1. Get Google-friendly email address:
-  - Share access to [Drive](https://link.hypha.coop/drive)
-  - Invite to calendars:
-    - https://link.hypha.coop/calendar
-    - https://link.hypha.coop/availability
-
-1. Invite to [Loomio](https://loomio.hypha.coop/).
-
-1. Share [weekly schedule](https://link.hypha.coop/schedules) (recommend without password).
-
-### Setting up employee record and payroll
-
-1. Collect information for [employee record](https://link.hypha.coop/employees).
-
-1. Add Member SIN to Passbolt and share access with `People Operations` group.
-    Change the Member access to the entry as read-only, as this information is for recording keeping and the Member should not be able to modify it.
-
-1. Collect encrypted (see [Sensitive Data](#sensitive-data) guide) [`TD1` and `TD1-ON` forms](https://www.canada.ca/en/revenue-agency/services/forms-publications/td1-personal-tax-credits-returns.html) to [Drive](https://link.hypha.coop/drive). 
-
-1. Add Member [as Employee in Wagepoint](#adding-a-new-employee) for payroll.
 
 ## Payroll
 
