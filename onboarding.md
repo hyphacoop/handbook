@@ -34,23 +34,28 @@ We also have the following "helper" tools to navigate our office spaces:
 
 This is a checklist for onboarding new members, workers, and contractors to the Co-operative that should be done by the [Operations WG][operations]. 🚀
 
-### _New members will provide..._
+### _New workers and contractors will provide..._
 
+- Preferred pronouns
+- A permanent and/or mailing address
+- A personal email for communications
+- A google-friendly email address (this could be a prior personal address or a hypha email can be used once set up)
 - A [Signal](https://www.signal.org/)-friendly number 
 - A [Matrix](https://matrix.org/) account (feel free to register on the [Toronto Mesh homeserver](https://chat.tomesh.net/#/register) where Hypha rooms exist)
 - A [Github](https://github.com/) account
-- A personal email for communications
-- A google-friendly email address (this could be a prior personal address or a hypha email can be used once set up)
 - For members and workers:
-  - A permanent or mailing address
   - Their Social Insurance Number (SIN) 
   - Completed `TD1` and `TD1-ON` forms 
 
 ### _Operations will..._
 
+#### Set up contractor documents
+
+1. Prepare and provide an Independent Contractor Agreement outlining the service description, contractor relationship, including the Intellectual Property Agreement
+
 #### Set up employee documents, employee record and payroll
 
-1. Prepare and provide an Employee Acknowledgement outlining the job description, employment relationship, and Intellectual Property Agreement
+1. Prepare and provide an Employee Acknowledgement outlining the job description, employment relationship, including the Intellectual Property Agreement
 
 1. Collect information above and complete [employee record](https://link.hypha.coop/employees)
 
