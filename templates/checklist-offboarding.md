@@ -28,6 +28,7 @@ This is a checklist for offboarding a member of the Co-operative 👋😢
   - [ ] Signal 
   - [ ] Matrix all private channels and community
   - [ ] Email members@ and WG/initiative forwarders
+  - [ ] Clockify
   - [ ] Passbolt groups 
   - [ ] GitHub organization (per-repo access as needed?)
   - [ ] Google Drive (messy)

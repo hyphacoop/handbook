@@ -64,7 +64,7 @@ This is a checklist for onboarding new members, workers, and contractors to the 
 
 1. Collect encrypted (see [Sensitive Data](#sensitive-data) guide) [`TD1` and `TD1-ON` forms](https://www.canada.ca/en/revenue-agency/services/forms-publications/td1-personal-tax-credits-returns.html) to [Drive](https://link.hypha.coop/drive)
 
-1. Add member [as Employee in Wagepoint](#adding-a-new-employee) for payroll
+1. Add member to Clockify and [as Employee in Wagepoint](#adding-a-new-employee) for payroll
 
 #### Set up communications
 
