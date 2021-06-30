@@ -21,25 +21,25 @@ Initiative for completing migration of core Hypha services to new Server (Passbo
 
 📈 Scale and Est. Hours: [Small][hours]  
 📅 Calls: [?][calendar]  
-👪 Members: [**@**][t- ]  el, yk
-✅ Tasks: GitHub board > [` ` label][l- ]  
+👪 Members: [**@**][t- ]  el (lead
+✅ Tasks: GitHub board > [`migration` label][l- ]  
 
 ### [Dripline][[shortcode]-wg]
 
 Initiative for developing Hypha’s writing practice by publishing bi-monthly public facing articles on our website.
 
 📈 Scale and Est. Hours: [Large][hours]  
-📅 Calls: [Weekly][calendar]   
-👪 Members: [**@**][t-fin] dc (lead), uv, +el
+📅 Calls: [Monthly][calendar]   
+👪 Members: [**@**][t-fin] dc (lead), uv, ep, el
 ✅ Tasks: GitHub board > [`i:drip` label][l-fin]  
 
 ### [Hello Hypha][[shortcode]-wg]
 
-Initiative for meeting neighbours, potential collaborators, and the co-op curious to deepen our relationships through 2-3 call per month.
+Initiative for meeting neighbours, potential collaborators, and the co-op curious to deepen our relationships through 2-3 calls per month.
 
 📈 Scale and Est. Hours: [Small][hours]  
 📅 Calls: [Weekly][calendar]   
-👪 Members: [**@**][t-fin]  uv, dc +bl, +yj?
+👪 Members: [**@**][t-fin]  uv (lead), dc, bl, yj
 ✅ Tasks: GitHub board > [`i:hello` label][l-fin] 
 
 ### [Improving Tech Stack][[shortcode]-wg] 📝
@@ -47,9 +47,9 @@ Initiative for meeting neighbours, potential collaborators, and the co-op curiou
 Initiative for addressing members' ongoing workflow issues with current technical stack (e.g., Calendar, Email, and varying clients).
 
 📈 Scale and Est. Hours: [Medium][hours]  
-📅 Calls: [ ][calendar]  
-👪 Members: [**@**][t- ] yj, el 
-✅ Tasks: GitHub board > [` ` label][l- ]  
+📅 Calls: [Monthly][calendar]  
+👪 Members: [**@**][t- ] yj (lead), el 
+✅ Tasks: GitHub board > [`improvetech` label][l- ]  
 
 ### [Living Organization][[shortcode]-wg] 📝
 
@@ -57,14 +57,14 @@ Initiative for leading the creation and execution of strategy and governance, in
 
 📈 Scale and Est. Hours: [Medium][hours]  
 📅 Calls: [As needed][calendar]  
-👪 Members: [**@**][t- ] uv, bl, dc
-✅ Tasks: GitHub board > [` ` label][l- ]  
+👪 Members: [**@**][t- ] uv (lead), bl, dc
+✅ Tasks: GitHub board > [`homeostatis` label][l- ]  
 
 ### [Open Collective Fiscal Host][[shortcode]-wg] 📝
 
 Initiative for operating as a fiscal host using Open Collective to aid small projects and informal groups aligned with our mission-work. 
 
-📈 Scale and Est. Hours: [Large][hours]  
+📈 Scale and Est. Hours: [Medium][hours]  
 📅 Calls: [?][calendar]  
 👪 Members: [**@**][t- ] bl, dc
 ✅ Tasks: GitHub board > [`fiscalhost` label][l- ]  
@@ -83,8 +83,8 @@ Initiative for being active in co-operative spaces (e.g., CIU, CWCF, etc.) and g
 Initiative for maintaining Hypha's social media accounts (e.g., Dripline, Twitter, Instagram, LinkedIn) and other platforms we use that have a social element (e.g., OpenCollective, Arena, GitHub).
 
 📈 Scale and Est. Hours: [Medium][hours]  
-📅 Calls: [Monthly][calendar]   
-👪 Members: [**@**][t-fin]  dc, uv, ep
+📅 Calls: [Weekly][calendar]   
+👪 Members: [**@**][t-fin]  dc (lead), uv, ep
 ✅ Tasks: GitHub board > [`i:socials` label][l-fin] 
 
 
@@ -96,7 +96,7 @@ Contains the are the core business activities for sustaining Hypha's virtual off
 
 Initiative for stewarding the financial sustainability of the organization, this includes establishing accounting practices, maintaining financial accounts, processing invoices, expenses, and payroll, and creating reports on our financial statements and tax obligations.
 
-📅 Calls: [Weekly][calendar]   
+📅 Calls: [As needed][calendar]   
 👪 Members: [**@finance**][t-fin]  
 ✅ Tasks: GitHub board > [`i:finance` label][l-fin]  
 
@@ -104,7 +104,7 @@ Initiative for stewarding the financial sustainability of the organization, this
 
 Initiative for pursuing business opportunities.
 
-📅 Calls: [as needed][calendar]  
+📅 Calls: [As needed][calendar]  
 👪 Members: [**@opportunities**][t-biz]  
 ✅ Tasks: GitHub board > [`i:business-planning` label][l-biz]  
 
@@ -112,7 +112,7 @@ Initiative for pursuing business opportunities.
 
 Initiative for stewarding our shared practices and policies for effective remote collaboration.
 
-📅 Calls: [Biweekly][calendar]  
+📅 Calls: [As needed][calendar]  
 👪 Members: [**@operations**][t-ops]  
 ✅ Tasks: GitHub board > [`i:operations` label][l-ops]  
 
@@ -120,12 +120,9 @@ Initiative for stewarding our shared practices and policies for effective remote
 
 Initiative for providing support and maintaining our "virtual office" and public services.
 
-📅 Calls: [Biweekly-ish][calendar]   
+📅 Calls: [Monthly][calendar]   
 👪 Members: [**@infrastructure**][t-inf]  
 ✅ Tasks: GitHub board > [`i:infrastructure` label][l-inf]  
-
-
-
 
 
 
