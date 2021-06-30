@@ -15,13 +15,13 @@ Initiative for undertaking an organizational transformation to become more cross
 👪 Members: [**@**][t- ]  dc
 ✅ Tasks: GitHub board > [`i:cmc` label][l- ]  
 
-### [Complete Migration and Deprecation][[shortcode]-wg]
+### [Complete Migration and Deprecation][[shortcode]-wg] 📝
 
-Initiative for ...
+Initiative for completing migration of core Hypha services to new Server (Passbolt, BBB) and deprecate unneeded ones (Jitsi).
 
-📈 Scale and Est. Hours: [][hours]  
-📅 Calls: [ ][calendar]  
-👪 Members: [**@**][t- ]  
+📈 Scale and Est. Hours: [Small][hours]  
+📅 Calls: [?][calendar]  
+👪 Members: [**@**][t- ]  el, yk
 ✅ Tasks: GitHub board > [` ` label][l- ]  
 
 ### [Dripline][[shortcode]-wg]
@@ -42,32 +42,32 @@ Initiative for meeting neighbours, potential collaborators, and the co-op curiou
 👪 Members: [**@**][t-fin]  uv, dc +bl, +yj?
 ✅ Tasks: GitHub board > [`i:hello` label][l-fin] 
 
-### [Improving Stack][[shortcode]-wg]
+### [Improving Tech Stack][[shortcode]-wg] 📝
 
-Initiative for ...
+Initiative for addressing members' ongoing workflow issues with current technical stack (e.g., Calendar, Email, and varying clients).
 
-📈 Scale and Est. Hours: [][hours]  
+📈 Scale and Est. Hours: [Medium][hours]  
 📅 Calls: [ ][calendar]  
-👪 Members: [**@**][t- ]  
+👪 Members: [**@**][t- ] yj, el 
 ✅ Tasks: GitHub board > [` ` label][l- ]  
 
-### [Living Organization][[shortcode]-wg]
+### [Living Organization][[shortcode]-wg] 📝
 
-Initiative for ...
+Initiative for leading the creation and execution of strategy and governance, including quarterly planning meetings and AGM.
 
-📈 Scale and Est. Hours: [][hours]  
-📅 Calls: [ ][calendar]  
-👪 Members: [**@**][t- ]  
+📈 Scale and Est. Hours: [Medium][hours]  
+📅 Calls: [As needed][calendar]  
+👪 Members: [**@**][t- ] uv, bl, dc
 ✅ Tasks: GitHub board > [` ` label][l- ]  
 
-### [Open Collective Fiscal Host][[shortcode]-wg]
+### [Open Collective Fiscal Host][[shortcode]-wg] 📝
 
-Initiative for ...
+Initiative for operating as a fiscal host using Open Collective to aid small projects and informal groups aligned with our mission-work. 
 
-📈 Scale and Est. Hours: [][hours]  
-📅 Calls: [ ][calendar]  
-👪 Members: [**@**][t- ]  
-✅ Tasks: GitHub board > [` ` label][l- ]  
+📈 Scale and Est. Hours: [Large][hours]  
+📅 Calls: [?][calendar]  
+👪 Members: [**@**][t- ] bl, dc
+✅ Tasks: GitHub board > [`fiscalhost` label][l- ]  
 
 ### [Radical Co-op Development][[shortcode]-wg]
 
