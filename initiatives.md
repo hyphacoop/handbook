@@ -10,16 +10,16 @@ Below we have the list of **active** initiatives as of **2021 Q3**, the full [hi
 
 Initiative for undertaking an organizational transformation to become more cross-functional and open to new styles of collaboration while supporting  members' learning, growth, and livelihoods.
 
-📈 Scale and Est. Hours: [Medium][hours]
+📈 Scale and Est. Hours: [Medium][hours]  
 📅 Calls: [As needed][calendar]  
 👪 Members: [**@**][t- ]  dc
-✅ Tasks: GitHub board > [`cmc` label][l- ]  
+✅ Tasks: GitHub board > [`i:cmc` label][l- ]  
 
 ### [Complete Migration and Deprecation][[shortcode]-wg]
 
 Initiative for ...
 
-📈 Scale and Est. Hours: [][hours]
+📈 Scale and Est. Hours: [][hours]  
 📅 Calls: [ ][calendar]  
 👪 Members: [**@**][t- ]  
 ✅ Tasks: GitHub board > [` ` label][l- ]  
@@ -28,7 +28,7 @@ Initiative for ...
 
 Initiative for developing Hypha’s writing practice by publishing bi-monthly public facing articles on our website.
 
-📈 Scale and Est. Hours: [Large][hours]
+📈 Scale and Est. Hours: [Large][hours]  
 📅 Calls: [Weekly][calendar]   
 👪 Members: [**@**][t-fin] dc (lead), uv, +el
 ✅ Tasks: GitHub board > [`i:drip` label][l-fin]  
@@ -37,7 +37,7 @@ Initiative for developing Hypha’s writing practice by publishing bi-monthly pu
 
 Initiative for meeting neighbours, potential collaborators, and the co-op curious to deepen our relationships through 2-3 call per month.
 
-📈 Scale and Est. Hours: [Small][hours]
+📈 Scale and Est. Hours: [Small][hours]  
 📅 Calls: [Weekly][calendar]   
 👪 Members: [**@**][t-fin]  uv, dc +bl, +yj?
 ✅ Tasks: GitHub board > [`i:hello` label][l-fin] 
@@ -46,7 +46,7 @@ Initiative for meeting neighbours, potential collaborators, and the co-op curiou
 
 Initiative for ...
 
-📈 Scale and Est. Hours: [][hours]
+📈 Scale and Est. Hours: [][hours]  
 📅 Calls: [ ][calendar]  
 👪 Members: [**@**][t- ]  
 ✅ Tasks: GitHub board > [` ` label][l- ]  
@@ -55,7 +55,7 @@ Initiative for ...
 
 Initiative for ...
 
-📈 Scale and Est. Hours: [][hours]
+📈 Scale and Est. Hours: [][hours]  
 📅 Calls: [ ][calendar]  
 👪 Members: [**@**][t- ]  
 ✅ Tasks: GitHub board > [` ` label][l- ]  
@@ -64,7 +64,7 @@ Initiative for ...
 
 Initiative for ...
 
-📈 Scale and Est. Hours: [][hours]
+📈 Scale and Est. Hours: [][hours]  
 📅 Calls: [ ][calendar]  
 👪 Members: [**@**][t- ]  
 ✅ Tasks: GitHub board > [` ` label][l- ]  
@@ -73,7 +73,7 @@ Initiative for ...
 
 Initiative for being active in co-operative spaces (e.g., CIU, CWCF, etc.) and growing other co-operatives. Principle 6. 
 
-📈 Scale and Est. Hours: [Medium][hours]
+📈 Scale and Est. Hours: [Medium][hours]  
 📅 Calls: [Monthly][calendar]   
 👪 Members: [**@finance-wg**][t-fin]  uv (lead), dc
 ✅ Tasks: GitHub board > [`i:radcoops` label][l-fin] 
@@ -82,7 +82,7 @@ Initiative for being active in co-operative spaces (e.g., CIU, CWCF, etc.) and g
 
 Initiative for maintaining Hypha's social media accounts (e.g., Dripline, Twitter, Instagram, LinkedIn) and other platforms we use that have a social element (e.g., OpenCollective, Arena, GitHub).
 
-📈 Scale and Est. Hours: [Medium][hours]
+📈 Scale and Est. Hours: [Medium][hours]  
 📅 Calls: [Monthly][calendar]   
 👪 Members: [**@**][t-fin]  dc, uv, ep
 ✅ Tasks: GitHub board > [`i:socials` label][l-fin] 
