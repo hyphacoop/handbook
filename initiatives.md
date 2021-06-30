@@ -8,9 +8,12 @@ Below we have the list of **active** initiatives as of **2021 Q3**.
 
 ### [Call me Chrysalis][[shortcode]-wg]
 
-Initiative for ...
+Initiative for undertaking an organizational transformation to become more cross-functional and open to new styles of collaboration while supporting  members' learning, growth, and livelihoods.
 
-📅 Calls: [ ][calendar]  
+- Members: dc
+- Label: cmc
+
+📅 Calls: [As needed][calendar]  
 👪 Members: [**@**][t- ]  
 ✅ Tasks: GitHub board > [` ` label][l- ]  
 
