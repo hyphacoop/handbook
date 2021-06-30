@@ -114,4 +114,4 @@ This is a checklist for onboarding new members, workers, and contractors to the 
 [google-drive]: https://link.hypha.coop/drive
 [bb]: https://docs.google.com/drawings/d/1tpczePR5ky0EkdOGGdfU16irDz-gjdC61p2QGoAKhIE/edit
 [bb-folder]: https://drive.google.com/drive/folders/1XN1xw_3Lm6gWEuMla3MrbuK1VW0FmABt
-[operations]: /working-groups.md#operations
+[operations]: /initiatives.md#operations
