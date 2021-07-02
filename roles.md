@@ -87,32 +87,31 @@ The previous Cultivator is responsible for making time to mentor and support the
 
 ### Initiative Lead
 
-The *Initiative lead* is part project-manager, part-coach and responsible for ensuring initiatives are on track and all members of the squad are able to work on tasks.
+The *Initiative lead* is part-PM, part-coach and is responsible for ensuring initiatives are on track and that all members of the squad are able to work.
 
 **Parent Initiative:** Per initative
 
-**Aim:** responsible for ensuring initiatives are on track and all members of the squad are able to work on tasks.
+**Aim:** Ensuring initiatives are on track and all members of the squad are able to work on tasks.
 
 **Tasks**:
-- chair all hands meetings (Weekly):
-   - prepare meeting pad in advance so we start on time
-   - ask for additional agenda items at start of meeting
-   - facilitate discussion
-   - keep time
-- review and merge notes (Weekly)
+- chair inititative meetings (As needed):
+   - prepare for meetings in advance 
+   - facilitate discussion and times
+- review and merge notes (As needed)
 - help squad members stay organized (As needed):
   - add meetings and important dates to calendar after meeting
-  - set up required tasks or documents
+  - set up required tasks on GitHub or documents
   - send reminders on time-sensitive action items
+- work with Back Office for project setup, invoicing, payroll and contracts 
 
 **Authority:**
 - set strategy and direction within intiative
 
 **Limits:** (on Authority)
-- permissions of member-workers needed to:
-  - []
-- permission of parent initiative needed to:
-  - []
+- permissions of all member-workers needed to:
+  - start an initiative
+  - change the scope or extend the length of the initiative
+  - increase the budget
 
 **Time Budget:** Variable depending on needs of initative.
 
