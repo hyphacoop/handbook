@@ -6,86 +6,86 @@ Initiatives are mission-oriented projects that are executed by a self-organising
 
 Below we have the list of **active** initiatives as of **2021 Q3**, the full [history of our projects][projects].
 
-### [Call me Chrysalis][[shortcode]-wg]
+### [Call me Chrysalis][init-chrysalis]
 
 Initiative for undertaking an organizational transformation to become more cross-functional and open to new styles of collaboration while supporting  members' learning, growth, and livelihoods.
 
 📈 Scale and Est. Hours: [Medium][hours]  
 📅 Calls: [As needed][calendar]  
-👪 Members: [**@**][t- ]  dc
-✅ Tasks: GitHub board > [`i:cmc` label][l- ]  
+👪 Members: [**@**][t- ]  dc   
+✅ Tasks: GitHub board > [`init-chrysalis` label][l-chrysalis]  
 
-### [Complete Migration and Deprecation][[shortcode]-wg] 📝
+### [Complete Migration and Deprecation][init-migration] 📝
 
 Initiative for completing migration of core Hypha services to new Server (Passbolt, BBB) and deprecate unneeded ones (Jitsi).
 
 📈 Scale and Est. Hours: [Small][hours]  
 📅 Calls: [?][calendar]  
-👪 Members: [**@**][t- ]  el (lead
-✅ Tasks: GitHub board > [`migration` label][l- ]  
+👪 Members: [**@**][t- ]  el (lead), yj   
+✅ Tasks: GitHub board > [`init-migration` label][l-migration]  
 
-### [Dripline][[shortcode]-wg]
+### [Dripline][init-drip]
 
 Initiative for developing Hypha’s writing practice by publishing bi-monthly public facing articles on our website.
 
 📈 Scale and Est. Hours: [Large][hours]  
 📅 Calls: [Monthly][calendar]   
-👪 Members: [**@**][t-fin] dc (lead), uv, ep, el
-✅ Tasks: GitHub board > [`i:drip` label][l-fin]  
+👪 Members: [**@**][t-fin] dc (lead), uv, ep, el   
+✅ Tasks: GitHub board > [`init-drip` label][l-drip]  
 
-### [Hello Hypha][[shortcode]-wg]
+### [Hello Hypha][init-hello]
 
 Initiative for meeting neighbours, potential collaborators, and the co-op curious to deepen our relationships through 2-3 calls per month.
 
 📈 Scale and Est. Hours: [Small][hours]  
 📅 Calls: [Weekly][calendar]   
-👪 Members: [**@**][t-fin]  uv (lead), dc, bl, yj
-✅ Tasks: GitHub board > [`i:hello` label][l-fin] 
+👪 Members: [**@**][t-fin]  uv (lead), dc, bl, yj  
+✅ Tasks: GitHub board > [`init-hello` label][l-hello] 
 
-### [Improving Tech Stack][[shortcode]-wg] 📝
+### [Improving Tech Stack][init-improvetech] 📝
 
 Initiative for addressing members' ongoing workflow issues with current technical stack (e.g., Calendar, Email, and varying clients).
 
 📈 Scale and Est. Hours: [Medium][hours]  
 📅 Calls: [Monthly][calendar]  
-👪 Members: [**@**][t- ] yj (lead), el 
-✅ Tasks: GitHub board > [`improvetech` label][l- ]  
+👪 Members: [**@**][t- ] yj (lead), el   
+✅ Tasks: GitHub board > [`init-improvetech` label][l-improvetech]  
 
-### [Living Organization][[shortcode]-wg] 📝
+### [Organisation Homeostasis][init-homeostatis] 📝
 
 Initiative for leading the creation and execution of strategy and governance, including quarterly planning meetings and AGM.
 
 📈 Scale and Est. Hours: [Medium][hours]  
 📅 Calls: [As needed][calendar]  
-👪 Members: [**@**][t- ] uv (lead), bl, dc
-✅ Tasks: GitHub board > [`homeostatis` label][l- ]  
+👪 Members: [**@**][t- ] uv (lead), bl, dc  
+✅ Tasks: GitHub board > [`init-homeostatis` label][l-homeostatis]  
 
-### [Open Collective Fiscal Host][[shortcode]-wg] 📝
+### [Open Collective Fiscal Host][init-ochost] 📝
 
 Initiative for operating as a fiscal host using Open Collective to aid small projects and informal groups aligned with our mission-work. 
 
 📈 Scale and Est. Hours: [Medium][hours]  
-📅 Calls: [?][calendar]  
-👪 Members: [**@**][t- ] bl, dc
-✅ Tasks: GitHub board > [`fiscalhost` label][l- ]  
+📅 Calls: [Biweekly][calendar]  
+👪 Members: [**@**][t- ] bl, dc   
+✅ Tasks: GitHub board > [`init-ochost` label][l-ochost]  
 
-### [Radical Co-op Development][[shortcode]-wg]
+### [Radical Co-op Development][init-radcoops]
 
 Initiative for being active in co-operative spaces (e.g., CIU, CWCF, etc.) and growing other co-operatives. Principle 6. 
 
 📈 Scale and Est. Hours: [Medium][hours]  
 📅 Calls: [Monthly][calendar]   
-👪 Members: [**@finance-wg**][t-fin]  uv (lead), dc
-✅ Tasks: GitHub board > [`i:radcoops` label][l-fin] 
+👪 Members: [**@finance-wg**][t-fin]  uv (lead), dc  
+✅ Tasks: GitHub board > [`init-radcoops` label][l-radcoops] 
 
-### [Social Spaces][[shortcode]-wg]
+### [Social Spaces][init-socials]
 
 Initiative for maintaining Hypha's social media accounts (e.g., Dripline, Twitter, Instagram, LinkedIn) and other platforms we use that have a social element (e.g., OpenCollective, Arena, GitHub).
 
 📈 Scale and Est. Hours: [Medium][hours]  
 📅 Calls: [Weekly][calendar]   
-👪 Members: [**@**][t-fin]  dc (lead), uv, ep
-✅ Tasks: GitHub board > [`i:socials` label][l-fin] 
+👪 Members: [**@**][t-fin]  dc (lead), uv, ep   
+✅ Tasks: GitHub board > [`init-socials` label][l-socials] 
 
 
 ## Back office 
@@ -98,7 +98,7 @@ Initiative for stewarding the financial sustainability of the organization, this
 
 📅 Calls: [As needed][calendar]   
 👪 Members: [**@finance**][t-fin]  
-✅ Tasks: GitHub board > [`i:finance` label][l-fin]  
+✅ Tasks: GitHub board > [`finance` label][l-fin]  
 
 ### [Opportunities][biz-wg]
 
@@ -106,7 +106,7 @@ Initiative for pursuing business opportunities.
 
 📅 Calls: [As needed][calendar]  
 👪 Members: [**@opportunities**][t-biz]  
-✅ Tasks: GitHub board > [`i:business-planning` label][l-biz]  
+✅ Tasks: GitHub board > [`opportunities` label][l-opp]  
 
 ### [Operations][ops-wg]
 
@@ -114,7 +114,7 @@ Initiative for stewarding our shared practices and policies for effective remote
 
 📅 Calls: [As needed][calendar]  
 👪 Members: [**@operations**][t-ops]  
-✅ Tasks: GitHub board > [`i:operations` label][l-ops]  
+✅ Tasks: GitHub board > [`operations` label][l-ops]  
 
 ### [Infrastructure][inf-wg]
 
@@ -122,7 +122,7 @@ Initiative for providing support and maintaining our "virtual office" and public
 
 📅 Calls: [Monthly][calendar]   
 👪 Members: [**@infrastructure**][t-inf]  
-✅ Tasks: GitHub board > [`i:infrastructure` label][l-inf]  
+✅ Tasks: GitHub board > [`infrastructure` label][l-inf]  
 
 
 
@@ -139,11 +139,20 @@ Initiative for providing support and maintaining our "virtual office" and public
 [ops-wg]: https://link.hypha.coop/ops-wg
 [inf-wg]: https://link.hypha.coop/inf-wg
 
-[l-biz]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"wg:business-planning"
-[l-fin]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"wg:finance"
-[l-gov]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"wg:governance"
-[l-ops]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"wg:operations"
-[l-inf]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"wg:infrastructure"
+<!-- Links: Labels -->
+[l-fin]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"finance"
+[l-opp]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"opportunities"
+[l-inf]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"infrastructure"
+[l-ops]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"operations"
+[l-chrysalis]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"init-chrysalis"
+[l-migration]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"init-migration"
+[l-drip ]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"init-drip"
+[l-hello]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"init-hello"
+[l-improvetech]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"init-improvetech"
+[l-homeostatis]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"init-homeostatis"
+[l-ochost]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"init-ochost"
+[l-radcoops]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"init-radcoops"
+[l-socials]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"init-socials"
 
 [t-biz]: https://github.com/orgs/hyphacoop/teams/business-planning-wg/members
 [t-fin]: https://github.com/orgs/hyphacoop/teams/finance-wg/members
