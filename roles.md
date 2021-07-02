@@ -94,6 +94,7 @@ The *Initiative lead* is part-PM, part-coach and is responsible for ensuring ini
 **Aim:** Ensuring initiatives are on track and all members of the squad are able to work on tasks.
 
 **Tasks**:
+- report on inititative progress at all hands and strategic meetings 
 - chair inititative meetings (As needed):
    - prepare for meetings in advance 
    - facilitate discussion and times
