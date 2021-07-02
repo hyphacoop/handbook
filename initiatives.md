@@ -1,4 +1,4 @@
-# Initiatives ⚠️
+# Initiatives
 
 ⚠️ _Warning: Initiatives are still being set up, they replace working groups. Expect this space to change._ ⚠️
 
@@ -92,7 +92,7 @@ Initiative for maintaining Hypha's social media accounts (e.g., Dripline, Twitte
 
 Contains the are the core business activities for sustaining Hypha's virtual office, these are not set up in the same way as the above initiatives:
 
-### [Finance][fin-wg]
+### Finance
 
 Initiative for stewarding the financial sustainability of the organization, this includes establishing accounting practices, maintaining financial accounts, processing invoices, expenses, and payroll, and creating reports on our financial statements and tax obligations.
 
@@ -100,7 +100,7 @@ Initiative for stewarding the financial sustainability of the organization, this
 👪 Members: [**@finance**][t-fin]  
 ✅ Tasks: GitHub board > [`finance` label][l-fin]  
 
-### [Opportunities][biz-wg]
+### Opportunities
 
 Initiative for pursuing business opportunities.
 
@@ -108,7 +108,7 @@ Initiative for pursuing business opportunities.
 👪 Members: [**@opportunities**][t-biz]  
 ✅ Tasks: GitHub board > [`opportunities` label][l-opp]  
 
-### [Operations][ops-wg]
+### Operations
 
 Initiative for stewarding our shared practices and policies for effective remote collaboration.
 
@@ -116,7 +116,7 @@ Initiative for stewarding our shared practices and policies for effective remote
 👪 Members: [**@operations**][t-ops]  
 ✅ Tasks: GitHub board > [`operations` label][l-ops]  
 
-### [Infrastructure][inf-wg]
+### Infrastructure
 
 Initiative for providing support and maintaining our "virtual office" and public services.
 
@@ -130,14 +130,6 @@ Initiative for providing support and maintaining our "virtual office" and public
 [calendar]: https://link.hypha.coop/calendar
 [projects]: https://link.hypha.coop/projects
 [hours]: https://link.hypha.coop/hours
-
-
-<!-- Links: Working Groups -->
-[biz-wg]: https://link.hypha.coop/biz-wg
-[fin-wg]: https://link.hypha.coop/fin-wg
-[gov-wg]: https://link.hypha.coop/gov-wg
-[ops-wg]: https://link.hypha.coop/ops-wg
-[inf-wg]: https://link.hypha.coop/inf-wg
 
 <!-- Links: Labels -->
 [l-fin]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"finance"
