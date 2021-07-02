@@ -6,11 +6,12 @@ _In essence this should be a one-pager or less_
 
 ---
 
-**Status**: 
-**Timeline**: 
-**Scale**: 
-**Project Lead**: 
-**Est. Hours**:   Hypha-wide: 
+⏲️ Status: 
+📑 Timeline: 
+📈 Scale and Est. Hours: 
+📅 Calls:  
+👪 Members:  (lead)
+✅ Tasks: GitHub board > 
 
 [TOC]
 

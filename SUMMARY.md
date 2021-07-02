@@ -11,7 +11,7 @@
 * [Our Virtual Office](onboarding.md)
   - [Onboarding](onboarding.md)
   - [Coordination 🚧](coordination.md)
-  - [Initiatives](initiatives.md)
+  - [Initiatives](initiatives/README.md)
   - [Roles 🚧](roles.md)
   - [Meetings](meetings.md)
   - [Working Open](working-open.md)
