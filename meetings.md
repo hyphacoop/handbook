@@ -84,7 +84,7 @@ This format is a variation of the members meeting that can be called by the boar
 
 ### Board Meeting
 
-📆 **Schedule:** As often as required with appropriate notice, per our [Bylaws][bylaws-4]
+📆 **Schedule:** As often as required with appropriate notice, per our [Bylaws][bylaws-4]  
 🕙 **Duration:** 60 mins  
 📋 **Template:** 
 
