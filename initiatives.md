@@ -4,7 +4,9 @@
 
 Initiatives are mission-oriented projects that are executed by a self-organising team of 2-4 Hypha members who have the skills and tools to design, build, gather feedback or test, and finalize/release on the project. These include both internal and external-facing projects and tend to be reviewed on a quarterly basis. 
 
-Below we have the list of **active** initiatives as of **2021 Q3** and we keep a full [history of our projects][projects].
+Below we have the list of **active** initiatives as of **2021 Q3** and we keep a full [archive of our projects][projects].
+
+[projects]: https://github.com/hyphacoop/organizing-private/tree/master/initiatives-internal 🔒.
 
 ### [Call me Chrysalis][chrysalis]
 
@@ -17,7 +19,7 @@ Initiative for undertaking an organizational transformation to become more cross
 👪 Members: [**@**][t- ]  dc   
 ✅ Tasks: GitHub board > [`init-chrysalis` label][l-chrysalis]  
 
-[chrysalis]: ./2021-02-17-call-me-chrysalis.md
+[chrysalis]: https://github.com/hyphacoop/organizing/blob/master/_posts/initiatives/2021-02-17-call-me-chrysalis.md
 
 ### Complete Migration and Deprecation
 
