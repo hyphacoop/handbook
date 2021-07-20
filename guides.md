@@ -501,20 +501,30 @@ members. Skip the steps below at your discretion for low-stakes topics._
   - as needed, send reminders of action items
   - migrate action items into task tracker
   
-### Joining a Jitsi Call
+### Joining a BigBlueButton Call
 
-💻 **Desktop.** Follow [`link.hypha.coop/calls`](https://link.hypha.coop/calls) to our default conference platform.
-
-📱 **Mobile**
-  1. Install the app. [Android][jitsi-android] | [iOS][jitsi-ios]
-  2. 🔗 **Visit** call URL to open app, or 📋 **copy-paste** redirected call URL (e.g. `https://jitsi.hypha.coop/hyphacoop`) into app home screen.
-  
-   [jitsi-android]: http://jitsi.org/android
-   [jitsi-ios]: http://jitsi.org/ios
+💻 **Desktop and 📱Mobile.** Follow [`link.hypha.coop/calls`](https://link.hypha.coop/calls) to our default conference platform.
 
 📞 **Phone**
-  1. Use the private dial-in number from our [technical Jitsi documentation](https://github.com/hyphacoop/organizing-private/blob/master/documents/infrastructure/jitsi.md).
-  2. _After_ prompt, enter conference code `307 314 3734 #`
+  1. Ask a member already in the conference room for the pin number which is shown in the `Public Chat` area.
+  2. Use the private dial-in number from our [technical BigBlueButton documentation](https://github.com/hyphacoop/organizing-private/blob/master/documents/infrastructure/bigbluebutton.md#connection-details).
+  3. _After_ prompt, enter the pin number for the meeting
+  4. Use the below number keys to change your settings
+   - Press 0 to toggle mute and unmute
+   - Increase your mic volume
+      - 3 Talk Volume Up
+      - 2 Talk Volume Zero (default)
+      - 1 Talk Volume Down
+
+   - Increase everyone else’s volume
+      - 6 Listen Volume Up
+      - 5 Listen Volume Zero (default)
+      - 4 Listen Volume Down
+
+   - Energy level is a threshold that dictates the level at which a person is determined to be speaking versus the background noise received.
+      - 9 Energy Up
+      - 8 Energy Zero (default)
+      - 7 Energy Down
 
 ## Payroll
 
