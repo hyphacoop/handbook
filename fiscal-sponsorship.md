@@ -1,4 +1,4 @@
-# Fiscal Sponsorhip
+# Fiscal Sponsorship
 
 Hypha is a Canadian Fiscal Host on the [Open Collective platform](https://opencollective.com/hyphacoopinc). Our fiscal sponsorship program allows Hypha to support our neighbours by providing a financial home, enabling them to accept and disburse money without having to create their own legal entity and bank account.
 
