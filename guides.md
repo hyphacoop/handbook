@@ -505,6 +505,7 @@ members. Skip the steps below at your discretion for low-stakes topics._
 
 💻 **Desktop and 📱Mobile.** Follow [`link.hypha.coop/calls`](https://link.hypha.coop/calls) to our default conference platform.
 
+🎤 **Mic Selection** - Some browsers (such as FireFox) you will ask you for your microphone selection at the same time the browser asks you for permission to use the microphone. Other browsers (such as Chrome) will not.  In those cases you will have to proceed to the `Echo Test` and answer `No` to `Do you hear audio?`. This will bring up a dialog to change your mic input.
 📞 **Phone**
   1. Ask a member already in the conference room for the pin number which is shown in the `Public Chat` area.
   2. Use the private dial-in number from our [technical BigBlueButton documentation](https://github.com/hyphacoop/organizing-private/blob/master/documents/infrastructure/bigbluebutton.md#connection-details).
