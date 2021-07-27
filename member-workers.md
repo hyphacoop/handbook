@@ -27,7 +27,7 @@ Our understanding was shaped from the following prompts and examples:
         - Skill-based, looking at individual capacities
         - "We" and "us"-focused (i.e., "I think this will help us work better together")
     - **ISN'T**:
-        - List of working group responsibilities (we have those: https://handbook.hypha.coop/working-groups.html
+        - List of working group or initiative responsibilities
         - Managerial ("I think that others need to do...")
 - Examples:
     > Self-Management is the art of autonomously recognizing what needs to be done, combined with the initiative to work cooperatively, in order to best meeting the collective needs of yourself and the cooperative.
