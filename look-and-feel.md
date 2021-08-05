@@ -59,6 +59,13 @@ We tend to use the following emoji and iconography:
 🍄 `:mushroom:`  
 🌿 `:herb:`  
 🏴 `:black_flag:` or  ⚑ `&#9873;`  
+🐛 `:bug:`  
+🌱 `:seedling:`  
+🎛️ `:control_knobs:`  
+🌴 `:palm_tree:`  
+🍹 `:tropical_drink:`  
+☀️ `:tropical_drink:`  
+🛰️ `:artificial_satellite:`  
 
 
 ### Assets and templates
