@@ -64,7 +64,7 @@ We tend to use the following emoji and iconography:
 🎛️ `:control_knobs:`  
 🌴 `:palm_tree:`  
 🍹 `:tropical_drink:`  
-☀️ `:tropical_drink:`  
+☀️ `:sunny:`  
 🛰️ `:artificial_satellite:`  
 
 
