@@ -31,7 +31,9 @@ our values.
 - [Signatures](#signatures)
 - [Shortlinks](#shortlinks)
 - [Timesheets](#timesheets)
+- [Virtual Machines](#virtual-machines)
 - [Voicemail](#voicemail)
+- [VPN](#vpn)
 - [References](#references)
 
 ## Calendar
@@ -885,13 +887,13 @@ To create VMs manually follow these steps (the steps below will need to be done 
 14. Press clone, once finished we can set hardware 
 15. Select the VM ID in the `Datacenter` sidebar and click on `Hardware`
 16. Modify the memory, number of processors and increase diskspace as needed.
-    - Recommended numbers"
+    - Recommended numbers
         - memory: 1024MB
         - CPU: 1 socket, 4 cores
         - HDD space: 20GB
 17. Make sure the `Network Device` is set to the right bridge ex. `vmbr2`
 18. In the VM sidebar click on `Cloud-init` and enter the following fields
-    - User: `sysadmin`
+    - User: `sysadmin` (unless otherwise specified)
     - Password: `leave as none`
     - DNS domain `hypha.coop` or `hypha.prod` depending on internal or not
     - DNS servers `1.1.1.1,1.0.0.1`
@@ -944,31 +946,39 @@ We use pfSense to manage OpenVPN users and gain access to internal resources and
 
 ### Adding OpenVPN users on pfSense
 
-To add OpenVPN users on pfSense:
+- To add OpenVPN users on pfSense:
+  1. Log in to pfSense panel by SSH tunneling or over the VPN
+      - Recommanded to use VPN if you already have an VPN account
+      - The pfSense panel can be accessed [here](https://198.51.100.1/services_unbound.php)
+  1. Go to [System -> User Manager](https://198.51.100.1/system_usermanager.php)
+  1. Click `+ Add` green button
+  1. Enter the username, it should be `ovpn_firstname`
+  1. Create a random strong password example: the output of `dd if=/dev/urandom bs=1M count=100 | md5sum`
+  1. Tick `Click to create a user certificate` 
+  1. Create Certificate for user
+     -  Discriptive name: same as username
+     -  Certificate authority: utilities.hypha.coop
+     -  Key length: 4096
+     -  Lifetime: 3650
+  1. Click `Save`
 
-1. Log in to pfSense panel by SSH tunneling or over the VPN
-    - Recommanded to use VPN if you already have an VPN account
-    - The pfSense panel can be accessed [here](https://198.51.100.1/services_unbound.php)
-1. Go to [System -> User Manager](https://198.51.100.1/system_usermanager.php)
-1. Click `+ Add` green button
-1. Enter the username, it should be `ovpn_firstname`
-1. Create a random strong password example: the output of `dd if=/dev/urandom bs=1M count=100 | md5sum`
-1. Tick `Click to create a user certificate` 
-1. Create Certificate for user
-   -  Discriptive name: same as username
-   -  Certificate authority: utilities.hypha.coop
-   -  Key length: 4096
-   -  Lifetime: 3650
-1. Click `Save`
+- Exporting OpenVPN file:
+  1. Log in to pfSense panel with instructions above
+  1. Go to [VPN -> OpenVPN](https://198.51.100.1/vpn_openvpn_server.php)
+  1. Click on `Client Export` tab
+  1. Select Remote Access Server `VPN Access UDP4:13313`
+  1. Leaving all other settings untouched scroll down to OpenVPN Clients and click `Most Clients` under Inline Configurations beside the user you want to download.
+  1. Send the OpenVPN file to user over encrypted means such as Signal or encrypted Matrix direct chat.
 
-Exporting OpenVPN file:
-1. Log in to pfSense panel with instructions above
-1. Go to [VPN -> OpenVPN](https://198.51.100.1/vpn_openvpn_server.php)
-1. Click on `Client Export` tab
-1. Select Remote Access Server `VPN Access UDP4:13313`
-1. Leaving all other settings untouched scroll down to OpenVPN Clients and click `Most Clients` under Inline Configurations beside the user you want to download.
-1. Send the OpenVPN file to user over encrypted means such as Signal or encrypted Matrix direct chat.
-
+- Deleting OpenVPN user on pfSense
+  1. Go to System -> User Manager
+  1. Delete the user(s)
+  1. Log in to pfSense panel by SSH tunneling or over the VPN
+  1. Go to System -> Cert. Manager
+  1. Click on `Certificate Revocation` tab
+  1. Click the ✏︎ beside `Certificate Revocation`
+  1. Choose the `ovpn_username` you are removing
+  1. Choose Reason and click `+ Add`
 
 ## References
 
