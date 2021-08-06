@@ -25,7 +25,6 @@ The following sites and services are at the domain [hypha.coop](https://hypha.co
 - Shortlinks: [link.hypha.coop](https://link.hypha.coop)
 - Loomio: [loomio.hypha.coop](https://loomio.hypha.coop)
 - BigBlueButton: [bbb.hypha.coop](https://bbb.hypha.coop)
-- Jitsi: [jitsi.hypha.coop](https://jitsi.hypha.coop)
 - COVID-19 Solidarity: [covid19.hypha.coop](https://covid19.hypha.coop)
 
 
@@ -85,8 +84,6 @@ Our [BigBlueButton server](https://bbb.hypha.coop) keeps a database for register
 Uploaded presentations are kept for 5 days after you have ended your meeting and log history is kept for 28 days.
 These are BigBlueButton's default configurations and automated purging is performed by the software.
 Response to polls, raise hand events, and chat messages are cleared after the call has ended.
-
-Our [Jitsi server](https://jitsi.hypha.coop) clears all meeting data in the room after the call has ended.
 
 The [Matrix chat](https://chat.tomesh.net/#/group/+hyphacoop:tomesh.net) in Hypha rooms are periodically wiped to keep only the most recent 3 months of history.
 However, as Matrix is a federated chat protocol, chat history older than 3 months may be retained by other homeservers, and in particular, public rooms with users from other homeservers.
