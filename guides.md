@@ -771,6 +771,145 @@ When a project begins, generate a [Summary Report](https://clockify.me/reports/s
 
 1. Timesheet PDFs sent to clients or for internal payroll calculation should be archived in our [shared drive](https://link.hypha.coop/drive) under the `Timesheets` directory
 
+## Virtual Machines
+
+We use Proxmox to run our VMs. To access the management interface you need to SSH tunnel to `kvm1.hypha.coop` on port `34634` or connect over the VPN.
+
+- SSH tunnel
+  1. Tunnel the web interface over SSH with `ssh root@kvm1.hypha.coop -p 34634 -L 8006:127.0.0.1:8006`
+  1. Access the panel using https://127.0.0.1:8006/ 
+  1. The username is root and enter the password in our shared password manager [Passbolt](https://pass.hypha.coop/app/passwords/view/a34731d5-eb6a-4f0c-9475-7839280e529b)>
+
+- VPN (Recommanded)
+  1. Connect to OpenVPN
+  1. Access the panel using https://kvm1.hypha.coop:8006/
+  1. The username is root and enter the password in our shared password manager [Passbolt](https://pass.hypha.coop/app/passwords/view/a34731d5-eb6a-4f0c-9475-7839280e529b)>
+
+### Creating Cloud-init templates:
+
+Cloud-init templates are used for easy deployment of VMs. Cloud-init allows auto configuration such as auto resize filesystem, network settings, default username and its SSH keys.
+This only needs to be done once per distro.
+
+This tasks need to be done over SSH tunnel or over the VPN
+
+- Debian 10
+  ```
+  wget https://cdimage.debian.org/cdimage/openstack/10.4.3-20200610/debian-10.4.3-20200610-openstack-amd64.qcow2
+  qm create 9000 --memory 1024 --net0 virtio,bridge=vmbr2 --name cloud-init-debian-10
+  qm importdisk 9000  debian-10.4.3-20200610-openstack-amd64.qcow2 local --format qcow2
+  qm set 9000 --scsihw virtio-scsi-pci --virtio0 local:9000/vm-9000-disk-0.qcow2
+  qm set 9000 --cpu host
+  qm set 9000 --ide2 local:cloudinit
+  qm set 9000 --boot c --bootdisk virtio0
+  qm set 9000 --serial0 socket --vga serial0
+  qm set 9000 --vga std
+  qm set 9000 --ostype l26
+  ```
+  We need to install `resolvconf` to update resolv.conf from Cloud-init
+  Attach a CD-ROM and select Debian live ISO
+  Make sure boot order is set to CD ROM first
+  Start the VM
+  After booted we need to install `resolvconf`
+  Follow the following commands:
+
+  ```
+  sudo -s
+  mount /dev/vda1 /mnt
+  chroot /mnt
+  echo "nameserver 1.1.1.1" > /etc/resolv.conf
+  apt update
+  apt install resolvconf
+  exit
+  umount /mnt
+  shutdown -h now
+  ```
+  Remove CD-ROM device and set boot order back to `virtio0`
+  Now we can convert to template.
+  ```
+  qm template 9000
+  ```
+- Ubuntu 16.04
+  ```
+  wget https://cloud-images.ubuntu.com/xenial/current/xenial-server-cloudimg-amd64-disk1.img
+  qm create 9001 --memory 1024 --net0 virtio,bridge=vmbr2 --name cloud-init-ubuntu-16.04
+  qm importdisk 9001  xenial-server-cloudimg-amd64-disk1.img local --format qcow2
+  qm set 9001 --scsihw virtio-scsi-pci --virtio0 local:9001/vm-9001-disk-0.qcow2
+  qm set 9001 --cpu host
+  qm set 9001 --ide2 local:cloudinit
+  qm set 9001 --boot c --bootdisk virtio0
+  qm set 9001 --serial0 socket --vga serial0
+  qm set 9001 --vga std
+  qm set 9001 --ostype l26
+  qm template 9001
+  ```
+
+- Ubuntu 20.04
+  ```
+  wget https://cloud-images.ubuntu.com/focal/current/focal-server-cloudimg-amd64-disk-kvm.img
+  qm create 9002 --memory 1024 --net0 virtio,bridge=vmbr2 --name cloud-init-ubuntu-20.04
+  qm importdisk 9002 focal-server-cloudimg-amd64-disk-kvm.img local --format qcow2
+  qm set 9002 --scsihw virtio-scsi-pci --virtio0 local:9002/vm-9002-disk-0.qcow2
+  qm set 9002 --cpu host
+  qm set 9002 --ide2 local:cloudinit
+  qm set 9002 --boot c --bootdisk virtio0
+  qm set 9002 --serial0 socket --vga serial0
+  qm set 9002 --vga std
+  qm set 9002 --ostype l26
+  qm template 9002
+  ```
+### Manually creating Virtual Machines
+Most of our VMs are provisioned with Ansible but sometimes we need to create VMs manually for testing or without automation.
+To create VMs manually follow these steps (the steps below will need to be done over VPN):
+
+#### Select a VM ID, IP address, and DNS name
+1. For the VM you want to create, decide which is the primary category by looking at this table of [VM ID categories](#VM-ID-categories). Then choose a new VM ID for your VM by incrementing the last VM ID in that category. You can look at this table for current [VM ID usage](#Current-VM-ID-usage). **Please make sure you add the new VM ID to the table so that it stays up to date.**
+2. Fill out interface(s) [IP allocations](https://hackmd.io/pElXZTnUTRO1zApxpdBWDw?view#vmbr1-IP-Allocation-internal)
+3. Make a name for internal DNS if needed example `service.hypha.prod` in [Internal DNS table](https://hackmd.io/pElXZTnUTRO1zApxpdBWDw#Local-DNS)
+
+#### Reserve DNS name using pfSense
+4. Log in to pfSense web dashboard [here](https://198.51.100.1/services_unbound.php). Username `admin`, password is in Passbolt [here](https://pass.hypha.coop/app/passwords/view/c5e705f6-715c-463f-8438-4648ca383fbc)
+5. Add DNS hostname to pfSense's DNS resolver `Host Overrides` under `Services->DNS Resolver` [here](https://198.51.100.1/services_unbound.php)
+- With the example `service.hypha.prod` Host will be `service` Parent domain of host will be `hypha.prod` IP to return for host will be the LAN IPv4 and or IPv6. If dualstack use `,`  for comma-separated addresses `10.0.1.9,2001:470:b1f3:1::9`
+
+#### Create a VM using ProxMox
+6. To create the VM go login to KVM1 Proxmox host [here](https://kvm1.hypha.coop:8006/) using username root with the password in Passbolt [here](https://pass.hypha.coop/app/passwords/view/a34731d5-eb6a-4f0c-9475-7839280e529b)
+7. Select a template to clone in the `Datacenter` sidebar under `9XXX`
+8. Click on `More` on the top right corner and select `Clone`
+9. `VMID` is the VMID you noted above
+10. Mode must be `Full Clone` 
+11. Choose Target Storage depending where you want the VM to be running from.
+    - local: SSD
+    - local-hdds: Spinning drives
+12. Name should be the public FQDN or *.hypha.prod/stg domain for local access only VMs. 
+13. Format should be qcow2 (default)
+14. Press clone, once finished we can set hardware 
+15. Select the VM ID in the `Datacenter` sidebar and click on `Hardware`
+16. Modify the memory, number of processors and increase diskspace as needed.
+    - Recommended numbers"
+        - memory: 1024MB
+        - CPU: 1 socket, 4 cores
+        - HDD space: 20GB
+17. Make sure the `Network Device` is set to the right bridge ex. `vmbr2`
+18. In the VM sidebar click on `Cloud-init` and enter the following fields
+    - User: `sysadmin`
+    - Password: `leave as none`
+    - DNS domain `hypha.coop` or `hypha.prod` depending on internal or not
+    - DNS servers `1.1.1.1,1.0.0.1`
+    - SSH public key `ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC6sAx5vRrYc7ULhx39tKS5R9hK48QqTIhUGMbk/Y0ScSTUiUj0LYWbOV5FMwTe+UvsXyEfHeRfcl+p9+wykdpiDy5UiClqs1GjfbXhgeoasm1oozQQ0PhhdWcWOgkkHqS6t4G003DDEW0VY+aF8J8fsp/Wgv1Qz5KNCz4Hk0DhFqWa+fVNmpNyvu9ZIrK7WEm/2ByCTIbzale8SBx5ZihhFE8ygv5leLEpciuNJUe00w8pFAItjIMhdb2ocs3wmrvus38/LsrhmQFHzbQPusGiorCJzAqgiKwk0bBNqkYJJxj7DY+B6MP/wdhZI/KwTn44WaWTSKbsVTdko5bzLlSN1Epl31WyLuarvD/INctwqWBqvVYvy8WgRlzdxkz86+CkyVTFbXPuQtung/yhnVXBkUPhmeirVdnUBD6FxRBVdnJ0wKgxAS3/5G1nbhEJUa7SD/I6T+pY2oQ66q6JpfCIbqI/Wz/8xlb7zcB3n7ohB9uxQs3H6aJfKsAgk5exlB8fyOjl+Amox5BRq1IUzfFvp55/64pvQItd17Ql3m3J/rv7ib6D16TPBFq4h9st0KPVNZC5YSxHIJ9SUxHhcObyJ36s9ZUIiNcWbpuwMAe2SlKP2dPr52ddm2xgBCPgKI6Md8HHdIxEMUCMDUZF1/bZ83qbFxlMzm2fkPKrWrA09w== sysadmin@ansible1`
+    - IP Config (net0) or more if other interfaces exists on the VM we are using `10.0.1.9` and `2001:470:b1f3:1::9` on `vmbr2` for the below example
+        - IPv4
+            - IPv4: `Static`
+            - IPv4/CIDR: `10.0.1.9/24`
+            - Gateway (IPv4): `10.0.1.1`
+        - IPv6
+            - Ipv6: `Static`
+            - IPv6/CIDR: `2001:470:b1f3:1::9/64`
+            - Gateway (IPv6): `2001:470:b1f3:1::1`
+19. If you want the VM to boot up when the host machine restarts go to the VM `Options` sidebar and doubleclick on `Start at boot` and check the checkbox
+20. Now we can start the VM and SSH to it using Ansible VM once it is booted up.
+
+Process of creating and deleting VM videos can accessed in our [shared drive](https://drive.google.com/drive/u/0/folders/1nlHrW9qCY8erh0EKf9iff_iAuNFlbI3D)
+
 ## Voicemail
 
 ### Accessing Voicemail 
@@ -799,6 +938,37 @@ To record or update the voicemail greeting [access the voicemail](#accessing-voi
 
 - 0 - Mailbox Options
 - 1 - Record your unavailable message
+
+## VPN
+We use pfSense to manage OpenVPN users and gain access to internal resources and also provides internet access over a Canadian IP address.
+
+### Adding OpenVPN users on pfSense
+
+To add OpenVPN users on pfSense:
+
+1. Log in to pfSense panel by SSH tunneling or over the VPN
+    - Recommanded to use VPN if you already have an VPN account
+    - The pfSense panel can be accessed [here](https://198.51.100.1/services_unbound.php)
+1. Go to [System -> User Manager](https://198.51.100.1/system_usermanager.php)
+1. Click `+ Add` green button
+1. Enter the username, it should be `ovpn_firstname`
+1. Create a random strong password example: the output of `dd if=/dev/urandom bs=1M count=100 | md5sum`
+1. Tick `Click to create a user certificate` 
+1. Create Certificate for user
+   -  Discriptive name: same as username
+   -  Certificate authority: utilities.hypha.coop
+   -  Key length: 4096
+   -  Lifetime: 3650
+1. Click `Save`
+
+Exporting OpenVPN file:
+1. Log in to pfSense panel with instructions above
+1. Go to [VPN -> OpenVPN](https://198.51.100.1/vpn_openvpn_server.php)
+1. Click on `Client Export` tab
+1. Select Remote Access Server `VPN Access UDP4:13313`
+1. Leaving all other settings untouched scroll down to OpenVPN Clients and click `Most Clients` under Inline Configurations beside the user you want to download.
+1. Send the OpenVPN file to user over encrypted means such as Signal or encrypted Matrix direct chat.
+
 
 ## References
 
