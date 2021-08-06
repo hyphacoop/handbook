@@ -106,7 +106,7 @@ The **regular pay** of a Member is calculated with:
 REGULAR_PAY = (1 - CLIP) * BILLED_AMOUNT (before transaction costs)
 ```
 
-The **clip** is currently set at **25%** and is the same across all projects over a period, but can be revised as necessary by consensus.
+The **clip** is currently set at **35%** and is the same across all projects over a period, but can be revised as necessary by consensus.
 
 In addition to the regular pay, Members are entitled to:
 
