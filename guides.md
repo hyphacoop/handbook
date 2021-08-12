@@ -926,9 +926,9 @@ This encrypted mount is used to do block-level backups of all virtual machines o
 On the OVH backup storage panel note down `Name` and `ID` as we need to add it to fstab to auto mount.
 
 1. Add a mount to `/etc/fstab` `//<name>/ID /media/ovh-backup/ cifs vers=1.0,sec=ntlm,uid=root,gid=100,dir_mode=0700,username=root,password= 0 0`
-1. Install gocryptfs `apt install gocryptfs`
-1. Make backup directory `mkdir /media/ovh-backup/kvm1.hypha.coop`
-1. Init the directory ` gocryptfs -init /media/ovh-backup/kvm1.hypha.coop/`
+2. Install gocryptfs `apt install gocryptfs`
+3. Make backup directory `mkdir /media/ovh-backup/kvm1.hypha.coop`
+4. Init the directory ` gocryptfs -init /media/ovh-backup/kvm1.hypha.coop/`
 <b>Make a strong password! Write down the master key and store it safely inside our Passbolt!</b>
 ```
 Your master key is:
@@ -942,12 +942,12 @@ paper and store it in a drawer. This message is only printed once.
 
 The gocryptfs filesystem has been created successfully.
 ```
-1. Mount the directory
+5. Mount the directory
   - `mkdir /mnt/pve/ovh-backup-gocryptfs`
   - `chattr +i /mnt/pve/ovh-backup-gocryptfs`
   - `gocryptfs /media/ovh-backup/kvm1.hypha.coop /mnt/pve/ovh-backup-gocryptfs/`
 
-1. Add storage in Proxmox UI go to:
+6. Add storage in Proxmox UI go to:
   - Datacenter -> Storage
   - ID: ovh-backup-gocryptfs
   - Directory: /mnt/pve/ovh-backup-gocryptfs/
@@ -957,7 +957,7 @@ The gocryptfs filesystem has been created successfully.
   - Shared: :white_large_square:
   - Max Backups: 7
 
-1. Auto mount at boot
+7. Auto mount at boot
   - Store the password to `/etc/gocryptfs/key` and `chmod 600 /etc/gocryptfs/key`
   - Add this line to fstab `gocryptfs#/media/ovh-backup/kvm1.hypha.coop /mnt/pve/ovh-backup-gocryptfs/ fuse allow_other,quiet,passfile=/etc/gocryptfs/key 0 0`
 
