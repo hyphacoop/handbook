@@ -780,12 +780,12 @@ We use Proxmox to run our VMs. To access the management interface you need to SS
 - SSH tunnel
   1. Tunnel the web interface over SSH with `ssh root@kvm1.hypha.coop -p 34634 -L 8006:127.0.0.1:8006`
   1. Access the panel using https://127.0.0.1:8006/ 
-  1. The username is root and enter the password in our shared password manager [Passbolt](https://pass.hypha.coop/app/passwords/view/a34731d5-eb6a-4f0c-9475-7839280e529b)>
+  1. The username is root and enter the password in our shared password manager [Passbolt](https://pass.hypha.coop/app/passwords/view/a34731d5-eb6a-4f0c-9475-7839280e529b)
 
 - VPN (Recommanded)
   1. Connect to OpenVPN
   1. Access the panel using https://kvm1.hypha.coop:8006/
-  1. The username is root and enter the password in our shared password manager [Passbolt](https://pass.hypha.coop/app/passwords/view/a34731d5-eb6a-4f0c-9475-7839280e529b)>
+  1. The username is root and enter the password in our shared password manager [Passbolt](https://pass.hypha.coop/app/passwords/view/a34731d5-eb6a-4f0c-9475-7839280e529b)
 
 ### Creating Cloud-init templates:
 
@@ -864,7 +864,7 @@ Most of our VMs are provisioned with Ansible but sometimes we need to create VMs
 To create VMs manually follow these steps (the steps below will need to be done over VPN):
 
 #### Select a VM ID, IP address, and DNS name
-1. For the VM you want to create, decide which is the primary category by looking at this table of [VM ID categories](#VM-ID-categories). Then choose a new VM ID for your VM by incrementing the last VM ID in that category. You can look at this table for current [VM ID usage](#Current-VM-ID-usage). **Please make sure you add the new VM ID to the table so that it stays up to date.**
+1. For the VM you want to create, decide which is the primary category by looking at this table of [VM ID categories](https://hackmd.io/L6GOhTs7QcOZ1DlCed-uYQ#VM-ID-categories). Then choose a new VM ID for your VM by incrementing the last VM ID in that category. You can look at this table for current [VM ID usage](https://hackmd.io/L6GOhTs7QcOZ1DlCed-uYQ#Current-VM-ID-usage). **Please make sure you add the new VM ID to the table so that it stays up to date.**
 2. Fill out interface(s) [IP allocations](https://hackmd.io/pElXZTnUTRO1zApxpdBWDw?view#vmbr1-IP-Allocation-internal)
 3. Make a name for internal DNS if needed example `service.hypha.prod` in [Internal DNS table](https://hackmd.io/pElXZTnUTRO1zApxpdBWDw#Local-DNS)
 
