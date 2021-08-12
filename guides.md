@@ -983,10 +983,10 @@ To access the ZFS offsite backup snapshots SSH to `offsite-backups.hypha.coop` o
 `ssh sysadmin@offsite-backups.hypha.coop -p 10025`
 
 Staging snapshots are stored in `/media/freenas1.hypha.coop-storage/staging/.zfs/snapshot`
+
 Production snapshots are stored in `/media/freenas1.hypha.coop-storage/prod/.zfs/snapshot`
 
 Directories are named `auto-YYYY-MM-DD_HH-mm`
-
 
 ## Voicemail
 
