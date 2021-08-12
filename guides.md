@@ -992,7 +992,7 @@ Directories are named `auto-YYYY-MM-DD_HH-mm`
 
 ### Accessing Voicemail 
 
-We use a VoIP phone line provider with forwarding and voicemail from [voip.md](https://www.voip.ms). It helps us:
+We use a VoIP phone line provider with forwarding and voicemail from [voip.ms](https://www.voip.ms). It helps us:
 
 - Have a phone number without tying it to a physical location
 - Receive voicemail by email to [members@hypha.coop](mailto:members@hypha.coop)
