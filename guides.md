@@ -912,6 +912,82 @@ To create VMs manually follow these steps (the steps below will need to be done 
 
 Process of creating and deleting VM videos can accessed in our [shared drive](https://drive.google.com/drive/u/0/folders/1nlHrW9qCY8erh0EKf9iff_iAuNFlbI3D)
 
+### Setting up OVH backup space:
+Once the server is first ordered `Backup storage` needs to be enabled from the OVH panel and then we configure Proxmox to auto mount at boot.
+
+#### Enabling the backup space:
+1. Log onto [OVH panel](https://ca.ovh.com/) using password stored in our Passbolt
+1. Go to the tab of the server in the side panel
+1. Click on `Backup storage`
+1. Then enable the storage space with Samba access
+
+#### Setting up encrypted backup space on Proxmox
+This encrypted mount is used to do block-level backups of all virtual machines on ProxMox.
+On the OVH backup storage panel note down `Name` and `ID` as we need to add it to fstab to auto mount.
+
+1. Add a mount to `/etc/fstab` `//<name>/ID /media/ovh-backup/ cifs vers=1.0,sec=ntlm,uid=root,gid=100,dir_mode=0700,username=root,password= 0 0`
+1. Install gocryptfs `apt install gocryptfs`
+1. Make backup directory `mkdir /media/ovh-backup/kvm1.hypha.coop`
+1. Init the directory ` gocryptfs -init /media/ovh-backup/kvm1.hypha.coop/`
+<b>Make a strong password! Write down the master key and store it safely inside our Passbolt!</b>
+```
+Your master key is:
+
+    xxxxxxxx-xxxxxxxx-xxxxxxxx-xxxxxxxx-
+    xxxxxxxx-xxxxxxxx-xxxxxxxx-xxxxxxxx
+
+If the gocryptfs.conf file becomes corrupted or you ever forget your password,
+there is only one hope for recovery: The master key. Print it to a piece of
+paper and store it in a drawer. This message is only printed once.
+
+The gocryptfs filesystem has been created successfully.
+```
+1. Mount the directory
+`mkdir /mnt/pve/ovh-backup-gocryptfs`
+`chattr +i /mnt/pve/ovh-backup-gocryptfs`
+`gocryptfs /media/ovh-backup/kvm1.hypha.coop /mnt/pve/ovh-backup-gocryptfs/`
+
+1. Add storage in Proxmox UI go to:
+Datacenter -> Storage
+ID: ovh-backup-gocryptfs
+Directory: /mnt/pve/ovh-backup-gocryptfs/
+Content: VZDump backup file
+Nodes: kvm1
+Enable: :white_check_mark:
+Shared: :white_large_square:
+Max Backups: 7
+
+1. Auto mount at boot
+Store the password to `/etc/gocryptfs/key` and `chmod 600 /etc/gocryptfs/key`
+Add this line to fstab `gocryptfs#/media/ovh-backup/kvm1.hypha.coop /mnt/pve/ovh-backup-gocryptfs/ fuse allow_other,quiet,passfile=/etc/gocryptfs/key 0 0`
+
+### What is backed up
+ProxMox is currently setup to backup all virtual machines on the physical host by default. This includes production and staging.
+
+The backup occurs daily at 2:00am EST. The virtual machines continue to operate durring this process.
+
+### Restore
+Make sure the gocryptfs mount is mounted and configured in ProxMox
+  - Login to ProxMox Web UI
+  - Scroll down to ovh-backup-gocryptfs on the left panel
+  - Select Content on the next panel to the right
+  - Select VM to restore on the right
+  - Click the Restore button at the top
+  - Click Restore
+
+### Backup FreeNAS Dynamic Content
+Every hour, the content of the FreeNAS datastore holding dynamic content for the vms is backed up to a server in Toronto maintained by @ASoTNetworks.
+
+To access the ZFS offsite backup snapshots SSH to `offsite-backups.hypha.coop` on port `10025` with username `sysadmin`
+
+`ssh sysadmin@offsite-backups.hypha.coop -p 10025`
+
+Staging snapshots are stored in `/media/freenas1.hypha.coop-storage/staging/.zfs/snapshot`
+Production snapshots are stored in `/media/freenas1.hypha.coop-storage/prod/.zfs/snapshot`
+
+Directories are named `auto-YYYY-MM-DD_HH-mm`
+
+
 ## Voicemail
 
 ### Accessing Voicemail 
