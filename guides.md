@@ -943,23 +943,23 @@ paper and store it in a drawer. This message is only printed once.
 The gocryptfs filesystem has been created successfully.
 ```
 1. Mount the directory
-`mkdir /mnt/pve/ovh-backup-gocryptfs`
-`chattr +i /mnt/pve/ovh-backup-gocryptfs`
-`gocryptfs /media/ovh-backup/kvm1.hypha.coop /mnt/pve/ovh-backup-gocryptfs/`
+  - `mkdir /mnt/pve/ovh-backup-gocryptfs`
+  - `chattr +i /mnt/pve/ovh-backup-gocryptfs`
+  - `gocryptfs /media/ovh-backup/kvm1.hypha.coop /mnt/pve/ovh-backup-gocryptfs/`
 
 1. Add storage in Proxmox UI go to:
-Datacenter -> Storage
-ID: ovh-backup-gocryptfs
-Directory: /mnt/pve/ovh-backup-gocryptfs/
-Content: VZDump backup file
-Nodes: kvm1
-Enable: :white_check_mark:
-Shared: :white_large_square:
-Max Backups: 7
+  - Datacenter -> Storage
+  - ID: ovh-backup-gocryptfs
+  - Directory: /mnt/pve/ovh-backup-gocryptfs/
+  - Content: VZDump backup file
+  - Nodes: kvm1
+  - Enable: :white_check_mark:
+  - Shared: :white_large_square:
+  - Max Backups: 7
 
 1. Auto mount at boot
-Store the password to `/etc/gocryptfs/key` and `chmod 600 /etc/gocryptfs/key`
-Add this line to fstab `gocryptfs#/media/ovh-backup/kvm1.hypha.coop /mnt/pve/ovh-backup-gocryptfs/ fuse allow_other,quiet,passfile=/etc/gocryptfs/key 0 0`
+  - Store the password to `/etc/gocryptfs/key` and `chmod 600 /etc/gocryptfs/key`
+  - Add this line to fstab `gocryptfs#/media/ovh-backup/kvm1.hypha.coop /mnt/pve/ovh-backup-gocryptfs/ fuse allow_other,quiet,passfile=/etc/gocryptfs/key 0 0`
 
 ### What is backed up
 ProxMox is currently setup to backup all virtual machines on the physical host by default. This includes production and staging.
