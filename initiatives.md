@@ -4,9 +4,9 @@
 
 Initiatives are mission-oriented projects that are executed by a self-organising team of 2-4 Hypha members who have the skills and tools to design, build, gather feedback or test, and finalize/release on the project. These include both internal and external-facing projects and tend to be reviewed on a quarterly basis. 
 
-Below we have the list of **active** initiatives as of **2021 Q3** and we keep a full [archive of our projects][projects].
+Below we have the list of **active** initiatives as of **2021 Q3**, with full information in our [initiatives database][members] 🔒 and we keep an [archive of our projects][projects] 🔒.
 
-[projects]: https://github.com/hyphacoop/organizing-private/tree/master/initiatives-internal 🔒.
+[projects]: https://github.com/hyphacoop/organizing-private/tree/master/initiatives-internal.
 
 ### [Call me Chrysalis][chrysalis]
 
@@ -16,7 +16,7 @@ Initiative for undertaking an organizational transformation to become more cross
 📑 Timeline: February - August 2021  
 📈 Scale and Est. Hours: [Medium][hours]  
 📅 Calls: [As needed][calendar]  
-👪 Members: [**@**][t- ]  dc   
+👪 Squad Members: [**dc (lead)**][members]  
 ✅ Tasks: GitHub board > [`init-chrysalis` label][l-chrysalis]  
 
 [chrysalis]: https://github.com/hyphacoop/organizing/blob/master/_posts/initiatives/2021-02-17-call-me-chrysalis.md
@@ -29,7 +29,7 @@ Initiative for completing migration of core Hypha services to new Server (Passbo
 📑 Timeline: June - July 2021  
 📈 Scale and Est. Hours: [Small][hours]  
 📅 Calls: [?][calendar] 📝  
-👪 Members: [**@**][t- ]  el (lead), yj   
+👪 Squad Members: [**el (lead)** and others][members]   
 ✅ Tasks: GitHub board > [`init-migration` label][l-migration]  
 
 ### Dripline
@@ -40,7 +40,7 @@ Initiative for developing Hypha’s writing practice by publishing bi-monthly pu
 📑 Timeline: Ongoing  
 📈 Scale and Est. Hours: [Large][hours]  
 📅 Calls: [Monthly][calendar]   
-👪 Members: [**@**][t-fin] dc (lead), uv, ep, el   
+👪 Squad Members: [**dc (lead)** and others][members]  
 ✅ Tasks: GitHub board > [`init-drip` label][l-drip]  
 
 ### Hello Hypha
@@ -51,7 +51,7 @@ Initiative for meeting neighbours, potential collaborators, and the co-op curiou
 📑 Timeline: Ongoing  
 📈 Scale and Est. Hours: [Small][hours]  
 📅 Calls: [Weekly][calendar]   
-👪 Members: [**@**][t-fin]  uv (lead), dc, bl, yj  
+👪 Squad Members:  [**uv (lead)** and others][members]   
 ✅ Tasks: GitHub board > [`init-hello` label][l-hello] 
 
 ### Improving Tech Stack
@@ -62,7 +62,7 @@ Initiative for addressing members' ongoing workflow issues with current technica
 📑 Timeline: June - July 2021   
 📈 Scale and Est. Hours: [Medium][hours]   
 📅 Calls: [Monthly][calendar]  
-👪 Members: [**@**][t- ] yj (lead), el   
+👪 Squad Members: [**yj (lead)** and others][members]   
 ✅ Tasks: GitHub board > [`init-improvetech` label][l-improvetech]  
 
 ### Organisation Homeostasis
@@ -73,7 +73,7 @@ Initiative for leading the creation and execution of strategy and governance, in
 📑 Timeline: Ongoing   
 📈 Scale and Est. Hours: [Medium][hours]  
 📅 Calls: [As needed][calendar]  
-👪 Members: [**@**][t- ] uv (lead), bl, dc  
+👪 Squad Members: [**uv (lead)** and others][members]   
 ✅ Tasks: GitHub board > [`init-homeostatis` label][l-homeostatis]  
 
 ### Open Collective Fiscal Host
@@ -84,7 +84,7 @@ Initiative for operating as a fiscal host using Open Collective to aid small pro
 📑 Timeline: Ongoing   
 📈 Scale and Est. Hours: [Medium][hours]   
 📅 Calls: [Biweekly][calendar]   
-👪 Members: [**@**][t- ] bl (lead), dc    
+👪 Squad Members: [**bl (lead)** and others][members]     
 ✅ Tasks: GitHub board > [`init-ochost` label][l-ochost]   
 
 ### Radical Co-op Development
@@ -95,7 +95,7 @@ Initiative for being active in co-operative spaces (e.g., CIU, CWCF, etc.) and g
 📑 Timeline: Ongoing   
 📈 Scale and Est. Hours: [Medium][hours]   
 📅 Calls: [Monthly][calendar]    
-👪 Members: [**@**][t-fin]  uv (lead), dc   
+👪 Squad Members: [**uv (lead)** and others][members]  
 ✅ Tasks: GitHub board > [`init-radcoops` label][l-radcoops]   
 
 ### Social Spaces
@@ -106,7 +106,7 @@ Initiative for maintaining Hypha's social media accounts (e.g., Dripline, Twitte
 📑 Timeline: Ongoing   
 📈 Scale and Est. Hours: [Medium][hours]   
 📅 Calls: [Weekly][calendar]    
-👪 Members: [**@**][t-fin]  dc (lead), uv, ep    
+👪 Squad Members: [**dc (lead)** and others][members]    
 ✅ Tasks: GitHub board > [`init-socials` label][l-socials]  
 
 
@@ -119,7 +119,7 @@ Contains the are the core business activities for sustaining Hypha's virtual off
 Initiative for stewarding the financial sustainability of the organization, this includes establishing accounting practices, maintaining financial accounts, processing invoices, expenses, and payroll, and creating reports on our financial statements and tax obligations.
 
 📅 Calls: [As needed][calendar]    
-👪 Members: [**@finance**][t-fin]   
+👪 Squad Members: [**@finance**][t-fin]   
 ✅ Tasks: GitHub board > [`finance` label][l-fin]   
 
 ### Infrastructure
@@ -127,7 +127,7 @@ Initiative for stewarding the financial sustainability of the organization, this
 Initiative for providing support and maintaining our "virtual office" and public services.
 
 📅 Calls: [Monthly][calendar]   
-👪 Members: [**@infrastructure**][t-inf]   
+👪 Squad Members: [**@infrastructure**][t-inf]   
 ✅ Tasks: GitHub board > [`infrastructure` label][l-inf]   
 
 ### Operations
@@ -135,7 +135,7 @@ Initiative for providing support and maintaining our "virtual office" and public
 Initiative for stewarding our shared practices and policies for effective remote collaboration.
 
 📅 Calls: [As needed][calendar]   
-👪 Members: [**@operations**][t-ops]   
+👪 Squad Members: [**@operations**][t-ops]   
 ✅ Tasks: GitHub board > [`operations` label][l-ops]   
 
 ### Opportunities
@@ -143,7 +143,7 @@ Initiative for stewarding our shared practices and policies for effective remote
 Initiative for pursuing business opportunities.
 
 📅 Calls: [As needed][calendar]   
-👪 Members: [**@opportunities**][t-opp]   
+👪 Squad Members: [**@opportunities**][t-opp]   
 ✅ Tasks: GitHub board > [`opportunities` label][l-opp]   
  
 
@@ -151,6 +151,7 @@ Initiative for pursuing business opportunities.
 [calendar]: https://link.hypha.coop/calendar
 [projects]: https://link.hypha.coop/projects
 [hours]: https://link.hypha.coop/hours
+[members]: https://link.hypha.coop/initiatives
 
 <!-- Links: Labels -->
 [l-fin]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"finance"
