@@ -12,8 +12,8 @@ Below we have the list of **active** initiatives as of **2021 Q3**, with full in
 
 Initiative for undertaking an organizational transformation to become more cross-functional and open to new styles of collaboration while supporting  members' learning, growth, and livelihoods.
 
-⏲️ Status: Launched  
-📑 Timeline: February - August 2021  
+⏲️ Status: Ending Q3 2021  
+📑 Timeline: February - September 2021  
 📈 Scale and Est. Hours: [Medium][hours]  
 📅 Calls: [As needed][calendar]  
 👪 Squad Members: [**dc (lead)**][members]  
@@ -25,8 +25,8 @@ Initiative for undertaking an organizational transformation to become more cross
 
 Initiative for completing migration of core Hypha services to new Server (Passbolt, BBB) and deprecate unneeded ones (Jitsi).
 
-⏲️ Status: Launched  
-📑 Timeline: June - July 2021  
+⏲️ Status: Ending Q3 2021  
+📑 Timeline: June - September 2021   
 📈 Scale and Est. Hours: [Small][hours]  
 📅 Calls: [?][calendar] 📝  
 👪 Squad Members: [**el (lead)** and others][members]   
@@ -38,7 +38,7 @@ Initiative for developing Hypha’s writing practice by publishing bi-monthly pu
 
 ⏲️ Status: Launched  
 📑 Timeline: Ongoing  
-📈 Scale and Est. Hours: [Large][hours]  
+📈 Scale and Est. Hours: [Medium][hours]  
 📅 Calls: [Monthly][calendar]   
 👪 Squad Members: [**dc (lead)** and others][members]  
 ✅ Tasks: GitHub board > [`init-drip` label][l-drip]  
@@ -58,8 +58,8 @@ Initiative for meeting neighbours, potential collaborators, and the co-op curiou
 
 Initiative for addressing members' ongoing workflow issues with current technical stack (e.g., Calendar, Email, and varying clients).
 
-⏲️ Status: Launched   
-📑 Timeline: June - July 2021   
+⏲️ Status: Ending Q3 2021 
+📑 Timeline: July - September 2021   
 📈 Scale and Est. Hours: [Medium][hours]   
 📅 Calls: [Monthly][calendar]  
 👪 Squad Members: [**yj (lead)** and others][members]   
@@ -80,9 +80,9 @@ Initiative for leading the creation and execution of strategy and governance, in
 
 Initiative for operating as a fiscal host using Open Collective to aid small projects and informal groups aligned with our mission-work. 
 
-⏲️ Status: Soft-launched   
+⏲️ Status: Launched   
 📑 Timeline: Ongoing   
-📈 Scale and Est. Hours: [Medium][hours]   
+📈 Scale and Est. Hours: [Small][hours]   
 📅 Calls: [Biweekly][calendar]   
 👪 Squad Members: [**bl (lead)** and others][members]     
 ✅ Tasks: GitHub board > [`init-ochost` label][l-ochost]   
@@ -93,7 +93,7 @@ Initiative for being active in co-operative spaces (e.g., CIU, CWCF, etc.) and g
 
 ⏲️ Status: Launched   
 📑 Timeline: Ongoing   
-📈 Scale and Est. Hours: [Medium][hours]   
+📈 Scale and Est. Hours: [Small][hours]   
 📅 Calls: [Monthly][calendar]    
 👪 Squad Members: [**uv (lead)** and others][members]  
 ✅ Tasks: GitHub board > [`init-radcoops` label][l-radcoops]   
@@ -109,10 +109,22 @@ Initiative for maintaining Hypha's social media accounts (e.g., Dripline, Twitte
 👪 Squad Members: [**dc (lead)** and others][members]    
 ✅ Tasks: GitHub board > [`init-socials` label][l-socials]  
 
+In addition to this initiative, we launched a Summer Marketing Initiative supported by Canada Summer Jobs in Q2-Q3 2021.
+
+### Hiring
+
+Initiative for hepharding the hiring proces: identifying and refining roles, forming hiring committees, writing job descriptions, and interviewing.
+
+⏲️ Status: Launched   
+📑 Timeline: July - December 2021
+📈 Scale and Est. Hours: [large][hours]   
+📅 Calls: [bi-weekly][calendar]    
+👪 Squad Members: [**uv (lead)** and others][members]    
+✅ Tasks: GitHub board > [`init-hiring` label][l-hiring]  
 
 ## Back office 
 
-Contains the are the core business activities for sustaining Hypha's virtual office, these are not set up in the same way as the above initiatives:
+Contains core business activities for sustaining Hypha's virtual office. These are not set up in the same way as the above initiatives:
 
 ### Finance
 
@@ -145,7 +157,14 @@ Initiative for pursuing business opportunities.
 📅 Calls: [As needed][calendar]   
 👪 Squad Members: [**@opportunities**][t-opp]   
 ✅ Tasks: GitHub board > [`opportunities` label][l-opp]   
- 
+
+### Scoping new initiatives
+
+Initiative for scoping out initiatives that aren't yet formed.
+
+📅 Calls: [As needed][calendar]    
+👪 Squad Members: all Hypha members  
+✅ Tasks: GitHub board > [`scoping` label][l-scope]   
 
 <!-- Links: Important -->
 [calendar]: https://link.hypha.coop/calendar
@@ -158,15 +177,17 @@ Initiative for pursuing business opportunities.
 [l-opp]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"opportunities"
 [l-inf]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"infrastructure"
 [l-ops]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"operations"
+[l-scope]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"scoping"
 [l-chrysalis]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"init-chrysalis"
 [l-migration]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"init-migration"
-[l-drip ]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"init-drip"
+[l-drip]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"init-drip"
 [l-hello]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"init-hello"
 [l-improvetech]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"init-improvetech"
 [l-homeostatis]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"init-homeostatis"
 [l-ochost]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"init-ochost"
 [l-radcoops]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"init-radcoops"
 [l-socials]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"init-socials"
+[l-hiring]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"init-hiring"
 
 [t-opp]: https://github.com/orgs/hyphacoop/teams/opportunities/members
 [t-fin]: https://github.com/orgs/hyphacoop/teams/finance/members
