@@ -783,9 +783,22 @@ We use Proxmox to run our VMs. To access the management interface you need to SS
   1. The username is root and enter the password in our shared password manager [Passbolt](https://pass.hypha.coop/app/passwords/view/a34731d5-eb6a-4f0c-9475-7839280e529b)
 
 - VPN (Recommanded)
-  1. Connect to OpenVPN
+  1. Connect to OpenVPN (If you do not already have access please ping someone in the infra for the OpenVPN config file.)
   1. Access the panel using https://kvm1.hypha.coop:8006/
   1. The username is root and enter the password in our shared password manager [Passbolt](https://pass.hypha.coop/app/passwords/view/a34731d5-eb6a-4f0c-9475-7839280e529b)
+
+
+- Connecting to staging Ansible1 (Our provisioning and jump server for staging machines)
+  By default all members access to the production environment
+  1. You'll need to ensure that your key has been added. You can do that by making a PR [here](https://github.com/hyphacoop/configurations/tree/master/hyphacoop/ssh-public-keys).
+  1. `ssh sysadmin@ansible1.hypha.stg -p 8002 -i ~/.ssh/id_rsa` (assuming `~/.ssh/id_rsa` is your key you use to access Hypha's infra.)
+  1. From there you can SSH into the backend systems using their `.stg` hostnames or directly with their IP address. The passphase for `~/.ssh/id_rsa` is [here](https://pass.hypha.coop/app/passwords/view/3adad6cf-b56c-47fd-a0cd-a845075f7622)
+
+- Connecting to production Ansible1 (Our provisioning and jump server for production machines)
+  By default only members that have a need to access have permissions to log in to the production environment
+  1. You'll need to ensure that your key has been added. You can do that by making a PR [here](https://github.com/hyphacoop/configurations/tree/master/hyphacoop/ssh-public-keys).
+  1. `ssh sysadmin@ansible1.hypha.prod -p 9154 -i ~/.ssh/id_rsa` (assuming `~/.ssh/id_rsa` is your key you use to access Hypha's infra.)
+  1. From there you can SSH into the backend systems using their `.prod` hostnames or directly with their IP address. The passphase for `~/.ssh/id_rsa` is [here](https://pass.hypha.coop/app/passwords/view/3e6018fd-7ae3-4647-8ce3-c6ccb6c71800)
 
 ### Creating Cloud-init templates:
 
