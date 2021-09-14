@@ -877,13 +877,13 @@ Most of our VMs are provisioned with Ansible but sometimes we need to create VMs
 To create VMs manually follow these steps (the steps below will need to be done over VPN):
 
 #### Select a VM ID, IP address, and DNS name
-1. For the VM you want to create, decide which is the primary category by looking at this table of [VM ID categories](https://hackmd.io/pElXZTnUTRO1zApxpdBWDw#VM-ID-categories). Then choose a new VM ID for your VM by incrementing the last VM ID in that category. You can look at this table for current [VM ID usage](https://hackmd.io/pElXZTnUTRO1zApxpdBWDw#Current-VM-ID-usage). **Please make sure you add the new VM ID to the table so that it stays up to date.**
-2. Fill out interface(s) [IP allocations](https://hackmd.io/pElXZTnUTRO1zApxpdBWDw?view#vmbr1-IP-Allocation-internal)
-3. Make a name for internal DNS if needed example `service.hypha.prod` in [Internal DNS table](https://hackmd.io/pElXZTnUTRO1zApxpdBWDw#Local-DNS)
+1. For the VM you want to create, decide which is the primary category by looking at this table of <a href="https://hackmd.io/pElXZTnUTRO1zApxpdBWDw#VM-ID-categories" data-proofer-ignore>VM ID categories</a>. Then choose a new VM ID for your VM by incrementing the last VM ID in that category. You can look at this table for current <a href="https://hackmd.io/pElXZTnUTRO1zApxpdBWDw#Current-VM-ID-usage" data-proofer-ignore>VM ID usage</a>. **Please make sure you add the new VM ID to the table so that it stays up to date.**
+2. Fill out interface(s) <a href="https://hackmd.io/pElXZTnUTRO1zApxpdBWDw#vmbr1-IP-Allocation-internal" data-proofer-ignore>IP allocations</a>
+3. Make a name for internal DNS if needed example `service.hypha.prod` in <a href="https://hackmd.io/pElXZTnUTRO1zApxpdBWDw#Local-DNS" data-proofer-ignore>Internal DNS table</a>
 
 #### Reserve DNS name using pfSense
-4. Log in to pfSense web dashboard [here](https://198.51.100.1/services_unbound.php). Username `admin`, password is in Passbolt [here](https://pass.hypha.coop/app/passwords/view/c5e705f6-715c-463f-8438-4648ca383fbc)
-5. Add DNS hostname to pfSense's DNS resolver `Host Overrides` under `Services->DNS Resolver` [here](https://198.51.100.1/services_unbound.php)
+4. Log in to pfSense web dashboard <a href="https://198.51.100.1/services_unbound.php" data-proofer-ignore>here</a>. Username `admin`, password is in Passbolt [here](https://pass.hypha.coop/app/passwords/view/c5e705f6-715c-463f-8438-4648ca383fbc)
+5. Add DNS hostname to pfSense's DNS resolver `Host Overrides` under `Services->DNS Resolver` <a href="https://198.51.100.1/services_unbound.php" data-proofer-ignore>here</a>
 - With the example `service.hypha.prod` Host will be `service` Parent domain of host will be `hypha.prod` IP to return for host will be the LAN IPv4 and or IPv6. If dualstack use `,`  for comma-separated addresses `10.0.1.9,2001:470:b1f3:1::9`
 
 #### Create a VM using ProxMox
@@ -1038,8 +1038,8 @@ We use pfSense to manage OpenVPN users and gain access to internal resources and
 - To add OpenVPN users on pfSense:
   1. Log in to pfSense panel by SSH tunneling or over the VPN
       - Recommanded to use VPN if you already have an VPN account
-      - The pfSense panel can be accessed [here](https://198.51.100.1/services_unbound.php)
-  1. Go to [System -> User Manager](https://198.51.100.1/system_usermanager.php)
+      - The pfSense panel can be accessed <a href="https://198.51.100.1/services_unbound.php" data-proofer-ignore>here</a>
+  1. Go to <a href="https://198.51.100.1/system_usermanager.php" data-proofer-ignore>System -> User Manager</a>
   1. Click `+ Add` green button
   1. Enter the username, it should be `ovpn_firstname`
   1. Create a random strong password example: the output of `dd if=/dev/urandom bs=1M count=100 | md5sum`
@@ -1053,7 +1053,7 @@ We use pfSense to manage OpenVPN users and gain access to internal resources and
 
 - Exporting OpenVPN file:
   1. Log in to pfSense panel with instructions above
-  1. Go to [VPN -> OpenVPN](https://198.51.100.1/vpn_openvpn_server.php)
+  1. Go to <a href="https://198.51.100.1/vpn_openvpn_server.php" data-proofer-ignore>VPN -> OpenVPN</a>
   1. Click on `Client Export` tab
   1. Select Remote Access Server `VPN Access UDP4:13313`
   1. Leaving all other settings untouched scroll down to OpenVPN Clients and click `Most Clients` under Inline Configurations beside the user you want to download.
