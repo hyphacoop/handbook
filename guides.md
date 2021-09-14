@@ -782,7 +782,7 @@ We use Proxmox to run our VMs. To access the management interface you need to SS
   1. Access the panel using https://127.0.0.1:8006/ 
   1. The username is root and enter the password in our shared password manager [Passbolt](https://pass.hypha.coop/app/passwords/view/a34731d5-eb6a-4f0c-9475-7839280e529b)
 
-- VPN (Recommanded)
+- VPN (Recommended)
   1. Connect to OpenVPN (If you do not already have access please ping someone in the infra for the OpenVPN config file.)
   1. Access the panel using https://kvm1.hypha.coop:8006/
   1. The username is root and enter the password in our shared password manager [Passbolt](https://pass.hypha.coop/app/passwords/view/a34731d5-eb6a-4f0c-9475-7839280e529b)
