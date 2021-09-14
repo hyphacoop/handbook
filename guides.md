@@ -779,12 +779,12 @@ We use Proxmox to run our VMs. To access the management interface you need to SS
 
 - SSH tunnel
   1. Tunnel the web interface over SSH with `ssh root@kvm1.hypha.coop -p 34634 -L 8006:127.0.0.1:8006`
-  1. Access the panel using https://127.0.0.1:8006/ 
+  1. Access the panel using <a href="https://127.0.0.1:8006" data-proofer-ignore>https://127.0.0.1:8006</a>
   1. The username is root and enter the password in our shared password manager [Passbolt](https://pass.hypha.coop/app/passwords/view/a34731d5-eb6a-4f0c-9475-7839280e529b)
 
 - VPN (Recommended)
   1. Connect to OpenVPN (If you do not already have access please ping someone in the infra for the OpenVPN config file.)
-  1. Access the panel using https://kvm1.hypha.coop:8006/
+  1. Access the panel using <a herf="https://kvm1.hypha.coop:8006" data-proofer-ignore>https://kvm1.hypha.coop:8006</a>
   1. The username is root and enter the password in our shared password manager [Passbolt](https://pass.hypha.coop/app/passwords/view/a34731d5-eb6a-4f0c-9475-7839280e529b)
 
 
@@ -887,7 +887,7 @@ To create VMs manually follow these steps (the steps below will need to be done 
 - With the example `service.hypha.prod` Host will be `service` Parent domain of host will be `hypha.prod` IP to return for host will be the LAN IPv4 and or IPv6. If dualstack use `,`  for comma-separated addresses `10.0.1.9,2001:470:b1f3:1::9`
 
 #### Create a VM using ProxMox
-6. To create the VM go login to KVM1 Proxmox host [here](https://kvm1.hypha.coop:8006/) using username root with the password in Passbolt [here](https://pass.hypha.coop/app/passwords/view/a34731d5-eb6a-4f0c-9475-7839280e529b)
+6. To create the VM go login to KVM1 Proxmox host <a href="https://kvm1.hypha.coop:8006/" data-proofer-ignore>here</a> using username root with the password in Passbolt [here](https://pass.hypha.coop/app/passwords/view/a34731d5-eb6a-4f0c-9475-7839280e529b)
 7. Select a template to clone in the `Datacenter` sidebar under `9XXX`
 8. Click on `More` on the top right corner and select `Clone`
 9. `VMID` is the VMID you noted above
