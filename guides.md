@@ -790,6 +790,9 @@ Proxmox is the hypervisor that all the virtual machines run on. There are two wa
   1. Access the panel using <a herf="https://kvm1.hypha.coop:8006" data-proofer-ignore>https://kvm1.hypha.coop:8006</a>
   1. The username is root and enter the password in our shared password manager [Passbolt](https://pass.hypha.coop/app/passwords/view/a34731d5-eb6a-4f0c-9475-7839280e529b)
 
+### Jump server
+
+To be able to ssh into the different virtual machines running on the infrastructure, authentication must be done via the `jump server`. This means you must first login to the `jump server` with your ssh key, and once there, you can use the keys on the `jump server` to connect and authenticate to the other virtual machines.
 
 - Connecting to staging Ansible1 (Our provisioning and jump server for staging machines)
   By default all members access to the production environment
