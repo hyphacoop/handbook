@@ -53,7 +53,8 @@ Some applications may require you to use `https://mailninja.aseriesoftubez.com/S
 
 ### Creating a shared calendar
 
-1. Login to your [SOGo account](https://mailninja.aseriesoftubez.com/SOGo/)
+We have a shared calendar account where we can share internally with a group. Using your own account for this purpose will not allow invite emails to be sent out.
+1. Login to the shared calendar [SOGo account](https://mailninja.aseriesoftubez.com/SOGo/) with the [Virtual Office Shared Calendar](https://pass.hypha.coop/app/passwords/view/1ed21359-9d95-427a-960d-537774931c9b) credentials on our Passbolt.
 
 1. Navigate to the Calendar interface and create a new calendar
 
