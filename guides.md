@@ -40,11 +40,16 @@ our values.
 
 You can use CalDAV to two-way sync your SOGo calendar with calendar applications on mobile and desktop devices:
 
-For Gmail app on **Android**, install [CalDAV Sync Adapter](https://f-droid.org/en/packages/org.gege.caldavsyncadapter/) from F-Droid, then navigate to `Settings > Accounts` and configure the Sync Adapter with server `https://mailninja.aseriesoftubez.com/SOGo/dav/` and your SOGo credentials.
+For using `Calendar` app on **Android**, install [CalDAV Sync Adapter](https://f-droid.org/en/packages/org.gege.caldavsyncadapter/) from F-Droid, then navigate to `Settings > Accounts` and configure the Sync Adapter with server `https://mailninja.aseriesoftubez.com/SOGo/dav/` and your SOGo credentials make sure the `Account name` is your Hypha email address or you cannot send out invite emails. By default the app have syncing disabled make sure you enable it.
 
-For **iOS**, navigate to `Settings > Mail, Contacts, Calendars > Add Account > Other`, under `Calendars` select `Add CalDAV Account` and configure with server `https://mailninja.aseriesoftubez.com/SOGo/dav/` and your SOGo credentials.
+For ***Thunderbird***, open the calendar tab, click on `+`  a `Create New Calendar` dialog will pop up, select `On the Network` button then click next, select `CalDAV` button, Username is your Hypha email, location of your personal calendar will be `https://mailninja.aseriesoftubez.com/SOGo/dav/<USER>@hypha.coop/Calendar/personal/` replacing `<USER>` with your username, keep `Offline Support` selected and click next, the `Name` field should be your Hypha email and the `Email` selector select your Hypha email and click next and your calendar is now added to Thunderbird.
 
-For other applications and platforms that support CalDAV, configure with server `https://mailninja.aseriesoftubez.com/SOGo/dav/` and your SOGo credentials.
+If there are other calendars you want to add from SOGo you can login to SOGo then navigate to the 3 dots beside the calendar you want to add and select `Links to this Calendar` and use the CalDAV link for the location.
+
+For **iOS** and ***macOS***, follow instructions in [Using your existing email client](#using-your-existing-email-client) which also sets up your calendar.
+
+For **other applications and platforms** that support CalDAV, the default calendar is `https://mailninja.aseriesoftubez.com/SOGo/dav/<USER>@hypha.coop/Calendar/personal/`
+Some applications may require you to use `https://mailninja.aseriesoftubez.com/SOGo/dav/` or the full path to your calendar, which can be found and copied from within SOGo.
 
 ### Creating a shared calendar
 
@@ -98,7 +103,7 @@ _Note: Consider creating a [new GitHub issue in `hyphacoop/organizing`](https://
       <img alt="Screenshot of Mailcow mailbox creation popup" src="images/email-mailbox-3.png" />
     </details>
 
-We'll now log in to confirm access, and set up an initial forwarder to make first-time usage simpler.
+We'll now log in to confirm access, and set up an initial forwarder if requested to make first-time usage simpler.
 
 5. Open an incognito browser and access webmail login: https://mailninja.aseriesoftubez.com/SOGo/
 6. Log into the account you just created.
@@ -143,6 +148,39 @@ Accessing your inbox can be done via the hosted webmail interface or by using th
 What you'll need:
 - Your new email address
 - Your password (sent to you by admin on initial setup)
+
+#### Using the webmail interface
+
+1. Visit our email server: https://link.hypha.coop/email
+2. Click on `Webmail` button.
+3. Enter your username and password:
+    - Username is your `@hypha.coop` email
+4. Once logged in you can read your emails and configure your user settings.
+5. By default your emails are forwarded to your personal email to disable that follow step 1 in `Using your existing email client`.
+
+#### Using your existing email client
+
+<sup>These docs are condensed from [Mailcow's in-depth email client configuration docs](https://mailcow.github.io/mailcow-dockerized-docs/client/#host=MailNinja.aseriesoftubez.com&email=maria%40hypha.coop&name=Maria+Sanchez&ui=mailninja.aseriesoftubez.com&port=443&outlookEAS=1&connector=60.0.2). (Substitute your info for that of "Maria Sanchez").</sup>
+
+1. If requested the emails to your `@hypha.coop` are forwarded to your personal email address by default if prefered that you want to turn off forwarding of your `@hypha.coop` email, log in to webmail (instructions above)
+    - Navigate through these menus:  
+        `⚙` (top-left) > `Mail` menu item > `Forward` tab
+2. Uncheck the "Forward incoming messages", and save.
+3. Open your email client.
+4. Go to the "add email account" setting in your client.
+5. Enter your name that you prefer that will show up in your outgoing emails and email address when prompted.
+6. When prompted for username and password use your new email address e.g., `handle@hypha.coop` for username and your password for your new email.
+7. Most email clients will auto-detect server settings based on your email address. If your email client does not auto-detect these settings, enter:
+    - IMAP: `mailninja.aseriesoftubez.com` Port: 993 (TLS/SSL)
+    - SMTP: `mailninja.aseriesoftubez.com` Port: 465 (TLS/SSL)
+8. Once added, you should now be able to send from your new email. In your email client, compose an email to hyphacoop@mailinator.com with a short subject and send.
+9. Visit [the corresponding cloud inbox](https://www.mailinator.com/v3/index.jsp?zone=public&query=hyphacoop) and confirm your message has arrived, It might take a few minutes.
+10. Don’t forget to email Infra WG as mentioned in onboarding email.
+
+For **iOS** and ***macOS*** following these steps will setup your email client and calendar automatically:
+1. Login to your [Mailcow Account](https://mailninja.aseriesoftubez.com/) in the Mailbox tab under `Apple connection profile` click on `Email, calendars and contacts IMAP, SMTP, Cal/CardDAV` to download the Apple connection profile.
+1. You can open the file right on your device then open the `System Preferences` app and the `Profiles` icon should have a `1` beside it. 
+1. Open the `Profiles` settings to install the profile.
 
 #### Using Gmail
 
@@ -190,34 +228,6 @@ We'll now send your first email to Mailinator, a cloud inbox that's helpful for 
     </details>
 11. Once it's safely arrived, you're all set! Start sending email!
 12. Don't forget to **email Infra WG** as mentioned in onboarding email. 📤🎉
-
-#### Using the webmail interface
-
-1. Visit our email server: https://link.hypha.coop/email
-2. Click on `Webmail` button.
-3. Enter your username and password:
-    - Username is your `@hypha.coop` email
-4. Once logged in you can read your emails and configure your user settings.
-5. By default your emails are forwarded to your personal email to disable that follow step 1 in `Using your existing email client`.
-
-#### Using your existing email client
-
-<sup>These docs are condensed from [Mailcow's in-depth email client configuration docs](https://mailcow.github.io/mailcow-dockerized-docs/client/#host=MailNinja.aseriesoftubez.com&email=maria%40hypha.coop&name=Maria+Sanchez&ui=mailninja.aseriesoftubez.com&port=443&outlookEAS=1&connector=60.0.2). (Substitute your info for that of "Maria Sanchez").</sup>
-
-1. By default emails to your `@hypha.coop` are forwarded to your personal email address if prefered that you want to turn off forwarding of your `@hypha.coop` email, log in to webmail (instructions above)
-    - Navigate through these menus:  
-        `⚙` (top-left) > `Mail` menu item > `Forward` tab
-2. Uncheck the "Forward incoming messages", and save.
-3. Open your email client.
-4. Go to the "add email account" setting in your client.
-5. Enter your name that you prefer that will show up in your outgoing emails and email address when prompted.
-6. When prompted for username and password use your new email address e.g., `handle@hypha.coop` for username and your password for your new email.
-7. Most email clients will auto-detect server settings based on your email address. If your email client does not auto-detect these settings, enter:
-    - IMAP: `mailninja.aseriesoftubez.com` Port: 993 (TLS/SSL)
-    - SMTP: `mailninja.aseriesoftubez.com` Port: 465 (TLS/SSL)
-8. Once added, you should now be able to send from your new email. In your email client, compose an email to hyphacoop@mailinator.com with a short subject and send.
-9. Visit [the corresponding cloud inbox](https://www.mailinator.com/v3/index.jsp?zone=public&query=hyphacoop) and confirm your message has arrived, It might take a few minutes.
-10. Don’t forget to email Infra WG as mentioned in onboarding email.
 
 ## Expense Reimbursement
 
