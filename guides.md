@@ -777,6 +777,9 @@ When a project begins, generate a [Summary Report](https://clockify.me/reports/s
 
 We use Proxmox to run our VMs. To access the management interface you need to SSH tunnel to `kvm1.hypha.coop` on port `34634` or connect over the VPN.
 
+### Proxmox
+
+Proxmox is the hypervisor that all the virtual machines run on. There are two ways of accessing the Proxmox servers management interface.
 - SSH tunnel
   1. Tunnel the web interface over SSH with `ssh root@kvm1.hypha.coop -p 34634 -L 8006:127.0.0.1:8006`
   1. Access the panel using <a href="https://127.0.0.1:8006" data-proofer-ignore>https://127.0.0.1:8006</a>
