@@ -335,7 +335,7 @@ Prior to creating an invoice, confirm with the client whether they would like to
 
 ### Settling an invoice payment
 
-Once the client has paid the invoice, we must check the amount received at our receiving account at [Desjardins](https://www.desjardins.com/ca/) (domestic) or [TransferWise](https://wise.com) (foreign currency), and record the transaction in [Quickbooks Online](https://quickbooks.intuit.com/ca/).
+Once the client has paid the invoice, we must check the amount received at our receiving account at [Desjardins](https://www.desjardins.com/ca/) (domestic) or <a href="https://wise.com" data-proofer-ignore>TransferWise</a> (foreign currency), and record the transaction in [Quickbooks Online](https://quickbooks.intuit.com/ca/).
 
 #### Domestic
 
