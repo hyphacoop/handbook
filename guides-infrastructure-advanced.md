@@ -8,7 +8,7 @@
 - [Backup and Restore](#backup-and-restore)
     - [Proxmox VMs](#proxmox-vms)
     - [FreeNAS Dynamic Content](#freenas-dynamic-content)
-
+    - [Passbolt Backup](#passbolt-backup)
 
 ## Proxmox
 
@@ -23,7 +23,7 @@ These tasks need to be done over SSH tunnel or over the VPN
   ```
   wget https://cdimage.debian.org/cdimage/openstack/10.4.3-20200610/debian-10.4.3-20200610-openstack-amd64.qcow2
   qm create 9000 --memory 1024 --net0 virtio,bridge=vmbr2 --name cloud-init-debian-10
-  qm importdisk 9000  debian-10.4.3-20200610-openstack-amd64.qcow2 local --format qcow2
+  qm importdisk 9000 debian-10.4.3-20200610-openstack-amd64.qcow2 local --format qcow2
   qm set 9000 --scsihw virtio-scsi-pci --virtio0 local:9000/vm-9000-disk-0.qcow2
   qm set 9000 --cpu host
   qm set 9000 --ide2 local:cloudinit
@@ -59,7 +59,7 @@ These tasks need to be done over SSH tunnel or over the VPN
   ```
   wget https://cloud-images.ubuntu.com/xenial/current/xenial-server-cloudimg-amd64-disk1.img
   qm create 9001 --memory 1024 --net0 virtio,bridge=vmbr2 --name cloud-init-ubuntu-16.04
-  qm importdisk 9001  xenial-server-cloudimg-amd64-disk1.img local --format qcow2
+  qm importdisk 9001 xenial-server-cloudimg-amd64-disk1.img local --format qcow2
   qm set 9001 --scsihw virtio-scsi-pci --virtio0 local:9001/vm-9001-disk-0.qcow2
   qm set 9001 --cpu host
   qm set 9001 --ide2 local:cloudinit
@@ -85,7 +85,6 @@ These tasks need to be done over SSH tunnel or over the VPN
   qm template 9002
   ```
 
-  
 ### Manually creating Virtual Machines
 Most of our VMs are provisioned with Ansible but sometimes we need to create VMs manually for testing or without automation.
 To create VMs manually follow these steps (the steps below will need to be done over VPN):
@@ -98,7 +97,7 @@ To create VMs manually follow these steps (the steps below will need to be done 
 #### Reserve DNS name using pfSense
 4. Log in to pfSense web dashboard <a href="https://198.51.100.1/services_unbound.php" data-proofer-ignore>here</a>. Username `admin`, password is in Passbolt [here](https://pass.hypha.coop/app/passwords/view/c5e705f6-715c-463f-8438-4648ca383fbc)
 5. Add DNS hostname to pfSense's DNS resolver `Host Overrides` under `Services->DNS Resolver` <a href="https://198.51.100.1/services_unbound.php" data-proofer-ignore>here</a>
-- With the example `service.hypha.prod` Host will be `service` Parent domain of host will be `hypha.prod` IP to return for host will be the LAN IPv4 and or IPv6. If dualstack use `,`  for comma-separated addresses `10.0.1.9,2001:470:b1f3:1::9`
+- With the example `service.hypha.prod` Host will be `service` Parent domain of host will be `hypha.prod` IP to return for host will be the LAN IPv4 and or IPv6. If dualstack use `,` for comma-separated addresses `10.0.1.9,2001:470:b1f3:1::9`
 
 #### Create a VM using Proxmox
 
@@ -233,3 +232,41 @@ Staging snapshots are stored in `/media/freenas1.hypha.coop-storage/staging/.zfs
 Production snapshots are stored in `/media/freenas1.hypha.coop-storage/prod/.zfs/snapshot`
 
 Directories are named `auto-YYYY-MM-DD_HH-mm`
+
+### Passbolt Backup
+
+A local passbolt backup occurs daily at 12:11am EST. At 1:00am the FreeNAS server replicates the backup offsite. Filename of backups is `passbolt-YYYY-MM-DD.tgz`.
+
+Current backup script for local `Passbolt` backup
+
+```
+#!/bin/bash
+mkdir /opt/backup
+mkdir /opt/backup/current
+# mysql credentials from /var/www/passbolt/config/passbolt.php
+
+mysqldump -uhyphacoop -p<PASSWORD> passbolt > /opt/backup/current/passbolt.sql
+
+# avatars if any
+mkdir /opt/backup/current/wwwroot/
+mkdir /opt/backup/current/wwwroot/img
+mkdir /opt/backup/current/wwwroot/img
+cp -r /var/www/passbolt/webroot/img/public/ /opt/backup/current/wwwroot/img
+
+gpg --export-secret-key -a "passbolt server" > /opt/backup/current/gpg.key
+mkdir /opt/backup/current/gpg
+cp /var/www/passbolt/config/gpg/* /opt/backup/current/gpg/
+
+# gpg stuff
+mkdir /opt/backup/current/wwwroot/config
+cp -r /var/www/passbolt/config/gpg/ /opt/backup/current/wwwroot/
+
+# config
+cp /var/www/passbolt/config/passbolt.php /opt/backup/current/wwwroot/config/
+
+# tar
+tar -czvf "/opt/backup/passbolt-$(date '+%Y-%m-%d').tgz" -C /opt/backup/current/ .
+
+#cleanup
+rm -rf /opt/backup/current
+```
