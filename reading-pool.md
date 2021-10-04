@@ -79,7 +79,6 @@ Why Decentralize?
 
 Requirements for co-ops in Canada (Federal and Provincial) (for more see [**2018 retreat playbook**](https://link.hypha.coop/retreat-playbook)):
 
-- 📄 [Registering a coop - Official Guide by Financial Services Commision of Ontario](http://www.fsco.gov.on.ca/en/coops/Documents/guide_coop.pdf)
 - 📄 [Ontario.coop fact sheets](https://ontario.coop/sites/default/files/Complete%20list%20of%20FACTSheets%20-%20Updated.pdf)
 - 🌐 [Industry Canada Starting a Federal co-op](https://www.ic.gc.ca/eic/site/106.nsf/eng/h_00073.html#federal)
 - 🌐 [Industry Canada Starting an ON co-op](https://www.ic.gc.ca/eic/site/106.nsf/eng/h_00073.html#ontario)
