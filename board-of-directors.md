@@ -19,7 +19,7 @@ The current board includes six of our seven members, with four officer positions
 
 **Term:** 2 years, with renewal, or as often as necessary.
 
-**Incumbent:** Patrick
+**Incumbent:** Vacant
 
 ### Secretary
 
