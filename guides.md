@@ -671,7 +671,7 @@ If payment is required for HST, you will need to coordinate with another member 
 6. Select `Pay` at the top bar
 7. Enter last day of the quarter as `Period Ending`
 8. Enter amount from Line 115 as `Amount owing`
-9. Select `next`
+9. Select `Next`
 
 ### TODO
 - [ ] Verify and Submit instrucitions
