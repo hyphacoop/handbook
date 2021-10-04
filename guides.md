@@ -779,7 +779,7 @@ We use Proxmox to run our VMs. To access the management interface you need to SS
 
 ### Proxmox
 
-Proxmox is the hypervisor that all the virtual machines run on. There are two ways of accessing the Proxmox servers management interface.
+Proxmox is the hypervisor that all the virtual machines run on. There are two ways of accessing the Proxmox servers management interface. An inventory of machines running on this server can be found in the [inventory-private](https://github.com/hyphacoop/inventory-private/blob/master/inventory-kvm1.md) repo.
 - SSH tunnel
   1. Tunnel the web interface over SSH with `ssh root@kvm1.hypha.coop -p 34634 -L 8006:127.0.0.1:8006`
   1. Access the panel using <a href="https://127.0.0.1:8006" data-proofer-ignore>https://127.0.0.1:8006</a>
