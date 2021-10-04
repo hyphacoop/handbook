@@ -651,7 +651,7 @@ To Filing the HST you will need to access the CRA's `GST/HST NETFILE` website. T
 8. Press `Next`
 9. Enter line `101`, `105` and `108` from the bookkeeper's email. Make sure you do not have any leading or trailing spaces and only one decimal place
 10. Click `Next`
-11. Review summary, and check line `109` and `114` or `115` for matching values from the bookkeer's email
+11. Review summary, and check line `109` and `114` or `115` for matching values from the bookkeeper's email
 12. Check `Yes` regarding payment (if applicable)
 13. Check the box under `Certification`
 14. Click `File`
