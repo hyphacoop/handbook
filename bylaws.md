@@ -472,7 +472,7 @@ Bylaws adopted: June 13, 2020
 
     Interest rates paid on member loans shall be the lesser of: the
     prescribed maximum annual percentage of 2% above the prime rate
-    established by the Bank of Canadaon the first day of the month before
+    established by the Bank of Canada on the first day of the month before
     the month in which the rate of interest is set, or an annual percentage
     determined by the board of directors.
 

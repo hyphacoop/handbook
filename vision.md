@@ -16,7 +16,7 @@ This is an early group of collected approaches, motivations, and commitments:
 - Inclusivity
 - Mutual Aid
 - Justice (Environmental)
-- Anti-facism
+- Anti-fascism
 - [Anti-racism, Anti-oppression]
 - Practicing what you preach
 - Care for others
