@@ -40,9 +40,9 @@ our values.
 
 You can use CalDAV to two-way sync your SOGo calendar with calendar applications on mobile and desktop devices:
 
-For using `Calendar` app on **Android**, install [CalDAV Sync Adapter](https://f-droid.org/en/packages/org.gege.caldavsyncadapter/) from F-Droid, then navigate to `Settings > Accounts` and configure the Sync Adapter with server `https://mailninja.aseriesoftubez.com/SOGo/dav/` and your SOGo credentials make sure the `Account name` is your Hypha email address or you cannot send out invite emails. By default the app have syncing disabled make sure you enable it.
+For using `Calendar` app on **Android**, install [CalDAV Sync Adapter](https://f-droid.org/en/packages/org.gege.caldavsyncadapter/) from F-Droid, then navigate to `Settings > Accounts` and configure the Sync Adapter with server `https://mailninja.aseriesoftubez.com/SOGo/dav/` and your SOGo credentials. Please make sure the `Account name` is your Hypha email address or you cannot send out invite emails. By default the app has syncing disabled, make sure you enable it.
 
-For ***Thunderbird***, open the calendar tab, click on `+`  a `Create New Calendar` dialog will pop up, select `On the Network` button then click next, select `CalDAV` button, Username is your Hypha email, location of your personal calendar will be `https://mailninja.aseriesoftubez.com/SOGo/dav/<USER>@hypha.coop/Calendar/personal/` replacing `<USER>` with your username, keep `Offline Support` selected and click next, the `Name` field should be your Hypha email and the `Email` selector select your Hypha email and click next and your calendar is now added to Thunderbird.
+For ***Thunderbird***, open the calendar tab, click on `+`,  a `Create New Calendar` dialog will pop up. Select `On the Network` button then click next. Select `CalDAV` button, the username is your Hypha email and the location of your personal calendar will be `https://mailninja.aseriesoftubez.com/SOGo/dav/<USER>@hypha.coop/Calendar/personal/` replacing `<USER>` with your username. Keep `Offline Support` selected and click next. The `Name` field should be your Hypha email and the `Email` selector select your Hypha email and click next and your calendar is now added to Thunderbird.
 
 If there are other calendars you want to add from SOGo you can login to SOGo then navigate to the 3 dots beside the calendar you want to add and select `Links to this Calendar` and use the CalDAV link for the location.
 
@@ -53,7 +53,7 @@ Some applications may require you to use `https://mailninja.aseriesoftubez.com/S
 
 ### Creating a shared calendar
 
-We have a shared calendar account where we can share internally with a group. Using your own account for this purpose will not allow invite emails to be sent out.
+We have a shared calendar account which also us to share calendars internally with a group. Using your own account for this purpose will not allow invite emails to be sent out.
 1. Login to the shared calendar [SOGo account](https://mailninja.aseriesoftubez.com/SOGo/) with the [Virtual Office Shared Calendar](https://pass.hypha.coop/app/passwords/view/1ed21359-9d95-427a-960d-537774931c9b) credentials on our Passbolt.
 
 1. Navigate to the Calendar interface and create a new calendar
@@ -153,7 +153,7 @@ What you'll need:
 #### Using the webmail interface
 
 1. Visit our email server: https://link.hypha.coop/email
-2. Click on `Webmail` button.
+2. Click on `Webmail` button
 3. Enter your username and password:
     - Username is your `@hypha.coop` email
 4. Once logged in you can read your emails and configure your user settings.
@@ -163,7 +163,7 @@ What you'll need:
 
 <sup>These docs are condensed from [Mailcow's in-depth email client configuration docs](https://mailcow.github.io/mailcow-dockerized-docs/client/#host=MailNinja.aseriesoftubez.com&email=maria%40hypha.coop&name=Maria+Sanchez&ui=mailninja.aseriesoftubez.com&port=443&outlookEAS=1&connector=60.0.2). (Substitute your info for that of "Maria Sanchez").</sup>
 
-1. If requested the emails to your `@hypha.coop` are forwarded to your personal email address by default if prefered that you want to turn off forwarding of your `@hypha.coop` email, log in to webmail (instructions above)
+1. If requested, the emails to your `@hypha.coop` are forwarded to your personal email address by default. If you want to turn off forwarding of your `@hypha.coop` email, log in to webmail (instructions above)
     - Navigate through these menus:  
         `⚙` (top-left) > `Mail` menu item > `Forward` tab
 2. Uncheck the "Forward incoming messages", and save.
