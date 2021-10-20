@@ -12,6 +12,20 @@
 
 ## Proxmox
 
+### Preparing Proxmox
+
+Following changes need to be made after a stock install of Proxmox.
+
+#### Configure local storage 
+
+The `local` storage module needs to be updated to accept storage of `Disk Image`. This can be done from the Proxmox UI.
+
+- Click Datacenter
+- Click Storage
+- Double click on `local`
+- In the `Content` drop down select `Disk Image`
+- Click OK
+
 ### Creating Cloud-init templates
 
 Cloud-init templates are used for easy deployment of VMs. Cloud-init allows auto configuration such as auto resize filesystem, network settings, default username and its SSH keys.
