@@ -37,15 +37,22 @@ These tasks need to be done over SSH tunnel or over the VPN
     
 
   ```
-  sudo -s
-  mount /dev/vda1 /mnt
-  chroot /mnt
+  modprobe nbd max_part=8
+  qemu-nbd --connect=/dev/nbd0 /var/lib/vz/images/9000/vm-9000-disk-0.qcow2
+  mkdir tmp
+  mount mount /dev/nbd0p1 tmp
+  cd tmp
+  chroot .
   echo "nameserver 1.1.1.1" > /etc/resolv.conf
   apt update
   apt install resolvconf
   exit
-  umount /mnt
-  shutdown -h now
+  cd ..
+  umount tmp
+  rm -rf tmp
+  qemu-nbd --disconnect /dev/nbd0
+  sleep 5
+  rmmod nbd
   ```
   Remove CD-ROM device and set boot order back to `virtio0`
   Now we can convert to template.
