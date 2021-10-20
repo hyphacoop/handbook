@@ -68,7 +68,6 @@ These tasks need to be done over SSH tunnel or over the VPN
   sleep 5
   rmmod nbd
   ```
-  Remove CD-ROM device and set boot order back to `virtio0`
   Now we can convert to template.
   ```
   qm template 9000
