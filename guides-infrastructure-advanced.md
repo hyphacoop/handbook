@@ -134,7 +134,7 @@ To create VMs manually follow these steps (the steps below will need to be done 
 16. Modify the memory, number of processors and increase diskspace as needed.
     - Recommended numbers
         - memory: 1024MB
-        - CPU: 1 socket, 4 cores
+        - CPU: 1 socket, 2 cores
         - HDD space: 20GB
 17. Make sure the `Network Device` is set to the right bridge ex. `vmbr2`
 18. In the VM sidebar click on `Cloud-init` and enter the following fields
