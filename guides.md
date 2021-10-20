@@ -26,7 +26,7 @@ our values.
 - [Inactivating Membership](#inactivating-membership)
 - [Meetings](#meetings)
 - [Payroll](#payroll)
-- [Reporting HST]
+- [Reporting HST](#reporting-hst)
 - [Initatives](#initatives)
 - [Sensitive Data](#sensitive-data)
 - [Signatures](#signatures)
