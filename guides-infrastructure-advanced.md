@@ -32,12 +32,9 @@ These tasks need to be done over SSH tunnel or over the VPN
   qm set 9000 --vga std
   qm set 9000 --ostype l26
   ```
-  We need to install `resolvconf` to update resolv.conf from Cloud-init
-  Attach a CD-ROM and select Debian live ISO
-  Make sure boot order is set to CD ROM first
-  Start the VM
-  After booted we need to install `resolvconf`
-  Follow the following commands:
+  We need to modify the stock image to include  `resolvconf` to update `resolv.conf` from Cloud-init
+  We will do this by mapping the qcow2 disk image to a `nbd` device, mounting it, and making the modifications in a `chroot` environment
+    
 
   ```
   sudo -s
