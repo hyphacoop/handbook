@@ -21,7 +21,7 @@ These tasks need to be done over SSH tunnel or over the VPN
 
 - Debian 10
   ```
-  wget https://cdimage.debian.org/cdimage/openstack/10.4.3-20200610/debian-10.4.3-20200610-openstack-amd64.qcow2
+  wget https://cdimage.debian.org/cdimage/openstack/10.11.0/debian-10.11.0-openstack-amd64.qcow2 -O debian-10.qcow2
   qm create 9000 --memory 1024 --net0 virtio,bridge=vmbr2 --name cloud-init-debian-10
   qm importdisk 9000 debian-10.4.3-20200610-openstack-amd64.qcow2 local --format qcow2
   qm set 9000 --scsihw virtio-scsi-pci --virtio0 local:9000/vm-9000-disk-0.qcow2
