@@ -1254,7 +1254,14 @@ By default only members that have a need to access have permissions to log in to
 </ol>
 </li>
 </ul>
-<h2 id="voicemail"><a name="voicemail" class="plugin-anchor" href="#voicemail"><i class="fa fa-link" aria-hidden="true"></i></a>Voicemail</h2>
+<p>Alternatively by adding a host profile for each hostname to <code>~/.ssh/config</code>.  Doing this, when you ssh to the hostname specified, it will automatically jump you through the jump server, and into the target server. Example of a profile that uses the ansible&apos;s keys below.</p>
+<pre><code>Host [[hostname]]
+  RemoteCommand ssh %n
+  HostName ansible1.hypha.prod
+  User sysadmin
+  Port 9154
+  RequestTTY yes
+</code></pre><h2 id="voicemail"><a name="voicemail" class="plugin-anchor" href="#voicemail"><i class="fa fa-link" aria-hidden="true"></i></a>Voicemail</h2>
 <h3 id="accessing-voicemail"><a name="accessing-voicemail" class="plugin-anchor" href="#accessing-voicemail"><i class="fa fa-link" aria-hidden="true"></i></a>Accessing Voicemail</h3>
 <p>We use a VoIP phone line provider with forwarding and voicemail from <a href="https://www.voip.ms" target="_blank">voip.ms</a>. It helps us:</p>
 <ul>
@@ -1385,7 +1392,7 @@ Dial <code>*98</code></p>
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Guides","level":"1.4","depth":1,"next":{"title":"How We Use Data","level":"1.5","depth":1,"path":"data.md","ref":"data.md","articles":[]},"previous":{"title":"Novel Coronavirus (2019) 🦠","level":"1.3.10","depth":2,"path":"coronavirus.md","ref":"coronavirus.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["anchors"],"pluginsConfig":{"anchors":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"handbook.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"guides.md","mtime":"2021-10-21T19:11:41.230Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2021-10-21T19:12:16.726Z"},"basePath":".","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Guides","level":"1.4","depth":1,"next":{"title":"How We Use Data","level":"1.5","depth":1,"path":"data.md","ref":"data.md","articles":[]},"previous":{"title":"Novel Coronavirus (2019) 🦠","level":"1.3.10","depth":2,"path":"coronavirus.md","ref":"coronavirus.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["anchors"],"pluginsConfig":{"anchors":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"handbook.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"guides.md","mtime":"2021-10-21T19:36:33.785Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2021-10-21T19:37:28.227Z"},"basePath":".","book":{"language":""}});
         });
     </script>
 </div>
