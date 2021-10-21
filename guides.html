@@ -493,7 +493,9 @@ our values.</p>
 <li><a href="#signatures">Signatures</a></li>
 <li><a href="#shortlinks">Shortlinks</a></li>
 <li><a href="#timesheets">Timesheets</a></li>
+<li><a href="#virtual-machines">Virtual Machines</a></li>
 <li><a href="#voicemail">Voicemail</a></li>
+<li><a href="#vpn">VPN</a></li>
 <li><a href="#references">References</a></li>
 </ul>
 <h2 id="calendar"><a name="calendar" class="plugin-anchor" href="#calendar"><i class="fa fa-link" aria-hidden="true"></i></a>Calendar</h2>
@@ -1212,9 +1214,49 @@ Shared reports are found under <a href="https://clockify.me/reports/shared" targ
 <li><p>Timesheet PDFs sent to clients or for internal payroll calculation should be archived in our <a href="https://link.hypha.coop/drive" target="_blank">shared drive</a> under the <code>Timesheets</code> directory</p>
 </li>
 </ol>
+<h2 id="virtual-machines"><a name="virtual-machines" class="plugin-anchor" href="#virtual-machines"><i class="fa fa-link" aria-hidden="true"></i></a>Virtual Machines</h2>
+<p>We use Proxmox to run our VMs. To access the management interface you need to SSH tunnel to <code>kvm1.hypha.coop</code> on port <code>34634</code> or connect over the VPN.</p>
+<h3 id="proxmox"><a name="proxmox" class="plugin-anchor" href="#proxmox"><i class="fa fa-link" aria-hidden="true"></i></a>Proxmox</h3>
+<p>Proxmox is the hypervisor that all the virtual machines run on. There are two ways of accessing the Proxmox servers management interface. An inventory of machines running on this server can be found in the <a href="https://github.com/hyphacoop/inventory-private/blob/master/inventory-kvm1.md" target="_blank">inventory-private</a> repo.</p>
+<ul>
+<li><p>SSH tunnel</p>
+<ol>
+<li>Tunnel the web interface over SSH with <code>ssh root@kvm1.hypha.coop -p 34634 -L 8006:127.0.0.1:8006</code></li>
+<li>Access the panel using <a href="https://127.0.0.1:8006" data-proofer-ignore="" target="_blank">https://127.0.0.1:8006</a></li>
+<li>The username is root and enter the password in our shared password manager <a href="https://pass.hypha.coop/app/passwords/view/a34731d5-eb6a-4f0c-9475-7839280e529b" target="_blank">Passbolt</a></li>
+</ol>
+</li>
+<li><p>VPN (Recommended)</p>
+<ol>
+<li>Connect to OpenVPN (If you do not already have access please ping someone in the infra for the OpenVPN config file.)</li>
+<li>Access the panel using <a herf="https://kvm1.hypha.coop:8006" data-proofer-ignore="">https://kvm1.hypha.coop:8006</a></li>
+<li>The username is root and enter the password in our shared password manager <a href="https://pass.hypha.coop/app/passwords/view/a34731d5-eb6a-4f0c-9475-7839280e529b" target="_blank">Passbolt</a></li>
+</ol>
+</li>
+</ul>
+<h3 id="jump-server"><a name="jump-server" class="plugin-anchor" href="#jump-server"><i class="fa fa-link" aria-hidden="true"></i></a>Jump server</h3>
+<p>To be able to ssh into the different virtual machines running on the infrastructure, authentication must be done via the <code>jump server</code>. This means you must first login to the <code>jump server</code> with your ssh key, and once there, you can use the keys on the <code>jump server</code> to connect and authenticate to the other virtual machines.</p>
+<ul>
+<li><p>Connecting to staging Ansible1 (Our provisioning and jump server for staging machines)
+By default all members access to the production environment</p>
+<ol>
+<li>You&apos;ll need to ensure that your key has been added. You can do that by making a PR <a href="https://github.com/hyphacoop/configurations/tree/master/hyphacoop/ssh-public-keys" target="_blank">here</a>.</li>
+<li><code>ssh sysadmin@ansible1.hypha.stg -p 8002 -i ~/.ssh/id_rsa</code> (assuming <code>~/.ssh/id_rsa</code> is your key you use to access Hypha&apos;s infra.)</li>
+<li>From there you can SSH into the backend systems using their <code>.stg</code> hostnames or directly with their IP address. The passphase for <code>~/.ssh/id_rsa</code> is <a href="https://pass.hypha.coop/app/passwords/view/3adad6cf-b56c-47fd-a0cd-a845075f7622" target="_blank">here</a></li>
+</ol>
+</li>
+<li><p>Connecting to production Ansible1 (Our provisioning and jump server for production machines)
+By default only members that have a need to access have permissions to log in to the production environment</p>
+<ol>
+<li>You&apos;ll need to ensure that your key has been added. You can do that by making a PR <a href="https://github.com/hyphacoop/configurations/tree/master/hyphacoop/ssh-public-keys" target="_blank">here</a>.</li>
+<li><code>ssh sysadmin@ansible1.hypha.prod -p 9154 -i ~/.ssh/id_rsa</code> (assuming <code>~/.ssh/id_rsa</code> is your key you use to access Hypha&apos;s infra.)</li>
+<li>From there you can SSH into the backend systems using their <code>.prod</code> hostnames or directly with their IP address. The passphase for <code>~/.ssh/id_rsa</code> is <a href="https://pass.hypha.coop/app/passwords/view/3e6018fd-7ae3-4647-8ce3-c6ccb6c71800" target="_blank">here</a></li>
+</ol>
+</li>
+</ul>
 <h2 id="voicemail"><a name="voicemail" class="plugin-anchor" href="#voicemail"><i class="fa fa-link" aria-hidden="true"></i></a>Voicemail</h2>
 <h3 id="accessing-voicemail"><a name="accessing-voicemail" class="plugin-anchor" href="#accessing-voicemail"><i class="fa fa-link" aria-hidden="true"></i></a>Accessing Voicemail</h3>
-<p>We use a VoIP phone line provider with forwarding and voicemail from <a href="https://www.voip.ms" target="_blank">voip.md</a>. It helps us:</p>
+<p>We use a VoIP phone line provider with forwarding and voicemail from <a href="https://www.voip.ms" target="_blank">voip.ms</a>. It helps us:</p>
 <ul>
 <li>Have a phone number without tying it to a physical location</li>
 <li>Receive voicemail by email to <a href="mailto:members@hypha.coop" target="_blank">members@hypha.coop</a></li>
@@ -1240,6 +1282,62 @@ Dial <code>*98</code></p>
 <ul>
 <li>0 - Mailbox Options</li>
 <li>1 - Record your unavailable message</li>
+</ul>
+<h2 id="vpn"><a name="vpn" class="plugin-anchor" href="#vpn"><i class="fa fa-link" aria-hidden="true"></i></a>VPN</h2>
+<p>We use pfSense to manage OpenVPN users and gain access to internal resources and also provides internet access over a Canadian IP address.</p>
+<h3 id="using-the-vpn"><a name="using-the-vpn" class="plugin-anchor" href="#using-the-vpn"><i class="fa fa-link" aria-hidden="true"></i></a>Using the VPN</h3>
+<p>To use the VPN you require to have</p>
+<ul>
+<li>an installed <a href="https://openvpn.net/community-downloads/" target="_blank">OpenVPN client</a> on your device</li>
+<li>a configuration file that is generated by pfsense. You will receive this from the member that sets up your account.</li>
+<li>a username and password. This will be shared with you in Passbolt.</li>
+</ul>
+<h3 id="adding-openvpn-users-on-pfsense"><a name="adding-openvpn-users-on-pfsense" class="plugin-anchor" href="#adding-openvpn-users-on-pfsense"><i class="fa fa-link" aria-hidden="true"></i></a>Adding OpenVPN users on pfSense</h3>
+<ul>
+<li><p>To add OpenVPN users on pfSense:</p>
+<ol>
+<li>Log in to pfSense panel by SSH tunneling or over the VPN<ul>
+<li>Recommanded to use VPN if you already have an VPN account</li>
+<li>The pfSense panel can be accessed <a href="https://198.51.100.1/services_unbound.php" data-proofer-ignore="" target="_blank">here</a></li>
+</ul>
+</li>
+<li>Go to <a href="https://198.51.100.1/system_usermanager.php" data-proofer-ignore="" target="_blank">System -&gt; User Manager</a></li>
+<li>Click <code>+ Add</code> green button</li>
+<li>Enter the username, it should be <code>ovpn_firstname</code></li>
+<li>Create a random strong password example: the output of <code>dd if=/dev/urandom bs=1M count=100 | md5sum</code></li>
+<li>Tick <code>Click to create a user certificate</code> </li>
+<li>Create Certificate for user<ul>
+<li>Discriptive name: same as username</li>
+<li>Certificate authority: utilities.hypha.coop</li>
+<li>Key length: 4096</li>
+<li>Lifetime: 3650</li>
+</ul>
+</li>
+<li>Click <code>Save</code></li>
+</ol>
+</li>
+<li><p>Exporting OpenVPN file:</p>
+<ol>
+<li>Log in to pfSense panel with instructions above</li>
+<li>Go to <a href="https://198.51.100.1/vpn_openvpn_server.php" data-proofer-ignore="" target="_blank">VPN -&gt; OpenVPN</a></li>
+<li>Click on <code>Client Export</code> tab</li>
+<li>Select Remote Access Server <code>VPN Access UDP4:13313</code></li>
+<li>Leaving all other settings untouched scroll down to OpenVPN Clients and click <code>Most Clients</code> under Inline Configurations beside the user you want to download.</li>
+<li>Send the OpenVPN file to user over encrypted means such as Signal or encrypted Matrix direct chat.</li>
+</ol>
+</li>
+<li><p>Deleting OpenVPN user on pfSense</p>
+<ol>
+<li>Go to System -&gt; User Manager</li>
+<li>Delete the user(s)</li>
+<li>Log in to pfSense panel by SSH tunneling or over the VPN</li>
+<li>Go to System -&gt; Cert. Manager</li>
+<li>Click on <code>Certificate Revocation</code> tab</li>
+<li>Click the &#x270F;&#xFE0E; beside <code>Certificate Revocation</code></li>
+<li>Choose the <code>ovpn_username</code> you are removing</li>
+<li>Choose Reason and click <code>+ Add</code></li>
+</ol>
+</li>
 </ul>
 <h2 id="references"><a name="references" class="plugin-anchor" href="#references"><i class="fa fa-link" aria-hidden="true"></i></a>References</h2>
 <p><sup>1. Inspired by <a href="https://handbook.enspiral.com/guides.html" target="_blank">Enspiral Handbook: Guides</a></sup></p>
@@ -1287,7 +1385,7 @@ Dial <code>*98</code></p>
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Guides","level":"1.4","depth":1,"next":{"title":"How We Use Data","level":"1.5","depth":1,"path":"data.md","ref":"data.md","articles":[]},"previous":{"title":"Novel Coronavirus (2019) 🦠","level":"1.3.10","depth":2,"path":"coronavirus.md","ref":"coronavirus.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["anchors"],"pluginsConfig":{"anchors":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"handbook.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"guides.md","mtime":"2021-10-20T18:26:27.896Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2021-10-20T18:27:11.822Z"},"basePath":".","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Guides","level":"1.4","depth":1,"next":{"title":"How We Use Data","level":"1.5","depth":1,"path":"data.md","ref":"data.md","articles":[]},"previous":{"title":"Novel Coronavirus (2019) 🦠","level":"1.3.10","depth":2,"path":"coronavirus.md","ref":"coronavirus.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["anchors"],"pluginsConfig":{"anchors":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"handbook.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"guides.md","mtime":"2021-10-21T19:11:41.230Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2021-10-21T19:12:16.726Z"},"basePath":".","book":{"language":""}});
         });
     </script>
 </div>
