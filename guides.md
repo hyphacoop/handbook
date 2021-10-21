@@ -32,6 +32,7 @@ our values.
 - [Shortlinks](#shortlinks)
 - [Timesheets](#timesheets)
 - [Virtual Machines](#virtual-machines)
+- [Virtual Machine Advanced Topics](guides-infrastructure-advanced.md)
 - [Voicemail](#voicemail)
 - [VPN](#vpn)
 - [References](#references)
