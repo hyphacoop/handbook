@@ -817,7 +817,7 @@ To be able to ssh into the different virtual machines running on the infrastruct
   1. `ssh sysadmin@ansible1.hypha.prod -p 9154 -i ~/.ssh/id_rsa` (assuming `~/.ssh/id_rsa` is your key you use to access Hypha's infra.)
   1. From there you can SSH into the backend systems using their `.prod` hostnames or directly with their IP address. The passphase for `~/.ssh/id_rsa` is [here](https://pass.hypha.coop/app/passwords/view/3e6018fd-7ae3-4647-8ce3-c6ccb6c71800)
 
-Alternatively by adding a host profile for each hostname to `~/.ssh/config`.  Doing this, when you ssh to the hostname specified, it will automatically jump you through the jump server, and into the target server. Example of a profile that uses the ansible's keys below.
+Alternatively, by adding a host profile for each hostname to `~/.ssh/config`, ssh will jump through the host and connect you to the target server automatically. Example of a profile that uses the ansible's keys below.
 
 ```
 Host [[hostname]]
