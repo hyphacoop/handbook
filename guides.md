@@ -28,6 +28,7 @@ our values.
 - [Payroll](#payroll)
 - [Initatives](#initatives)
 - [Sensitive Data](#sensitive-data)
+- [SSH Keys](#ssh-keys)
 - [Signatures](#signatures)
 - [Shortlinks](#shortlinks)
 - [Timesheets](#timesheets)
@@ -679,6 +680,10 @@ We recommend any secured `file.pdf` be renamed to `file.encrypted.pdf` for easy 
 
 As a last resort for sensitive docs, a member can choose to have the document **printed and stored** in a folder in the office.
 
+## SSH Keys
+
+To add your SSH public key to the ansible server, you need to create a pull request against the [configuration](https://github.com/hyphacoop/configurations/tree/main/hyphacoop/ssh-public-keys) GitHub repo. Once merged, someone from who already has access to the ansible server must re-run the ansible server script to update the changes.
+
 ## Signatures
 
 ### Signing internal documents
@@ -859,6 +864,7 @@ To record or update the voicemail greeting [access the voicemail](#accessing-voi
 - 1 - Record your unavailable message
 
 ## VPN
+
 We use pfSense to manage OpenVPN users and gain access to internal resources and also provides internet access over a Canadian IP address.
 
 ### Using the VPN
