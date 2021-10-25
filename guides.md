@@ -639,7 +639,7 @@ This will trigger Finance to take action.
 
 ### Filing HST
 
-To Filing the HST you will need to access the CRA's `GST/HST NETFILE` website. The website and all relative identifying information can be found in Passbolt.
+To Filing the HST you will need to access the CRA's `GST/HST NETFILE` website. The website and all relative identifying information can be found in [Passbolt](https://pass.hypha.coop/app/passwords/view/4f0d30b0-61b0-4911-a82d-495f3da58467).
 
 1. Visit the `GST/HST NETFILE` website
 2. Press the `Ready to file` button
