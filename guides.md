@@ -657,7 +657,7 @@ To Filing the HST you will need to access the CRA's `GST/HST NETFILE` website. T
 14. Click `File`
 15. Click `Save as PDF` at the bottom of the page
 16. Rename file in correct format with today's date and last day of quarter `yyyy`-`mm`-`dd`-hst-ending-20`xx`-`xx`-`xx`-netfile.pdf`
-17. Upload file to Google Drive until `Finance/HST`
+17. Upload file to Google Drive until `-Backoffice/Finance/HST`
 
 ### Payment of HST
 
