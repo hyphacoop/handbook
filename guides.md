@@ -671,7 +671,11 @@ If payment is required for HST, you will need to coordinate with another member 
 6. Select `Pay` at the top bar
 7. Enter last day of the quarter as `Period Ending`
 8. Enter amount from Line 115 as `Amount owing`
-9. Select `Next`
+9. Confirm right amount displays in `Total payment` field
+10. Select `Next`
+11. Confirm values are correct
+12. Select `Submit`
+13. Confirm message `The transaction is now in Pending Approval status and requires 1 approver(s).` Displays at the top
 
 ### TODO
 - [ ] Verify and Submit instrucitions
