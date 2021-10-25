@@ -676,6 +676,7 @@ If payment is required for HST, you will need to coordinate with another member 
 11. Confirm values are correct
 12. Select `Submit`
 13. Confirm message `The transaction is now in Pending Approval status and requires 1 approver(s).` Displays at the top
+14. Click `Done`
 
 
 ## Initatives
