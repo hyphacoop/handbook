@@ -1,6 +1,6 @@
 # Initiatives
 
-⚠️ _Warning: Initiatives are still being set up, they replace working groups. Expect this space to change._ ⚠️
+⚠️ _Warning: This information has not been updated for 2021 Q4 as we're planning to reduce the duplication of information between our  [initiatives database][members]🔒 and this handbook page. Please refer to the iniatives database for up to date guidance on hours._ ⚠️
 
 Initiatives are mission-oriented projects that are executed by a self-organising team of 2-4 Hypha members who have the skills and tools to design, build, gather feedback or test, and finalize/release on the project. These include both internal and external-facing projects and tend to be reviewed on a quarterly basis. 
 
