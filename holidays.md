@@ -1,5 +1,16 @@
 # Holidays, Time Off, and Leaves
 
+### Sick Days, Personal Time Off, and Leaves of Absense
+  
+We have no policy limiting the number of sick days, time off, or leaves that members take.
+However, we recognize taking any of the above has to be balanced against existing deadlines and commitments.
+
+Member-workers should submit any planned or unplanned time off using **[this form](https://forms.gle/M2S1x7sHhERgysAx7): 
+[https://forms.gle/M2S1x7sHhERgysAx7](https://forms.gle/M2S1x7sHhERgysAx7)**. 
+If you have any issues or questions notify Operations as soon as possible by email: 
+[operations@hypha.coop](mailto:operations@hypha.coop).
+
+
 ### Public and Additional Holidays
 
 Our virtual office is closed during [Ontario's nine public holidays](https://www.ontario.ca/document/your-guide-employment-standards-act-0/public-holidays) 
@@ -11,7 +22,7 @@ During December Holidays the virtual office is closed for roughly two weeks.
 In cases where members choose to work on these days, or under special circumstances where a project requires, 
 they will receive [regular wages](/finance.md#public-holiday-pay) for those hours and are entitled to take substitute time off. 
 
-| **Holiday**                                      | **2020**          | **2021**          | **202**         |
+| **Holiday**                                      | **2020**          | **2021**          | **2022**         |
 |--------------------------------------------------|-------------------|-------------------|------------------|
 | New Year's Day<br />January 1                    | Wed, January 1    | Fri, January 1    | Sat, January 1   |
 | Ontario Family Day<br />Third Monday in February | Mon, February 17  | Mon, February 15  | Mon, February 21 |
@@ -25,11 +36,3 @@ they will receive [regular wages](/finance.md#public-holiday-pay) for those hour
 | Remembrance Day<br />November 11                 | Wed, November 11  | Thu, November 11  | Fri, November 11 |
 | Christmas Day<br />December 25                   | Fri, December 25  | Sat, December 25  | Sun, December 25 |
 | Boxing Day<br />December 26                      | Sat, December 26  | Sun, December 26  | Mon, December 26 |
-
-### Sick Days, Personal Time Off, and Leaves of Absense
-  
-We have no policy limiting the number of sick days, time-off, or leaves that members take.
-However, we recognize taking any of the above has to be balanced against existing deadlines and commitments.
-
-Member-workers should notify Operations as soon as possible by email: [operations@hypha.coop](mailto:operations@hypha.coop), 
-with any planned or unplanned time off.
