@@ -733,9 +733,11 @@ We recommend using the [GnuPG](https://gnupg.org) command line, but you can also
 The text of the signed document is embedded in the signature file, so you can drop any signature file `resolution-XXX.md.github_handle.asc` into [keybase.io/verify](https://keybase.io/verify) to verify a signature.
 For example, you can try verifying [resolution-001.md.benhylau.asc](https://github.com/hyphacoop/organizing/blob/master/resolutions/resolution-001.md.benhylau.asc).
 
+_Note: for submitting resolutions to the Government, you will need to use an additional signing process as if resolutions are external documents. Previously this was achieved by using `pandoc` to build a PDF package with the resolution (without including PGP signatures) and entering that to HelloSign (see [organizing/#385](https://github.com/hyphacoop/organizing/issues/385) for context)._
+
 ### Signing external documents
 
-Members also use other tools such as [HelloSign](http://link.hypha.coop/inventory#HelloSign) for signing client-facing documents.
+Members also use other tools such as [HelloSign](http://link.hypha.coop/inventory#HelloSign) for signing client-facing documents. 
 
 See [this related GitHub issue](https://github.com/hyphacoop/organizing/issues/195#issuecomment-580393377) for an example of prior usage.
 
