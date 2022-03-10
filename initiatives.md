@@ -76,7 +76,7 @@ Initiative for leading the creation and execution of strategy and governance, in
 👪 Squad Members: [**uv (lead)** and others][members]   
 ✅ Tasks: GitHub board > [`init-homeostatis` label][l-homeostatis]  
 
-### Open Collective Fiscal Host
+### [Open Collective Fiscal Host][oc-host]
 
 Initiative for operating as a fiscal host using Open Collective to aid small projects and informal groups aligned with our mission-work. 
 
@@ -86,6 +86,8 @@ Initiative for operating as a fiscal host using Open Collective to aid small pro
 📅 Calls: [Biweekly][calendar]   
 👪 Squad Members: [**bl (lead)** and others][members]     
 ✅ Tasks: GitHub board > [`init-ochost` label][l-ochost]   
+
+[oc-host]: https://github.com/hyphacoop/organizing/blob/master/_posts/initiatives/2021-07-01-open-collective-fiscal-host-v1.md
 
 ### Radical Co-op Development
 
