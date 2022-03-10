@@ -8,19 +8,6 @@ Below we have the list of **active** initiatives as of **2021 Q3**, with full in
 
 [projects]: https://github.com/hyphacoop/organizing-private/tree/master/initiatives-internal.
 
-### [Call me Chrysalis][chrysalis]
-
-Initiative for undertaking an organizational transformation to become more cross-functional and open to new styles of collaboration while supporting  members' learning, growth, and livelihoods.
-
-⏲️ Status: Ending Q3 2021  
-📑 Timeline: February - September 2021  
-📈 Scale and Est. Hours: [Medium][hours]  
-📅 Calls: [As needed][calendar]  
-👪 Squad Members: [**dc (lead)**][members]  
-✅ Tasks: GitHub board > [`init-chrysalis` label][l-chrysalis]  
-
-[chrysalis]: https://github.com/hyphacoop/organizing/blob/master/_posts/initiatives/2021-02-17-call-me-chrysalis.md
-
 ### Complete Migration and Deprecation
 
 Initiative for completing migration of core Hypha services to new Server (Passbolt, BBB) and deprecate unneeded ones (Jitsi).
