@@ -18,7 +18,7 @@ We are a non-profit _organization_.
 That means our organization does not operate with the primary purpose of generating profit. 
 As per 2017's [_Cutting Unnecessary Red Tape Act_](https://www.ontario.ca/laws/statute/s17020), 
 Hypha falls under neither the current [_Corporations Act_](https://www.ontario.ca/laws/statute/90c38), 
-nor the upcoming [_Not-for-Profit Corporations Act_](https://www.ontario.ca/laws/statute/10n15), 
+nor the [_Not-for-Profit Corporations Act_](https://www.ontario.ca/laws/statute/10n15), 
 which both govern not-for-profit _corporations_ in Ontario.
 Instead, we are a [not-for-profit _co-operative_][not-for-profit-coop].
 
