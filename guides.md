@@ -235,7 +235,7 @@ We'll now send your first email to Mailinator, a cloud inbox that's helpful for 
 ## Expense Reimbursement
 
 Employees should submit eligible expenses in the same quarter they are incurred.
-The Finance WG reviews submitted expenses before each pay period, and pays out reimbursement amounts on the next pay day.
+The Finance WG reviews submitted expenses before the end of the quarter, and pays out reimbursement amounts on the last pay day for that quarter.
 
 ### Submitting an expense
 
@@ -252,7 +252,7 @@ The Finance WG reviews submitted expenses before each pay period, and pays out r
     - Receipt Link: `[link to uploaded receipt]`
 
 1. That's it.
-    Once finance approves the expense it will show up beside your name on the [Employee Payroll](http://link.hypha.coop/payroll) sheet and you will be reimbursed in that pay period.
+    Once finance approves the expense it will show up beside your name on the [Employee Payroll](http://link.hypha.coop/payroll) sheet and you will be reimbursed at the end of the quarter.
     The amount will _not_ appear on your tax forms.
 
 ### Approving an expense for reimbursement
@@ -265,7 +265,7 @@ For the Finance WG to approve an expense:
 
 1. Verify that the `Total Amount (CAD)` is added to the [Reimbursement Summary](http://link.hypha.coop/reimbursement) sheet to the correct `Pay Period of Reimbursement` and `Employee`.
 
-1. Verify that the amount shows up correctly on the `Expense Reimbursement` column on [Employee Payroll](http://link.hypha.coop/payroll) of the applicable pay period, so it gets entered into Wagepoint on the next payroll run.
+1. Verify that the amount shows up correctly on the `Expense Reimbursement` column on [Employee Payroll](http://link.hypha.coop/payroll) of the applicable pay period, so it gets entered into Wagepoint on the last payroll run for the quarter.
 
 1. After reimbursements are paid out through Wagepoint, our bookkeeper will file the the amounts into expense accounts in [Quickbooks Online](https://quickbooks.intuit.com/ca/) based on the [Posting Journals](https://drive.google.com/drive/u/0/folders/1wWo9KqNwWdUK5d-jkApV3id_Y_dpftT9) and [Employee Expenses](https://link.hypha.coop/expenses) sheet.
 
