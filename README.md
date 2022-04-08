@@ -3,7 +3,7 @@
 Hypha handbook describing the vision, processes, 
 and culture of Hypha Worker Co-operative. 🌿🍄
 
-This handbook's primary audience is Hypha member-owners and collaborators, 
+This handbook's primary audience is Hypha member-workers and collaborators, 
 but it will be publicly available for others who might find it useful. 
 
 ![Old-timey web 1.0 UNDER CONSTRUCTION banner](images/under-construction.gif)<br />

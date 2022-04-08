@@ -20,7 +20,7 @@ The *Cultivator* is responsible for tending to the all hands meetings and import
    - keep time
 - review and merge notes (Weekly)
 - host and plan activity for social call (Monthly)
-- help member-owners stay organized (As needed):
+- help member-workers stay organized (As needed):
   - add meetings and important dates to calendar after meeting
   - set up required loomio theads and decisions
   - send reminders on time-sensitive action items

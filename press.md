@@ -14,8 +14,8 @@ We have been featured or participated in the following press and public speaking
 ## Sessions, Workshops & Talks
 
 - Mozilla Festival 2021. This Is What Solidarity Looks Like — Emergent Practices from the Decentralized Co-operative Web. [details](https://schedule.mozillafestival.org/session/3BE77L-1) | [video](https://www.youtube.com/watch?v=eVLHAVg-g24#t=30m45s) 
-- [COMPOST] Dweb Meetup March 2021 — The Latest in the DWeb Ecosystem. [details](https://www.eventbrite.com/e/dweb-meetup-march-2021-the-latest-in-the-dweb-ecosystem-tickets-142013104017#) | video (pending)
-- #TechTalks with Chris Glover MPP (May 18, 2021) [Hypha Worker Co-operative](https://www.youtube.com/watch?v=bp95oowQ5Hw)
+- Dweb Meetup March 2021 — The Latest in the DWeb Ecosystem. COMPOST Magazine & Distributed Press. [details](https://www.eventbrite.com/e/dweb-meetup-march-2021-the-latest-in-the-dweb-ecosystem-tickets-142013104017#) | [video](https://blog.archive.org/2021/04/22/dweb-meetup-march-2021-latest-in-the-dweb-ecosystem/)
+- \#TechTalks with Chris Glover MPP (May 18, 2021) [Hypha Worker Co-operative](https://www.youtube.com/watch?v=bp95oowQ5Hw)
 - X University CFE Series: Taming Big Tech: Exploring the Alternatives (June 10, 2021) [Defund Big Tech, Refund Communities Panel](https://cfe.ryerson.ca/key-resources/podcasts/defund-big-tech-refund-communities)
 - Treaty Lands, Global Stories (November 18, 2021) [Co-Opt: A Symposium on Worker Co-operatives as Alternatives to Traditional Workplaces](https://www.instagram.com/p/CWBSH5qLI9Y/)
 
