@@ -28,7 +28,7 @@ All formal meetings are expected to have someone in the **Cultivator** &
 
 ### All Hands
 
-📆 **Schedule:** Biweekly  
+📆 **Schedule:** Monthly  
 🕙 **Duration:** 60 minutes   
 📋 **Template:** [`link.hypha.coop/template`](https://link.hypha.coop/template)
 
@@ -97,14 +97,14 @@ Much more casual than meetings, these social activities do not require formal cu
 
 #### Social humpday hang 🍄🌻
 
-📆 **Schedule:** Monthly, last Wednesday during our standing [All Hands](#all-hands) time  
+📆 **Schedule:** Monthly, last Wednesday   
 🕙 **Duration:** 60 mins  
 
 Casual social hangout with an activity led by the [Cultivator][cultivator] and sometimes including outside collaborators.
 
 #### Coffee Break! ☕
 
-📆 **Schedule:** Tuesday, Wednesday, and Thursday afternoons  
+📆 **Schedule:** Tuesday afternoons  
 🕙 **Duration:** 15 mins  
 
 Casual drop-in space in our main BBB room without an official structure.

@@ -70,9 +70,8 @@ We tend to use the following emoji and iconography:
 
 ### Assets and templates
 
-Look and feel assets are available in our [Public Drive](https://drive.google.com/drive/folders/1URLZzO0P2IuLjRzvmg_C3ecV0N54GbeJ), and include:
+Look and feel assets are available in our [Public Drive](https://drive.google.com/drive/folders/1dFhhx1g9MlNx5w2cd5eCSvBn6KAj6VSW?usp=sharing), and include:
 
 - Wordmark
 - Image bank
-- Letterhead 
-- Report template
+
