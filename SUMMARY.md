@@ -5,6 +5,7 @@
 ### Hypha Worker Co-operative
 
 * [About Us](co-operative.md)
+    * [Press and Public Speaking](press.md)
 * [Look and Feel](look-and-feel.md)
 * [Mission, Vision and Values](vision.md)
 * [Co-operative Principles](co-operative-principles.md)
