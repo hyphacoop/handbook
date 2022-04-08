@@ -15,11 +15,10 @@ jobs:
       with:
         node-version: '10.x'
 
-    - name: Install and build gitbook
+    - name: Install and build
       run: |
-        npm install gitbook-cli
-        ./node_modules/.bin/gitbook install
-        ./node_modules/.bin/gitbook build
+        npm install
+        npx honkit build
 
     - name: Set up Ruby 2.6
       uses: actions/setup-ruby@v1
