@@ -18,11 +18,10 @@ jobs:
       with:
         node-version: '10.x'
 
-    - name: Install and build gitbook
+    - name: Install and build
       run: |
-        npm install gitbook-cli
-        ./node_modules/.bin/gitbook install
-        ./node_modules/.bin/gitbook build
+        npm install
+        npx honkit build
 
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
