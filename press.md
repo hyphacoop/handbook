@@ -8,6 +8,7 @@ We have been featured or participated in the following press and public speaking
 - Design Radical Futures. [Instagram post series](https://www.instagram.com/p/CNXq7w2h3Ab/)
 - Early (August 19, 2021) [Can a Worker's Co-Op Thrive in Big Tech?](https://www.earlymagazine.com/articles/can-a-workers-co-op-thrive-in-big-tech)
 - OpenCollective Blog (May 27, 2021) [Emergent Practices from the Decentralized Co-operative Web](https://blog.opencollective.com/emergent-practices-from-the-decentralized-co-operative-web/)  
+- Canadian Worker Co-operative Federation. [Worker Co-ops and the Sixth Principle](https://canadianworker.coop/worker-co-ops-and-the-sixth-principle/) (Mar 24, 2022)
 
 
 ## Sessions, Workshops & Talks
