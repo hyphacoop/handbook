@@ -4,7 +4,13 @@ In December 2021 we revised our total compensation and switched to a salaried mo
 
 ## Compensation
 
-[Think we should add something public here than link to the private section, though personally fine with all of it being public except individual allocations]
+Employees at Hypha, full-time or part-time, permanent or otherwise, are evaluated based on the following criteria:
+
+* skills and experiences
+* responsibilities
+* seniority in organization
+
+Full details and salary tiers are detailed in our [Employee Salary Guide](salary.md).
 
 ## Health Benefits
 
