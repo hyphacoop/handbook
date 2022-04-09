@@ -6,7 +6,7 @@ and culture of Hypha Worker Co-operative. 🌿🍄
 ## About This Handbook
 <!-- Derived from: https://handbook.enspiral.com/#about-this-handbook -->
 
-This Handbook's primary audience is Hypha member-owners and collaborators,
+This Handbook's primary audience is Hypha member-workers and collaborators,
 but it will be publicly available for others who might find it useful. 
 The goal is to provide as much clarity and context as possible, 
 while sharing our structures and practices with the outside world as well.

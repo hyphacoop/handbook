@@ -8,6 +8,15 @@ Working in solidarity with our neighbours, we support each other and provide saf
 
 ## Values
 
+At our 2021 retreat, we aligned on the following short-list of values:
+
+- Curiosity
+- Intersectionality  
+- Honesty
+- Self-Agency
+- Solidarity 
+
+
 During our 2019 retreat we [co-drafted a long list of values](https://meetings.hypha.coop/2018-12-04-retreat-day-01.html#finding-value-alignment), consensing that the list has broad alignment to those of the participants of this co-operative.
 
 This is an early group of collected approaches, motivations, and commitments:

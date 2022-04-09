@@ -20,18 +20,18 @@ In order to stay safe as workers and community members during this we've drafted
 
 ## Working in the Time of COVID-19
 
-As a remote-first organization with many member-owners additionally working outside Hypha we occupy a slightly unique position. On the one hand our own work can transition to a work from home (WFH) strategy, but the continuity of Hypha work may have additional impacts we should be mindful of.
+As a remote-first organization with many member-workers additionally working outside Hypha we occupy a slightly unique position. On the one hand our own work can transition to a work from home (WFH) strategy, but the continuity of Hypha work may have additional impacts we should be mindful of.
 
-After a process of research, consultation, and review of our requirements as an employer, Hypha has adopted the following policy to protect ourselves as member-owners and to protect the communities we serve:
+After a process of research, consultation, and review of our requirements as an employer, Hypha has adopted the following policy to protect ourselves as member-workers and to protect the communities we serve:
 
-- Member-owner's work should continue from home/safe environments
+- Member-worker's work should continue from home/safe environments
     - Client work and internal meetings will continue as virtual meetings
     - Work-related travel or professional gatherings/onsite meetings will be moved to virtual hosting or be rescheduled to a time when public health officials have deemed it safe to do so
     - Due to the nature of our work (virtual office, remote) we **are not providing** [Personal Protective Equipment (PPE)](#personal-protective-equipment-ppe) at this time
-- Member-owners should take care of the health (including mental health) of themselves and their loved ones first
-    - We encourage all member-owners to **take the time they need right now, it's not business as usual**
+- Member-workers should take care of the health (including mental health) of themselves and their loved ones first
+    - We encourage all member-workers to **take the time they need right now, it's not business as usual**
     - **You are your own best judge** of how much client work you can take on and track during this time
-    - **Please communicate and be proactive** to other member-owners around shifting work and deadlines 
+    - **Please communicate and be proactive** to other member-workers around shifting work and deadlines 
 
 ## Communication and Education
 
@@ -47,7 +47,7 @@ As an employer we recognize/commit to the following:
 - Our duty is to provide the safest workplace for our employees (and our communities)
 - We follow public health guidelines on preventing COVID-19 spread though social distancing
 - We will honour our employment agreements
-- We will be responsive to member-owners needs in implementing additional measures
+- We will be responsive to member-workers needs in implementing additional measures
 
 ### Social Distancing and Self Isolation
 
