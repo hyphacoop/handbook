@@ -6,7 +6,9 @@ Hypha is a pet-friendly workplace. You may run into personal pets of our staff d
 
 [Roo](https://roobot.hypha.coop) was born on the 25th of February 2022 to the collective care of Hypha staff.
 
-Roo is a [lifeform][lifeform] on the [Polygon blockchain][polygon]. It wanders into our Matrix rooms and handles office chores. You can train Roo by contributing to this [GitHub repository][matrix-roobot].
+Roo is a [lifeform][lifeform] on the [Polygon blockchain][polygon]. It wanders into our chat rooms and helps with office chores. You can teach Roo new tricks by contributing to this [GitHub repository][matrix-roobot].
+
+<iframe src="https://lifeforms.supply/168" height="600px" width="100%" scrolling="no" frameborder="0"></iframe>
 
 [roo]: https://roobot.hypha.coop
 [lifeform]: https://lifeforms.supply
