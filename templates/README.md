@@ -25,6 +25,6 @@ Core operations and activities:
 - ✅ Independent Contractor Agreement (Ops) ✅
 - ✅ Job Description (Ops)
 - ✅ Statement of Work (Ops) 
-
+random line
 
 https://drive.google.com/drive/folders/1r7b2Kh2-In1wyS-ANpmkWt_xdHjjRrPJ
