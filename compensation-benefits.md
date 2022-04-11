@@ -22,14 +22,4 @@ Our provider is the Co-operators and we are able to provide the following to mem
 | PT (0.50 or 2 days/week)  | Life, AD&D, LTD + HSA                |
 | FT (0.75 or 3 days/week, and above) | Life, AD&D, LTD, EHC, Dental + HSA   |
 
-What do all of those mean?
-
-### Life (Basic Life and Dependant Life) 
-
-### AD&D 
-
-### Long Term Disability (LTD)
-
-### Extended Healthcare (EHC)
-
-### Dental 
+What do all of those mean? See their [definitions by the Co-operators](https://www.cooperators.ca/en/Group/group-benefits/product-services.aspx).
