@@ -20,7 +20,7 @@ Our provider is the Co-operators and we are able to provide the following to mem
 |---------------------------|--------------------------------------|
 | PT (0.25 or 1 day/week )  | No benefits                          | 
 | PT (0.50 or 2 days/week)  | Life, AD&D, LTD + HSA                |
-| FT (above 0.50)           | Life, AD&D, LTD, EHC, Dental + HSA   |
+| FT (0.75 or 3 days/week, and above) | Life, AD&D, LTD, EHC, Dental + HSA   |
 
 What do all of those mean?
 
