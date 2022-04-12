@@ -12,6 +12,8 @@
 * [Bylaws](bylaws.md)
 * [Board of Directors](board-of-directors.md)
 * [Member-workers](member-workers.md)
+* [Compensation and Benefits](compensation-benefits.md)
+    * [Employee Salary Guide](salary.md)
 
 ### Our Virtual Office
 
