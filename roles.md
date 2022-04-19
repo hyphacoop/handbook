@@ -210,7 +210,7 @@ What kinds of transactions might Hypha be doing on blockchains?
 **Standards**
 - No standards for storing pin. Don't keep anywhere near your hardware device
 - Standards for storing mnemonic
-    - Sealed envelope, lots of tape is fine
+    - Sealed envelope, lots of tape is fine, ideally in a safe deposit box
     - Try to keep the hardware device in a separate locked drawer
 
 **Availability expectations**
