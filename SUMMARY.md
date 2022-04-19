@@ -26,6 +26,7 @@
 * [Finance](finance.md)
 * [Fiscal Sponsorship](fiscal-sponsorship.md)
 * [Holidays, Time off, and Leaves](holidays.md)
+* [Pet Policy](pet.md)
 * [Novel Coronavirus (2019) 🦠](coronavirus.md)
 
 --
