@@ -203,7 +203,7 @@ What kinds of transactions might Hypha be doing on blockchains?
 - Clearly understand the security risks associated with a leaked key
 - Awareness of various attack vectors (e.g., phishing etc.) that could lead to a leaked key
 - Keeping both your backup mnemonic and your hardware device safe
-- Ensure that their is a redundant backup of their mnemonic kept safely
+- Ensure that there is a redundant backup of their mnemonic kept safely
 - Knowledge of how to create transactions for blockchains (scoped to Cosmos Hub for now, but can change)
 - Participate in signing on-chain transactions on behalf of Hypha for various blockchains (scoped to Cosmos Hub for now, but can change)
 
