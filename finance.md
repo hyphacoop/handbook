@@ -204,7 +204,7 @@ If none of these scenarios apply to your situation, and you are unsure whether t
 
 ### Holding crypto-currency
 
-Hypha may sometimes need to hold cyrptocurrency. 
+Hypha may sometimes need to hold cryptocurrencies. 
 
 - We have a [key holder role](/roles.md#key-holder) to manage our keys.
 - We have a [Cosmos multisig treasury wallet](https://docs.google.com/document/d/1vXXh1tJqzjs6NyxJhS6Wof5ITGDYSVThT3sX_yTegQ0/edit#) 🔒, a hot wallet, and various purpose-specific wallets listed in our [account information](https://github.com/hyphacoop/organizing-private/blob/main/documents/finances/account-information.md#cryptocurrencies) 🔒
