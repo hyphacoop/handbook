@@ -7,6 +7,7 @@
 - [Notetaker](#notetaker)
 - [Payroll Coordinator](#payroll-coordinator)
 - [Social Media Steward](#social-media-steward)
+- [Operations Coordinator](#operations-coordinator)
 
 ### Cultivator (aka Meeting Chair)
 
@@ -95,15 +96,16 @@ The *Initiative lead* is part-PM, part-coach and is responsible for ensuring ini
 
 **Tasks**:
 - report on inititative progress at all hands and strategic meetings 
-- chair inititative meetings (As needed):
+- chair inititative meetings (as needed):
    - prepare for meetings in advance 
    - facilitate discussion and times
-- review and merge notes (As needed)
-- help squad members stay organized (As needed):
+- review and merge notes (as needed)
+- help squad members stay organized (as needed):
   - add meetings and important dates to calendar after meeting
   - set up required tasks on GitHub or documents
   - send reminders on time-sensitive action items
-- work with Back Office for project setup, invoicing, payroll and contracts 
+- work with Back Office for project setup, invoicing, payroll and contracts
+- track and record project work hours using Clockify 
 
 **Authority:**
 - set strategy and direction within intiative
@@ -125,7 +127,7 @@ The *Notetaker*
 
 **Tasks** (Weekly):
 - taking notes
-- cleaning up notes, adding to gh and pinging for review
+- cleaning up notes, adding to GH and pinging for review
 
 **Length Succession**:
 Single meeting. Moves through alphabetical list of active member names.
@@ -186,3 +188,24 @@ Single meeting. Moves through alphabetical list of active member names.
 **Time Budget:** Up to 2 hours/week.
 
 **Length and Succession**: 3 months, with renewal. Max 2 terms.
+
+
+### Operations Coordinator
+
+**Parent WG:** Operations
+
+**Aim:** Track and manage time spent on internal (Hypha-related) projects.
+
+**Tasks:**
+
+- ensure fair distribution of internal work among Hypha members
+
+
+**Authority:**
+
+**Limits:** (on Authority)
+
+**Time Budget:**
+
+**Length and Succession:**
+- 6 months, with renewal. Max 2 terms.
