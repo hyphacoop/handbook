@@ -32,52 +32,6 @@ Cloud-init templates are used for easy deployment of VMs. Cloud-init allows auto
 This only needs to be done once per distro.
 
 These tasks need to be done over SSH tunnel or over the VPN
-
-- Debian 11
-  ```
-  wget https://cloud.debian.org/images/cloud/bullseye/latest/debian-11-generic-amd64.qcow2 -O debian-11.qcow2
-  qm create 9003 --memory 1024 --net0 virtio,bridge=vmbr2 --name cloud-init-debian-11
-  qm importdisk 9003 debian-11.qcow2 local --format qcow2
-  qm set 9003 --scsihw virtio-scsi-pci --virtio0 local:9003/vm-9003-disk-0.qcow2
-  qm set 9003 --cpu host
-  qm set 9003 --ide2 local:cloudinit
-  qm set 9003 --boot c --bootdisk virtio0
-  qm set 9003 --serial0 socket --vga serial0
-  qm set 9003 --vga std
-  qm set 9003 --ostype l26
-  qm set 9003 --bios ovmf
-  qm set 9003 --agent 1
-  ```
-  We need to modify the stock image to include  `resolvconf` to update `resolv.conf` from Cloud-init
-  We will do this by mapping the qcow2 disk image to a `nbd` device, mounting it, and making the modifications in a `chroot` environment
-    
-
-  ```
-  modprobe nbd max_part=8
-  qemu-nbd --connect=/dev/nbd0 /var/lib/vz/images/9003/vm-9003-disk-0.qcow2
-  mkdir tmp
-  mount /dev/nbd0p1 tmp
-  cd tmp
-  chroot .
-  mkdir -p /run/resolvconf
-  echo "nameserver 1.1.1.1" > /etc/resolv.conf
-  apt update
-  apt install resolvconf qemu-guest-agent
-  apt autoclean
-  apt clean
-  rm -rf /run/resolvconf
-  exit
-  cd ..
-  umount tmp
-  qemu-nbd --disconnect /dev/nbd0
-  sleep 5
-  rmmod nbd
-  rm -rf tmp debian-10.qcow2
-  ```
-  Now we can convert to template.
-  ```
-  qm template 9003
-  ```
   
 - Debian 10
   ```
@@ -151,7 +105,7 @@ These tasks need to be done over SSH tunnel or over the VPN
 
 - Debian 11
   ```
-  wget https://cdimage.debian.org/cdimage/cloud/bullseye/latest/debian-11-genericcloud-amd64.qcow2 -O debian-11.qcow2
+  wget https://cloud.debian.org/images/cloud/bullseye/latest/debian-11-generic-amd64.qcow2 -O debian-11.qcow2
   qm create 9003 --memory 1024 --net0 virtio,bridge=vmbr2 --name cloud-init-debian-11
   qm importdisk 9003 debian-11.qcow2 local --format qcow2
   qm set 9003 --scsihw virtio-scsi-pci --virtio0 local:9003/vm-9003-disk-0.qcow2
@@ -161,6 +115,7 @@ These tasks need to be done over SSH tunnel or over the VPN
   qm set 9003 --serial0 socket --vga serial0
   qm set 9003 --vga std
   qm set 9003 --ostype l26
+  qm set 9003 --bios ovmf
   qm set 9003 --agent 1
   ```
   We need to modify the stock image to include  `resolvconf` to update `resolv.conf` from Cloud-init
@@ -174,23 +129,25 @@ These tasks need to be done over SSH tunnel or over the VPN
   mount /dev/nbd0p1 tmp
   cd tmp
   chroot .
-  mv /etc/resolv.conf /etc/resolv.conf.org
+  mkdir -p /run/resolvconf
   echo "nameserver 1.1.1.1" > /etc/resolv.conf
   apt update
   apt install resolvconf qemu-guest-agent
-  rm /etc/resolv.conf
-  mv /etc/resolv.conf.org /etc/resolv.conf
+  apt autoclean
+  apt clean
+  rm -rf /run/resolvconf
   exit
   cd ..
   umount tmp
-  rm -rf tmp debian-11.qcow2
   qemu-nbd --disconnect /dev/nbd0
   sleep 5
   rmmod nbd
+  rm -rf tmp debian-10.qcow2
   ```
   Now we can convert to template.
   ```
   qm template 9003
+  ```
 
 ### Manually creating Virtual Machines
 Most of our VMs are provisioned with Ansible but sometimes we need to create VMs manually for testing or without automation.
