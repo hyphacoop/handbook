@@ -60,6 +60,17 @@ make check
 # Run slower (to avoid failing links from servers throttling you)
 make check-cautious
 ```
+Once you have installed the above tools, these are the steps required to make edits to existing Handbook pages:
+
+1. Check that your local version of the main (master) is up to date
+2. Create a new branch: select New branch (if using GitHub Desktop) and give it a title of whatever you're planning to work on e.g. roles-page-update
+3. Make your edits or changes using a text editor
+4. Write a summary of the changes 
+5. Commit the change
+6. Make a pull request to the main
+7. Assign a co-worker to review the changes
+8. Co-worker reviews and then accepts the pull request, and the update is made  
+
 
 ## 🚀 Deployment
 
