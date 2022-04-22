@@ -105,7 +105,7 @@ These tasks need to be done over SSH tunnel or over the VPN
 
 - Debian 11
   ```
-  wget https://cloud.debian.org/images/cloud/bullseye/latest/debian-11-generic-amd64.qcow2 -O debian-11.qcow2
+  wget https://cloud.debian.org/images/cloud/bullseye/latest/debian-11-genericcloud-amd64.qcow2 -O debian-11.qcow2
   qm create 9003 --memory 1024 --net0 virtio,bridge=vmbr2 --name cloud-init-debian-11
   qm importdisk 9003 debian-11.qcow2 local --format qcow2
   qm set 9003 --scsihw virtio-scsi-pci --virtio0 local:9003/vm-9003-disk-0.qcow2
@@ -115,7 +115,6 @@ These tasks need to be done over SSH tunnel or over the VPN
   qm set 9003 --serial0 socket --vga serial0
   qm set 9003 --vga std
   qm set 9003 --ostype l26
-  qm set 9003 --bios ovmf
   qm set 9003 --agent 1
   ```
   We need to modify the stock image to include  `resolvconf` to update `resolv.conf` from Cloud-init
