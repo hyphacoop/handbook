@@ -12,6 +12,8 @@
 * [Bylaws](bylaws.md)
 * [Board of Directors](board-of-directors.md)
 * [Member-workers](member-workers.md)
+* [Compensation and Benefits](compensation-benefits.md)
+    * [Employee Salary Guide](salary.md)
 
 ### Our Virtual Office
 
@@ -24,6 +26,7 @@
 * [Finance](finance.md)
 * [Fiscal Sponsorship](fiscal-sponsorship.md)
 * [Holidays, Time off, and Leaves](holidays.md)
+* [Pet Policy](pet.md)
 * [Novel Coronavirus (2019) 🦠](coronavirus.md)
 
 --

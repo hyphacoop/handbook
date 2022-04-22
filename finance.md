@@ -11,19 +11,22 @@ There are two organizational roles associated with carrying out the day-to-day f
 
 ### Contents
 
-- [Financial Accounts](#financial-accounts)
-- [Invoicing Clients](#invoicing-clients)
-  - [Generating Timesheets](#generating-timesheets)
-  - [Generating Invoices](#generating-invoices)
-  - [Settling Payments](#settling-payments)
-- [Member Payroll](#member-payroll)
-  - [Calculating Member Wages](#calculating-member-wages)
-  - [Expense Reimbursement](#expense-reimbursement)
-  - [Public Holiday Pay](#public-holiday-pay)
-- [Reporting & Remitting Taxes](#reporting--remitting-taxes)
-  - [Corporate Income Tax (RC)](#corporate-income-tax-rc)
-  - [Payroll Deduction (RP)](#payroll-deduction-rp)
-  - [GST/HST (RT)](#gsthst-rt)
+- [Finance](#finance)
+    - [Contents](#contents)
+  - [Financial Accounts](#financial-accounts)
+  - [Invoicing Clients](#invoicing-clients)
+    - [Generating Timesheets](#generating-timesheets)
+    - [Generating Invoices](#generating-invoices)
+    - [Settling Payments](#settling-payments)
+  - [Member Payroll](#member-payroll)
+    - [Calculating Member Wages](#calculating-member-wages)
+    - [Expense Reimbursement](#expense-reimbursement)
+    - [Public Holiday Pay](#public-holiday-pay)
+  - [Reporting & Remitting Taxes](#reporting--remitting-taxes)
+    - [Corporate Income Tax (RC)](#corporate-income-tax-rc)
+    - [Payroll Deduction (RP)](#payroll-deduction-rp)
+    - [GST/HST (RT)](#gsthst-rt)
+    - [Holding crypto-currency](#holding-crypto-currency)
 
 ## Financial Accounts
 
@@ -198,3 +201,10 @@ Here are some likely scenarios that may apply to Hypha projects:
   - We are eligible to reclaim the 13% HST of $100 materials as ITC
 
 If none of these scenarios apply to your situation, and you are unsure whether to charge GST/HST on an invoice, or whether an expense is eligible as ITC, please reach out to the Finance WG.
+
+### Holding crypto-currency
+
+Hypha may sometimes need to hold cryptocurrencies. 
+
+- We have a [key holder role](/roles.md#key-holder) to manage our keys.
+- We have a [Cosmos multisig treasury wallet](https://docs.google.com/document/d/1vXXh1tJqzjs6NyxJhS6Wof5ITGDYSVThT3sX_yTegQ0/edit#) 🔒, a hot wallet, and various purpose-specific wallets listed in our [account information](https://github.com/hyphacoop/organizing-private/blob/main/documents/finances/account-information.md#cryptocurrencies) 🔒
