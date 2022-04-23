@@ -24,14 +24,17 @@ our values.
 - [Invoices](#invoices)
 - [Issue Labels](#issue-labels)
 - [Inactivating Membership](#inactivating-membership)
-- [Initatives](#initatives)
+- [Infrastructure - Virtual Machines](#infrastructure_-_virtual-machines)
+- [Infrastructure - Advanced Topics](guides-infrastructure-advanced.md)
+- [Infrastructure - Initial Setup](guides-infrastructure-initial-setup.md)
 - [Meetings](#meetings)
 - [Payroll](#payroll)
+- [Initatives](#initatives)
 - [Sensitive Data](#sensitive-data)
+- [SSH Keys](#ssh-keys)
 - [Signatures](#signatures)
 - [Shortlinks](#shortlinks)
 - [Timesheets](#timesheets)
-- [Virtual Machines](#virtual-machines)
 - [Voicemail](#voicemail)
 - [VPN](#vpn)
 - [References](#references)
@@ -56,7 +59,7 @@ Some applications may require you to use `https://mailninja.aseriesoftubez.com/S
 ### Creating a shared calendar
 
 We have a shared calendar account which also us to share calendars internally with a group. Using your own account for this purpose will not allow invite emails to be sent out.
-1. Login to the shared calendar [SOGo account](https://mailninja.aseriesoftubez.com/SOGo/) with the [Virtual Office Shared Calendar](https://pass.hypha.coop/app/passwords/view/1ed21359-9d95-427a-960d-537774931c9b) credentials on our Passbolt.
+1. Login to the shared calendar [SOGo account](https://mailninja.aseriesoftubez.com/SOGo/) with the [Virtual Office Shared Calendar](https://pass.hypha.coop/app/passwords/view/1ed21359-9d95-427a-960d-537774931c9b) credentials on our Bitwarden.
 
 1. Navigate to the Calendar interface and create a new calendar
 
@@ -509,6 +512,50 @@ and it will ensure the label is removed in any repos where it wasn't in-use.
 To **force a label sync**, assuming you're impatient for it to do clean-up of unsued labels,
 slightly change a _description_ or _color_ of a label in `hyphacoop/organizing`.
 
+## Infrastructure - Virtual Machines
+
+We use Proxmox to run our VMs. To access the management interface you need to SSH tunnel to `kvm1.hypha.coop` on port `34634` or connect over the VPN.
+
+### Proxmox
+
+Proxmox is the hypervisor that all the virtual machines run on. There are two ways of accessing the Proxmox servers management interface. An inventory of machines running on this server can be found in the <a href="https://github.com/hyphacoop/inventory-private/blob/master/inventory-kvm1.md" data-proofer-ignore>inventory-private</a> repo.
+- SSH tunnel
+  1. Tunnel the web interface over SSH with `ssh root@kvm1.hypha.coop -p 34634 -L 8006:127.0.0.1:8006`
+  1. Access the panel using <a href="https://127.0.0.1:8006" data-proofer-ignore>https://127.0.0.1:8006</a>
+  1. The username is root and enter the password in our shared password manager Bitwarden.
+
+- VPN (Recommended)
+  1. Connect to OpenVPN (If you do not already have access please ping someone in the infra for the OpenVPN config file.)
+  1. Access the panel using <a herf="https://kvm1.hypha.coop:8006" data-proofer-ignore>https://kvm1.hypha.coop:8006</a>
+  1. The username is root and enter the password in our shared password manager Bitwarden.
+
+### Jump server
+
+To be able to ssh into the different virtual machines running on the infrastructure, authentication must be done via the `jump server`. This means you must first login to the `jump server` with your ssh key, and once there, you can use the keys on the `jump server` to connect and authenticate to the other virtual machines.
+
+- Connecting to staging Ansible1 (Our provisioning and jump server for staging machines)
+  By default all members access to the production environment
+  1. You'll need to ensure that your key has been added. You can do that by making a PR [here](https://github.com/hyphacoop/configurations/tree/master/hyphacoop/ssh-public-keys).
+  1. `ssh sysadmin@ansible1.hypha.stg -p 8002 -i ~/.ssh/id_rsa` (assuming `~/.ssh/id_rsa` is your key you use to access Hypha's infra.)
+  1. From there you can SSH into the backend systems using their `.stg` hostnames or directly with their IP address. The passphase for `~/.ssh/id_rsa` is [here](https://pass.hypha.coop/app/passwords/view/3adad6cf-b56c-47fd-a0cd-a845075f7622)
+
+- Connecting to production Ansible1 (Our provisioning and jump server for production machines)
+  By default only members that have a need to access have permissions to log in to the production environment
+  1. You'll need to ensure that your key has been added. You can do that by making a PR [here](https://github.com/hyphacoop/configurations/tree/master/hyphacoop/ssh-public-keys).
+  1. `ssh sysadmin@ansible1.hypha.prod -p 9154 -i ~/.ssh/id_rsa` (assuming `~/.ssh/id_rsa` is your key you use to access Hypha's infra.)
+  1. From there you can SSH into the backend systems using their `.prod` hostnames or directly with their IP address. The passphase for `~/.ssh/id_rsa` is [here](https://pass.hypha.coop/app/passwords/view/3e6018fd-7ae3-4647-8ce3-c6ccb6c71800)
+
+Alternatively, by adding a host profile for each hostname to `~/.ssh/config`, ssh will jump through the host and connect you to the target server automatically. Example of a profile that uses the ansible's keys below.
+
+```
+Host [[hostname]]
+  RemoteCommand ssh %n
+  HostName ansible1.hypha.prod
+  User sysadmin
+  Port 9154
+  RequestTTY yes
+```
+
 ## Meetings
 
 ### Scheduling a meeting
@@ -679,21 +726,24 @@ If this is the first time you use Wagepoint, please first review the [Running yo
 
     ![payroll-new-employee-4](images/payroll-new-employee-4.png)
 
-
 ## Sensitive Data
 
 In general, most members prefer not to use third-party SaaS services, like Google Drive, for storing sensitive information.
 
-We store **short strings** (like SINs or codes) as password entries in Passbolt. These entries should be shared with both a privileged _group_ that needs access (e.g., Finance WG) and the _individual_.
+We store **short strings** (like SINs or codes) as password entries in Bitwarden. These entries should be shared with both a privileged _group_ that needs access (e.g., Finance WG) and the _individual_.
 
 If we must **store sensitive docs** (like PDFs) in a shared drive for convenience (e.g., Google Drive),
 we first encrypt them with a password.
-We keep this in Passbolt under the entry `Shared Drive: Encrypted Files`.
+We keep this in Bitwarden under the entry `Shared Drive: Encrypted Files`.
 All employees can access this password.
 Simpler encryption schemes are preferred, for example, default PDF encryption.
 We recommend any secured `file.pdf` be renamed to `file.encrypted.pdf` for easy discovery.
 
 As a last resort for sensitive docs, a member can choose to have the document **printed and stored** in a folder in the office.
+
+## SSH Keys
+
+To add your SSH public key to the ansible server, you need to create a pull request against the [configuration](https://github.com/hyphacoop/configurations/tree/main/hyphacoop/ssh-public-keys) GitHub repo. Once merged, someone from who already has access to the ansible server must re-run the ansible server script to update the changes.
 
 ## Signatures
 
@@ -803,55 +853,12 @@ When a project begins, generate a [Summary Report](https://clockify.me/reports/s
 
 1. Timesheet PDFs sent to clients or for internal payroll calculation should be archived in our [shared drive](https://link.hypha.coop/drive) under the `Timesheets` directory
 
-## Virtual Machines
-
-We use Proxmox to run our VMs. To access the management interface you need to SSH tunnel to `kvm1.hypha.coop` on port `34634` or connect over the VPN.
-
-### Proxmox
-
-Proxmox is the hypervisor that all the virtual machines run on. There are two ways of accessing the Proxmox servers management interface. An inventory of machines running on this server can be found in the [inventory-private](https://github.com/hyphacoop/inventory-private/blob/master/inventory-kvm1.md) repo.
-- SSH tunnel
-  1. Tunnel the web interface over SSH with `ssh root@kvm1.hypha.coop -p 34634 -L 8006:127.0.0.1:8006`
-  1. Access the panel using <a href="https://127.0.0.1:8006" data-proofer-ignore>https://127.0.0.1:8006</a>
-  1. The username is root and enter the password in our shared password manager [Passbolt](https://pass.hypha.coop/app/passwords/view/a34731d5-eb6a-4f0c-9475-7839280e529b)
-
-- VPN (Recommended)
-  1. Connect to OpenVPN (If you do not already have access please ping someone in the infra for the OpenVPN config file.)
-  1. Access the panel using <a herf="https://kvm1.hypha.coop:8006" data-proofer-ignore>https://kvm1.hypha.coop:8006</a>
-  1. The username is root and enter the password in our shared password manager [Passbolt](https://pass.hypha.coop/app/passwords/view/a34731d5-eb6a-4f0c-9475-7839280e529b)
-
-### Jump server
-
-To be able to ssh into the different virtual machines running on the infrastructure, authentication must be done via the `jump server`. This means you must first login to the `jump server` with your ssh key, and once there, you can use the keys on the `jump server` to connect and authenticate to the other virtual machines.
-
-- Connecting to staging Ansible1 (Our provisioning and jump server for staging machines)
-  By default all members access to the production environment
-  1. You'll need to ensure that your key has been added. You can do that by making a PR [here](https://github.com/hyphacoop/configurations/tree/master/hyphacoop/ssh-public-keys).
-  1. `ssh sysadmin@ansible1.hypha.stg -p 8002 -i ~/.ssh/id_rsa` (assuming `~/.ssh/id_rsa` is your key you use to access Hypha's infra.)
-  1. From there you can SSH into the backend systems using their `.stg` hostnames or directly with their IP address. The passphase for `~/.ssh/id_rsa` is [here](https://pass.hypha.coop/app/passwords/view/3adad6cf-b56c-47fd-a0cd-a845075f7622)
-
-- Connecting to production Ansible1 (Our provisioning and jump server for production machines)
-  By default only members that have a need to access have permissions to log in to the production environment
-  1. You'll need to ensure that your key has been added. You can do that by making a PR [here](https://github.com/hyphacoop/configurations/tree/master/hyphacoop/ssh-public-keys).
-  1. `ssh sysadmin@ansible1.hypha.prod -p 9154 -i ~/.ssh/id_rsa` (assuming `~/.ssh/id_rsa` is your key you use to access Hypha's infra.)
-  1. From there you can SSH into the backend systems using their `.prod` hostnames or directly with their IP address. The passphase for `~/.ssh/id_rsa` is [here](https://pass.hypha.coop/app/passwords/view/3e6018fd-7ae3-4647-8ce3-c6ccb6c71800)
-
-Alternatively by adding a host profile for each hostname to `~/.ssh/config`.  Doing this, when you ssh to the hostname specified, it will automatically jump you through the jump server, and into the target server. Example of a profile that uses the ansible's keys below.
-
-```
-Host [[hostname]]
-  RemoteCommand ssh %n
-  HostName ansible1.hypha.prod
-  User sysadmin
-  Port 9154
-  RequestTTY yes
-```
 
 ## Voicemail
 
 ### Accessing Voicemail 
 
-We use a VoIP phone line provider with forwarding and voicemail from [voip.ms](https://www.voip.ms). It helps us:
+We use a VoIP phone line provider with forwarding and voicemail from <a href="https://www.voip.ms" data-proofer-ignore>voip.ms</a>. It helps us:
 
 - Have a phone number without tying it to a physical location
 - Receive voicemail by email to [members@hypha.coop](mailto:members@hypha.coop)
@@ -864,7 +871,7 @@ To access voicemail inbox you can either call remotely or through a configured S
   1. Wait for the intro audio to finish followed by a 1 second pause
   1. When the audio resumes press `*`
   1. Listen and confirm you hear the prompt `Extension 3101, password`
-  1. Enter our password followed by #: <in our shared password manager [Passbolt](https://pass.hypha.coop/auth/login)>
+  1. Enter our password followed by #: <in our shared password manager Bitwarden>
 
 - SIP client: 
   Dial `*98`
@@ -877,6 +884,7 @@ To record or update the voicemail greeting [access the voicemail](#accessing-voi
 - 1 - Record your unavailable message
 
 ## VPN
+
 We use pfSense to manage OpenVPN users and gain access to internal resources and also provides internet access over a Canadian IP address.
 
 ### Using the VPN
@@ -884,7 +892,7 @@ We use pfSense to manage OpenVPN users and gain access to internal resources and
 To use the VPN you require to have
  - an installed [OpenVPN client](https://openvpn.net/community-downloads/) on your device
  - a configuration file that is generated by pfsense. You will receive this from the member that sets up your account.
- - a username and password. This will be shared with you in Passbolt.
+ - a username and password. This will be shared with you in Bitwarden.
 
 ### Adding OpenVPN users on pfSense
 
