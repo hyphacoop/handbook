@@ -12,8 +12,8 @@ For initiatives:
 - Proposal template   ✅  
 
 For meetings: (link organizing github repo)
-- ✅ All hands 
-- Initiative meeting ✅ 
+- [All hands](https://hackmd.io/d0lpI2sNTJOtvLlE4_86Cg?edit) 
+- [Initiative meeting](https://hackmd.io/1JMsZ8IdSb6bp4VFB1dUtw)  
 - Quarterly Planning meeting ✅ 
 - Strategic Retreat Playbook ✅  -- brief
 - AGM Playbook ✅  -- brief
