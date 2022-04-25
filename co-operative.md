@@ -2,7 +2,8 @@
 
 ## About Us
 
-Hypha is a worker co-operative based in Toronto which helps organizations and communities redesign their relationships with digital technology. Our team of technologists, designers, and community organizers provide digital strategy and coaching, research, web and mobile design and development, and infrastructure deployment services.
+Hypha is a worker co-operative based in Toronto that collaborates with communities to build better relationships with technology. Our team of technologists, designers, and community organizers advise on sustainable practices, build capacity within organizations, and develop custom technologies to empower friends and neighbours – in the Great Lakes region and our virtual neighbourhoods.
+
 
 ## The Co-operative
 
@@ -18,7 +19,7 @@ We are a non-profit _organization_.
 That means our organization does not operate with the primary purpose of generating profit. 
 As per 2017's [_Cutting Unnecessary Red Tape Act_](https://www.ontario.ca/laws/statute/s17020), 
 Hypha falls under neither the current [_Corporations Act_](https://www.ontario.ca/laws/statute/90c38), 
-nor the upcoming [_Not-for-Profit Corporations Act_](https://www.ontario.ca/laws/statute/10n15), 
+nor the [_Not-for-Profit Corporations Act_](https://www.ontario.ca/laws/statute/10n15), 
 which both govern not-for-profit _corporations_ in Ontario.
 Instead, we are a [not-for-profit _co-operative_][not-for-profit-coop].
 

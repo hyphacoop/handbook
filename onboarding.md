@@ -1,12 +1,12 @@
 # Onboarding
 
-Welcome to Hypha! This page is supposed to help those getting situated in our organization.
+Welcome to Hypha! This page is to help those getting situated in our organization.
 
 ## Bulletin Board 
 
 Check out the board for announcements and notices! Please feel free to [add your own][bb] and put a readable copy in the [folder][bb-folder].
 
-[![Bulletin Board](https://docs.google.com/drawings/d/e/2PACX-1vScf7VtN05yDlUFNVXcc8dcgY7J_zmAozp-Nvz51cnNQ5cHPJ_Xfdp6u5rChpLBKKDryD0junefuHsZ/pub?w=1433&amp;h=975)][bb-folder]
+[![Bulletin Board](https://docs.google.com/drawings/d/e/2PACX-1vScf7VtN05yDlUFNVXcc8dcgY7J_zmAozp-Nvz51cnNQ5cHPJ_Xfdp6u5rChpLBKKDryD0junefuHsZ/pub?w=1433&h=975)][bb-folder]
 
 
 ## Our Virtual Office
@@ -113,5 +113,5 @@ This is a checklist for onboarding new members, workers, and contractors to the 
 [github-org]: https://github.com/hyphacoop/
 [google-drive]: https://link.hypha.coop/drive
 [bb]: https://docs.google.com/drawings/d/1tpczePR5ky0EkdOGGdfU16irDz-gjdC61p2QGoAKhIE/edit
-[bb-folder]: https://drive.google.com/drive/folders/1XN1xw_3Lm6gWEuMla3MrbuK1VW0FmABt
+[bb-folder]: https://drive.google.com/drive/folders/1GenT6xQdSEwUlToKhYdQktGlHW6AgRYN?usp=sharing
 [operations]: /initiatives.md#operations

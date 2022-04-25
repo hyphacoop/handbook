@@ -1,12 +1,16 @@
 # Roles 🚧
 
 **Table of Contents**
-- [Cultivator](#cultivator-aka-meeting-chair)
-- [Finance Steward](#finance-steward)
-- [Initiative Lead](#initiative-lead)
-- [Notetaker](#notetaker)
-- [Payroll Coordinator](#payroll-coordinator)
-- [Social Media Steward](#social-media-steward)
+
+- [Roles 🚧](#roles-)
+    - [Cultivator (aka Meeting Chair)](#cultivator-aka-meeting-chair)
+    - [Finance Steward](#finance-steward)
+    - [Initiative Lead](#initiative-lead)
+    - [Notetaker](#notetaker)
+    - [Payroll Coordinator](#payroll-coordinator)
+    - [Social Media Steward](#social-media-steward)
+    - [Key Holder](#key-holder)
+    - [Operations Coordinator](#operations-coordinator)
 
 ### Cultivator (aka Meeting Chair)
 
@@ -20,7 +24,7 @@ The *Cultivator* is responsible for tending to the all hands meetings and import
    - keep time
 - review and merge notes (Weekly)
 - host and plan activity for social call (Monthly)
-- help member-owners stay organized (As needed):
+- help member-workers stay organized (As needed):
   - add meetings and important dates to calendar after meeting
   - set up required loomio theads and decisions
   - send reminders on time-sensitive action items
@@ -84,7 +88,6 @@ The previous Cultivator is responsible for making time to mentor and support the
 
 **Length and Succession**: 6 months, with renewal. Max 2 terms.
 
-
 ### Initiative Lead
 
 The *Initiative lead* is part-PM, part-coach and is responsible for ensuring initiatives are on track and that all members of the squad are able to work.
@@ -95,15 +98,16 @@ The *Initiative lead* is part-PM, part-coach and is responsible for ensuring ini
 
 **Tasks**:
 - report on inititative progress at all hands and strategic meetings 
-- chair inititative meetings (As needed):
+- chair inititative meetings (as needed):
    - prepare for meetings in advance 
    - facilitate discussion and times
-- review and merge notes (As needed)
-- help squad members stay organized (As needed):
+- review and merge notes (as needed)
+- help squad members stay organized (as needed):
   - add meetings and important dates to calendar after meeting
   - set up required tasks on GitHub or documents
   - send reminders on time-sensitive action items
-- work with Back Office for project setup, invoicing, payroll and contracts 
+- work with Back Office for project setup, invoicing, payroll and contracts
+- track and record project work hours using Clockify 
 
 **Authority:**
 - set strategy and direction within intiative
@@ -125,7 +129,7 @@ The *Notetaker*
 
 **Tasks** (Weekly):
 - taking notes
-- cleaning up notes, adding to gh and pinging for review
+- cleaning up notes, adding to GH and pinging for review
 
 **Length Succession**:
 Single meeting. Moves through alphabetical list of active member names.
@@ -160,7 +164,6 @@ Single meeting. Moves through alphabetical list of active member names.
 
 **Length and Succession**: 6 months, with renewal. Max 2 terms.
 
-
 ### Social Media Steward
 
 **Parent WG:** Business Development
@@ -186,3 +189,56 @@ Single meeting. Moves through alphabetical list of active member names.
 **Time Budget:** Up to 2 hours/week.
 
 **Length and Succession**: 3 months, with renewal. Max 2 terms.
+
+### Key Holder
+
+**Parent WG:** Finance
+
+**Aim**: Keep Hypha's cryptocurrency secure by safely managing our keys and making transactions on our behalf.
+
+What kinds of transactions might Hypha be doing on blockchains?
+- Receiving or sending tokens between wallets
+- Delegating our tokens to a validator
+- Voting on governance proposals
+
+**Responsibilities**:
+- Basic knowledge of the features and capabilities of their hardware device
+- Clearly understand the security risks associated with a leaked key
+- Awareness of various attack vectors (e.g., phishing etc.) that could lead to a leaked key
+- Keeping both your backup mnemonic and your hardware device safe
+- Ensure that there is a redundant backup of their mnemonic kept safely
+- Knowledge of how to create transactions for blockchains (scoped to Cosmos Hub for now, but can change)
+- Participate in signing on-chain transactions on behalf of Hypha for various blockchains (scoped to Cosmos Hub for now, but can change)
+
+**Standards**
+- No standards for storing pin. Don't keep anywhere near your hardware device
+- Standards for storing mnemonic
+    - Sealed envelope, lots of tape is fine, ideally in a safe deposit box
+    - Try to keep the hardware device in a separate locked drawer
+
+**Availability expectations**
+- Can make an on-chain transaction within 36 hours from when a decision is made by Hypha membership
+
+**Length and Succession**:  2 year terms
+
+
+### Operations Coordinator
+
+**Parent WG:** Operations
+
+**Aim:** Track and manage time spent on internal (Hypha-related) projects.
+
+**Tasks:**
+
+- ensure fair distribution of internal work among Hypha members
+
+
+**Authority:**
+
+**Limits:** (on Authority)
+
+**Time Budget:**
+
+**Length and Succession:**
+- 6 months, with renewal. Max 2 terms.
+

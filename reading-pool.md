@@ -13,7 +13,7 @@
 **7 International Co-operative Principles**:
 
 - 🌐 [ICA Cooperative identity, values & principles](https://www.ica.coop/en/whats-co-op/co-operative-identity-values-principles)
-- 📄 [ICA Guidance Notes to the Co-operative Principles](https://www.ica.coop/sites/default/files/publication-files/ica-guidance-notes-en-310629900.pdf)
+- 🌐 [ICA Guidance Notes to the Co-operative Principles](https://www.ica.coop/en/media/library/research-and-reviews/guidance-notes-cooperative-principles)
 - 🌐 [Willy Street Seven Cooperative Principles](https://web.archive.org/web/20200103123840/https://www.willystreet.coop/pages/seven-cooperative-principles)
 - 🌐 [Grassroots Economic Organizing: The Cooperative Principles, the Common Good, and Solidarity](http://www.geo.coop/story/cooperative-principles-common-good-and-solidarity)
 
@@ -33,7 +33,7 @@ Tech Worker Co-ops:
 
 Civics, Tech, Politics:
 
-- 🌐 [Paul Frazee "Information Civics"](https://infocivics.com/)
+- 🌐 Paul Frazee "Information Civics" ([Wayback Machine](https://web.archive.org/web/20201025044716/https://infocivics.com/), [Github](https://github.com/pfrazee/infocivics))
 - 📄 [Langdon Winner "Do Artifacts have Politics"](https://www.cc.gatech.edu/~beki/cs4001/Winner.pdf)
 - 🌐 [Diana Nucera "Two-way Streets: Forging the Paths Towards Participatory Civic Technology"](https://web.archive.org/web/20190707030109id_/https://civicquarterly.com/article/two-way-streets/)
 - 🌐 [Design Justice Principles](http://designjusticenetwork.org/network-principles/)
@@ -79,7 +79,6 @@ Why Decentralize?
 
 Requirements for co-ops in Canada (Federal and Provincial) (for more see [**2018 retreat playbook**](https://link.hypha.coop/retreat-playbook)):
 
-- 📄 [Registering a coop - Official Guide by Financial Services Commision of Ontario](https://www.fsco.gov.on.ca/en/coops/Documents/register_co-ops-guide.pdf)
 - 📄 [Ontario.coop fact sheets](https://ontario.coop/sites/default/files/Complete%20list%20of%20FACTSheets%20-%20Updated.pdf)
 - 🌐 [Industry Canada Starting a Federal co-op](https://www.ic.gc.ca/eic/site/106.nsf/eng/h_00073.html#federal)
 - 🌐 [Industry Canada Starting an ON co-op](https://www.ic.gc.ca/eic/site/106.nsf/eng/h_00073.html#ontario)
