@@ -3,7 +3,9 @@
 For this handbook: (link here)
 - ✅ Guide 
 - Initiative 🚨
-- ✅ Role 
+- ✅ Role
+- [Onboarding](templates/checklist-onboarding.md)
+- [Offboarding](templates/checklist-offboarding.md)
 
 For initiatives: 
 - Initial Proposal ✅ 
