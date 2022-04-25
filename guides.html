@@ -537,6 +537,8 @@ our values.</p>
 <li><a href="#initatives">Initatives</a></li>
 <li><a href="#meetings">Meetings</a></li>
 <li><a href="#payroll">Payroll</a></li>
+<li><a href="#reporting-hst">Reporting HST</a></li>
+<li><a href="#initiatives">Initiatives</a></li>
 <li><a href="#sensitive-data">Sensitive Data</a></li>
 <li><a href="#signatures">Signatures</a></li>
 <li><a href="#shortlinks">Shortlinks</a></li>
@@ -1186,6 +1188,79 @@ You should have a completed <a href="http://link.hypha.coop/payroll" target="_bl
 <p> <img src="images/payroll-new-employee-4.png" alt="payroll-new-employee-4"></p>
 </li>
 </ol>
+<h2 id="reporting-hst"><a name="reporting-hst" class="plugin-anchor" href="#reporting-hst"><i class="fa fa-link" aria-hidden="true"></i></a>Reporting HST</h2>
+<p>Hypha reports HST to the Government of Canada quarterly. Deadlines for submitting HST to the CRA is at the end of the following month after the end of each quarter is completed. This means end of April, July, October and January. The process has three parts. Preparing the HST (this is done by the bookkeeper), filing the HST with CRA and if required payment of the amount owed.</p>
+<h3 id="preparing-hst"><a name="preparing-hst" class="plugin-anchor" href="#preparing-hst"><i class="fa fa-link" aria-hidden="true"></i></a>Preparing HST</h3>
+<p>The bookkeeper will prepare the HST reporting shortly after each quarter is over. They will send an e-mail to the Finance WG that looks like this:</p>
+<pre><code>Please file and pay the HST as per following lines:
+
+Line 101 : 10,000.00
+Line 105: 2,000.00
+Line 108: 1,000.00
+
+109-NET TAX 1000-will be automatically calculated
+115- Amount Owing 1000- will be automatically calculated
+</code></pre><p>This will trigger Finance to take action.</p>
+<h3 id="filing-hst"><a name="filing-hst" class="plugin-anchor" href="#filing-hst"><i class="fa fa-link" aria-hidden="true"></i></a>Filing HST</h3>
+<p>To Filing the HST you will need to access the CRA&apos;s <code>GST/HST NETFILE</code> website. The website and all relative identifying information can be found in <a href="https://pass.hypha.coop/app/passwords/view/4f0d30b0-61b0-4911-a82d-495f3da58467" target="_blank">Passbolt</a>.</p>
+<ol>
+<li>Visit the <code>GST/HST NETFILE</code> website</li>
+<li>Press the <code>Ready to file</code> button</li>
+<li>Press the <code>Continue</code> button at the bottom of the page</li>
+<li>Enter the <code>Business Number</code> from Passbolt. Note the number does not include spaces. Note that on the site the number is broken into two fields seperated at <code>RT</code></li>
+<li>Enter the <code>Access Code</code> from Passbolt&apos;s password field</li>
+<li>Enter the first day and last day of the quarter you are reporting for</li>
+<li>Confirm no checkboxes need to be checked (as of September 2021, no checkboxes are required to be checked)</li>
+<li>Press <code>Next</code></li>
+<li>Enter line <code>101</code>, <code>105</code> and <code>108</code> from the bookkeeper&apos;s email. Make sure you do not have any leading or trailing spaces and only one decimal place</li>
+<li>Click <code>Next</code></li>
+<li>Review summary, and check line <code>109</code> and <code>114</code> or <code>115</code> for matching values from the bookkeeper&apos;s email</li>
+<li>Check <code>Yes</code> regarding payment (if applicable)</li>
+<li>Check the box under <code>Certification</code></li>
+<li>Click <code>Submit</code></li>
+<li>Click <code>Save as PDF</code> at the bottom of the page</li>
+<li>Rename file in correct format with today&apos;s date and last day of quarter <code>yyyy</code>-<code>mm</code>-<code>dd</code>-hst-ending-20<code>xx</code>-<code>xx</code>-<code>xx</code>-netfile.pdf`</li>
+<li>Upload file to Google Drive until <code>-Backoffice/Finance/HST</code></li>
+</ol>
+<h3 id="payment-of-hst"><a name="payment-of-hst" class="plugin-anchor" href="#payment-of-hst"><i class="fa fa-link" aria-hidden="true"></i></a>Payment of HST</h3>
+<p>If payment is required for HST, you will need to coordinate with another member that has signing authority at the bank. The payment must be confirmed by the 2nd person within 48 hours.</p>
+<ol>
+<li>Login to Desjardins</li>
+<li>Select the <code>Payments</code> button on the right, a pulldown menu will appear</li>
+<li>Select <code>Government remittances - Can-Act</code></li>
+<li>Select <code>Confirm</code> on the popup</li>
+<li>Select <code>Federal - GST/HST</code></li>
+<li>Select <code>Pay</code> at the top bar</li>
+<li>Enter last day of the quarter as <code>Period Ending</code></li>
+<li>Enter amount from Line 115 as <code>Amount owing</code></li>
+<li>Confirm right amount displays in <code>Total payment</code> field</li>
+<li>Select <code>Next</code></li>
+<li>Confirm values are correct</li>
+<li>Select <code>Submit</code></li>
+<li>Confirm message <code>The transaction is now in Pending Approval status and requires 1 approver(s).</code> Displays at the top</li>
+<li>Click <code>Done</code></li>
+</ol>
+<h2 id="initiatives"><a name="initiatives" class="plugin-anchor" href="#initiatives"><i class="fa fa-link" aria-hidden="true"></i></a>Initiatives</h2>
+<h3 id="setting-up-an-initiative"><a name="setting-up-an-initiative" class="plugin-anchor" href="#setting-up-an-initiative"><i class="fa fa-link" aria-hidden="true"></i></a>Setting up an Initiative</h3>
+<p>An initiative proposal should be <strong>brief</strong> and provide and overview and argument and use the <a href="https://github.com/hyphacoop/organizing/blob/master/_posts/initiatives/-initiative-xxx.md" target="_blank">template</a>. You can add more sections as appropriate, including sample code, project roadmap, etc. Examples can be found in our <a href="https://github.com/hyphacoop/organizing-private/tree/master/initiatives-internal" target="_blank">initives archive</a> 🔒.</p>
+<p>Once a proposal has been drafted and approved, the squad will set up a new initiative with support from the <a href="initiatives.html#operations">Operations squad</a></p>
+<h3 id="leads-opportunities--client-proposals"><a name="leads-opportunities--client-proposals" class="plugin-anchor" href="#leads-opportunities--client-proposals"><i class="fa fa-link" aria-hidden="true"></i></a>Leads, Opportunities &amp; Client Proposals</h3>
+<p>While the <a href="initiatives.html#opportunities">Opportunities squad</a> is mainly in charge of sales lead generation,
+all members may pursue leads as they come up.
+Members are strongly encouraged to record leads into the co-operative&apos;s <a href="https://link.hypha.coop/leads" target="_blank">leads tracking system</a> whether or not we want to pursue this lead.</p>
+<p>If a member decides to pursue a <strong>lead</strong>,
+they can reach out to gauge potential interest in working together.
+If the lead expresses intention to proceed with a concrete project in mind,
+this becomes an <strong>opportunity</strong>.
+The member now heads up this sales effort and drafts an <strong>Initiative Proposal</strong> with support from the <a href="initiatives.html#opportunities">Opportunities squad</a>, then present it (e.g., at a meeting, or via virtual channels) to see whether the co-operative wants to move forward.
+In this meeting, we should discuss any concerns by other members,
+and gauge team capacity given project timelines.</p>
+<p>An initiative proposal should be <strong>brief</strong> and provide and overview and argument and use the template for <a href="#setting-up-an-initiative">setting up an initiative</a>.</p>
+<h4 id="drafting-and-submission"><a name="drafting-and-submission" class="plugin-anchor" href="#drafting-and-submission"><i class="fa fa-link" aria-hidden="true"></i></a>Drafting and Submission</h4>
+<p>Proposals to be submitted to a potential client or grant committee should be drafted by members who will participate in the project with support from the <a href="initiatives.html#opportunities">Opportunities squad</a>. The squad has expertise in drafting client and grant project proposals, and managing the proposal process, so it is helpful to involve members of that group from the drafting stage. All  involved in the proposal drafting make up the <strong>initiative squad</strong> that will sign off on the final draft to be submitted.</p>
+<p>If a proposal is accepted, this squad will lead the initial consultation meetings with the client (e.g. discuss terms of payment and project logistics), draft and sign a <strong>Client Agreement</strong> (see <a href="https://link.hypha.coop/client-agreement" target="_blank">template</a>). If a proposal fails, we encourage reaching out to the client or grant committee for feedback and holding an internal retrospective.</p>
+<p>Regardless whether the proposal is successful,
+the squad should add a copy to the folder in our <a href="http://link.hypha.coop/drive" target="_blank">shared drive</a> for future reference.</p>
 <h2 id="sensitive-data"><a name="sensitive-data" class="plugin-anchor" href="#sensitive-data"><i class="fa fa-link" aria-hidden="true"></i></a>Sensitive Data</h2>
 <p>In general, most members prefer not to use third-party SaaS services, like Google Drive, for storing sensitive information.</p>
 <p>We store <strong>short strings</strong> (like SINs or codes) as password entries in Passbolt. These entries should be shared with both a privileged <em>group</em> that needs access (e.g., Finance WG) and the <em>individual</em>.</p>
@@ -1455,7 +1530,7 @@ Dial <code>*98</code></p>
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Guides","level":"4.1","depth":1,"next":{"title":"How We Use Data","level":"4.2","depth":1,"path":"data.md","ref":"data.md","articles":[]},"previous":{"title":"Novel Coronavirus (2019) 🦠","level":"3.11","depth":1,"path":"coronavirus.md","ref":"coronavirus.md","articles":[]},"dir":"ltr"},"config":{"plugins":["anchors"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"anchors":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"theme":"default","author":"Hypha Worker Co-operative","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56},"embedFonts":false},"structure":{"langs":"LANGS.md","readme":"handbook.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"H&#8322;O","gitbook":"*","description":"Hypha handbook describes the vision, processes, and culture of Hypha Worker Co-operative. 🌿🍄"},"file":{"path":"guides.md","mtime":"2022-04-22T00:10:16.420Z","type":"markdown"},"gitbook":{"version":"3.7.1","time":"2022-04-22T00:10:26.959Z"},"basePath":".","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Guides","level":"4.1","depth":1,"next":{"title":"How We Use Data","level":"4.2","depth":1,"path":"data.md","ref":"data.md","articles":[]},"previous":{"title":"Novel Coronavirus (2019) 🦠","level":"3.11","depth":1,"path":"coronavirus.md","ref":"coronavirus.md","articles":[]},"dir":"ltr"},"config":{"plugins":["anchors"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"anchors":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"theme":"default","author":"Hypha Worker Co-operative","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56},"embedFonts":false},"structure":{"langs":"LANGS.md","readme":"handbook.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"H&#8322;O","gitbook":"*","description":"Hypha handbook describes the vision, processes, and culture of Hypha Worker Co-operative. 🌿🍄"},"file":{"path":"guides.md","mtime":"2022-04-25T04:30:33.338Z","type":"markdown"},"gitbook":{"version":"3.7.1","time":"2022-04-25T04:30:43.520Z"},"basePath":".","book":{"language":""}});
         });
     </script>
 </div>
