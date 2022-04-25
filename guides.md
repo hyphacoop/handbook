@@ -661,7 +661,7 @@ To Filing the HST you will need to access the CRA's `GST/HST NETFILE` website. T
 
 ### Payment of HST
 
-If payment is required for HST, you will need to coordinate with another member that has signing authority at the bank. The payment must be confirmed by the 2nd person within 24 hours.
+If payment is required for HST, you will need to coordinate with another member that has signing authority at the bank. The payment must be confirmed by the 2nd person within 48 hours.
 
 1. Login to Desjardins
 2. Select the `Payments` button on the right, a pulldown menu will appear
