@@ -22,7 +22,7 @@ Hypha has adopted the following policy to protect ourselves as member-workers an
     - As always, we encourage all member-workers to **take the time they need** to ensure that their mental and physical health come first
     - **Please communicate and be proactive** to other member-workers around shifting work and deadlines
 
- As an act of solidarity, Hypha [created a resource] (https://covid19.hypha.coop/) for collaborating and working in a virtual office. This document is not updated, but serves as a point-in-time guide to tools and practices current in 2020.     
+ As an act of solidarity, Hypha [created a resource](https://covid19.hypha.coop/) for collaborating and working in a virtual office. This document is not updated, but serves as a point-in-time guide to tools and practices current in 2020.     
 
 ## Communication and Education
 
@@ -49,7 +49,7 @@ As an employer we recognize/commit to the following:
 
 ### Assessing Symptoms, Seeking Testing, Treatment, and Quarantine
 
-- If you **suspect you have symptoms** of COVID-19 or have been in close contact with someone who has it, use the [Ontario self-assessment tool](https://covid-19.ontario.ca/self-assessment/) to determine how to seek further care: https://covid-19.ontario.ca/self-assessment/
+- If you **suspect you have symptoms** of COVID-19 or have been in close contact with someone who has it, use the [Ontario self-assessment tool](https://covid-19.ontario.ca/self-assessment/) to determine how to seek further care.
 - If you need to **seek testing** to determine whether you have COVID-19, please do so
     - We encourage you to seek testing if you suspect you have COVID-19
     - While awaiting results (if a PCR test is required), Hypha will respect self-isolation protocols and encourage you to follow them
