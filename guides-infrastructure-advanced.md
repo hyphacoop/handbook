@@ -141,7 +141,7 @@ These tasks need to be done over SSH tunnel or over the VPN
   qemu-nbd --disconnect /dev/nbd0
   sleep 5
   rmmod nbd
-  rm -rf tmp debian-10.qcow2
+  rm -rf tmp debian-11.qcow2
   ```
   Now we can convert to template.
   ```
