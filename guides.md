@@ -20,17 +20,22 @@ our values.
 - [Calendar](#calendar)
 - [Email](#email)
 - [Expense Reimbursement](#expense-reimbursement)
+- [Hiring](#hiring)
 - [Invoices](#invoices)
 - [Issue Labels](#issue-labels)
+- [Inactivating Membership](#inactivating-membership)
+- [Initatives](#initatives)
 - [Meetings](#meetings)
-- [Onboarding Checklist](#onboarding-checklist)
 - [Payroll](#payroll)
-- [Projects](#projects)
+- [Reporting HST](#reporting-hst)
+- [Initiatives](#initiatives)
 - [Sensitive Data](#sensitive-data)
 - [Signatures](#signatures)
 - [Shortlinks](#shortlinks)
 - [Timesheets](#timesheets)
+- [Virtual Machines](#virtual-machines)
 - [Voicemail](#voicemail)
+- [VPN](#vpn)
 - [References](#references)
 
 ## Calendar
@@ -39,15 +44,21 @@ our values.
 
 You can use CalDAV to two-way sync your SOGo calendar with calendar applications on mobile and desktop devices:
 
-For Gmail app on **Android**, install [CalDAV Sync Adapter](https://f-droid.org/en/packages/org.gege.caldavsyncadapter/) from F-Droid, then navigate to `Settings > Accounts` and configure the Sync Adapter with server `https://mailninja.aseriesoftubez.com/SOGo/dav/` and your SOGo credentials.
+For using `Calendar` app on **Android**, install [CalDAV Sync Adapter](https://f-droid.org/en/packages/org.gege.caldavsyncadapter/) from F-Droid, then navigate to `Settings > Accounts` and configure the Sync Adapter with server `https://mailninja.aseriesoftubez.com/SOGo/dav/` and your SOGo credentials. Please make sure the `Account name` is your Hypha email address or you cannot send out invite emails. By default the app has syncing disabled, make sure you enable it.
 
-For **iOS**, navigate to `Settings > Mail, Contacts, Calendars > Add Account > Other`, under `Calendars` select `Add CalDAV Account` and configure with server `https://mailninja.aseriesoftubez.com/SOGo/dav/` and your SOGo credentials.
+For ***Thunderbird***, open the calendar tab, click on `+`,  a `Create New Calendar` dialog will pop up. Select `On the Network` button then click next. Select `CalDAV` button, the username is your Hypha email and the location of your personal calendar will be `https://mailninja.aseriesoftubez.com/SOGo/dav/<USER>@hypha.coop/Calendar/personal/` replacing `<USER>` with your username. Keep `Offline Support` selected and click next. The `Name` field should be your Hypha email and the `Email` selector select your Hypha email and click next and your calendar is now added to Thunderbird.
 
-For other applications and platforms that support CalDAV, configure with server `https://mailninja.aseriesoftubez.com/SOGo/dav/` and your SOGo credentials.
+If there are other calendars you want to add from SOGo you can login to SOGo then navigate to the 3 dots beside the calendar you want to add and select `Links to this Calendar` and use the CalDAV link for the location.
+
+For **iOS** and ***macOS***, follow instructions in [Using your existing email client](#using-your-existing-email-client) which also sets up your calendar.
+
+For **other applications and platforms** that support CalDAV, the default calendar is `https://mailninja.aseriesoftubez.com/SOGo/dav/<USER>@hypha.coop/Calendar/personal/`
+Some applications may require you to use `https://mailninja.aseriesoftubez.com/SOGo/dav/` or the full path to your calendar, which can be found and copied from within SOGo.
 
 ### Creating a shared calendar
 
-1. Login to your [SOGo account](https://mailninja.aseriesoftubez.com/SOGo/)
+We have a shared calendar account which also us to share calendars internally with a group. Using your own account for this purpose will not allow invite emails to be sent out.
+1. Login to the shared calendar [SOGo account](https://mailninja.aseriesoftubez.com/SOGo/) with the [Virtual Office Shared Calendar](https://pass.hypha.coop/app/passwords/view/1ed21359-9d95-427a-960d-537774931c9b) credentials on our Passbolt.
 
 1. Navigate to the Calendar interface and create a new calendar
 
@@ -97,7 +108,7 @@ _Note: Consider creating a [new GitHub issue in `hyphacoop/organizing`](https://
       <img alt="Screenshot of Mailcow mailbox creation popup" src="images/email-mailbox-3.png" />
     </details>
 
-We'll now log in to confirm access, and set up an initial forwarder to make first-time usage simpler.
+We'll now log in to confirm access, and set up an initial forwarder if requested to make first-time usage simpler.
 
 5. Open an incognito browser and access webmail login: https://mailninja.aseriesoftubez.com/SOGo/
 6. Log into the account you just created.
@@ -142,6 +153,39 @@ Accessing your inbox can be done via the hosted webmail interface or by using th
 What you'll need:
 - Your new email address
 - Your password (sent to you by admin on initial setup)
+
+#### Using the webmail interface
+
+1. Visit our email server: https://link.hypha.coop/email
+2. Click on `Webmail` button
+3. Enter your username and password:
+    - Username is your `@hypha.coop` email
+4. Once logged in you can read your emails and configure your user settings.
+5. By default your emails are forwarded to your personal email to disable that follow step 1 in `Using your existing email client`.
+
+#### Using your existing email client
+
+<sup>These docs are condensed from [Mailcow's in-depth email client configuration docs](https://mailcow.github.io/mailcow-dockerized-docs/client/#host=MailNinja.aseriesoftubez.com&email=maria%40hypha.coop&name=Maria+Sanchez&ui=mailninja.aseriesoftubez.com&port=443&outlookEAS=1&connector=60.0.2). (Substitute your info for that of "Maria Sanchez").</sup>
+
+1. If requested, the emails to your `@hypha.coop` are forwarded to your personal email address by default. If you want to turn off forwarding of your `@hypha.coop` email, log in to webmail (instructions above)
+    - Navigate through these menus:  
+        `⚙` (top-left) > `Mail` menu item > `Forward` tab
+2. Uncheck the "Forward incoming messages", and save.
+3. Open your email client.
+4. Go to the "add email account" setting in your client.
+5. Enter your name that you prefer that will show up in your outgoing emails and email address when prompted.
+6. When prompted for username and password use your new email address e.g., `handle@hypha.coop` for username and your password for your new email.
+7. Most email clients will auto-detect server settings based on your email address. If your email client does not auto-detect these settings, enter:
+    - IMAP: `mailninja.aseriesoftubez.com` Port: 993 (TLS/SSL)
+    - SMTP: `mailninja.aseriesoftubez.com` Port: 465 (TLS/SSL)
+8. Once added, you should now be able to send from your new email. In your email client, compose an email to hyphacoop@mailinator.com with a short subject and send.
+9. Visit [the corresponding cloud inbox](https://www.mailinator.com/v3/index.jsp?zone=public&query=hyphacoop) and confirm your message has arrived, It might take a few minutes.
+10. Don’t forget to email Infra WG as mentioned in onboarding email.
+
+For **iOS** and ***macOS*** following these steps will setup your email client and calendar automatically:
+1. Login to your [Mailcow Account](https://mailninja.aseriesoftubez.com/) in the Mailbox tab under `Apple connection profile` click on `Email, calendars and contacts IMAP, SMTP, Cal/CardDAV` to download the Apple connection profile.
+1. You can open the file right on your device then open the `System Preferences` app and the `Profiles` icon should have a `1` beside it. 
+1. Open the `Profiles` settings to install the profile.
 
 #### Using Gmail
 
@@ -190,34 +234,6 @@ We'll now send your first email to Mailinator, a cloud inbox that's helpful for 
 11. Once it's safely arrived, you're all set! Start sending email!
 12. Don't forget to **email Infra WG** as mentioned in onboarding email. 📤🎉
 
-#### Using the webmail interface
-
-1. Visit our email server: https://link.hypha.coop/email
-2. Click on `Webmail` button.
-3. Enter your username and password:
-    - Username is your `@hypha.coop` email
-4. Once logged in you can read your emails and configure your user settings.
-5. By default your emails are forwarded to your personal email to disable that follow step 1 in `Using your existing email client`.
-
-#### Using your existing email client
-
-<sup>These docs are condensed from [Mailcow's in-depth email client configuration docs](https://mailcow.github.io/mailcow-dockerized-docs/client/#host=MailNinja.aseriesoftubez.com&email=maria%40hypha.coop&name=Maria+Sanchez&ui=mailninja.aseriesoftubez.com&port=443&outlookEAS=1&connector=60.0.2). (Substitute your info for that of "Maria Sanchez").</sup>
-
-1. By default emails to your `@hypha.coop` are forwarded to your personal email address if prefered that you want to turn off forwarding of your `@hypha.coop` email, log in to webmail (instructions above)
-    - Navigate through these menus:  
-        `⚙` (top-left) > `Mail` menu item > `Forward` tab
-2. Uncheck the "Forward incoming messages", and save.
-3. Open your email client.
-4. Go to the "add email account" setting in your client.
-5. Enter your name that you prefer that will show up in your outgoing emails and email address when prompted.
-6. When prompted for username and password use your new email address e.g., `handle@hypha.coop` for username and your password for your new email.
-7. Most email clients will auto-detect server settings based on your email address. If your email client does not auto-detect these settings, enter:
-    - IMAP: `mailninja.aseriesoftubez.com` Port: 993 (TLS/SSL)
-    - SMTP: `mailninja.aseriesoftubez.com` Port: 465 (TLS/SSL)
-8. Once added, you should now be able to send from your new email. In your email client, compose an email to hyphacoop@mailinator.com with a short subject and send.
-9. Visit [the corresponding cloud inbox](https://www.mailinator.com/v3/index.jsp?zone=public&query=hyphacoop) and confirm your message has arrived, It might take a few minutes.
-10. Don’t forget to email Infra WG as mentioned in onboarding email.
-
 ## Expense Reimbursement
 
 Employees should submit eligible expenses in the same quarter they are incurred.
@@ -254,6 +270,73 @@ For the Finance WG to approve an expense:
 1. Verify that the amount shows up correctly on the `Expense Reimbursement` column on [Employee Payroll](http://link.hypha.coop/payroll) of the applicable pay period, so it gets entered into Wagepoint on the next payroll run.
 
 1. After reimbursements are paid out through Wagepoint, our bookkeeper will file the the amounts into expense accounts in [Quickbooks Online](https://quickbooks.intuit.com/ca/) based on the [Posting Journals](https://drive.google.com/drive/u/0/folders/1wWo9KqNwWdUK5d-jkApV3id_Y_dpftT9) and [Employee Expenses](https://link.hypha.coop/expenses) sheet.
+
+## Hiring 
+
+
+### Onboarding a member 
+
+When a new member or employee is about to start their position at Hypha,  Operations will work set them up in the virtual office following the [Onboarding](./onboarding.md) materials and [checklist](./templates/checklist-onboarding.md).
+
+
+## Inactivating Membership
+
+When members seek to go inactive they should do the following:
+
+1. Send an email to [operations@hypha.coop](mailto:operations@hypha.coop) with notification of the change and the date you wish to become inactive and return (if known).
+
+Operations then will work with Infrastructure to update appropriate permissions and access inline with our Working Open guidelines and [offboarding checklist](./templates/checklist-offboarding.md).
+
+
+
+## Initatives
+
+### Setting up an Initiative
+
+An initiative proposal should be **brief** and provide and overview and argument and use the [template](https://github.com/hyphacoop/organizing/blob/master/_posts/initiatives/-initiative-xxx.md). You can add more sections as appropriate, including sample code, project roadmap, etc. Examples can be found in our [initiatives archive](https://github.com/hyphacoop/organizing-private/tree/master/initiatives-internal) 🔒 and public [initiatives archive](https://github.com/hyphacoop/organizing/tree/main/_posts/initiatives) 🔓.
+
+Once a proposal has been drafted and approved, the squad will set up a new initiative with support from the [Operations squad](initiatives.md#operations)
+
+### Leads, Opportunities & Client Proposals
+
+While the [Opportunities squad](initiatives.md#opportunities) is mainly in charge of sales lead generation,
+all members may pursue leads as they come up.
+Members are strongly encouraged to record leads into the co-operative's [leads tracking system](https://link.hypha.coop/leads) whether or not we want to pursue this lead.
+
+If a member decides to pursue a **lead**,
+they can reach out to gauge potential interest in working together.
+If the lead expresses intention to proceed with a concrete project in mind,
+this becomes an **opportunity**.
+The member now heads up this sales effort and drafts an **Initiative Proposal** with support from the [Opportunities squad](initiatives.md#opportunities), then present it (e.g., at a meeting, or via virtual channels) to see whether the co-operative wants to move forward.
+In this meeting, we should discuss any concerns by other members,
+and gauge team capacity given project timelines.
+
+An initiative proposal should be **brief** and provide and overview and argument and use the template for [setting up an initiative](#setting-up-an-initiative).
+
+#### Drafting and Submission
+
+Proposals to be submitted to a potential client or grant committee should be drafted by members who will participate in the project with support from the [Opportunities squad](initiatives.md#opportunities). The squad has expertise in drafting client and grant project proposals, and managing the proposal process, so it is helpful to involve members of that group from the drafting stage. All  involved in the proposal drafting make up the **initiative squad** that will sign off on the final draft to be submitted.
+
+If a proposal is accepted, this squad will lead the initial consultation meetings with the client (e.g. discuss terms of payment and project logistics), draft and sign a **Client Agreement** (see [template](https://link.hypha.coop/client-agreement)). If a proposal fails, we encourage reaching out to the client or grant committee for feedback and holding an internal retrospective.
+
+Regardless whether the proposal is successful,
+the squad should add a copy to the _correct_ place: [initiatives private archive](https://github.com/hyphacoop/organizing-private/tree/master/initiatives-internal) 🔒 or [public archive](https://github.com/hyphacoop/organizing/tree/main/_posts/initiatives) 🔓 for future reference.
+
+#### Launching an Initiative 
+
+Once an initative has been approved, the lead should complete the following tasks:
+
+- Add a copy of the initiative proposal to the _correct_ initiatives archive: [private](https://github.com/hyphacoop/organizing-private/tree/master/initiatives-internal) 🔒 or [public](https://github.com/hyphacoop/organizing/tree/main/_posts/initiatives) 🔓
+- Ensure the initiative tracking sheet is correct, has the lead and involved people listed and an estimate of hours (should be all there from quarterly meeting)
+- Create a clockify project for time-tracking convos around it
+
+#### Wrapping up an Initiative
+
+Once an initiative has concluded, is it the responsibility of the lead to ensure the following tasks are completed:
+- Close out tasks on task boards; remove meetings from the shared calendar; remove from list of active initiatives in the handbook and tracking sheet
+- Prepare a brief update for the next quarterly planning session to discuss whether the goal was accomplished and the work was done
+- Delieve that share-back at the appropropriate all hands / planning session
+
 
 ## Invoices
 
@@ -318,7 +401,7 @@ Prior to creating an invoice, confirm with the client whether they would like to
 
 ### Settling an invoice payment
 
-Once the client has paid the invoice, we must check the amount received at our receiving account at [Desjardins](https://www.desjardins.com/ca/) (domestic) or [TransferWise](https://transferwise.com) (foreign currency), and record the transaction in [Quickbooks Online](https://quickbooks.intuit.com/ca/).
+Once the client has paid the invoice, we must check the amount received at our receiving account at [Desjardins](https://www.desjardins.com/ca/) (domestic) or <a href="https://wise.com" data-proofer-ignore>TransferWise</a> (foreign currency), and record the transaction in [Quickbooks Online](https://quickbooks.intuit.com/ca/).
 
 #### Domestic
 
@@ -484,69 +567,31 @@ members. Skip the steps below at your discretion for low-stakes topics._
   - as needed, send reminders of action items
   - migrate action items into task tracker
   
-### Joining a Jitsi Call
+### Joining a BigBlueButton Call
 
-💻 **Desktop.** Follow [`link.hypha.coop/calls`](https://link.hypha.coop/calls) to our default conference platform.
+💻 **Desktop and 📱Mobile.** Follow [`link.hypha.coop/calls`](https://link.hypha.coop/calls) to our default conference platform.
 
-📱 **Mobile**
-  1. Install the app. [Android][jitsi-android] | [iOS][jitsi-ios]
-  2. 🔗 **Visit** call URL to open app, or 📋 **copy-paste** redirected call URL (e.g. `https://jitsi.hypha.coop/hyphacoop`) into app home screen.
-  
-   [jitsi-android]: http://jitsi.org/android
-   [jitsi-ios]: http://jitsi.org/ios
-
+🎤 **Mic Selection** - Some browsers (such as FireFox) you will ask you for your microphone selection at the same time the browser asks you for permission to use the microphone. Other browsers (such as Chrome) will not.  In those cases you will have to proceed to the `Echo Test` and answer `No` to `Do you hear audio?`. This will bring up a dialog to change your mic input.
 📞 **Phone**
-  1. Use the private dial-in number from our [technical Jitsi documentation](https://github.com/hyphacoop/organizing-private/blob/master/documents/infrastructure/jitsi.md).
-  2. _After_ prompt, enter conference code `307 314 3734 #`
+  1. Ask a member already in the conference room for the pin number which is shown in the `Public Chat` area.
+  2. Use the private dial-in number from our [technical BigBlueButton documentation](https://github.com/hyphacoop/organizing-private/blob/master/documents/infrastructure/bigbluebutton.md#connection-details).
+  3. _After_ prompt, enter the pin number for the meeting
+  4. Use the below number keys to change your settings
+   - Press 0 to toggle mute and unmute
+   - Increase your mic volume
+      - 3 Talk Volume Up
+      - 2 Talk Volume Zero (default)
+      - 1 Talk Volume Down
 
-## Onboarding Checklist
+   - Increase everyone else’s volume
+      - 6 Listen Volume Up
+      - 5 Listen Volume Zero (default)
+      - 4 Listen Volume Down
 
-This is a checklist for onboarding a new Member to the Co-operative 🚀
-
-### Setting up communications
-
-1. Get Signal number and add to group.
-
-1. Get Matrix account and invite to spaces:
-  - Private chat `#hyphacoop-private:tomesh.net`
-  - Public chat `#hyphacoop-open:tomesh.net`
-  - Community `+hyphacoop:tomesh.net`
-
-1. Set up [`hypha.coop` email](https://link.hypha.coop/email):
-  - [Create new mailbox with Mailcow](#creating-new-inboxes-administrators)
-  - Set up initial forwarder
-  - Add to `members@`
-
-### Setting up virtual office
-
-1. Invite to [Passbolt](https://pass.hypha.coop):
-  - After acceptance, add to `Member-Worker` group
-  - Ensure Member understands it is their responsibility to back-up their own private key
-  - Ensure Member understands when creating a password, they need to grant access to appropriate groups (e.g., when a password is meant to be shared between Members, otherwise others do not know that password exists in Passbolt)
-
-1. Invite to [GitHub Organization](https://github.com/hyphacoop):
-  - Add to `Worker-Owner` [GitHub Team](https://link.hypha.coop/teams)
-
-1. Get Google-friendly email address:
-  - Share access to [Drive](https://link.hypha.coop/drive)
-  - Invite to calendars:
-    - https://link.hypha.coop/calendar
-    - https://link.hypha.coop/availability
-
-1. Invite to [Loomio](https://loomio.hypha.coop/).
-
-1. Share [weekly schedule](https://link.hypha.coop/schedules) (recommend without password).
-
-### Setting up employee record and payroll
-
-1. Collect information for [employee record](https://link.hypha.coop/employees).
-
-1. Add Member SIN to Passbolt and share access with `People Operations` group.
-    Change the Member access to the entry as read-only, as this information is for recording keeping and the Member should not be able to modify it.
-
-1. Collect encrypted (see [Sensitive Data](#sensitive-data) guide) [`TD1` and `TD1-ON` forms](https://www.canada.ca/en/revenue-agency/services/forms-publications/td1-personal-tax-credits-returns.html) to [Drive](https://link.hypha.coop/drive). 
-
-1. Add Member [as Employee in Wagepoint](#adding-a-new-employee) for payroll.
+   - Energy level is a threshold that dictates the level at which a person is determined to be speaking versus the background noise received.
+      - 9 Energy Up
+      - 8 Energy Zero (default)
+      - 7 Energy Down
 
 ## Payroll
 
@@ -635,78 +680,101 @@ If this is the first time you use Wagepoint, please first review the [Running yo
 1. Return to the "Employee" tab listing, and use the "mail" icon to send an invite to the Employee to Wagepoint.
 
     ![payroll-new-employee-4](images/payroll-new-employee-4.png)
+    
+## Reporting HST
 
-## Projects
+Hypha reports HST to the Government of Canada quarterly. Deadlines for submitting HST to the CRA is at the end of the following month after the end of each quarter is completed. This means end of April, July, October and January. The process has three parts. Preparing the HST (this is done by the bookkeeper), filing the HST with CRA and if required payment of the amount owed.
 
-### Sales Prospect & Internal Proposals
+### Preparing HST
 
-While the Business Planning WG is mainly in charge of sales lead generation,
+The bookkeeper will prepare the HST reporting shortly after each quarter is over. They will send an e-mail to the Finance WG that looks like this:
+
+```
+Please file and pay the HST as per following lines:
+
+Line 101 : 10,000.00
+Line 105: 2,000.00
+Line 108: 1,000.00
+
+109-NET TAX 1000-will be automatically calculated
+115- Amount Owing 1000- will be automatically calculated
+```
+
+This will trigger Finance to take action.
+
+### Filing HST
+
+To Filing the HST you will need to access the CRA's `GST/HST NETFILE` website. The website and all relative identifying information can be found in [Passbolt](https://pass.hypha.coop/app/passwords/view/4f0d30b0-61b0-4911-a82d-495f3da58467).
+
+1. Visit the `GST/HST NETFILE` website
+2. Press the `Ready to file` button
+3. Press the `Continue` button at the bottom of the page
+4. Enter the `Business Number` from Passbolt. Note the number does not include spaces. Note that on the site the number is broken into two fields seperated at `RT`
+5. Enter the `Access Code` from Passbolt's password field
+6. Enter the first day and last day of the quarter you are reporting for
+7. Confirm no checkboxes need to be checked (as of September 2021, no checkboxes are required to be checked)
+8. Press `Next`
+9. Enter line `101`, `105` and `108` from the bookkeeper's email. Make sure you do not have any leading or trailing spaces and only one decimal place
+10. Click `Next`
+11. Review summary, and check line `109` and `114` or `115` for matching values from the bookkeeper's email
+12. Check `Yes` regarding payment (if applicable)
+13. Check the box under `Certification`
+14. Click `Submit`
+15. Click `Save as PDF` at the bottom of the page
+16. Rename file in correct format with today's date and last day of quarter `yyyy`-`mm`-`dd`-hst-ending-20`xx`-`xx`-`xx`-netfile.pdf`
+17. Upload file to Google Drive until `-Backoffice/Finance/HST`
+
+### Payment of HST
+
+If payment is required for HST, you will need to coordinate with another member that has signing authority at the bank. The payment must be confirmed by the 2nd person within 48 hours.
+
+1. Login to Desjardins
+2. Select the `Payments` button on the right, a pulldown menu will appear
+3. Select `Government remittances - Can-Act`
+4. Select `Confirm` on the popup
+5. Select `Federal - GST/HST`
+6. Select `Pay` at the top bar
+7. Enter last day of the quarter as `Period Ending`
+8. Enter amount from Line 115 as `Amount owing`
+9. Confirm right amount displays in `Total payment` field
+10. Select `Next`
+11. Confirm values are correct
+12. Select `Submit`
+13. Confirm message `The transaction is now in Pending Approval status and requires 1 approver(s).` Displays at the top
+14. Click `Done`
+
+## Initiatives
+
+### Setting up an Initiative
+
+An initiative proposal should be **brief** and provide and overview and argument and use the [template](https://github.com/hyphacoop/organizing/blob/master/_posts/initiatives/-initiative-xxx.md). You can add more sections as appropriate, including sample code, project roadmap, etc. Examples can be found in our [initives archive](https://github.com/hyphacoop/organizing-private/tree/master/initiatives-internal) 🔒.
+
+Once a proposal has been drafted and approved, the squad will set up a new initiative with support from the [Operations squad](initiatives.md#operations)
+
+### Leads, Opportunities & Client Proposals
+
+While the [Opportunities squad](initiatives.md#opportunities) is mainly in charge of sales lead generation,
 all members may pursue leads as they come up.
 Members are strongly encouraged to record leads into the co-operative's [leads tracking system](https://link.hypha.coop/leads) whether or not we want to pursue this lead.
-Ask Business Planning WG for help doing this.
 
 If a member decides to pursue a **lead**,
 they can reach out to gauge potential interest in working together.
 If the lead expresses intention to proceed with a concrete project in mind,
 this becomes an **opportunity**.
-The member now heads up this sales effort and should draft an **Internal Proposal** with the Business Planning WG, then present it (e.g., at a meeting, or via virtual channels) to see whether the co-operative wants to move forward to submit a formal proposal to the prospective client.
+The member now heads up this sales effort and drafts an **Initiative Proposal** with support from the [Opportunities squad](initiatives.md#opportunities), then present it (e.g., at a meeting, or via virtual channels) to see whether the co-operative wants to move forward.
 In this meeting, we should discuss any concerns by other members,
 and gauge team capacity given project timelines.
 
-An internal proposal should include:
+An initiative proposal should be **brief** and provide and overview and argument and use the template for [setting up an initiative](#setting-up-an-initiative).
 
-- Project Title
-- Background
-- Scope & Timeline
-- Outcomes & Opportunities
-- Skillsets
-- Budget
-- Communication
-- Risks
-- Resources
+#### Drafting and Submission
 
-A [template](#internal-proposal-template) is included below. You can add more sections as appropriate, including sample code, project roadmap, next steps, etc. Examples can be found in our [internal proposals archive](https://github.com/hyphacoop/organizing-private/tree/master/internal-proposals) 🔒.
+Proposals to be submitted to a potential client or grant committee should be drafted by members who will participate in the project with support from the [Opportunities squad](initiatives.md#opportunities). The squad has expertise in drafting client and grant project proposals, and managing the proposal process, so it is helpful to involve members of that group from the drafting stage. All  involved in the proposal drafting make up the **initiative squad** that will sign off on the final draft to be submitted.
 
-### Client Proposal Drafting and Submission
-
-Project proposals to be submitted to a potential client or grant committee should be drafted by members who expect to participate in the project with the help of members of the Business Planning WG. The WG has expertise in drafting client and grant project proposals, and managing the proposal process, so it is helpful to involve members of that group from the drafting stage. All that are involved in the proposal drafting make up the **proposal team** that will eventually sign off on the final draft to be submitted.
-
-If a project is accepted, this team will lead the initial consultation meetings with the client (e.g. discuss terms of payment and project logistics), draft and sign a **Client Agreement** (see [template](https://link.hypha.coop/client-agreement)), then gradually transfer the relationship entirely to the **project team**, which may not necessarily include everyone in the proposal team.
+If a proposal is accepted, this squad will lead the initial consultation meetings with the client (e.g. discuss terms of payment and project logistics), draft and sign a **Client Agreement** (see [template](https://link.hypha.coop/client-agreement)). If a proposal fails, we encourage reaching out to the client or grant committee for feedback and holding an internal retrospective.
 
 Regardless whether the proposal is successful,
-the project team should add a copy to the archived proposals folder in our [shared drive](http://link.hypha.coop/drive) for future reference.
-For failed proposals,
-we highly encourage reaching out to the client or grant committee for feedback and having an internal retrospective.
-
-### Internal Proposal Template
-
-```
-# Project Title
-
-## Background
-Background information about the client/grant and the project.
-
-## Scope & Timeline
-What are the expected deliverables and the timeline.
-
-## Outcomes & Opportunities
-How this project may be beneficial beyond the scope of the project. For example, does it lead to developing new skillsets among members or starting a relationship with a potentially long-term client?
-
-## Skillsets
-What are the important skillsets needed to ship this. If some skillsets are not available, what are the plans to source them to ensure we can deliver on this?
-
-## Budget
-Project budget and payment terms if available.
-
-## Communication
-How the logistics would look like for members working on this project. Are there weekly calls or are there physical sessions? Is the project on GitHub or is the source closed? Are there consent and confidentiality terms?
-
-## Risks
-What are the expected risks associated with this project.
-
-## Resources
-Additional resources about the project not already listed above, such as link to a website or a call for proposal.
-```
+the squad should add a copy to the folder in our [shared drive](http://link.hypha.coop/drive) for future reference.
 
 ## Sensitive Data
 
@@ -761,9 +829,11 @@ We recommend using the [GnuPG](https://gnupg.org) command line, but you can also
 The text of the signed document is embedded in the signature file, so you can drop any signature file `resolution-XXX.md.github_handle.asc` into [keybase.io/verify](https://keybase.io/verify) to verify a signature.
 For example, you can try verifying [resolution-001.md.benhylau.asc](https://github.com/hyphacoop/organizing/blob/master/resolutions/resolution-001.md.benhylau.asc).
 
+_Note: for submitting resolutions to the Government, you will need to use an additional signing process as if resolutions are external documents. Previously this was achieved by using `pandoc` to build a PDF package with the resolution (without including PGP signatures) and entering that to HelloSign (see [organizing/#385](https://github.com/hyphacoop/organizing/issues/385) for context)._
+
 ### Signing external documents
 
-Members also use other tools such as [HelloSign](http://link.hypha.coop/inventory#HelloSign) for signing client-facing documents.
+Members also use other tools such as [HelloSign](http://link.hypha.coop/inventory#HelloSign) for signing client-facing documents. 
 
 See [this related GitHub issue](https://github.com/hyphacoop/organizing/issues/195#issuecomment-580393377) for an example of prior usage.
 
@@ -829,11 +899,55 @@ When a project begins, generate a [Summary Report](https://clockify.me/reports/s
 
 1. Timesheet PDFs sent to clients or for internal payroll calculation should be archived in our [shared drive](https://link.hypha.coop/drive) under the `Timesheets` directory
 
+## Virtual Machines
+
+We use Proxmox to run our VMs. To access the management interface you need to SSH tunnel to `kvm1.hypha.coop` on port `34634` or connect over the VPN.
+
+### Proxmox
+
+Proxmox is the hypervisor that all the virtual machines run on. There are two ways of accessing the Proxmox servers management interface. An inventory of machines running on this server can be found in the [inventory-private](https://github.com/hyphacoop/inventory-private/blob/master/inventory-kvm1.md) repo.
+- SSH tunnel
+  1. Tunnel the web interface over SSH with `ssh root@kvm1.hypha.coop -p 34634 -L 8006:127.0.0.1:8006`
+  1. Access the panel using <a href="https://127.0.0.1:8006" data-proofer-ignore>https://127.0.0.1:8006</a>
+  1. The username is root and enter the password in our shared password manager [Passbolt](https://pass.hypha.coop/app/passwords/view/a34731d5-eb6a-4f0c-9475-7839280e529b)
+
+- VPN (Recommended)
+  1. Connect to OpenVPN (If you do not already have access please ping someone in the infra for the OpenVPN config file.)
+  1. Access the panel using <a herf="https://kvm1.hypha.coop:8006" data-proofer-ignore>https://kvm1.hypha.coop:8006</a>
+  1. The username is root and enter the password in our shared password manager [Passbolt](https://pass.hypha.coop/app/passwords/view/a34731d5-eb6a-4f0c-9475-7839280e529b)
+
+### Jump server
+
+To be able to ssh into the different virtual machines running on the infrastructure, authentication must be done via the `jump server`. This means you must first login to the `jump server` with your ssh key, and once there, you can use the keys on the `jump server` to connect and authenticate to the other virtual machines.
+
+- Connecting to staging Ansible1 (Our provisioning and jump server for staging machines)
+  By default all members access to the production environment
+  1. You'll need to ensure that your key has been added. You can do that by making a PR [here](https://github.com/hyphacoop/configurations/tree/master/hyphacoop/ssh-public-keys).
+  1. `ssh sysadmin@ansible1.hypha.stg -p 8002 -i ~/.ssh/id_rsa` (assuming `~/.ssh/id_rsa` is your key you use to access Hypha's infra.)
+  1. From there you can SSH into the backend systems using their `.stg` hostnames or directly with their IP address. The passphase for `~/.ssh/id_rsa` is [here](https://pass.hypha.coop/app/passwords/view/3adad6cf-b56c-47fd-a0cd-a845075f7622)
+
+- Connecting to production Ansible1 (Our provisioning and jump server for production machines)
+  By default only members that have a need to access have permissions to log in to the production environment
+  1. You'll need to ensure that your key has been added. You can do that by making a PR [here](https://github.com/hyphacoop/configurations/tree/master/hyphacoop/ssh-public-keys).
+  1. `ssh sysadmin@ansible1.hypha.prod -p 9154 -i ~/.ssh/id_rsa` (assuming `~/.ssh/id_rsa` is your key you use to access Hypha's infra.)
+  1. From there you can SSH into the backend systems using their `.prod` hostnames or directly with their IP address. The passphase for `~/.ssh/id_rsa` is [here](https://pass.hypha.coop/app/passwords/view/3e6018fd-7ae3-4647-8ce3-c6ccb6c71800)
+
+Alternatively by adding a host profile for each hostname to `~/.ssh/config`.  Doing this, when you ssh to the hostname specified, it will automatically jump you through the jump server, and into the target server. Example of a profile that uses the ansible's keys below.
+
+```
+Host [[hostname]]
+  RemoteCommand ssh %n
+  HostName ansible1.hypha.prod
+  User sysadmin
+  Port 9154
+  RequestTTY yes
+```
+
 ## Voicemail
 
 ### Accessing Voicemail 
 
-We use a VoIP phone line provider with forwarding and voicemail from [voip.md](https://www.voip.ms). It helps us:
+We use a VoIP phone line provider with forwarding and voicemail from [voip.ms](https://www.voip.ms). It helps us:
 
 - Have a phone number without tying it to a physical location
 - Receive voicemail by email to [members@hypha.coop](mailto:members@hypha.coop)
@@ -857,6 +971,52 @@ To record or update the voicemail greeting [access the voicemail](#accessing-voi
 
 - 0 - Mailbox Options
 - 1 - Record your unavailable message
+
+## VPN
+We use pfSense to manage OpenVPN users and gain access to internal resources and also provides internet access over a Canadian IP address.
+
+### Using the VPN
+
+To use the VPN you require to have
+ - an installed [OpenVPN client](https://openvpn.net/community-downloads/) on your device
+ - a configuration file that is generated by pfsense. You will receive this from the member that sets up your account.
+ - a username and password. This will be shared with you in Passbolt.
+
+### Adding OpenVPN users on pfSense
+
+- To add OpenVPN users on pfSense:
+  1. Log in to pfSense panel by SSH tunneling or over the VPN
+      - Recommanded to use VPN if you already have an VPN account
+      - The pfSense panel can be accessed <a href="https://198.51.100.1/services_unbound.php" data-proofer-ignore>here</a>
+  1. Go to <a href="https://198.51.100.1/system_usermanager.php" data-proofer-ignore>System -> User Manager</a>
+  1. Click `+ Add` green button
+  1. Enter the username, it should be `ovpn_firstname`
+  1. Create a random strong password example: the output of `dd if=/dev/urandom bs=1M count=100 | md5sum`
+  1. Tick `Click to create a user certificate` 
+  1. Create Certificate for user
+     -  Discriptive name: same as username
+     -  Certificate authority: utilities.hypha.coop
+     -  Key length: 4096
+     -  Lifetime: 3650
+  1. Click `Save`
+
+- Exporting OpenVPN file:
+  1. Log in to pfSense panel with instructions above
+  1. Go to <a href="https://198.51.100.1/vpn_openvpn_server.php" data-proofer-ignore>VPN -> OpenVPN</a>
+  1. Click on `Client Export` tab
+  1. Select Remote Access Server `VPN Access UDP4:13313`
+  1. Leaving all other settings untouched scroll down to OpenVPN Clients and click `Most Clients` under Inline Configurations beside the user you want to download.
+  1. Send the OpenVPN file to user over encrypted means such as Signal or encrypted Matrix direct chat.
+
+- Deleting OpenVPN user on pfSense
+  1. Go to System -> User Manager
+  1. Delete the user(s)
+  1. Log in to pfSense panel by SSH tunneling or over the VPN
+  1. Go to System -> Cert. Manager
+  1. Click on `Certificate Revocation` tab
+  1. Click the ✏︎ beside `Certificate Revocation`
+  1. Choose the `ovpn_username` you are removing
+  1. Choose Reason and click `+ Add`
 
 ## References
 

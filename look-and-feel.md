@@ -59,13 +59,19 @@ We tend to use the following emoji and iconography:
 🍄 `:mushroom:`  
 🌿 `:herb:`  
 🏴 `:black_flag:` or  ⚑ `&#9873;`  
+🐛 `:bug:`  
+🌱 `:seedling:`  
+🎛️ `:control_knobs:`  
+🌴 `:palm_tree:`  
+🍹 `:tropical_drink:`  
+☀️ `:sunny:`  
+🛰️ `:artificial_satellite:`  
 
 
 ### Assets and templates
 
-Look and feel assets are available in our [Public Drive](https://drive.google.com/drive/folders/1URLZzO0P2IuLjRzvmg_C3ecV0N54GbeJ), and include:
+Look and feel assets are available in our [Public Drive](https://drive.google.com/drive/folders/1dFhhx1g9MlNx5w2cd5eCSvBn6KAj6VSW?usp=sharing), and include:
 
 - Wordmark
 - Image bank
-- Letterhead 
-- Report template
+

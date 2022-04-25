@@ -3,7 +3,7 @@
 Hypha handbook describing the vision, processes, 
 and culture of Hypha Worker Co-operative. 🌿🍄
 
-This handbook's primary audience is Hypha member-owners and collaborators, 
+This handbook's primary audience is Hypha member-workers and collaborators, 
 but it will be publicly available for others who might find it useful. 
 
 ![Old-timey web 1.0 UNDER CONSTRUCTION banner](images/under-construction.gif)<br />
@@ -20,7 +20,7 @@ A copy is included with the handbook at [LICENSE](./LICENSE).
 
 ## 🛠 Technologies Used
 
-- [**Gitbook.**][gitbook] A command line tool to help build documentation.
+- [**HonKit.**][honkit] A command line tool to help build documentation.
 - [**Node.js**][node] and [**npm**][npm]. A programming language and package 
   manager.
 - [**GitHub Actions.**][gh-actions] A script-running service that deploys the
@@ -31,24 +31,35 @@ A copy is included with the handbook at [LICENSE](./LICENSE).
 To submit changes, add content, and make improvements to this handbook you can 
 use [GitHub][repo]: [github.com/hyphacoop/handbook][repo].
 
-To edit locally, you will have to install [GitBook][gitbook] (currently 
-deprecated), and [Node.js][node] (v4.0.0 or above) on your system.
+To edit locally, you will have to install [HonKit][honkit], and [Node.js][node] (v4.0.0 or above) on your system.
 
-It is easiest to install `gitbook-cli` with [npm][npm], the Node.js package 
+It is easiest to install `honkit` with [npm][npm], the Node.js package 
 manager. From your terminal, run the following command:
 
 ```bash
-$ npm install gitbook-cli -g
+$ npm install honkit --save-dev
 ```
 
-You can preview any changes you make by running a local GitBook server:
+You can preview any changes you make by running a local HonKit server:
 
 ```bash
-$ gitbook serve
+$ npx honkit serve
 ```
 
 After starting the server, visit `http://localhost:4000` (or the address 
-indicated by the `gitbook serve` command) in a web browser.
+indicated by the `honkit serve` command) in a web browser.
+
+To test that all links works, you may run html-proofer via:
+
+```bash
+bundle install
+
+# Run with defaults (faster)
+make check
+
+# Run slower (to avoid failing links from servers throttling you)
+make check-cautious
+```
 
 ## 🚀 Deployment
 
@@ -64,7 +75,7 @@ See: [`.github/workflows/test-pull-request.yml`](.github/workflows/test-pull-req
 
 
 <!-- Links -->
-[gitbook]: https://github.com/GitbookIO/gitbook-cli
+[honkit]: https://github.com/honkit/honkit
 [node]: https://nodejs.org/en/
 [npm]: https://www.npmjs.com/
 [gh-actions]: https://github.com/features/actions
