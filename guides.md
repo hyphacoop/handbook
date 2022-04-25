@@ -27,7 +27,7 @@ our values.
 - [Meetings](#meetings)
 - [Payroll](#payroll)
 - [Reporting HST](#reporting-hst)
-- [Initatives](#initatives)
+- [Initiatives](#initiatives)
 - [Sensitive Data](#sensitive-data)
 - [Signatures](#signatures)
 - [Shortlinks](#shortlinks)
@@ -679,7 +679,7 @@ If payment is required for HST, you will need to coordinate with another member 
 14. Click `Done`
 
 
-## Initatives
+## Initiatives
 
 ### Setting up an Initiative
 
