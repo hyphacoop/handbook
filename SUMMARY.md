@@ -31,10 +31,8 @@
 
 --
 
-* [Guides](guides.md)
+* [Guides 🚧](guides.md)
 * [Templates](templates.md)
-    * [Onboarding](templates/checklist-onboarding.md)
-    * [Offboarding](templates/checklist-offboarding.md)
 * [How We Use Data](data.md)
 * [Reading Pool](reading-pool.md)
 * [Glossary](glossary.md)

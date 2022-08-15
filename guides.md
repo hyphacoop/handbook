@@ -24,7 +24,7 @@ our values.
 - [Invoices](#invoices)
 - [Issue Labels](#issue-labels)
 - [Inactivating Membership](#inactivating-membership)
-- [Initatives](#initatives)
+- [Initiatives](#initiatives)
 - [Meetings](#meetings)
 - [Payroll](#payroll)
 - [Reporting HST](#reporting-hst)
@@ -289,7 +289,7 @@ Operations then will work with Infrastructure to update appropriate permissions 
 
 
 
-## Initatives
+## Initiatives
 
 ### Setting up an Initiative
 
