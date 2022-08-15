@@ -17,6 +17,7 @@ These templates are used to conduct core business activities. They are published
 |:---------|:------------|
 | [Employee Acknowledgement](https://link.hypha.coop/t-employee-acknowledgement) | The letter of acknowledgement that all employees sign |
 | [Employee and Contractor Intellectual Property Agreement](https://link.hypha.coop/t-ip-agreement) | The intellectual property agreement signed by employees and contractors who are natural persons (not organizations) |
+| [Employee Onboard Email](https://github.com/hyphacoop/organizing-private/blob/main/documents/operations/employee-onboard-email.md) 🔒 | The onboarding email sent to new employees to get them all set up |
 | [Independent Contractor Agreement](https://link.hypha.coop/t-contractor-agreement) | The agreement signed by all contractors (legal persons including organizations) |
 | [Job Description](https://link.hypha.coop/t-job-description) | The template for job positions we are hiring for |
 
