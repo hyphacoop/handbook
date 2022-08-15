@@ -8,24 +8,24 @@ These templates are used to conduct core business activities. They are published
 
 | Template | Description |
 |:---------|:------------|
-| [Hypha Letterhead](https://docs.google.com/document/d/1HQ2EUQYEIZcHRwHzmzDfrYU0dTMnOGEPbmo6l_HfZYs/edit?usp=sharing) | Template for official letters |
-| [Hypha Document Report](https://docs.google.com/document/d/1erY--MhTXWOrJUzPXRSR4mP9Hs-62kc2QXl-fsCqB-0/edit?usp=sharing) | Template for general documents |
+| [Hypha Letterhead](https://link.hypha.coop/t-letterhead) | Template for official letters |
+| [Hypha Document Report](https://link.hypha.coop/t-document-report) | Template for general documents |
 
 ### Staff
 
 | Template | Description |
 |:---------|:------------|
-| [Employee Acknowledgement](https://docs.google.com/document/d/1s7KoLeYjfI1yjpJuOOlcZ57Z-93mZ-8--qSPhwzYbSg/edit?usp=sharing) | The letter of acknowledgement that all employees sign |
-| [Employee and Contractor Intellectual Property Agreement](https://docs.google.com/document/d/1qWGdFAGNA37lSYEfWa31WGpuYO3nRzuKPnPnMlyPFrs/edit?usp=sharing) | The intellectual property agreement signed by employees and contractors who are natural persons (not organizations) |
-| [Independent Contractor Agreement](https://docs.google.com/document/d/1AcwtfUZ9Avd9W1f69BRd_OYZxz85I9l5euEoBjV0wYM/edit?usp=sharing) | The agreement signed by all contractors (legal persons including organizations) |
-| [Job Description](https://docs.google.com/document/d/1sjUVnRowp6yYX7WQRIas1SwIloGTevNNOnIGdDAbjnk/edit?usp=sharing) | The template for job positions we are hiring for |
+| [Employee Acknowledgement](https://link.hypha.coop/t-employee-acknowledgement) | The letter of acknowledgement that all employees sign |
+| [Employee and Contractor Intellectual Property Agreement](https://link.hypha.coop/t-ip-agreement) | The intellectual property agreement signed by employees and contractors who are natural persons (not organizations) |
+| [Independent Contractor Agreement](https://link.hypha.coop/t-contractor-agreement) | The agreement signed by all contractors (legal persons including organizations) |
+| [Job Description](https://link.hypha.coop/t-job-description) | The template for job positions we are hiring for |
 
 ### Client
 
 | Template | Description |
 |:---------|:------------|
-| [Client Agreement](https://docs.google.com/document/d/1nmPX8k3TSEEUYx7cFaOoVNKbwjhp8nbUZwe6OdvC7Do/edit?usp=sharing) | The default agreement we use for client engagements (although often times the client provides one) |
-| [Statement of Work](https://docs.google.com/document/d/1fM3pdNv9YE7rqBF_MdGdR1T2OoXF0SqzCAvJgC9STd8/edit?usp=sharing) | The template for a statement of work for a client engagement (sometimes used in place of a Client Agreement) |
+| [Client Agreement](https://link.hypha.coop/t-client-agreement) | The default agreement we use for client engagements (although often times the client provides one) |
+| [Statement of Work](https://link.hypha.coop/t-statement-of-work) | The template for a statement of work for a client engagement (sometimes used in place of a Client Agreement) |
 
 ## Tasks
 
