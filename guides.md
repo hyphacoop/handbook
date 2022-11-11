@@ -930,7 +930,7 @@ To be able to ssh into the different virtual machines running on the infrastruct
   By default only members that have a need to access have permissions to log in to the production environment
   1. You'll need to ensure that your key has been added. You can do that by making a PR [here](https://github.com/hyphacoop/configurations/tree/master/hyphacoop/ssh-public-keys).
   1. `ssh sysadmin@ansible1.hypha.prod -p 9154 -i ~/.ssh/id_rsa` (assuming `~/.ssh/id_rsa` is your key you use to access Hypha's infra.)
-  1. From there you can SSH into the backend systems using their `.prod` hostnames or directly with their IP address. The passphase for `~/.ssh/id_rsa` is [here](https://pass.hypha.coop/app/passwords/view/3e6018fd-7ae3-4647-8ce3-c6ccb6c71800)
+  1. From there you can SSH into the backend systems using their `.prod` hostnames or directly with their IP address. The passphase for `~/.ssh/id_rsa` is [here](https://vault.bitwarden.com/#/vault?itemId=d0200ed8-6563-4932-89f5-ae200181e300)
 
 Alternatively by adding a host profile for each hostname to `~/.ssh/config`.  Doing this, when you ssh to the hostname specified, it will automatically jump you through the jump server, and into the target server. Example of a profile that uses the ansible's keys below.
 
