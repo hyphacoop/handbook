@@ -13,7 +13,7 @@ Roo is a [lifeform][lifeform] on the [Polygon blockchain][polygon]. It wanders i
 [roo]: https://roobot.hypha.coop
 [lifeform]: https://lifeforms.supply
 [polygon]: https://polygonscan.com/token/0x8916edd9b39783d85303ecc6613917ddd735d88d?a=168#inventory
-[matrix-roobot]: https://github.com/hyphacoop/matrix-roobot/
+[matrix-roobot]: https://github.com/hyphacoop/hyphacoop-chatbot
 
 ## Steps for transferring Roo 
 This guide assumes that you are currently in possession of Roo, which implies that you have a Polygon address connected to MetaMask (where Roo is located) and a few spare MATIC for gas fees. 

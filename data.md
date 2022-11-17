@@ -4,7 +4,7 @@ Hypha is [a worker co-operative incorporated in Ontario, Canada](https://handboo
 We run our public website, this member handbook, and a variety of services at the domain [hypha.coop](https://hypha.coop) and its subdomains. 
 This page identifes what data we collect and why, as well as where and how long we store collected data for.
 
-This page was last updated on June 6, 2020. You can see previous versions on [GitHub](https://github.com/hyphacoop/handbook/). The outline and format is inspired by [Projects by IF: How IF uses data](https://www.projectsbyif.com/how-if-uses-data/).
+This page was last updated on November 17, 2022. You can see previous versions on [GitHub](https://github.com/hyphacoop/handbook/). The outline and format is inspired by [Projects by IF: How IF uses data](https://projectsbyif.com/privacy-policy/).
 
 ### Contents
 
@@ -23,8 +23,6 @@ The following sites and services are at the domain [hypha.coop](https://hypha.co
 - Handbook: [handbook.hypha.coop](https://handbook.hypha.coop)
 - Meetings: [meetings.hypha.coop](https://meetings.hypha.coop)
 - Shortlinks: [link.hypha.coop](https://link.hypha.coop)
-- Loomio: [loomio.hypha.coop](https://loomio.hypha.coop)
-- BigBlueButton: [bbb.hypha.coop](https://bbb.hypha.coop)
 - COVID-19 Solidarity: [covid19.hypha.coop](https://covid19.hypha.coop)
 
 
@@ -80,10 +78,6 @@ If you have a concern, please email <a href="mailto:%64%61%74%61%40%68%79%70%68%
 
 Videoconferencing audio and video are only kept briefly in the buffer throughout the call and not recorded.
 
-Our [BigBlueButton server](https://bbb.hypha.coop) keeps a database for registered users and room information.
-Uploaded presentations are kept for 5 days after you have ended your meeting and log history is kept for 28 days.
-These are BigBlueButton's default configurations and automated purging is performed by the software.
-Response to polls, raise hand events, and chat messages are cleared after the call has ended.
 
 The [Matrix chat](https://chat.tomesh.net/#/group/+hyphacoop:tomesh.net) in Hypha rooms are periodically wiped to keep only the most recent 3 months of history.
 However, as Matrix is a federated chat protocol, chat history older than 3 months may be retained by other homeservers, and in particular, public rooms with users from other homeservers.

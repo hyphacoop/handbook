@@ -156,13 +156,13 @@ To create VMs manually follow these steps (the steps below will need to be done 
 3. Make a name for internal DNS if needed example `service.hypha.prod` in <a href="https://hackmd.io/pElXZTnUTRO1zApxpdBWDw#Local-DNS" data-proofer-ignore>Internal DNS table</a>
 
 #### Reserve DNS name using pfSense
-4. Log in to pfSense web dashboard <a href="https://198.51.100.1/services_unbound.php" data-proofer-ignore>here</a>. Username `admin`, password is in Passbolt [here](https://pass.hypha.coop/app/passwords/view/c5e705f6-715c-463f-8438-4648ca383fbc)
+4. Log in to pfSense web dashboard <a href="https://198.51.100.1/services_unbound.php" data-proofer-ignore>here</a>. Username `admin`, password is in Passbolt 
 5. Add DNS hostname to pfSense's DNS resolver `Host Overrides` under `Services->DNS Resolver` <a href="https://198.51.100.1/services_unbound.php" data-proofer-ignore>here</a>
 - With the example `service.hypha.prod` Host will be `service` Parent domain of host will be `hypha.prod` IP to return for host will be the LAN IPv4 and or IPv6. If dualstack use `,` for comma-separated addresses `10.0.1.9,2001:470:b1f3:1::9`
 
 #### Create a VM using Proxmox
 
-6. To create the VM go login to KVM1 Proxmox host <a href="https://kvm1.hypha.coop:8006/" data-proofer-ignore>here</a> using username root with the password in Passbolt [here](https://pass.hypha.coop/app/passwords/view/a34731d5-eb6a-4f0c-9475-7839280e529b)
+6. To create the VM go login to KVM1 Proxmox host <a href="https://kvm1.hypha.coop:8006/" data-proofer-ignore>here</a> using username root with the password in Passbolt 
 7. Select a template to clone in the `Datacenter` sidebar under `9XXX`
 8. Click on `More` on the top right corner and select `Clone`
 9. `VMID` is the VMID you noted above

@@ -25,7 +25,7 @@ Tech Worker Co-ops:
 - 🌐 [Vibes Theory of Organization Design - Enspiral](http://richdecibels.com/stories/vibes-theory/vibes-theory.html)
     - identifies lots of tensions while building organizational culture
 - 🌐 [Enspiral Handbook](https://handbook.enspiral.com/)
-    - *** **Important [People Agreement](https://handbook.enspiral.com/agreements/people.html)**
+    - *** **Important [People Agreement](https://web.archive.org/web/20210306044212/https://handbook.enspiral.com/agreements/people)**
     - Resource [Git for Beginners](https://handbook.enspiral.com/guides/github_for_beginners.html)
     - Related [Root Systems "Pod"](https://web.archive.org/web/20200122192017/https://www.rootsystems.nz)
 - 🌐 [Lab.coop Reading List](http://www.lab.coop/blog/share-more-to-have-more-why-lab-coop-is-an-employee-owned-hol)
@@ -52,7 +52,7 @@ Collaboration, Methodologies:
 - 📚 [adrienne maree brown (2017) *Emergent Strategy: Shaping Change, Changing Worlds*](https://www.akpress.org/emergentstrategy.html)
 - 🌐 [Loconomics Cooperative Bylaws](https://loconomics.gitbooks.io/loconomics-cooperative-bylaws/content/)
 - 🌐 [Waag Co-creation Toolkit](http://web.archive.org/web/20161216125609/http://co-creation.waag.org/)
-- 🌐 [El LleialTec: Pla de Sobirania Tecnològica als equipaments municipals](https://tec.lleialtat.cat/) ([Google translated](https://translate.google.ca/translate?hl=en&sl=ca&tl=en&u=https%3A%2F%2Ftec.lleialtat.cat))
+- 🌐 [El LleialTec: Pla de Sobirania Tecnològica per l'acció comunitària](https://equipamentslliures.cat/) ([Google translated](https://translate.google.ca/translate?hl=en&sl=ca&tl=en&u=https://equipamentslliures.cat/))
 
 New Economies:
 
@@ -79,7 +79,7 @@ Why Decentralize?
 
 Requirements for co-ops in Canada (Federal and Provincial) (for more see [**2018 retreat playbook**](https://link.hypha.coop/retreat-playbook)):
 
-- 📄 [Ontario.coop fact sheets](https://ontario.coop/sites/default/files/Complete%20list%20of%20FACTSheets%20-%20Updated.pdf)
+- 📄 [Ontario.coop fact sheets](https://ontario.coop/sites/default/files/Complete%20list%20of%20FACTSheets%20-%20Dec.%202020%20Updates_0.pdf)
 - 🌐 [Industry Canada Starting a Federal co-op](https://www.ic.gc.ca/eic/site/106.nsf/eng/h_00073.html#federal)
 - 🌐 [Industry Canada Starting an ON co-op](https://www.ic.gc.ca/eic/site/106.nsf/eng/h_00073.html#ontario)
 - 🌐 [Ontario.coop Starting a co-operative](https://www.ontario.coop/starting-co-operative)
