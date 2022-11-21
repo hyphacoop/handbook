@@ -167,7 +167,7 @@ We started collecting GST/HST as of **May 15, 2020** with a [quarterly reporting
 
 Much of our digital services (e.g. software development, system administration, design) for international clients (outside of Canada) are GST/HST _zero-rated_ as they are classified as _exported goods and services_.
 This is different from GST/HST _exempt_ because _zero-rated_ items are still eligible for _Input Tax Credit (ITC)_ on related expenditures.
-This is described under [Intangible personal property](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-090/gst-hst-electronic-commerce.html#P22_9331) and [Excise Tax Act section 10 of Part V of Schedule VI](https://laws-lois.justice.gc.ca/eng/acts/E-15/page-179.html#h-201391).
+This is described under [Intangible personal property](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-090/gst-hst-electronic-commerce.html#P22_9331) and [Excise Tax Act section 10 of Part V of Schedule VI](https://laws-lois.justice.gc.ca/eng/acts/E-15/section-sched201390.html).
 
 Whether we will charge and claim GST/HST is dependent on a few factors.
 Here are some likely scenarios that may apply to Hypha projects:

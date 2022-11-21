@@ -83,7 +83,7 @@ This is a checklist for onboarding new members, workers, and contractors to the 
 
 #### Set up virtual office
 
-1. Invite to [Passbolt](https://pass.hypha.coop):
+1. Invite to Passbolt:
   - After acceptance, add to `Member-Worker` group
   - Ensure Member understands it is their responsibility to back-up their own private key
   - Ensure Member understands when creating a password, they need to grant access to appropriate groups (e.g., when a password is meant to be shared between member-workers, otherwise others do not know that password exists in Passbolt)
