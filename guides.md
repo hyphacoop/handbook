@@ -58,7 +58,7 @@ Some applications may require you to use `https://mailninja.aseriesoftubez.com/S
 ### Creating a shared calendar
 
 We have a shared calendar account which also us to share calendars internally with a group. Using your own account for this purpose will not allow invite emails to be sent out.
-1. Login to the shared calendar [SOGo account](https://mailninja.aseriesoftubez.com/SOGo/) with the [Virtual Office Shared Calendar](https://pass.hypha.coop/app/passwords/view/1ed21359-9d95-427a-960d-537774931c9b) credentials on our Passbolt.
+1. Login to the shared calendar [SOGo account](https://mailninja.aseriesoftubez.com/SOGo/) with the Virtual Office Shared Calendar credentials on our Passbolt.
 
 1. Navigate to the Calendar interface and create a new calendar
 
@@ -704,7 +704,7 @@ This will trigger Finance to take action.
 
 ### Filing HST
 
-To Filing the HST you will need to access the CRA's `GST/HST NETFILE` website. The website and all relative identifying information can be found in [Passbolt](https://pass.hypha.coop/app/passwords/view/4f0d30b0-61b0-4911-a82d-495f3da58467).
+To Filing the HST you will need to access the CRA's `GST/HST NETFILE` website. The website and all relative identifying information can be found in Passbolt.
 
 1. Visit the `GST/HST NETFILE` website
 2. Press the `Ready to file` button
@@ -909,12 +909,12 @@ Proxmox is the hypervisor that all the virtual machines run on. There are two wa
 - SSH tunnel
   1. Tunnel the web interface over SSH with `ssh root@kvm1.hypha.coop -p 34634 -L 8006:127.0.0.1:8006`
   1. Access the panel using <a href="https://127.0.0.1:8006" data-proofer-ignore>https://127.0.0.1:8006</a>
-  1. The username is root and enter the password in our shared password manager [Passbolt](https://pass.hypha.coop/app/passwords/view/a34731d5-eb6a-4f0c-9475-7839280e529b)
+  1. The username is root and enter the password in our shared password manager Passbolt
 
 - VPN (Recommended)
   1. Connect to OpenVPN (If you do not already have access please ping someone in the infra for the OpenVPN config file.)
   1. Access the panel using <a herf="https://kvm1.hypha.coop:8006" data-proofer-ignore>https://kvm1.hypha.coop:8006</a>
-  1. The username is root and enter the password in our shared password manager [Passbolt](https://pass.hypha.coop/app/passwords/view/a34731d5-eb6a-4f0c-9475-7839280e529b)
+  1. The username is root and enter the password in our shared password manager Passbolt
 
 ### Jump server
 
@@ -924,13 +924,13 @@ To be able to ssh into the different virtual machines running on the infrastruct
   By default all members access to the production environment
   1. You'll need to ensure that your key has been added. You can do that by making a PR [here](https://github.com/hyphacoop/configurations/tree/master/hyphacoop/ssh-public-keys).
   1. `ssh sysadmin@ansible1.hypha.stg -p 8002 -i ~/.ssh/id_rsa` (assuming `~/.ssh/id_rsa` is your key you use to access Hypha's infra.)
-  1. From there you can SSH into the backend systems using their `.stg` hostnames or directly with their IP address. The passphase for `~/.ssh/id_rsa` is [here](https://pass.hypha.coop/app/passwords/view/3adad6cf-b56c-47fd-a0cd-a845075f7622)
+  1. From there you can SSH into the backend systems using their `.stg` hostnames or directly with their IP address. 
 
 - Connecting to production Ansible1 (Our provisioning and jump server for production machines)
   By default only members that have a need to access have permissions to log in to the production environment
   1. You'll need to ensure that your key has been added. You can do that by making a PR [here](https://github.com/hyphacoop/configurations/tree/master/hyphacoop/ssh-public-keys).
   1. `ssh sysadmin@ansible1.hypha.prod -p 9154 -i ~/.ssh/id_rsa` (assuming `~/.ssh/id_rsa` is your key you use to access Hypha's infra.)
-  1. From there you can SSH into the backend systems using their `.prod` hostnames or directly with their IP address. The passphase for `~/.ssh/id_rsa` is [here](https://vault.bitwarden.com/#/vault?itemId=d0200ed8-6563-4932-89f5-ae200181e300)
+  1. From there you can SSH into the backend systems using their `.prod` hostnames or directly with their IP address. The passphase for `~/.ssh/id_rsa` is [here](https://vault.bitwarden.com/#/vault?itemId=d0200ed8-6563-4932-89f5-ae200181e300).
 
 Alternatively by adding a host profile for each hostname to `~/.ssh/config`.  Doing this, when you ssh to the hostname specified, it will automatically jump you through the jump server, and into the target server. Example of a profile that uses the ansible's keys below.
 
@@ -960,7 +960,7 @@ To access voicemail inbox you can either call remotely or through a configured S
   1. Wait for the intro audio to finish followed by a 1 second pause
   1. When the audio resumes press `*`
   1. Listen and confirm you hear the prompt `Extension 3101, password`
-  1. Enter our password followed by #: <in our shared password manager [Passbolt](https://pass.hypha.coop/auth/login)>
+  1. Enter our password followed by #: in our shared password manager Passbolt
 
 - SIP client: 
   Dial `*98`
