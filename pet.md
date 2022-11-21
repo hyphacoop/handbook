@@ -25,5 +25,5 @@ This guide assumes that you are currently in possession of Roo, which implies th
 5. Fiddle with gas settings as needed for your comfort level with processing time (MetaMask will likely give you an estimate of how long to expect).
 6. Confirm the transaction!
 7. Ensure that Roo has safely made it to a new wallet by visiting him at https://roobot.hypha.coop/ 
-8. Calculate when the new custodian should start thinking about transferring Roo again (suggested: 85 days after the current date because Roo will die if he lives in the same wallet for 90 dayus - https://www.timeanddate.com/date/dateadd.html) 
+8. Calculate when the new custodian should start thinking about transferring Roo again (suggested: 85 days after the current date because Roo will die if he lives in the same wallet for 90 days - https://www.timeanddate.com/date/dateadd.html)
 9. Create a calendar event on this date (“Get ready to transfer Roo!”) and invite the new custodian. Include a link to these instructions in the event description for easy reference. 
