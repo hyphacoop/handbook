@@ -573,7 +573,7 @@ Some applications may require you to use <code>https://mailninja.aseriesoftubez.
 <h3 id="creating-a-shared-calendar"><a name="creating-a-shared-calendar" class="plugin-anchor" href="#creating-a-shared-calendar"><i class="fa fa-link" aria-hidden="true"></i></a>Creating a shared calendar</h3>
 <p>We have a shared calendar account which also us to share calendars internally with a group. Using your own account for this purpose will not allow invite emails to be sent out.</p>
 <ol>
-<li><p>Login to the shared calendar <a href="https://mailninja.aseriesoftubez.com/SOGo/" target="_blank">SOGo account</a> with the <a href="https://pass.hypha.coop/app/passwords/view/1ed21359-9d95-427a-960d-537774931c9b" target="_blank">Virtual Office Shared Calendar</a> credentials on our Passbolt.</p>
+<li><p>Login to the shared calendar <a href="https://mailninja.aseriesoftubez.com/SOGo/" target="_blank">SOGo account</a> with the Virtual Office Shared Calendar credentials on our Passbolt.</p>
 </li>
 <li><p>Navigate to the Calendar interface and create a new calendar</p>
 </li>
@@ -1215,7 +1215,7 @@ Line 108: 1,000.00
 115- Amount Owing 1000- will be automatically calculated
 </code></pre><p>This will trigger Finance to take action.</p>
 <h3 id="filing-hst"><a name="filing-hst" class="plugin-anchor" href="#filing-hst"><i class="fa fa-link" aria-hidden="true"></i></a>Filing HST</h3>
-<p>To Filing the HST you will need to access the CRA&apos;s <code>GST/HST NETFILE</code> website. The website and all relative identifying information can be found in <a href="https://pass.hypha.coop/app/passwords/view/4f0d30b0-61b0-4911-a82d-495f3da58467" target="_blank">Passbolt</a>.</p>
+<p>To Filing the HST you will need to access the CRA&apos;s <code>GST/HST NETFILE</code> website. The website and all relative identifying information can be found in Passbolt.</p>
 <ol>
 <li>Visit the <code>GST/HST NETFILE</code> website</li>
 <li>Press the <code>Ready to file</code> button</li>
@@ -1374,14 +1374,14 @@ Shared reports are found under <a href="https://clockify.me/reports/shared" targ
 <ol>
 <li>Tunnel the web interface over SSH with <code>ssh root@kvm1.hypha.coop -p 34634 -L 8006:127.0.0.1:8006</code></li>
 <li>Access the panel using <a href="https://127.0.0.1:8006" data-proofer-ignore target="_blank">https://127.0.0.1:8006</a></li>
-<li>The username is root and enter the password in our shared password manager <a href="https://pass.hypha.coop/app/passwords/view/a34731d5-eb6a-4f0c-9475-7839280e529b" target="_blank">Passbolt</a></li>
+<li>The username is root and enter the password in our shared password manager Passbolt</li>
 </ol>
 </li>
 <li><p>VPN (Recommended)</p>
 <ol>
 <li>Connect to OpenVPN (If you do not already have access please ping someone in the infra for the OpenVPN config file.)</li>
 <li>Access the panel using <a herf="https://kvm1.hypha.coop:8006" data-proofer-ignore>https://kvm1.hypha.coop:8006</a></li>
-<li>The username is root and enter the password in our shared password manager <a href="https://pass.hypha.coop/app/passwords/view/a34731d5-eb6a-4f0c-9475-7839280e529b" target="_blank">Passbolt</a></li>
+<li>The username is root and enter the password in our shared password manager Passbolt</li>
 </ol>
 </li>
 </ul>
@@ -1393,7 +1393,7 @@ By default all members access to the production environment</p>
 <ol>
 <li>You&apos;ll need to ensure that your key has been added. You can do that by making a PR <a href="https://github.com/hyphacoop/configurations/tree/master/hyphacoop/ssh-public-keys" target="_blank">here</a>.</li>
 <li><code>ssh sysadmin@ansible1.hypha.stg -p 8002 -i ~/.ssh/id_rsa</code> (assuming <code>~/.ssh/id_rsa</code> is your key you use to access Hypha&apos;s infra.)</li>
-<li>From there you can SSH into the backend systems using their <code>.stg</code> hostnames or directly with their IP address. The passphase for <code>~/.ssh/id_rsa</code> is <a href="https://pass.hypha.coop/app/passwords/view/3adad6cf-b56c-47fd-a0cd-a845075f7622" target="_blank">here</a></li>
+<li>From there you can SSH into the backend systems using their <code>.stg</code> hostnames or directly with their IP address. </li>
 </ol>
 </li>
 <li><p>Connecting to production Ansible1 (Our provisioning and jump server for production machines)
@@ -1401,7 +1401,7 @@ By default only members that have a need to access have permissions to log in to
 <ol>
 <li>You&apos;ll need to ensure that your key has been added. You can do that by making a PR <a href="https://github.com/hyphacoop/configurations/tree/master/hyphacoop/ssh-public-keys" target="_blank">here</a>.</li>
 <li><code>ssh sysadmin@ansible1.hypha.prod -p 9154 -i ~/.ssh/id_rsa</code> (assuming <code>~/.ssh/id_rsa</code> is your key you use to access Hypha&apos;s infra.)</li>
-<li>From there you can SSH into the backend systems using their <code>.prod</code> hostnames or directly with their IP address. The passphase for <code>~/.ssh/id_rsa</code> is <a href="https://pass.hypha.coop/app/passwords/view/3e6018fd-7ae3-4647-8ce3-c6ccb6c71800" target="_blank">here</a></li>
+<li>From there you can SSH into the backend systems using their <code>.prod</code> hostnames or directly with their IP address. </li>
 </ol>
 </li>
 </ul>
@@ -1428,7 +1428,7 @@ By default only members that have a need to access have permissions to log in to
 <li>Wait for the intro audio to finish followed by a 1 second pause</li>
 <li>When the audio resumes press <code>*</code></li>
 <li>Listen and confirm you hear the prompt <code>Extension 3101, password</code></li>
-<li>Enter our password followed by #: <in our shared password manager [passbolt](https: pass.hypha.coop auth login)></in></li>
+<li>Enter our password followed by #: in our shared password manager Passbolt</li>
 </ol>
 </li>
 <li><p>SIP client: 
@@ -1543,7 +1543,7 @@ Dial <code>*98</code></p>
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Guides 🚧","level":"4.1","depth":1,"next":{"title":"Templates","level":"4.2","depth":1,"path":"templates.md","ref":"templates.md","articles":[]},"previous":{"title":"Novel Coronavirus (2019) 🦠","level":"3.11","depth":1,"path":"coronavirus.md","ref":"coronavirus.md","articles":[]},"dir":"ltr"},"config":{"plugins":["anchors"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"anchors":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"theme":"default","author":"Hypha Worker Co-operative","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56},"embedFonts":false},"structure":{"langs":"LANGS.md","readme":"handbook.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"H&#8322;O","gitbook":"*","description":"Hypha handbook describes the vision, processes, and culture of Hypha Worker Co-operative. 🌿🍄"},"file":{"path":"guides.md","mtime":"2022-10-13T17:44:50.320Z","type":"markdown"},"gitbook":{"version":"3.7.1","time":"2022-10-13T17:45:02.416Z"},"basePath":".","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Guides 🚧","level":"4.1","depth":1,"next":{"title":"Templates","level":"4.2","depth":1,"path":"templates.md","ref":"templates.md","articles":[]},"previous":{"title":"Novel Coronavirus (2019) 🦠","level":"3.11","depth":1,"path":"coronavirus.md","ref":"coronavirus.md","articles":[]},"dir":"ltr"},"config":{"plugins":["anchors"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"anchors":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"theme":"default","author":"Hypha Worker Co-operative","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56},"embedFonts":false},"structure":{"langs":"LANGS.md","readme":"handbook.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"H&#8322;O","gitbook":"*","description":"Hypha handbook describes the vision, processes, and culture of Hypha Worker Co-operative. 🌿🍄"},"file":{"path":"guides.md","mtime":"2022-11-21T13:20:47.172Z","type":"markdown"},"gitbook":{"version":"3.7.1","time":"2022-11-21T13:20:57.065Z"},"basePath":".","book":{"language":""}});
         });
     </script>
 </div>
