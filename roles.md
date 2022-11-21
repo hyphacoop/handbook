@@ -2,7 +2,7 @@
 
 **Table of Contents**
 
-- [Roles 🚧](#roles-)
+- [Roles 🚧](#roles-🚧)
     - [Cultivator (aka Meeting Chair)](#cultivator-aka-meeting-chair)
     - [Finance Steward](#finance-steward)
     - [Initiative Lead](#initiative-lead)

@@ -31,8 +31,8 @@
 
 --
 
-* [Guides](guides.md)
+* [Guides 🚧](guides.md)
+* [Templates](templates.md)
 * [How We Use Data](data.md)
 * [Reading Pool](reading-pool.md)
 * [Glossary](glossary.md)
-
