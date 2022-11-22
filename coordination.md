@@ -38,12 +38,6 @@ Note that while most tasks show up as Issues from `hyphacoop/organizing` and `hy
 
 Members are encouraged to use emojis liberally to indicate they have, for example: 👀 read the comment, 👍 agree or 👎 disagree with the comment, etc. This applies generally to all our tools.
 
-## Making Decisions
-
-Once tasks are assigned to groups, the group is entrusted to make decisions on the task and make judgment on when it is necessary to consult the wider membership or request specific members for input. Larger group decisions are made either **at an All-hands Call and captured in meeting notes** or using **voting tools in Loomio**.
-
-When using [Loomio](https://loomio.hypha.coop) to set up a vote using the Proposal or Poll tool, the recommended voting period is 5 to 7 days. Post the voting link on the associated GitHub issue and tag `@hyphacoop/member-workers` or applicable GitHub handles, since GitHub is the primary place that everyone is actively checking for notification.
-
 ## Real-time Chat
 
 We use [Matrix](https://chat.tomesh.net/#/group/+hyphacoop:tomesh.net) as real-time chat for day-to-day task discussions and pinging members for urgent requests.
