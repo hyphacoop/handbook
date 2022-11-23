@@ -17,7 +17,7 @@ This is a checklist for onboarding a new Member to the Co-operative 🚀
   - [ ] Matrix public, private channels and community
   - [ ] Email members@ and initiative forwarders
   - [ ] Clockify
-  - [ ] Passbolt groups 
+  - [ ] Bitwarden groups 
   - [ ] GitHub organization
   - [ ] Google Drive (messy)
   - [ ] Google Calendars
@@ -33,7 +33,7 @@ This is a checklist for onboarding a new Member to the Co-operative 🚀
 - [ ] Add to:  
   - [ ] Matrix public channels and _as-needed_ private channels
   - [ ] Email initiative forwarders
-  - [ ] Passbolt groups (_as-needed_)
+  - [ ] Bitwarden groups (_as-needed_)
   - [ ] GitHub organization (_as-needed_ per-repo access)
   - [ ] Google Drive (_as-needed_ per-folder access)
   - [ ] ~~Google Calendars~~ (have not done this in the past)
