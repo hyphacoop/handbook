@@ -176,7 +176,7 @@ Operations then will work with Infrastructure to update appropriate permissions 
 
 
 
-## Initatives
+## Initiatives
 
 ### Setting up an Initiative
 
@@ -611,6 +611,90 @@ If this is the first time you use Wagepoint, please first review the [Running yo
 1. Return to the "Employee" tab listing, and use the "mail" icon to send an invite to the Employee to Wagepoint.
 
     ![payroll-new-employee-4](images/payroll-new-employee-4.png)
+    
+## Reporting HST
+
+Hypha reports HST to the Government of Canada quarterly. Deadlines for submitting HST to the CRA is at the end of the following month after the end of each quarter is completed. This means end of April, July, October and January. The process has three parts. Preparing the HST (this is done by the bookkeeper), filing the HST with CRA and if required payment of the amount owed.
+
+### Preparing HST
+
+The bookkeeper will prepare the HST reporting shortly after each quarter is over. They will send an e-mail to the Finance WG that looks like this:
+
+```
+Please file and pay the HST as per following lines:
+
+Line 101 : 10,000.00
+Line 105: 2,000.00
+Line 108: 1,000.00
+
+109-NET TAX 1000-will be automatically calculated
+115- Amount Owing 1000- will be automatically calculated
+```
+
+This will trigger Finance to take action.
+
+### Filing HST
+
+To Filing the HST you will need to access the CRA's `GST/HST NETFILE` website. The website and all relative identifying information can be found in Passbolt.
+
+1. Visit the `GST/HST NETFILE` website
+2. Press the `Ready to file` button
+3. Press the `Continue` button at the bottom of the page
+4. Enter the `Business Number` from Passbolt. Note the number does not include spaces. Note that on the site the number is broken into two fields seperated at `RT`
+5. Enter the `Access Code` from Passbolt's password field
+6. Enter the first day and last day of the quarter you are reporting for
+7. Confirm no checkboxes need to be checked (as of September 2021, no checkboxes are required to be checked)
+8. Press `Next`
+9. Enter line `101`, `105` and `108` from the bookkeeper's email. Make sure you do not have any leading or trailing spaces and only one decimal place
+10. Click `Next`
+11. Review summary, and check line `109` and `114` or `115` for matching values from the bookkeeper's email
+12. Check `Yes` regarding payment (if applicable)
+13. Check the box under `Certification`
+14. Click `Submit`
+15. Click `Save as PDF` at the bottom of the page
+16. Rename file in correct format with today's date and last day of quarter `yyyy`-`mm`-`dd`-hst-ending-20`xx`-`xx`-`xx`-netfile.pdf`
+17. Upload file to Google Drive until `-Backoffice/Finance/HST`
+
+### Payment of HST
+
+If payment is required for HST, you will need to coordinate with another member that has signing authority at the bank. The payment must be confirmed by the 2nd person within 48 hours.
+
+1. Login to Desjardins
+2. Select the `Payments` button on the right, a pulldown menu will appear
+3. Select `Government remittances - Can-Act`
+4. Select `Confirm` on the popup
+5. Select `Federal - GST/HST`
+6. Select `Pay` at the top bar
+7. Enter last day of the quarter as `Period Ending`
+8. Enter amount from Line 115 as `Amount owing`
+9. Confirm right amount displays in `Total payment` field
+10. Select `Next`
+11. Confirm values are correct
+12. Select `Submit`
+13. Confirm message `The transaction is now in Pending Approval status and requires 1 approver(s).` Displays at the top
+14. Click `Done`
+
+## Initiatives
+
+### Setting up an Initiative
+
+An initiative proposal should be **brief** and provide and overview and argument and use the [template](https://github.com/hyphacoop/organizing/blob/master/_posts/initiatives/-initiative-xxx.md). You can add more sections as appropriate, including sample code, project roadmap, etc. Examples can be found in our [initives archive](https://github.com/hyphacoop/organizing-private/tree/master/initiatives-internal) 🔒.
+
+Once a proposal has been drafted and approved, the squad will set up a new initiative with support from the [Operations squad](initiatives.md#operations)
+
+### Leads, Opportunities & Client Proposals
+
+While the [Opportunities squad](initiatives.md#opportunities) is mainly in charge of sales lead generation,
+all members may pursue leads as they come up.
+Members are strongly encouraged to record leads into the co-operative's [leads tracking system](https://link.hypha.coop/leads) whether or not we want to pursue this lead.
+
+If a member decides to pursue a **lead**,
+they can reach out to gauge potential interest in working together.
+If the lead expresses intention to proceed with a concrete project in mind,
+this becomes an **opportunity**.
+The member now heads up this sales effort and drafts an **Initiative Proposal** with support from the [Opportunities squad](initiatives.md#opportunities), then present it (e.g., at a meeting, or via virtual channels) to see whether the co-operative wants to move forward.
+In this meeting, we should discuss any concerns by other members,
+and gauge team capacity given project timelines.
 
 ## Sensitive Data
 
@@ -754,10 +838,11 @@ To access voicemail inbox you can either call remotely or through a configured S
 
 - Remotely
   1. Call the number `4378876936`  
-  1. Wait for the intro audio to finish followed by a 1 second pause
-  1. When the audio resumes press `*`
-  1. Listen and confirm you hear the prompt `Extension 3101, password`
-  1. Enter our password followed by #: <in our shared password manager Bitwarden>
+  2. Wait for the intro audio to finish followed by a 1 second pause
+  3. When the audio resumes press `*`
+  4. Listen and confirm you hear the prompt `Extension 3101, password`
+  5. Enter our password followed by #: <in our shared password manager Bitwarden
+
 
 - SIP client: 
   Dial `*98`

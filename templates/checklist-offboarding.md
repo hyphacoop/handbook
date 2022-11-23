@@ -8,7 +8,7 @@ This is a checklist for offboarding a member of the Co-operative 👋😢
   - [ ] Signal 
   - [ ] Matrix active WG/initiative channels
   - [ ] Email WG/initiative forwarders
-  - [ ] Passbolt groups 
+  - [ ] Bitwarden groups 
   - [ ] GitHub WG/initiative teams
   - [ ] Desjardins 
   - [ ] Wise 
@@ -18,7 +18,7 @@ This is a checklist for offboarding a member of the Co-operative 👋😢
   - [ ] Loomio (if they have?)
   - [ ] Google Drive (messy)
   - [ ] Google Calendar
-  - [ ] Payroll (handled in passbolt groups)
+  - [ ] Payroll (handled in BitWarden groups)
 - [ ] Remove SSH keys from:
   - [ ] Servers
 
@@ -29,7 +29,7 @@ This is a checklist for offboarding a member of the Co-operative 👋😢
   - [ ] Matrix all private channels and community
   - [ ] Email members@ and WG/initiative forwarders
   - [ ] Clockify
-  - [ ] Passbolt groups 
+  - [ ] Bitwarden groups 
   - [ ] GitHub organization (per-repo access as needed?)
   - [ ] Google Drive (messy)
   - [ ] Google Calendars
@@ -62,7 +62,7 @@ This is a checklist for offboarding a member of the Co-operative 👋😢
 | Own inbox | ✅ | ✅ (monitored encourage out of office, not responding from email) | ❌   |
 | members@ 	| ✅	| ✅	| ❌  	|
 | other WG/initiative groups   | ✅ | ❌  | ❌   |
-| **Passbolt** 	|  	|  	|  	|
+| **Bitwarden** 	|  	|  	|  	|
 | General   | ✅ | ✅ | ❌  |
 | Groups   | ✅ | ❌  | ❌  |
 | **GitHub Organization** 	|  	|  	|  	|

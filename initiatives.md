@@ -1,23 +1,12 @@
 # Initiatives
 
-⚠️ _Warning: This information has not been updated for 2021 Q4 as we're planning to reduce the duplication of information between our  [initiatives database][members]🔒 and this handbook page. Please refer to the iniatives database for up to date guidance on hours._ ⚠️
 
 Initiatives are mission-oriented projects that are executed by a self-organising team of 2-4 Hypha members who have the skills and tools to design, build, gather feedback or test, and finalize/release on the project. These include both internal and external-facing projects and tend to be reviewed on a quarterly basis. 
 
-Below we have the list of **active** initiatives as of **2021 Q3**, with full information in our [initiatives database][members] 🔒 and we keep an [archive of our projects][projects] 🔒.
+Below we have the list of **active** initiatives as of **2022 Q2**. Detailed information about our client projects is in our [initiatives database][members] 🔒. We also keep an [archive of our projects][projects] 🔒.
 
 [projects]: https://github.com/hyphacoop/organizing-private/tree/master/initiatives-internal.
 
-### Complete Migration and Deprecation
-
-Initiative for completing migration of core Hypha services to new Server (Passbolt, BBB) and deprecate unneeded ones (Jitsi).
-
-⏲️ Status: Ending Q3 2021  
-📑 Timeline: June - September 2021   
-📈 Scale and Est. Hours: [Small][hours]  
-📅 Calls: [?][calendar] 📝  
-👪 Squad Members: [**el (lead)** and others][members]   
-✅ Tasks: GitHub board > [`init-migration` label][l-migration]  
 
 ### Dripline
 
@@ -27,7 +16,7 @@ Initiative for developing Hypha’s writing practice by publishing bi-monthly pu
 📑 Timeline: Ongoing  
 📈 Scale and Est. Hours: [Medium][hours]  
 📅 Calls: [Monthly][calendar]   
-👪 Squad Members: [**dc (lead)** and others][members]  
+👪 Squad Members: [**uv (lead)** and others][members]  
 ✅ Tasks: GitHub board > [`init-drip` label][l-drip]  
 
 ### Hello Hypha
@@ -38,15 +27,26 @@ Initiative for meeting neighbours, potential collaborators, and the co-op curiou
 📑 Timeline: Ongoing  
 📈 Scale and Est. Hours: [Small][hours]  
 📅 Calls: [Weekly][calendar]   
-👪 Squad Members:  [**uv (lead)** and others][members]   
+👪 Squad Members:  [**bl (lead)** and others][members]   
 ✅ Tasks: GitHub board > [`init-hello` label][l-hello] 
+
+### Hiring
+
+Initiative for shepharding the hiring proces: identifying and refining roles, forming hiring committees, writing job descriptions, and interviewing.
+
+⏲️ Status: Launched   
+📑 Timeline: Ongoing
+📈 Scale and Est. Hours: [large][hours]   
+📅 Calls: [bi-weekly][calendar]    
+👪 Squad Members: [**uv (lead)** and others][members]    
+✅ Tasks: GitHub board > [`init-hiring` label][l-hiring]  
 
 ### Improving Tech Stack
 
-Initiative for addressing members' ongoing workflow issues with current technical stack (e.g., Calendar, Email, and varying clients).
+Initiative for improving workflow, testing and adding new tools as new requirements emerge.
 
-⏲️ Status: Ending Q3 2021 
-📑 Timeline: July - September 2021   
+⏲️ Status: Launched 
+📑 Timeline: Ongoing 
 📈 Scale and Est. Hours: [Medium][hours]   
 📅 Calls: [Monthly][calendar]  
 👪 Squad Members: [**yj (lead)** and others][members]   
@@ -89,27 +89,15 @@ Initiative for being active in co-operative spaces (e.g., CIU, CWCF, etc.) and g
 
 ### Social Spaces
 
-Initiative for maintaining Hypha's social media accounts (e.g., Dripline, Twitter, Instagram, LinkedIn) and other platforms we use that have a social element (e.g., OpenCollective, Arena, GitHub).
+Initiative for maintaining Hypha's social media accounts (e.g., Twitter, Instagram, LinkedIn) and other platforms we use that have a social element (e.g., OpenCollective, Arena, GitHub).
 
 ⏲️ Status: Launched   
 📑 Timeline: Ongoing   
 📈 Scale and Est. Hours: [Medium][hours]   
 📅 Calls: [Weekly][calendar]    
-👪 Squad Members: [**dc (lead)** and others][members]    
+👪 Squad Members: [**bl (lead)** and others][members]    
 ✅ Tasks: GitHub board > [`init-socials` label][l-socials]  
 
-In addition to this initiative, we launched a Summer Marketing Initiative supported by Canada Summer Jobs in Q2-Q3 2021.
-
-### Hiring
-
-Initiative for hepharding the hiring proces: identifying and refining roles, forming hiring committees, writing job descriptions, and interviewing.
-
-⏲️ Status: Launched   
-📑 Timeline: July - December 2021
-📈 Scale and Est. Hours: [large][hours]   
-📅 Calls: [bi-weekly][calendar]    
-👪 Squad Members: [**uv (lead)** and others][members]    
-✅ Tasks: GitHub board > [`init-hiring` label][l-hiring]  
 
 ## Back office 
 

@@ -27,7 +27,7 @@ To create VMs manually follow these steps (the steps below will need to be done 
 3. Make a name for internal DNS if needed example `service.hypha.prod` in <a href="https://github.com/hyphacoop/inventory-private/blob/master/inventory-kvm1-ip.md#local-dns" data-proofer-ignore>Internal DNS table</a>
 
 #### Reserve DNS name using pfSense
-4. Log in to pfSense web dashboard <a href="https://198.51.100.1/services_unbound.php" data-proofer-ignore>here</a>. Username `admin`, password is in Passbolt.
+4. Log in to pfSense web dashboard <a href="https://198.51.100.1/services_unbound.php" data-proofer-ignore>here</a>. Username `admin`, password is in Bitwarden 
 5. Add DNS hostname to pfSense's DNS resolver `Host Overrides` under `Services->DNS Resolver` <a href="https://198.51.100.1/services_unbound.php" data-proofer-ignore>here</a>
 - With the example `service.hypha.prod` Host will be `service` Parent domain of host will be `hypha.prod` IP to return for host will be the LAN IPv4 and or IPv6. If dualstack use `,` for comma-separated addresses `10.0.1.9,2001:470:b1f3:1::9`
 
