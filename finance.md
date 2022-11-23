@@ -46,35 +46,6 @@ Our TransferWise account does not require multiple signatures, and the Finance W
 Hypha charges clients on a sliding scale, and projects may be billed hourly, weekly, monthly, or per project, depending on the specifics of each project.
 The recommended practice is to send an invoice every month, or a quote if the amount for the month is small and at the discretion of the project.
 
-In cases where an invoice is not collected in time for payroll, or failed to be collected altogether, this is treated as a cost to the Co-operative and we strongly advocate that this not affect the timely payroll to the Member.
-
-In order to create invoices and to collect payments, there are three general steps that need to be performed in order.
-
-### Generating Timesheets
-
-For clients with billing models that require tracked work hours, **Clockify** is used to generate timesheets for determining the invoice amount each period, and often for calculating Member wages.
-These timesheets are archived in our [shared drive](https://link.hypha.coop/drive) under the `Timesheets` directory and may be attached to invoices at client request.
-
-Refer to the guides for [Timesheets](/guides.md#timesheets) to generate and archive your project timesheets.
-
-### Generating Invoices
-
-Refer to the guides for [Invoices](/guides.md#invoices) and generate an invoice in **Quickbooks Online** based on the project pricing structure (e.g. timesheet hours and project rate) and payment information.
-
-In general, the client is responsible for paying applicable HST and transaction costs charged by their financial institution, and Hypha pays the cost of receiving the payment (e.g. cost of receiving a wire).
-Invoices are sent to clients and are preferably due 2 weeks after the invoice date (i.e. Net 15), after which a late fee may be charged for each additional week.
-
-### Settling Payments
-
-After client payments are collected at our **Desjardins** or **TransferWise** accounts, we need to:
-
-1. Move money to the appropriate accounts at our financial institutions
-1. Record exchange rates and transaction costs
-1. Update our bookkeeping records in **Quickbooks Online**
-1. Finalize and archive invoices
-
-Refer to the guides for [Invoices](/guides.md#invoices) to handle the settling of payments with someone from the Finance WG.
-
 ## Member Payroll
 
 Member wages are paid on the **pay day**, which is the **15th of each month** or the last working day prior if the 15th happens to land on a holiday.
