@@ -1,4 +1,3 @@
- 
 # Reporting HST
 
 Hypha reports HST to the Government of Canada quarterly. Deadlines for submitting HST to the CRA is at the end of the following month after the end of each quarter is completed. This means end of April, July, October and January. The process has three parts. Preparing the HST (this is done by the bookkeeper), filing the HST with CRA and if required payment of the amount owed.

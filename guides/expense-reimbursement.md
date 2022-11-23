@@ -1,4 +1,3 @@
-
 # Expense Reimbursement
 
 Employees should submit eligible expenses in the same quarter they are incurred.

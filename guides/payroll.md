@@ -86,4 +86,4 @@ If this is the first time you use Wagepoint, please first review the [Running yo
 1. Return to the "Employee" tab listing, and use the "mail" icon to send an invite to the Employee to Wagepoint.
 
     ![payroll-new-employee-4](images/payroll-new-employee-4.png)
-   
+    

@@ -2,7 +2,7 @@
 
 ## Accessing Voicemail 
 
-We use a VoIP phone line provider with forwarding and voicemail from [voip.ms](https://www.voip.ms). It helps us:
+We use a VoIP phone line provider with forwarding and voicemail from <a href="https://www.voip.ms" data-proofer-ignore>voip.ms</a>. It helps us:
 
 - Have a phone number without tying it to a physical location
 - Receive voicemail by email to [members@hypha.coop](mailto:members@hypha.coop)
@@ -12,10 +12,11 @@ To access voicemail inbox you can either call remotely or through a configured S
 
 - Remotely
   1. Call the number `4378876936`  
-  1. Wait for the intro audio to finish followed by a 1 second pause
-  1. When the audio resumes press `*`
-  1. Listen and confirm you hear the prompt `Extension 3101, password`
-  1. Enter our password followed by #: in our shared password manager Passbolt
+  2. Wait for the intro audio to finish followed by a 1 second pause
+  3. When the audio resumes press `*`
+  4. Listen and confirm you hear the prompt `Extension 3101, password`
+  5. Enter our password followed by #: <in our shared password manager Bitwarden
+
 
 - SIP client: 
   Dial `*98`
