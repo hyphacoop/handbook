@@ -14,26 +14,6 @@ then it becomes the responsibility of the group.
 A task may further be assigned to a specific member.
 Labels are also used to indicate priorities of tasks.
 
-The following table lists all the groups and search filters that help members keep track of tasks they are responsible for.
-
-- **Assignments** mean you or your group is _responsible for the task_. The rate tasks are completed and their relative priorities are decisions by the group
-- **Mentions** mean you or your group is _requested for input_. The response time expectation is **2 working days**, which means each member should check their Mentions at least that frequently, for their own GitHub handle and every [GitHub Team](https://github.com/orgs/hyphacoop/teams) they are part of
-
-|                      | Assignments                                              | Mentions                                                                     |
-|:---------------------|:---------------------------------------------------------|:-----------------------------------------------------------------------------|
-| You                  | [assignee:you][assignee:you]                             | [mentions:you][mentions:you]                                                 |
-| **Org Groups**       |
-| Member Workers       |                                                          | [team:@hyphacoop/member-workers][team:@hyphacoop/member-workers]             |
-| Directors            |                                                          | [team:@hyphacoop/directors][team:@hyphacoop/directors]                       |
-| **Working Groups**   |
-| Business Planning WG | [label:wg:business-planning][label:wg:business-planning] | [team:@hyphacoop/business-planning-wg][team:@hyphacoop/business-planning-wg] |
-| Finance WG           | [label:wg:finance][label:wg:finance]                     | [team:@hyphacoop/finance-wg][team:@hyphacoop/finance-wg]                     |
-| Governance WG        | [label:wg:governance][label:wg:governance]               | [team:@hyphacoop/governance-wg][team:@hyphacoop/governance-wg]               |
-| Infra & Ops WG       | [label:wg:infra-ops][label:wg:infra-ops]                 | [team:@hyphacoop/infra-ops-wg][team:@hyphacoop/infra-ops-wg]                 |
-| **Project Groups**   |
-| Aether PG            | [label:proj:aether][label:proj:aether]                   |                                                                              |
-| Primal Glow PG       | [label:proj:primal-glow][label:proj:primal-glow]         |                                                                              |
-
 Note that while most tasks show up as Issues from `hyphacoop/organizing` and `hyphacoop/organizing-private`, there will also be Issues from other repositories, and some items that require your attention will show up as Pull Requests. The above search filters will catch everything. It is recommended for members to bookmark the search filters that apply to them in their browser and check them everyday.
 
 Members are encouraged to use emojis liberally to indicate they have, for example: 👀 read the comment, 👍 agree or 👎 disagree with the comment, etc. This applies generally to all our tools.
@@ -67,3 +47,12 @@ Members can use _office hours_ to identify work hour overlaps with each other, w
 [team:@hyphacoop/infra-ops-wg]: https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+archived%3Afalse+org%3Ahyphacoop+team%3Ahyphacoop%2Finfra-ops-wg
 [label:proj:aether]: https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+archived%3Afalse+org%3Ahyphacoop+label%3Aproj%3Aaether
 [label:proj:primal-glow]: https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+archived%3Afalse+org%3Ahyphacoop+label%3Aproj%3Aprimal-glow
+
+## Signal
+
+We use Signal for emergency communications.
+
+
+## Google Drive
+
+We use [Google Drive](https://link.hypha.coop/drive) (with both privileged 🔒 and public folders)
