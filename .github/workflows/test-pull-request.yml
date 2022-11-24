@@ -11,9 +11,9 @@ jobs:
     - uses: actions/checkout@v1
 
     - name: Setup Node
-      uses: actions/setup-node@v1
+      uses: actions/setup-node@v3
       with:
-        node-version: '10.x'
+        node-version: '16.x'
 
     - name: Install and build
       run: |
@@ -35,6 +35,8 @@ jobs:
           ${{ runner.os }}-gem-
 
     - name: Install htmlproofer
+      with:
+          htmlproofer-version: '3.x'
       run: |
         gem install bundler
         bundle config path vendor/bundle
