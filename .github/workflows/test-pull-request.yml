@@ -34,13 +34,7 @@ jobs:
         restore-keys: |
           ${{ runner.os }}-gem-
 
-    - name: Install htmlproofer
-      with:
-          htmlproofer-version: '3.x'
-      run: |
-        gem install bundler
-        bundle config path vendor/bundle
-        bundle install
-
-    - name: Test the HTML
-      run: make check-cautious
+    -name: Check HTML
+        uses: chabad360/htmlproofer@master
+        with:
+          directory: "./_book"
