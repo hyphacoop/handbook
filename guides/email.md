@@ -24,7 +24,7 @@ _Note: Consider creating a [new GitHub issue in `hyphacoop/organizing`](https://
       <img alt="Screenshot of Mailcow mailbox tab" src="images/email-mailbox-2.png" />
     </details>
 3. Fill out the following fields, noting the password:
-    - First Name, LastName: ``[use preferred public name]`
+    - First Name, Last Name: `[use preferred public name]`
       _Note: Last name is manditory. This will be the default that will show up in e-mail. User _ if no last name is sepcified.
     - Primary email: `[use @hypha.coop prefix]`
     - Domain: `hypha.coop (or if required alternative primay email address)`
