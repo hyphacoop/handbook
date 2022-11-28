@@ -1,8 +1,6 @@
 # Member-workers
 
-Hypha has seven **member-workers**, or **members**, all of which are founding members, 
-with six currently serving as directors on the board.
-Members are expected to acknowledge the duties of their relationship with Hypha by signing the *Membership Acknowledgement*.
+Hypha has seven **member-workers**, or **members**, four of which are full members and three are probationary members. Members are expected to acknowledge the duties of their relationship with Hypha by signing the *Membership Acknowledgement*.
 
 
 ## Being a Good Member
