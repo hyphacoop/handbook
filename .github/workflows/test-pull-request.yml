@@ -33,8 +33,3 @@ jobs:
         key: ${{ runner.os }}-gem-${{ hashFiles('**/Gemfile') }}
         restore-keys: |
           ${{ runner.os }}-gem-
-
-    -name: Check HTML
-        uses: chabad360/htmlproofer@master
-        with:
-          directory: "./_book"
