@@ -55,4 +55,4 @@ We use Signal for emergency communications.
 
 ## Google Drive
 
-We use [Google Drive](https://link.hypha.coop/drive) (with both privileged 🔒 and public folders)
+We use [Google Drive](https://link.hypha.coop/drive) (with both privileged 🔒 and public folders).
