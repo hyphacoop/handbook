@@ -44,7 +44,7 @@ Bylaws adopted: June 13, 2020
   1. **Qualifications for Membership** – The board of directors may
     admit as a member in the Co-operative a person who:
 
-    A. is an employee of the Co-operative;  
+    A. is an employee or foreign contractor of the Co-operative;  
     B. supports the objects of the Co-operative as described in section 1.2
        of these bylaws;  
     C. has performed at least 800 hours of paid work for the Co-operative
@@ -95,6 +95,12 @@ Bylaws adopted: June 13, 2020
     If the worker does not wish to become a member in the Co-operative, they
     may decline to apply for membership and continue to work for the
     Co-operative as a non-member at the board’s discretion.
+
+  1. **Foreign Contractors** – Foreign contractors must be non-residents of
+    and conducting work remotely outside of Canada. They are eligible for
+    probationary membership upon special approval by the board of directors,
+    and may apply for full membership according to the application process
+    detailed in section 2.4.
 
   1. **Benefits of Membership** – Members shall enjoy the following
     rights of membership:
