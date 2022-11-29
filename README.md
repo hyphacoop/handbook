@@ -60,6 +60,18 @@ make check
 # Run slower (to avoid failing links from servers throttling you)
 make check-cautious
 ```
+Once you have installed the above tools, these are the steps required to make edits to existing Handbook pages:
+
+1. Check that your local version of the main (master) branch is up to date. If not, you should pull recent changes from GitHub. On the command line you'll have to first use `git checkout master` and then `git pull`.
+2. Create a new branch: select New branch (if using GitHub Desktop) and give it a title of whatever you're planning to work on e.g., roles-page-update. On the command line you can use `git checkout -b your-branch-name`.
+3. Make your edits or changes using a text editor
+4. If you're using the command line, you'll have to stage changes you want to commit. You can use `git add file-name` to do that.
+5. Commit the change and write a summary message for that commit. If using the command line, you can use `git commit -m "your summary message"
+6. Push the changes upstream to GitHub. With the command line you can use `git push`
+7. Make a pull request to the master branch from your branch
+8. Assign a co-worker to review the changes
+9. Co-worker reviews and then accepts the pull request, and the update is made  
+
 
 ## 🚀 Deployment
 
