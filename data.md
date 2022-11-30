@@ -4,7 +4,7 @@ Hypha is [a worker co-operative incorporated in Ontario, Canada](https://handboo
 We run our public website, this member handbook, and a variety of services at the domain [hypha.coop](https://hypha.coop) and its subdomains. 
 This page identifes what data we collect and why, as well as where and how long we store collected data for.
 
-This page was last updated on November 17, 2022. You can see previous versions on [GitHub](https://github.com/hyphacoop/handbook/). The outline and format is inspired by [Projects by IF: How IF uses data](https://projectsbyif.com/privacy-policy/).
+This page was last updated on November 29, 2022. You can see previous versions on [GitHub](https://github.com/hyphacoop/handbook/). The outline and format is inspired by [Projects by IF: How IF uses data](https://projectsbyif.com/privacy-policy/).
 
 ### Contents
 
@@ -25,7 +25,6 @@ The following sites and services are at the domain [hypha.coop](https://hypha.co
 - Shortlinks: [link.hypha.coop](https://link.hypha.coop)
 - COVID-19 Solidarity: [covid19.hypha.coop](https://covid19.hypha.coop)
 
-
 ### What data we collect
 
 **System logs** may contain:
@@ -40,12 +39,6 @@ The following sites and services are at the domain [hypha.coop](https://hypha.co
 
 - First and last name
 - Email address
-
-**Videoconferencing data** may contain:
-
-- Network usage information and aggregated statistics, such as number of users, number of meetings, number of video and audio streams, session lengths, etc.
-- Chat logs, notes, and uploaded content during meetings, such as presentations and images
-- Phone numbers that connect to meetings (if audio connection is made via a telephone call)
 
 We do not knowingly collect any information from children under the age of 13 without appropriate consent and authorization.
 If you believe we have inadvertently collected personal information from a child under 13 without proper consents please contact <a href="mailto:%64%61%74%61%40%68%79%70%68%61%2E%63%6F%6F%70">data@hypha.coop</a> so that we may delete such information as soon as possible.
@@ -76,9 +69,6 @@ User accounts necessary to deliver services and content are generally kept indef
 Deleting your account on a particular service generally does not mean all your information is deleted from our periodic backups.
 If you have a concern, please email <a href="mailto:%64%61%74%61%40%68%79%70%68%61%2E%63%6F%6F%70">data@hypha.coop</a>.
 
-Videoconferencing audio and video are only kept briefly in the buffer throughout the call and not recorded.
-
-
 The [Matrix chat](https://chat.tomesh.net/#/group/+hyphacoop:tomesh.net) in Hypha rooms are periodically wiped to keep only the most recent 3 months of history.
 However, as Matrix is a federated chat protocol, chat history older than 3 months may be retained by other homeservers, and in particular, public rooms with users from other homeservers.
 
@@ -94,7 +84,11 @@ Our social media accounts include:
 
 We also use third-party services to host and deliver services and content, almost exclusively to our members, however in some cases we may use them with our collaborators:
 
-- [Email services](https://mailninja.aseriesoftubez.com) by [A Series of Tubez Networks](https://www.aseriesoftubez.com)
-- [Matrix chat services](https://chat.tomesh.net) by [Toronto Mesh](https://tomesh.net)
+- [BigBlueButton](https://link.hypha.coop/meetcoop) by [The Online Meeting Cooperative](https://meet.coop)
+- [Digital Ocean](https://digitalocean.com)
+- [GitHub](https://github.com/hyphacoop)
+- [Google Workplace](https://workspace.google.com)
+- [Matrix chat](https://chat.tomesh.net) by [Toronto Mesh](https://tomesh.net)
+- [Slack](https://hyphahq.slack.com)
 
 For a full list of services we use, please refer to our [Services Inventory](https://link.hypha.coop/inventory).
