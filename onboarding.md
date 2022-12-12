@@ -1,4 +1,4 @@
-# Onboarding
+# On/offboarding
 
 Welcome to Hypha! This page is to help those getting situated in our organization.
 
@@ -27,7 +27,6 @@ Instead of a physical place we have virtual office with the following spaces:
 We also have the following "helper" tools to navigate our office spaces:
 
 - [Link Shortener][link-shortener] (`link.hypha.coop`)
-- [Service Inventory][service-inventory]
 
 
 ## Onboarding Checklist
@@ -103,7 +102,6 @@ This is a checklist for onboarding new members, workers, and contractors to the 
 
 <!-- Links -->
 [link-shortener]: https://link.hypha.coop
-[service-inventory]: https://link.hypha.coop/inventory
 [accessing-em]: /guides.md#using-your-new-inbox-users
 [accessing-vm]: /guides.md#accessing-voicemail
 [managing-vm]: /guides.md#managing-voicemail-and-phone-forwarding

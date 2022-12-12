@@ -25,7 +25,7 @@ _Note: Consider creating a [new GitHub issue in `hyphacoop/organizing`](https://
     </details>
 3. Fill out the following fields, noting the password:
     - First Name, Last Name: `[use preferred public name]`
-      _Note: Last name is manditory. This will be the default that will show up in e-mail. User _ if no last name is sepcified.
+      _Note: Last name is mandatory. This will be the default name that will show up in e-mail. User _ if no last name is specified.
     - Primary email: `[use @hypha.coop prefix]`
     - Domain: `hypha.coop (or if required alternative primay email address)`
     <details>
@@ -35,7 +35,7 @@ _Note: Consider creating a [new GitHub issue in `hyphacoop/organizing`](https://
 
 4. Send invite to alternative email address 
 **OR**
-Revelea password and from your own `@hypha.coop` email, send a welcome email, like this template:
+Reveal password and from your own `@hypha.coop` email, send a welcome email, like this template:
     > Hi XXXX --
     >
     > Yay! Your Hypha email's set up and forwarding to your personal inbox. People can start emailing you at this address immediately, without any extra effort on your part.
