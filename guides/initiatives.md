@@ -4,13 +4,12 @@
 
 An initiative proposal should be **brief** and provide and overview and argument and use the [template](https://github.com/hyphacoop/organizing/blob/master/_posts/initiatives/-initiative-xxx.md). You can add more sections as appropriate, including sample code, project roadmap, etc. Examples can be found in our [initiatives archive](https://github.com/hyphacoop/organizing-private/tree/master/initiatives-internal) 🔒.
 
-Once a proposal has been drafted and approved, the squad will set up a new initiative with support from the [Operations squad](../initiatives.md#operations)
+Once a proposal has been drafted and approved, the squad will set up a new initiative with support from the [Operations squad](../initiatives.md#operations).
 
 ### Leads, Opportunities & Client Proposals
 
 While the [Opportunities squad](../initiatives.md#opportunities) is mainly in charge of sales lead generation,
 all members may pursue leads as they come up.
-Members are strongly encouraged to record leads into the co-operative's [leads tracking system](https://link.hypha.coop/leads) whether or not we want to pursue this lead.
 
 If a member decides to pursue a **lead**,
 they can reach out to gauge potential interest in working together.
