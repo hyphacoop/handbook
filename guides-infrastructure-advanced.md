@@ -71,7 +71,7 @@ To create VMs manually follow these steps (the steps below will need to be done 
 
 ## OVH Hosting
 
-We host our virtual machines on a dedicated server rented from [OVH](https://www.ovh.com/ca/en/) in Beauharnois. The anaversary date is May 22.
+We host our virtual machines on a dedicated server rented from [OVH](https://www.ovh.com/ca/en/) in Beauharnois. The anniversary date is May 22.
 
 Dedicated server specs as follows
 - Processor: Intel Xeon E5-1650v4
