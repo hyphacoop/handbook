@@ -2,7 +2,7 @@
 
 ### Setting up an Initiative
 
-An initiative proposal should be **brief** and provide and overview and argument and use the [template](https://github.com/hyphacoop/organizing/blob/master/_posts/initiatives/-initiative-xxx.md). You can add more sections as appropriate, including sample code, project roadmap, etc. Examples can be found in our [initives archive](https://github.com/hyphacoop/organizing-private/tree/master/initiatives-internal) 🔒.
+An initiative proposal should be **brief** and provide and overview and argument and use the [template](https://github.com/hyphacoop/organizing/blob/master/_posts/initiatives/-initiative-xxx.md). You can add more sections as appropriate, including sample code, project roadmap, etc. Examples can be found in our [initiatives archive](https://github.com/hyphacoop/organizing-private/tree/master/initiatives-internal) 🔒.
 
 Once a proposal has been drafted and approved, the squad will set up a new initiative with support from the [Operations squad](../initiatives.md#operations)
 
