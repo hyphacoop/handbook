@@ -1,35 +1,44 @@
 # Holidays, Time Off, and Leaves
 
+## Vacation and PTO Days
 
-## Sick Days, Personal Time Off, and Leaves of Absence
-### Sick Days
-We have no policy limiting the number of sick days that members take. 
-
-### Personal Time Off (Vacation)
-On a quarterly basis, members should identify what a full work week means for them in terms of days (i.e., a three-, four-, or five-day work week). Based on this, members are entitled to 3 weeks of vacation, and only a maximum of 2 weeks (about 4%) can be paid out.
+On a quarterly basis, members should identify their [time commitment](time-commitment.md) (i.e., three- or four-day work week). Based on this, members are entitled to 3 weeks of flexible time off, plus the days between Boxing Day and New Year's Day when all of Hypha is closed.
 
 | Days in work week | Vacation days over year |
-|:--|:--|
-| 3 | 9 |
-| 4 | 12 |
-| 5 | 15 |
+|------------------:|------------------------:|
+|                 1 |                       3 |
+|                 2 |                       6 |
+|                 3 |                       9 |
+|                 4 |                      12 |
+|                 5 |                      15 |
 
-### Lieu days
-When an employee works beyond the allotted hours in their full work week, they are expected to take a lieu day at a later date so as not to overwork themself. For example, if Alice commits to working a four-day work week but ends up working five days in a particular week, they should work three days the next week (or within a reasonable amount of time).
+Members are responsible for keeping track of and reporting their vacation days. It is strongly recommended that members take all their alloted days, and in the event that they are not fully utilized, only a maximum of 2 weeks can be paid out each year.
 
-### Leaves of Absence
-Prolonged absences beyond the allocated vacation days are not limited, but they are not considered paid vacation.
+## Lieu Days
 
-### Tracking
-Member-workers are responsible for tracking their vacation day usage and reporting to the Finance working group at end-of-year for the purpose of paying out unused days. Only a maximum of 2 weeks (about 4%) can be paid out, the rest you are forced to take.
+When a member works beyond the allotted hours in their full work week, they are expected to take a lieu day at a later date so as not to overwork themself. For example, if Alice commits to working a four-day work week but ends up working five days in a particular week, they should work three days the next week (or within a reasonable amount of time).
 
-Coming soon: Our office pet, Roo, will help us track our days in Matrix.
+Lieu days are self-tracked and arranged with the member's initiative leads as to be not distruptive to the initiative.
 
+## Sick Days
+
+We have no policy limiting the number of sick days that members take.
+
+## Leaves of Absence
+
+Prolonged absences beyond the allocated vacation days are not limited, but they are not considered paid vacation, and arrangements should be made with initiative leads with corresponding [time commitment](time-commitment.md) adjustments.
 
 ## Public and Additional Holidays
-Our virtual office is closed during [Ontario's nine public holidays](https://www.ontario.ca/document/your-guide-employment-standards-act-0/public-holidays) and member-workers are entitled (encouraged) to those days off and receive an [annualized public holiday pay](https://handbook.hypha.coop/finance.html#public-holiday-pay). We recognize three additional holidays where the office is closed and members are encouraged not to work: Civic Holiday (first Monday in August), May Day or International Workers' Day (May 1), and Remembrance Day (November 11). During December Holidays the virtual office is closed between Dec 25 and Jan 1.
 
-In cases where members choose to work on these days, or under special circumstances where a project requires, they will receive [regular wages](https://handbook.hypha.coop/finance.html#public-holiday-pay) for those hours and are entitled to take substitute time off.
+Our virtual office is closed during [Ontario's nine public holidays](https://www.ontario.ca/document/your-guide-employment-standards-act-0/public-holidays). We recognize three additional holidays where the office is closed and members are encouraged not to work:
+
+- Civic Holiday (first Monday in August)
+- May Day or International Workers' Day (May 1)
+- Remembrance Day (November 11)
+
+Additionally, the December Holidays where the virtual office is closed between Dec 25 and Jan 1.
+
+If a public holiday lands on a member's off-day under a four-day work week, the member should take one of the work days off as a make-up holiday.
 
 | **Holiday**                                      | **2022**          | **2023**          | **2024**         |
 |--------------------------------------------------|-------------------|-------------------|------------------|
