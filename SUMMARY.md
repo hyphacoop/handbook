@@ -28,6 +28,7 @@
 * [Finance](finance.md)
 * [Fiscal Sponsorship](fiscal-sponsorship.md)
 * [Holidays, Time off, and Leaves](holidays.md)
+* [Time-Tracking](time-tracking.md)
 * [Pet Policy](pet.md)
 * [Peer Feedback](peer-feedback.md)
 
