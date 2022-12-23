@@ -1,6 +1,6 @@
 # Employee Salary Guide
 
-This document outlines the salary tiers of Hypha employees and the evaluation process.
+This document outlines the salary tiers of Hypha members and the evaluation process.
 
 ## Evaluation
 
@@ -17,15 +17,15 @@ with the following criteria:
 | **L**evel          |       `L=1.160` | Skills and experiences `l=[0-6]`                                                                 |
 | **R**esponsibility |       `R=1.120` | Responsibilities `r=[0-4]`                                                                       |
 | **S**eniority      |       `S=1.025` | Seniority in organization `s=[0-3]`                                                              |
-| Commitment         | `0.250`-`1.200` | Modifier applied to members working five-day weeks                                               |
-| Contractor         |         `1.050` | Modifier applied to contractors who do not receive benefits                                      |
+| Commitment         | `0.250`-`1.200` | Modifier applied to members working part-time or over-time each week                             |
+| Contractor         |         `1.050` | Modifier applied to contractors who do not receive employee benefits                             |
 | Geo-upscaling      |         `1.150` | Modifier applied to members living in higher cost of living regions compared to Canadian average |
 | Geo-downscaling    |         `0.850` | Modifier applied to members living in lower cost of living regions compared to Canadian average  |
 | Adjustment         |                 | Custom dollar amount adjustment applied on a case-by-case basis                                  |
 
 At evaluation time, each member will perform a self-assessment to suggest their *L* and *R* to an evaluation committee made up of other members who are most suited to contribute to their evaluation. Together they will determine the appropriate values for the upcoming cycle. *S* and the *Modifiers* are based largely on objective factors, and a custom dollar amount *Adjustment* may be applied to retain members with high market demand skills, or in other special circumstances.
 
-Salaries are reassessed at minimum annually, or more frequently, at maximum quarterly. If a new hire or existing employee negotiates a higher salary, we should reassess all roles to ensure pay consistency.
+Salaries are reassessed at minimum annually, or more frequently, at maximum quarterly. If a new hire or existing member negotiates a higher salary, we should reassess all roles to ensure pay consistency.
 
 ### Skills and experiences
 
