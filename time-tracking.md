@@ -2,7 +2,7 @@
 
 Hypha operates as a consultancy, so billing accurately for our time spent on projects is paramount. In 2023, we are moving from an hourly tracking system to a committed capacity process. Each employee, contractor and member-worker’s time will be accounted for in half-day increments, and project leads will forecast the allotted hours for team members. Each person will also be allocated at least one half-day to commit to internal, co-operative related work.
 
-Project leads will invoice clients at 100% of committed capacity for each person on their team, and will review time commitments on a quarterly basis. 
+Project leads will invoice clients at the full capacity committed to their project for each person on their team, and will review time commitments on a quarterly basis. 
 
 Hypha team members will continue to be responsible for managing their own time accordingly, and for ensuring they are meeting the commitments set out by the project lead.
 
