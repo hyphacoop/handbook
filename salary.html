@@ -790,100 +790,157 @@
                                 <section class="normal markdown-section">
                                 
                                 <html><head></head><body><h1 id="employee-salary-guide"><a name="employee-salary-guide" class="plugin-anchor" href="#employee-salary-guide"><i class="fa fa-link" aria-hidden="true"></i></a>Employee Salary Guide</h1>
-<p>This document outlines the salary tiers of Hypha employees and the evaluation process.</p>
+<p>This document outlines the salary tiers of Hypha members and the evaluation process.</p>
 <h2 id="evaluation"><a name="evaluation" class="plugin-anchor" href="#evaluation"><i class="fa fa-link" aria-hidden="true"></i></a>Evaluation</h2>
-<p>Each employee will perform a self-assessment to determine their <em>L</em> and <em>R</em> and discuss their evaluation at a meeting with all full members of the organization. <em>S</em> is determined based on hours in Clockify.</p>
-<p>Salaries are reassessed at minimum annually, or more frequently, at maximum quarterly. If a new hire or existing employee negotiates a higher salary, we should reassess all roles to ensure pay consistency.</p>
-<p>In the next <em>Annual General Meeting</em>, members will discuss:</p>
-<ul>
-<li>geolocation factors (e.g., location-based salary)</li>
-<li>whether to modify the senority tiers (e.g., granularity, multipliers)</li>
-<li>responsibility tier for back office lead roles</li>
-</ul>
-<h3 id="skills-and-experiences"><a name="skills-and-experiences" class="plugin-anchor" href="#skills-and-experiences"><i class="fa fa-link" aria-hidden="true"></i></a>Skills and experiences</h3>
-<p><strong>L0</strong>: Entry-level with proficiency in a few core skills for relevant position. Not self-sufficient and needs mentorship and peer learning to progress.</p>
-<p><strong>L1</strong>: Years using core skills for relevant position. Able to self-motivate and independently acquire new skills as required for the role. Needs mentorship for problem setting and strategy but self-sufficient in execution.</p>
-<p><strong>L2</strong>: Many years with core skills and broad set of adjacent skills for position. Self-motivated, self-managing, able to mentor others, and have done a full cycle (start, mid, end, fail) of relevant projects. Trusted to sign off on deliverables relevant to areas of expertise.</p>
-<p><strong>L3</strong>: Confident with core skills, adjacent skills, leads and mentors others. Brings their own distinct approach to a relevant position to articulate and execute. Widely regarded as domain expert internal and external to the organization.</p>
-<p><strong>+1L</strong>: A +1 modifier may be applied if necessary to fill a position requiring a skill with high market demand.</p>
-<h3 id="responsibilities"><a name="responsibilities" class="plugin-anchor" href="#responsibilities"><i class="fa fa-link" aria-hidden="true"></i></a>Responsibilities</h3>
-<p><strong>R0</strong>: Meets <a href="https://handbook.hypha.coop/member-workers.html#being-a-good-member" target="_blank">good member requirements</a>. Requires support in defining tasks.</p>
-<p><strong>R1</strong>: Takes ownership of key deliverables and occasional leadership of small initiatives or sub-initiatives within larger initiatives. Supports others in small ways (e.g., peering).</p>
-<p><strong>R2</strong>: Leads initiatives and/or back office functions regularly and reliably. Defines objectives and tasks, ensures the quality of deliverables, and manages internal and/or client and partner relationships. Often serves as point person to interface with internal and external teams.</p>
-<p><strong>R3</strong>: Leads one or more major initiatives regularly and reliably. Serves as point person to long-running client initiatives. Actively contributes to developing the organizational strategy and represents the organization publicly.</p>
-<h3 id="seniority-in-organization"><a name="seniority-in-organization" class="plugin-anchor" href="#seniority-in-organization"><i class="fa fa-link" aria-hidden="true"></i></a>Seniority in organization</h3>
-<p><strong>S0</strong>: A new employee who is not yet accepted as a full member.</p>
-<p><strong>S1</strong>:    A full member who has spent less than a third of <em>M</em> hours in the organization based on total hours worked since August 1st of 2019.</p>
-<p><strong>S2</strong>:    A full member who has spent less than two thirds of <em>M</em> hours in the organization based on total hours worked since August 1st of 2019.</p>
-<p><strong>S3</strong>:    A full member who has spent more than two thirds of <em>M</em> hours in the organization based on total hours worked since August 1st of 2019.</p>
-<p><strong>+1S</strong>: A +1 modifier is applied to a <em>Founding Member</em> of the organization.</p>
-<p><em>*M represents the maximum work hours for a single employee since the incorporation date of August 1, 2019. This is calculated as 400 hours multiplied by the number of quarters since July 1, 2019.</em></p>
-<h2 id="base-salaries"><a name="base-salaries" class="plugin-anchor" href="#base-salaries"><i class="fa fa-link" aria-hidden="true"></i></a>Base salaries</h2>
-<p>The <em>base salaries</em> are listed in CAD for 4-day work weeks, or 400 hours per quarter. This is also called <em>1.00 time</em>. Part-time employees will have a 0.75, 0.50, 0.25 multipler proportional to their days worked per week.</p>
-<p>These rates are reassessed each year at our <em>Annual General Meeting</em>, taking into consideration inflation and other factors.</p>
+<p>The base salary for each member is determined according to:</p>
+<pre><code>Base Salary = 50,000 CAD * L^l * R^r * S^s * Modifiers + Adjustment
+</code></pre><p>with the following criteria:</p>
 <table>
 <thead>
 <tr>
-<th style="text-align:left"></th>
-<th style="text-align:right">S0</th>
-<th style="text-align:right">S1</th>
-<th style="text-align:right">S2</th>
-<th style="text-align:right">S3</th>
+<th style="text-align:left">Criteria</th>
+<th style="text-align:right">Scaling factor</th>
+<th style="text-align:left">Description</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left"><strong>L+R0</strong></td>
-<td style="text-align:right">75,000</td>
-<td style="text-align:right">81,750</td>
-<td style="text-align:right">89,108</td>
-<td style="text-align:right">97,127</td>
+<td style="text-align:left"><strong>L</strong>evel</td>
+<td style="text-align:right"><code>L=1.160</code></td>
+<td style="text-align:left">Skills and experiences <code>l=[0-6]</code></td>
 </tr>
 <tr>
-<td style="text-align:left"><strong>L+R1</strong></td>
-<td style="text-align:right">86,250</td>
-<td style="text-align:right">94,013</td>
-<td style="text-align:right">102,474</td>
-<td style="text-align:right">111,696</td>
+<td style="text-align:left"><strong>R</strong>esponsibility</td>
+<td style="text-align:right"><code>R=1.120</code></td>
+<td style="text-align:left">Responsibilities <code>r=[0-4]</code></td>
 </tr>
 <tr>
-<td style="text-align:left"><strong>L+R2</strong></td>
-<td style="text-align:right">99,188</td>
-<td style="text-align:right">108,114</td>
-<td style="text-align:right">117,845</td>
-<td style="text-align:right">128,451</td>
+<td style="text-align:left"><strong>S</strong>eniority</td>
+<td style="text-align:right"><code>S=1.025</code></td>
+<td style="text-align:left">Seniority in organization <code>s=[0-3]</code></td>
 </tr>
 <tr>
-<td style="text-align:left"><strong>L+R3</strong></td>
-<td style="text-align:right">114,066</td>
-<td style="text-align:right">124,332</td>
-<td style="text-align:right">135,521</td>
-<td style="text-align:right">147,718</td>
+<td style="text-align:left">Commitment</td>
+<td style="text-align:right"><code>0.250</code>-<code>1.200</code></td>
+<td style="text-align:left">Modifier applied to members working part-time or over-time each week</td>
 </tr>
 <tr>
-<td style="text-align:left"><strong>L+R4</strong></td>
-<td style="text-align:right">131,175</td>
-<td style="text-align:right">142,981</td>
-<td style="text-align:right">155,850</td>
-<td style="text-align:right">169,876</td>
+<td style="text-align:left">Contractor</td>
+<td style="text-align:right"><code>1.050</code></td>
+<td style="text-align:left">Modifier applied to contractors who do not receive employee benefits</td>
 </tr>
 <tr>
-<td style="text-align:left"><strong>L+R5</strong></td>
-<td style="text-align:right">150,852</td>
-<td style="text-align:right">164,428</td>
-<td style="text-align:right">179,227</td>
-<td style="text-align:right">195,357</td>
+<td style="text-align:left">Geo-upscaling</td>
+<td style="text-align:right"><code>1.150</code></td>
+<td style="text-align:left">Modifier applied to members living in higher cost of living regions compared to Canadian average</td>
 </tr>
 <tr>
-<td style="text-align:left"><strong>L+R6</strong></td>
-<td style="text-align:right">173,480</td>
-<td style="text-align:right">189,093</td>
-<td style="text-align:right">206,111</td>
-<td style="text-align:right">224,661</td>
+<td style="text-align:left">Geo-downscaling</td>
+<td style="text-align:right"><code>0.850</code></td>
+<td style="text-align:left">Modifier applied to members living in lower cost of living regions compared to Canadian average</td>
+</tr>
+<tr>
+<td style="text-align:left">Adjustment</td>
+<td style="text-align:right"></td>
+<td style="text-align:left">Custom dollar amount adjustment applied on a case-by-case basis</td>
 </tr>
 </tbody>
 </table>
-<p><em>*Current salaries are capped at CAD 150,000. Any employee who is at a salary tier above that amount will receive CAD 150,000 until we have higher revenue and cash flow.</em></p>
+<p>At evaluation time, each member will perform a self-assessment to suggest their <em>L</em> and <em>R</em> to an evaluation committee made up of other members who are most suited to contribute to their evaluation. Together they will determine the appropriate values for the upcoming cycle. <em>S</em> and the <em>Modifiers</em> are based largely on objective factors, and a custom dollar amount <em>Adjustment</em> may be applied to retain members with high market demand skills, or in other special circumstances.</p>
+<p>Salaries are reassessed at minimum annually, or more frequently, at maximum quarterly. If a new hire or existing member negotiates a higher salary, we should reassess all roles to ensure pay consistency.</p>
+<h3 id="skills-and-experiences"><a name="skills-and-experiences" class="plugin-anchor" href="#skills-and-experiences"><i class="fa fa-link" aria-hidden="true"></i></a>Skills and experiences</h3>
+<p><strong>L0</strong>: Entry-level with proficiency in a few core skills for relevant position. Not self-sufficient and needs mentorship and peer learning to progress both in execution and self-growth.</p>
+<p><strong>L1</strong>: Proficient in core skills necessary for the position, and can execute on tasks once they are defined. Needs mentorship in acquiring new skills as needed.</p>
+<p><strong>L2</strong>: Years using core skills for relevant position. Able to self-motivate and independently acquire new skills as required for the role. Needs mentorship for big-picture thinking but self-sufficient in working to an abstract plan.</p>
+<p><strong>L3</strong>: Many years with core skills and broad set of adjacent skills for position. Self-motivating and self-managing, able to mentor others. Comfortable signing off on deliverables relevant to areas of expertise.</p>
+<p><strong>L4</strong>: Confident with core skills and adjacent skills. Leads and mentors others. Leads in defining initiative strategy and independently manage end-to-end delivery of initiatives. Effectively contributes to the overall growth and direction of the organization.</p>
+<p><strong>L5</strong>: Brings their own distinct approach to a relevant position, and is able to articulate and execute on this to achieve the mission of the organization. Has a least 10 years (or equivalent) of relevant work experience and ability to lead the execution and delivery of large complex initiatives.</p>
+<p><strong>L6</strong>: Widely regarded as a domain expert both internally and externally, and is regularly approached for advice and expertise in their relevant field. Ability to lead the execution of large complex initiatives while simultaneously guiding the strategic vision and mission of the organization.</p>
+<h3 id="responsibilities"><a name="responsibilities" class="plugin-anchor" href="#responsibilities"><i class="fa fa-link" aria-hidden="true"></i></a>Responsibilities</h3>
+<p><strong>R0</strong>: Meets <a href="https://handbook.hypha.coop/member-workers.html#being-a-good-member" target="_blank">good member requirements</a>. Performs tasks as defined by others.</p>
+<p><strong>R1</strong>: Takes ownership of key deliverables and occasional leadership of small initiatives or sub-initiatives within larger initiatives. Supports others in small ways (e.g., peering).</p>
+<p><strong>R2</strong>: Leads initiatives and/or back office functions regularly and reliably. Defines objectives and tasks, ensures the quality of deliverables. Can reliably interact independently with internal and external teams without guidance or oversight.</p>
+<p><strong>R3</strong>: Manages internal and/or client and partner relationships. Often serves as the go-to person on an internal topic, or to interface with external teams. Contributes reliable and thoughtful feedback to organizational strategy and recognizes new opportunities.</p>
+<p><strong>R4</strong>: Leads one or more major initiatives regularly and reliably. Serves as point person to long-running client initiatives. Actively contributes to developing the organizational strategy and represents the organization publicly. Leads the exploration of new opportunities for the organization and responsibile for its long-term sustainability.</p>
+<h3 id="seniority-in-organization"><a name="seniority-in-organization" class="plugin-anchor" href="#seniority-in-organization"><i class="fa fa-link" aria-hidden="true"></i></a>Seniority in organization</h3>
+<p><strong>S0</strong>: A new employee who is a probationary member, or foreign contractor who is specially approved to be a probationary member.</p>
+<p><strong>S1</strong>: A member who is in their first year of full membership.</p>
+<p><strong>S2</strong>: A member who is in their second or third year of full membership.</p>
+<p><strong>S3</strong>: A member who has been a full member for more than three years, or is a founding member.</p>
+<p><em>*A year implies full-time commitment. For part-time workers, a year is the time commitment equilvant of a full-time year.</em></p>
+<h2 id="base-salaries"><a name="base-salaries" class="plugin-anchor" href="#base-salaries"><i class="fa fa-link" aria-hidden="true"></i></a>Base salaries</h2>
+<p>The table below lists <em>base salaries</em> at <code>S=0</code> in CAD for four-day work weeks. This is also called <em>1.00</em> commitment. Part-time members will have a 0.75, 0.50, 0.25 multipler proportional to their days worked per week. If a member works five-day weeks, a 1.20 multiplier is applied. <em>S</em>, <em>Modifiers</em>, and <em>Adjustment</em> are based on top of these values.</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:left"><code>S=0</code></th>
+<th style="text-align:right">R0</th>
+<th style="text-align:right">R1</th>
+<th style="text-align:right">R2</th>
+<th style="text-align:right">R3</th>
+<th style="text-align:right">R4</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">L0</td>
+<td style="text-align:right">50,000</td>
+<td style="text-align:right">56,000</td>
+<td style="text-align:right">62,720</td>
+<td style="text-align:right">70,246</td>
+<td style="text-align:right">78,676</td>
+</tr>
+<tr>
+<td style="text-align:left">L1</td>
+<td style="text-align:right">58,000</td>
+<td style="text-align:right">64,960</td>
+<td style="text-align:right">72,755</td>
+<td style="text-align:right">81,486</td>
+<td style="text-align:right">91,264</td>
+</tr>
+<tr>
+<td style="text-align:left">L2</td>
+<td style="text-align:right">67,280</td>
+<td style="text-align:right">75,354</td>
+<td style="text-align:right">84,396</td>
+<td style="text-align:right">94,524</td>
+<td style="text-align:right">105,866</td>
+</tr>
+<tr>
+<td style="text-align:left">L3</td>
+<td style="text-align:right">78,045</td>
+<td style="text-align:right">87,410</td>
+<td style="text-align:right">97,899</td>
+<td style="text-align:right">109,647</td>
+<td style="text-align:right">122,805</td>
+</tr>
+<tr>
+<td style="text-align:left">L4</td>
+<td style="text-align:right">90,532</td>
+<td style="text-align:right">101,396</td>
+<td style="text-align:right">113,563</td>
+<td style="text-align:right">127,191</td>
+<td style="text-align:right">142,454</td>
+</tr>
+<tr>
+<td style="text-align:left">L5</td>
+<td style="text-align:right">105,017</td>
+<td style="text-align:right">117,619</td>
+<td style="text-align:right">131,733</td>
+<td style="text-align:right">147,541</td>
+<td style="text-align:right">165,246</td>
+</tr>
+<tr>
+<td style="text-align:left">L6</td>
+<td style="text-align:right">121,820</td>
+<td style="text-align:right">136,438</td>
+<td style="text-align:right">152,811</td>
+<td style="text-align:right">171,148</td>
+<td style="text-align:right">191,686</td>
+</tr>
+</tbody>
+</table>
+<p>This table is reassessed each year at our <em>Annual General Meeting</em>, taking into consideration inflation and other factors.</p>
 </body></html>
                                 
                                 </section>
@@ -927,7 +984,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Employee Salary Guide","level":"2.9.1","depth":2,"next":{"title":"Onboarding","level":"3.1","depth":1,"path":"onboarding.md","ref":"onboarding.md","articles":[]},"previous":{"title":"Compensation and Benefits","level":"2.9","depth":1,"path":"compensation-benefits.md","ref":"compensation-benefits.md","articles":[{"title":"Employee Salary Guide","level":"2.9.1","depth":2,"path":"salary.md","ref":"salary.md","articles":[]}]},"dir":"ltr"},"config":{"plugins":["anchors"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"anchors":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"theme":"default","author":"Hypha Worker Co-operative","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56},"embedFonts":false},"structure":{"langs":"LANGS.md","readme":"handbook.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"H&#8322;O","gitbook":"*","description":"Hypha handbook describes the vision, processes, and culture of Hypha Worker Co-operative. 🌿🍄"},"file":{"path":"salary.md","mtime":"2022-12-24T00:38:01.500Z","type":"markdown"},"gitbook":{"version":"4.0.4","time":"2022-12-24T00:38:12.556Z"},"basePath":".","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Employee Salary Guide","level":"2.9.1","depth":2,"next":{"title":"Onboarding","level":"3.1","depth":1,"path":"onboarding.md","ref":"onboarding.md","articles":[]},"previous":{"title":"Compensation and Benefits","level":"2.9","depth":1,"path":"compensation-benefits.md","ref":"compensation-benefits.md","articles":[{"title":"Employee Salary Guide","level":"2.9.1","depth":2,"path":"salary.md","ref":"salary.md","articles":[]}]},"dir":"ltr"},"config":{"plugins":["anchors"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"anchors":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"theme":"default","author":"Hypha Worker Co-operative","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56},"embedFonts":false},"structure":{"langs":"LANGS.md","readme":"handbook.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"H&#8322;O","gitbook":"*","description":"Hypha handbook describes the vision, processes, and culture of Hypha Worker Co-operative. 🌿🍄"},"file":{"path":"salary.md","mtime":"2022-12-24T00:41:17.210Z","type":"markdown"},"gitbook":{"version":"4.0.4","time":"2022-12-24T00:41:25.368Z"},"basePath":".","book":{"language":""}});
         });
     </script>
 </div>
