@@ -65,7 +65,7 @@ Salaries are reassessed at minimum annually, or more frequently, at maximum quar
 
 **S3**: A member who has been a full member for more than three years, or is a founding member.
 
-**A year implies full-time commitment. For part-time workers, a year is the time commitment equilvant of a full-time year.*
+**A year implies full-time commitment. For part-time workers, a year is the time commitment equivalent of a full-time year.*
 
 ## Base salaries
 
