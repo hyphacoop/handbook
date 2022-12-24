@@ -2,13 +2,19 @@
 
 ## Cash Compensation
 
-Employees at Hypha, full-time or part-time, permanent or otherwise, are evaluated based on the following criteria:
+Members at Hypha, full-time or part-time, permanent or otherwise, are evaluated based on the following criteria:
 
 * skills and experiences
 * responsibilities
 * seniority in organization
 
-Full details and salary tiers are detailed in our [Employee Salary Guide](salary.md).
+Full details and salary tiers are specified in our [Employee Salary Guide](salary.md).
+
+## Vacation Days
+
+Members are entitled to three weeks of flexible plus one week of fixed time off. For a full-time member working four-day weeks, that amounts to 12 days of flexible vacation days plus the fixed week of December Holidays.
+
+Full details about time off is specified in our [Holidays, Time Off, and Leaves](holidays.md) page.
 
 ## Health Benefits
 

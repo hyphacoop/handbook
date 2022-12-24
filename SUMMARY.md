@@ -15,6 +15,7 @@
 * [Member-workers](member-workers.md)
 * [Compensation and Benefits](compensation-benefits.md)
     * [Employee Salary Guide](salary.md)
+    * [Holidays, Time off, and Leaves](holidays.md)
 
 ### Our Virtual Office
 
@@ -28,7 +29,6 @@
 * [Finance](finance.md)
 * [Fiscal Sponsorship](fiscal-sponsorship.md)
 * [Time Commitment](time-commitment.md)
-* [Holidays, Time off, and Leaves](holidays.md)
 * [Pet Policy](pet.md)
 * [Peer Feedback](peer-feedback.md)
 
