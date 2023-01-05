@@ -2,7 +2,7 @@
 
 >The idea is not to eliminate conflict... The aim is to transform it. 
 >
->*--Diane Musho Hamilton*
+>*—Diane Musho Hamilton*
 
 All member-workers, employees and contractors of Hypha Worker Co-operative must agree to follow [Hypha's Code of Conduct](coc.md), [principles of being a good member](member-workers.md) and uphold the [co-op's values](vision.md) when working together. These form the guidelines for our work together.
 
