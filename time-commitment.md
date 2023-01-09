@@ -1,8 +1,8 @@
 # Time Commitment
 
-Hypha members are primarily on a four-day work week, with a few members working part-time while others working five-day weeks. Hypha, as a consultancy, requires members to have a mix of billable and non-billable time commitments. Initiative leads are responsible for determining the appropriate time commitment of their team members, and this is revised per quarter across the organization. Each member is also alloted at least half a day per week to spend on internal work related to the co-operative.
+When the co-op was founded, Hypha maintained a four-day work week; however, some members and employees have opted to work five-day weeks, while others work part-time hours. As a consultancy, Hypha requires members to have a mix of billable and non-billable time commitments. Initiative leads (i.e. project leads) are responsible for determining the appropriate time commitment of their team members; this is revised per quarter across the organization. Each member is also alloted at least one half-day per week to spend on internal work related to the co-operative.
 
-Client initiative leads invoice clients at the team capacity committed to their initiative, for each member on their team. Team members are self-responsible for managing their own time accordingly, and for ensuring they are meeting the delivery expectations set out by their leads.
+Initiative leads invoice clients based on the team capacity committed to their initiative. Team members are responsible for managing their own time accordingly, and for ensuring they are meeting the delivery expectations set out by their leads.
 
 ## How this works in practice
 
