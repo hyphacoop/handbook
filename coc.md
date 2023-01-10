@@ -5,7 +5,7 @@ Hypha Worker Co-operative strives to cultivate collective and inclusive growth i
 
 Our Code of Conduct states our shared ideals. We strive to be considerate, respectful, and collaborative in our conversations and interactions with one another.
 
-When conflict arises, we follow the [Conflict Transformation Process](https://handbook.hypha.coop/conflict-transformation.html) to collaboratively reach a resolution. 
+When conflict arises, we follow the [Conflict Transformation Process](conflict-transformation.md) to collaboratively reach a resolution. 
 
 ## Our Standards
 

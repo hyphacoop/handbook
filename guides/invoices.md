@@ -85,19 +85,19 @@ The following example shows how to do that in a single transaction from Transfer
 
     1. Confirm that the invoice amount of `3,757.50 USD` is received to our USD balance, then click `Send USD`.
 
-    ![transferwise-0](images/transferwise-0.png)
+    ![transferwise-0](../images/transferwise-0.png)
 
-    ![transferwise-1](images/transferwise-1.png)
+    ![transferwise-1](../images/transferwise-1.png)
 
     1. Choose `My business` and enter in our [Desjardins account information](https://github.com/hyphacoop/organizing-private/blob/master/documents/finances/payments.md) for the deposit.
 
-    ![transferwise-2](images/transferwise-2.png)
+    ![transferwise-2](../images/transferwise-2.png)
 
-    ![transferwise-3](images/transferwise-3.png)
+    ![transferwise-3](../images/transferwise-3.png)
 
     1. Note the invoice number in the `Reference` field, then click `Confirm and send`.
 
-    ![transferwise-4](images/transferwise-4.png)
+    ![transferwise-4](../images/transferwise-4.png)
 
     In this example, a client in the United States sent **3,757.50 USD** to the Hypha USD account at TransferWise, and we deposited **4,904.11 CAD** at the Hypha CAD account at Desjardins.
     The transaction and exchange fee was **20.61 USD**, and the exchange rate was **1.31235**.

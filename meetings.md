@@ -126,8 +126,8 @@ up-to-date [weekly availability schedules][schedules].
    [cultivator]: /roles.md#cultivator-aka-meeting-chair
    [bylaws-3]: /bylaws.md#3-member-meetings
    [bylaws-4]: /bylaws.md#4-board-of-directors
-   [scheduling]: /guides.md#scheduling-a-meeting
-   [hosting]: /guides.md#hosting-a-meeting
+   [scheduling]: /guides/meetings.md#scheduling-a-meeting
+   [hosting]: /guides/meetings.md##hosting-a-meeting
    [availability]: https://link.hypha.coop/availability
    [schedules]: https://link.hypha.coop/schedules
    [meetings]: https://link.hypha.coop/meetings
