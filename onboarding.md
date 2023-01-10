@@ -57,7 +57,7 @@ This is a checklist for onboarding new members, workers, and contractors to the 
 
 1. Collect information above and complete [employee record](https://link.hypha.coop/employees)
 
-1. Add member SIN to Passbolt and share access with `People Operations` group.
+1. Add member SIN to BitWarden and share access with `People Operations` group.
    Change the member access to the entry as read-only, as this information is for recording keeping and the Member should not be able to modify it
 
 1. Collect encrypted (see [Sensitive Data](/guides/sensitive-data.md) guide) [`TD1` and `TD1-ON` forms](https://www.canada.ca/en/revenue-agency/services/forms-publications/td1-personal-tax-credits-returns.html) to [Drive](https://link.hypha.coop/drive)
