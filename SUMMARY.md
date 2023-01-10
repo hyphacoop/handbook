@@ -20,6 +20,7 @@
 ### Our Virtual Office
 
 * [Onboarding](onboarding.md)
+* [Offboarding](offboarding.md)
 * [Coordination 🚧](coordination.md)
 * [Initiatives](initiatives.md)
 * [Roles 🚧](roles.md)
