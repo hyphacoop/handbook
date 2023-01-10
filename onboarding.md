@@ -22,7 +22,6 @@ Instead of a physical place we have virtual office with the following spaces:
 - [Matrix Chat][matrix-chat] (`chat.tomesh.net`)
 - [GitHub Organization][github-org], with a [task tracker][task-tracker]
 - [Google Drive][google-drive] (with both privileged 🔒 and public folders)
-- [Loomio][loomio] (`loomio.hypha.coop`)
 
 We also have the following "helper" tools to navigate our office spaces:
 
@@ -61,9 +60,9 @@ This is a checklist for onboarding new members, workers, and contractors to the 
 1. Add member SIN to Passbolt and share access with `People Operations` group.
    Change the member access to the entry as read-only, as this information is for recording keeping and the Member should not be able to modify it
 
-1. Collect encrypted (see [Sensitive Data](./guides.md#sensitive-data) guide) [`TD1` and `TD1-ON` forms](https://www.canada.ca/en/revenue-agency/services/forms-publications/td1-personal-tax-credits-returns.html) to [Drive](https://link.hypha.coop/drive)
+1. Collect encrypted (see [Sensitive Data](/guides/sensitive-data.md) guide) [`TD1` and `TD1-ON` forms](https://www.canada.ca/en/revenue-agency/services/forms-publications/td1-personal-tax-credits-returns.html) to [Drive](https://link.hypha.coop/drive)
 
-1. Add member to Clockify and [as Employee in Wagepoint](./guides.md#adding-a-new-employee) for payroll
+1. Add member to Clockify and [as Employee in Wagepoint](/guides/payroll.md#adding-a-new-employee) for payroll
 
 #### Set up communications
 ##### Google Account
@@ -129,11 +128,10 @@ These action needs the admin admin user privileges.
 
 <!-- Links -->
 [link-shortener]: https://link.hypha.coop
-[accessing-em]: /guides.md#using-your-new-inbox-users
-[accessing-vm]: /guides.md#accessing-voicemail
-[managing-vm]: /guides.md#managing-voicemail-and-phone-forwarding
+[accessing-em]: /guides/email.md#using-your-new-inbox-users
+[accessing-vm]: /guides/voicemail.md
+[managing-vm]: /guides/voicemail.md#managing-voicemail-and-phone-forwarding
 [matrix-chat]: https://chat.tomesh.net/#/group/+hyphacoop:tomesh.net
-[loomio]: https://loomio.hypha.coop
 [task-tracker]: https://link.hypha.coop/tasks
 [github-org]: https://github.com/hyphacoop/
 [google-drive]: https://link.hypha.coop/drive

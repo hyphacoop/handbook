@@ -1,6 +1,6 @@
 # Calendar
 
-Depending on your e-mail client Calendar may automaticaly be added when setting up your e-mail address with google. 
+Depending on your e-mail client, Calendar may automaticaly be added when setting up your e-mail address with google. 
 
 If you need to add your e-mail manually some links that may help.
 
