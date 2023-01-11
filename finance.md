@@ -92,14 +92,14 @@ These annualized amounts are calculated and included for each pay period.
 You can use the [Wage Calculator](https://link.hypha.coop/wage) to determine these amounts.
 
 After tax withholdings and other applicable deductions (e.g. CPP & EI employee contributions), the net amount is electronically transferred to the Member's bank account on pay day using **Wagepoint**.
-Refer to the guides for [Payroll](/guides.md#payroll) to set up the payroll run for each pay period.
+Refer to the guides for [Payroll](/guides/payroll.md) to set up the payroll run for each pay period.
 
 ### Expense Reimbursement
 
 Member expenses eligible for reimbursement should be submitted to the [Expense Reimbursement](https://link.hypha.coop/expenses) sheet and receipts uploaded to [Employee Expense Receipts](https://link.hypha.coop/receipts) in the same quarter they are incurred.
 Reimbursements are paid out with wages on the next pay day, but do not appear on tax forms.
 
-Follow the guides for [Expense Reimbursement](/guides.md#expense-reimbursement) to submit an eligible expense.
+Follow the guides for [Expense Reimbursement](/guides/expense-reimbursement.md) to submit an eligible expense.
 
 ### Public Holiday Pay
 

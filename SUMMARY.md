@@ -20,6 +20,7 @@
 ### Our Virtual Office
 
 * [Onboarding](onboarding.md)
+* [Offboarding](offboarding.md)
 * [Coordination 🚧](coordination.md)
 * [Initiatives](initiatives.md)
 * [Roles 🚧](roles.md)
@@ -38,7 +39,6 @@
     * [Calendar](./guides/calendar.md)
     * [Email](./guides/email.md)
     * [Expense Reimbursement](./guides/expense-reimbursement.md)
-    * [Hiring](./guides/hiring.md)
     * [Inactivating Membership](./guides/inactivating-membership.md)
     * [Initiatives](./guides/initiatives.md)
     * [Invoices](./guides/invoices.md)

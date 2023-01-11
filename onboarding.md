@@ -1,4 +1,4 @@
-# On/offboarding
+# Onboarding
 
 Welcome to Hypha! This page is to help those getting situated in our organization.
 
@@ -22,7 +22,6 @@ Instead of a physical place we have virtual office with the following spaces:
 - [Matrix Chat][matrix-chat] (`chat.tomesh.net`)
 - [GitHub Organization][github-org], with a [task tracker][task-tracker]
 - [Google Drive][google-drive] (with both privileged 🔒 and public folders)
-- [Loomio][loomio] (`loomio.hypha.coop`)
 
 We also have the following "helper" tools to navigate our office spaces:
 
@@ -58,55 +57,81 @@ This is a checklist for onboarding new members, workers, and contractors to the 
 
 1. Collect information above and complete [employee record](https://link.hypha.coop/employees)
 
-1. Add member SIN to Passbolt and share access with `People Operations` group.
+1. Add member SIN to BitWarden and share access with `People Operations` group.
    Change the member access to the entry as read-only, as this information is for recording keeping and the Member should not be able to modify it
 
-1. Collect encrypted (see [Sensitive Data](./guides.md#sensitive-data) guide) [`TD1` and `TD1-ON` forms](https://www.canada.ca/en/revenue-agency/services/forms-publications/td1-personal-tax-credits-returns.html) to [Drive](https://link.hypha.coop/drive)
+1. Collect encrypted (see [Sensitive Data](/guides/sensitive-data.md) guide) [`TD1` and `TD1-ON` forms](https://www.canada.ca/en/revenue-agency/services/forms-publications/td1-personal-tax-credits-returns.html) to [Drive](https://link.hypha.coop/drive)
 
-1. Add member to Clockify and [as Employee in Wagepoint](./guides.md#adding-a-new-employee) for payroll
+1. Add member to Clockify and [as Employee in Wagepoint](/guides/payroll.md#adding-a-new-employee) for payroll
 
 #### Set up communications
+##### Google Account
+These actions require the `Super Admin` permission.
+##### Creating a new user
+Login to [Google Admin](https://admin.google.com)
+- On the admin home page click on `Add a user`
+- Fill in their information
+- Leave the `Secondary email` and `Phone number` blank
+- Click on `Manage user's password, organizational unit, and profile photo`
+- Select `Automatically generate a password`
+- Click on `ADD NEW USER` button
+- Copy the password
+- Send a email to the new user using their personal email with instructions to log in using the password above
+- Update the [emails document](email.md) with the new email
+- Add the new user to the `everyone` group
 
-1. Add member to Signal `hyphacoop (Emergency Channel)` group
-
-1. Invite member to Matrix spaces:
-  - Private chat `#hyphacoop-private:tomesh.net`
-  - Public chat `#hyphacoop-open:tomesh.net`
-  - Community `+hyphacoop:tomesh.net`
-
-1. Set up a [`hypha.coop` email](https://link.hypha.coop/email) address:
-  - Ask Infrastructure to [create new mailbox with Mailcow](./guides.md#creating-new-inboxes-administrators)
-    - Set up forwarder (if needed)
-    - Add to `members@`
-    - Add to relevant WG forwarders
-
-#### Set up virtual office
-
-1. Invite to Passbolt:
-  - After acceptance, add to `Member-Worker` group
-  - Ensure Member understands it is their responsibility to back-up their own private key
-  - Ensure Member understands when creating a password, they need to grant access to appropriate groups (e.g., when a password is meant to be shared between member-workers, otherwise others do not know that password exists in Passbolt)
-
-1. Invite to [GitHub Organization][github-org] and add to `Member-Workers` [GitHub Team](https://link.hypha.coop/teams)
-
-1. Add to [Google Drive][google-drive] and invite to calendars:
+##### Google Drive
+- Add to [Google Drive][google-drive] and invite to calendars:
     - https://link.hypha.coop/calendar
     - https://link.hypha.coop/availability
 
-1. Invite to [Loomio](https://loomio.hypha.coop/)
+##### Signal
+An admin user of the `hyphacoop (Emergency Channel)` room needs to add the new employee.
+- Open the Signal app and open the room
+- Open the room setting
+- Click on the `Add members` button
+- Enter the number or select the contact of the new employee
 
-1. Invite them to share their [weekly schedule](https://link.hypha.coop/schedules) (recommended without password)
+##### Matrix (Channels as needed)
+If the user already has a Matrix account, they can use their own.
+If they don't have an account, send a link to our preferred Matrix server (https://chat.tomesh.net) to register. The access token needed to register is `hyphaworkercoop`.
+- Invite the user to mandatory channels 
+  - `hyphacoop`
+  - `hypha:private-general`
+- Invite to other channels as required
 
-1. Add them to specific WG services (if needed)
+*If the user needs to be admin in a room and they are on a homeserver other than `@tomesh.net` only give them a max power of `99`. Giving the user a maximum power of `100` will make it impossible to remove the user from the room.*
 
+##### GitHub
+
+To add users to the repos, someone in the `Owner` group is needed to invite new `Outside collaborators` for contractors and `Members` for employees.
+- Login to GitHub and go to `https://github.com/orgs/hyphacoop/people`
+- Click the `Invite member` button
+- In the search box enter their provided GitHub handle and select the user and click `Invite`
+- Invite to repos as needed
+
+##### Slack (As needed)
+
+Open the Slack web app and invite using their @hypha.coop email to the Hypha workspace.
+
+##### Bitwarden (As needed)
+
+These action needs the admin admin user privileges.
+- Login to [Bitwarden](https://vault.bitwarden.com/)
+- Click on `Organizations` on the top menu
+- Click on the Manage tab
+- Click on `Invite user` button and invite the user with their @hypha.coop email
+  - Make sure `USER TYPE` is set to `User`
+  - Under `ACCESS CONTROL` select `This user can access only the selected collections.`
+  - Select the collections that the new user should have access to. This can also be modified after the user is created
+  - Click save and let the user know about the login instructions
 
 <!-- Links -->
 [link-shortener]: https://link.hypha.coop
-[accessing-em]: /guides.md#using-your-new-inbox-users
-[accessing-vm]: /guides.md#accessing-voicemail
-[managing-vm]: /guides.md#managing-voicemail-and-phone-forwarding
+[accessing-em]: /guides/email.md#using-your-new-inbox-users
+[accessing-vm]: /guides/voicemail.md
+[managing-vm]: /guides/voicemail.md#managing-voicemail-and-phone-forwarding
 [matrix-chat]: https://chat.tomesh.net/#/group/+hyphacoop:tomesh.net
-[loomio]: https://loomio.hypha.coop
 [task-tracker]: https://link.hypha.coop/tasks
 [github-org]: https://github.com/hyphacoop/
 [google-drive]: https://link.hypha.coop/drive

@@ -21,7 +21,6 @@ our values.
 - [Calendar](./guides/calendar.md)
 - [Email](./guides/email.md)
 - [Expense Reimbursement](./guides/expense-reimbursement.md)
-- [Hiring](./guides/hiring.md)
 - [Inactivating Membership](./guides/inactivating-membership.md)
 - [Initiatives](./guides/initiatives.md)
 - [Infrastructure - Virtual Machines](./guides/virtual-machines.md)
@@ -34,10 +33,11 @@ our values.
 - [Reporting HST](./guides/reporting-hst.md)
 - [Sensitive Data](./guides/sensitive-data.md)
 - [Signatures](./guides/signatures.md)
-- [SSH Keys](./guides/ssh-keys.md)
 - [Shortlinks](./guides/shortlinks.md)
 - [Voicemail](./guides/voicemail.md)
 - [VPN](./guides/vpn.md)
+
+[//]: # (This is a comment for a broken link. I did not find the page but I leave it here to fix it later- [SSH Keys](./guides/ssh-keys.md))
 
 ## References
 

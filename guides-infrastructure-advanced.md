@@ -85,7 +85,7 @@ Once the server is first ordered `Backup storage` needs to be enabled from the O
 
 #### Enabling the backup space
 
-1. Log onto [OVH panel](https://ca.ovh.com/) using password stored in our Passbolt
+1. Log onto [OVH panel](https://ca.ovh.com/) using password stored in our BitWarden
 1. Go to the tab of the server in the side panel
 1. Click on `Backup storage`
 1. Then enable the storage space with Samba access

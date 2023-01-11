@@ -4,7 +4,7 @@
 This guide describes how to use our payroll service provider, [Wagepoint](https://wagepoint.com), to set up a payroll run for the pay period.
 You should have a completed [Employee Payroll](http://link.hypha.coop/payroll) sheet for the pay period ready, which indicates the wage information for each Employee that you will need to enter into Wagepoint.
 
-If this is the first time you use Wagepoint, please first review the [Running your first payroll with Wagepoint - Canada](https://www.youtube.com/watch?v=KfLMcqGTDwE)video.
+If this is the first time you use Wagepoint, please first review the [Running your first payroll with Wagepoint - Canada](https://www.youtube.com/watch?v=KfLMcqGTDwE) video.
 
 ## Running payroll
 
@@ -14,12 +14,12 @@ If this is the first time you use Wagepoint, please first review the [Running yo
 
 1. **Paygroup:** Hit `NEXT` since we only have one monthly paygroup.
 
-    ![payroll-running-payroll-0](images/payroll-running-payroll-0.png)
+    ![payroll-running-payroll-0](../images/payroll-running-payroll-0.png)
 
 1. **Paydates:** Set the pay cycle to cover the current month (e.g., March 1-31) and the `Pay Date` to be the 15th of the current month (e.g., March 15) or the last working day prior if the 15th happens to land on a holiday (e.g., March 13).
     During that period, we settle amounts owed up to the _end of the previous month_ (e.g., Feb 29).
 
-    ![payroll-running-payroll-1](images/payroll-running-payroll-1.png)
+    ![payroll-running-payroll-1](../images/payroll-running-payroll-1.png)
     
     Set the dates as per the above, and hit `NEXT`.
     Nothing is finalized until the last step, and you must hit `SAVE/NEXT` during each step to preserve "draft" progress.
@@ -57,12 +57,12 @@ If this is the first time you use Wagepoint, please first review the [Running yo
     -  Pay Type: `Yearly`
     -  Pay Rate: `0`
 
-    ![payroll-new-employee-0](images/payroll-new-employee-0.png)
+    ![payroll-new-employee-0](../images/payroll-new-employee-0.png)
 
 1. Return to the `EMPLOYEES` tab and click the Employee's name.
     You should now be on their profile, specifically `THE PERSON` tab, which you can fill out with info from our [employee records](https://link.hypha.coop/employees).
 
-    ![payroll-new-employee-1](images/payroll-new-employee-1.png)
+    ![payroll-new-employee-1](../images/payroll-new-employee-1.png)
 
     Fill out everything you can, but leave `External ID` blank.
 
@@ -74,16 +74,16 @@ If this is the first time you use Wagepoint, please first review the [Running yo
     - Department: `Salary`
     - Vacation will: `be paid out each pay`
 
-    ![payroll-new-employee-2](images/payroll-new-employee-2.png)
+    ![payroll-new-employee-2](../images/payroll-new-employee-2.png)
 
 1. In the `TAX INFO` tab, set up the Employee's tax info based on the `TD1` and `TD1-ON` forms they submitted.
     For example:
 
-    ![payroll-new-employee-3](images/payroll-new-employee-3.png)
+    ![payroll-new-employee-3](../images/payroll-new-employee-3.png)
 
 1. In the `DIRECT DEPOSIT` tab, set up the bank account for direct deposit based on account information or a void cheque they submitted.
 
 1. Return to the "Employee" tab listing, and use the "mail" icon to send an invite to the Employee to Wagepoint.
 
-    ![payroll-new-employee-4](images/payroll-new-employee-4.png)
+    ![payroll-new-employee-4](../images/payroll-new-employee-4.png)
     

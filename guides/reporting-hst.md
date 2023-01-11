@@ -21,13 +21,13 @@ This will trigger Finance to take action.
 
 ## Filing HST
 
-To Filing the HST you will need to access the CRA's `GST/HST NETFILE` website. The website and all relative identifying information can be found in Passbolt.
+To Filing the HST you will need to access the CRA's `GST/HST NETFILE` website. The website and all relative identifying information can be found in BitWarden.
 
 1. Visit the `GST/HST NETFILE` website
 2. Press the `Ready to file` button
 3. Press the `Continue` button at the bottom of the page
-4. Enter the `Business Number` from Passbolt. Note the number does not include spaces. Note that on the site the number is broken into two fields seperated at `RT`
-5. Enter the `Access Code` from Passbolt's password field
+4. Enter the `Business Number` from BitWarden. Note the number does not include spaces. Note that on the site the number is broken into two fields seperated at `RT`
+5. Enter the `Access Code` from BitWarden's password field
 6. Enter the first day and last day of the quarter you are reporting for
 7. Confirm no checkboxes need to be checked (as of September 2021, no checkboxes are required to be checked)
 8. Press `Next`

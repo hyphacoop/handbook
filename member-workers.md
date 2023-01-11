@@ -45,7 +45,7 @@ Our bylaws do not allow for members to be contractors and we do not employ *depe
 
 Employees, as well as contractors and collaborators engaged in certain initiatives with Hypha,
 are expected to sign an *Employee and Contractor Intellectual Property Agreement* and comply with
-[tax obligations as applicable to them](https://handbook.hypha.coop/finance.html#gsthst-rt).
+[tax obligations as applicable to them](finance.md#gsthst-rt).
 
 A **member**:
   - Has completed a membership application (and/or been officially welcomed into 

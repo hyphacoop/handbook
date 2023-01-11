@@ -1,6 +1,6 @@
 # How We Use Data
 
-Hypha is [a worker co-operative incorporated in Ontario, Canada](https://handbook.hypha.coop/co-operative.html). 
+Hypha is [a worker co-operative incorporated in Ontario, Canada](co-operative.md). 
 We run our public website, this member handbook, and a variety of services at the domain [hypha.coop](https://hypha.coop) and its subdomains. 
 This page identifes what data we collect and why, as well as where and how long we store collected data for.
 
