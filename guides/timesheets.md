@@ -9,12 +9,12 @@ Shared reports are found under [Shared Reports](https://clockify.me/reports/shar
 When a project begins, generate a [Summary Report](https://clockify.me/reports/summary) for the project:
 
 1. Select the appropriate `Client` (and/or `Project`) and `Billing` filters
-![timesheets-0](images/timesheets-0.png)
+![timesheets-0](../images/timesheets-0.png)
 
 1. Configure the table headings to `Group by: Project > User > Description`
 
 1. Click the share button to reveal the `Share report` dialog
-![timesheets-1](images/timesheets-1.png)
+![timesheets-1](../images/timesheets-1.png)
 
 1. Name the report `project_YYYYMM` where `YYYYMM` indicates the first month the project is active, leave the `Lock dates` unlocked, and select the appropriate `Visibility` for the project
 

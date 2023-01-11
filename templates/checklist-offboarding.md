@@ -39,7 +39,7 @@ This is a checklist for offboarding a member of the Co-operative 👋😢
   - [ ] GCOS
 - [ ] Remove admin access from: 
   - [ ] Loomio (if they have?)
-  - [ ] Payroll (handled in passbolt groups)
+  - [ ] Payroll (handled in BitWarden groups)
 - [ ] Remove SSH keys from:
   - [ ] Servers
   - [ ] VPN acccess

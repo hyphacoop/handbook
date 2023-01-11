@@ -3,7 +3,7 @@
 <html lang="" >
     <head>
         <meta charset="UTF-8">
-        <title>Coordination 🚧 · H&#8322;O</title>
+        <title>Offboarding · H&#8322;O</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="description" content="">
         <meta name="generator" content="HonKit 4.0.4">
@@ -60,10 +60,10 @@
     <link rel="shortcut icon" href="gitbook/images/favicon.ico" type="image/x-icon">
 
     
-    <link rel="next" href="initiatives.html" />
+    <link rel="next" href="coordination.html" />
     
     
-    <link rel="prev" href="offboarding.html" />
+    <link rel="prev" href="onboarding.html" />
     
 
     </head>
@@ -302,7 +302,7 @@
             
         </li>
     
-        <li class="chapter " data-level="3.2" data-path="offboarding.html">
+        <li class="chapter active" data-level="3.2" data-path="offboarding.html">
             
                 <a href="offboarding.html">
             
@@ -315,7 +315,7 @@
             
         </li>
     
-        <li class="chapter active" data-level="3.3" data-path="coordination.html">
+        <li class="chapter " data-level="3.3" data-path="coordination.html">
             
                 <a href="coordination.html">
             
@@ -774,7 +774,7 @@
     <!-- Title -->
     <h1>
         <i class="fa fa-circle-o-notch fa-spin"></i>
-        <a href="." >Coordination 🚧</a>
+        <a href="." >Offboarding</a>
     </h1>
 </div>
 
@@ -789,34 +789,70 @@
     
                                 <section class="normal markdown-section">
                                 
-                                <html><head></head><body><h1 id="coordination-🚧"><a name="coordination-🚧" class="plugin-anchor" href="#coordination-🚧"><i class="fa fa-link" aria-hidden="true"></i></a>Coordination 🚧</h1>
-<p>Members of Hypha adopt the following practices for mostly asynchoronous coordination using a couple digital platforms.</p>
-<h2 id="primary-coordination"><a name="primary-coordination" class="plugin-anchor" href="#primary-coordination"><i class="fa fa-link" aria-hidden="true"></i></a>Primary Coordination</h2>
-<p><a href="https://github.com/hyphacoop/" target="_blank">GitHub</a> is our primary tool for coordinating asynchronously. We use <a href="https://link.hypha.coop/tasks" target="_blank">GitHub Projects</a> to track tasks that primarily come from two repositories:</p>
+                                <html><head></head><body><h1 id="offboarding"><a name="offboarding" class="plugin-anchor" href="#offboarding"><i class="fa fa-link" aria-hidden="true"></i></a>Offboarding</h1>
+<h2 id="google-account"><a name="google-account" class="plugin-anchor" href="#google-account"><i class="fa fa-link" aria-hidden="true"></i></a>Google Account</h2>
+<p>These actions require the <code>Super Admin</code> permissions.</p>
+<h3 id="export-user-data"><a name="export-user-data" class="plugin-anchor" href="#export-user-data"><i class="fa fa-link" aria-hidden="true"></i></a>Export user data</h3>
+<p>Login to <a href="https://admin.google.com" target="_blank">Google Admin</a></p>
 <ul>
-<li><a href="https://github.com/hyphacoop/organizing/" target="_blank"><code>hyphacoop/organizing</code></a>: Default tasks</li>
-<li><a href="https://github.com/hyphacoop/organizing-private/" target="_blank"><code>hyphacoop/organizing-private</code></a>: Confidential tasks</li>
+<li>In the <code>Directory/Users</code> page click on the user being offboarded</li>
+<li>Click on <code>Security</code> and reset their password (keep the new password as you will need it again to download when the export is ready in a few days) </li>
+<li>On the same page, turn off <code>Login challenge</code> for 10 minutes</li>
+<li>In Incognito mode, login as the user by visiting the <a href="https://google.com/takeout" target="_blank">Google takeout page</a></li>
+<li>Initiate take out</li>
+<li>Wait till export is complete (1-2 days)</li>
+<li>Log in to <a href="https://google.com/takeout/downloads" target="_blank">Google takeout download page</a></li>
+<li>Save exported file(s) when completed</li>
+<li>Rename to <code>email@hypha.coop-takeout-...</code></li>
+<li>Upload to the <a href="https://drive.google.com/drive/folders/1HxS9KvSACFL8b9vsVaqmjU-T5Oc8uHuT" target="_blank">Former employee export</a> folder in our <code>Privileged</code> Google drive<h3 id="delete-the-user"><a name="delete-the-user" class="plugin-anchor" href="#delete-the-user"><i class="fa fa-link" aria-hidden="true"></i></a>Delete the user</h3>
+</li>
+<li>Log back into <a href="https://admin.google.com" target="_blank">Google Admin</a></li>
+<li>In the <code>Directory/Users</code> page click on the user being offboarded</li>
+<li>Click on <code>Delete</code></li>
+<li>Move <code>Drive</code> and <code>Brand Accounts</code> to another <code>@hypha.coop</code> user (ask in Matrix who the new owner of the deleted account should be)</li>
+<li>Click Delete</li>
+<li>Open the <code>Operations</code> group under <code>Groups</code> settings</li>
+<li>Click on <code>Group information</code></li>
+<li>Add an alias for the deleted employee</li>
+<li>Remove the email from the <a href="email.md">emails document</a></li>
 </ul>
-<p>A task is assigned to a <em>Working Group (WG)</em> or <em>Project Group (PG)</em> using <a href="https://github.com/hyphacoop/organizing/labels/" target="_blank">Labels</a>,
-then it becomes the responsibility of the group.
-A task may further be assigned to a specific member.
-Labels are also used to indicate priorities of tasks.</p>
-<p>Note that while most tasks show up as Issues from <code>hyphacoop/organizing</code> and <code>hyphacoop/organizing-private</code>, there will also be Issues from other repositories, and some items that require your attention will show up as Pull Requests. The above search filters will catch everything. It is recommended for members to bookmark the search filters that apply to them in their browser and check them everyday.</p>
-<p>Members are encouraged to use emojis liberally to indicate they have, for example: 👀 read the comment, 👍 agree or 👎 disagree with the comment, etc. This applies generally to all our tools.</p>
-<h2 id="real-time-chat"><a name="real-time-chat" class="plugin-anchor" href="#real-time-chat"><i class="fa fa-link" aria-hidden="true"></i></a>Real-time Chat</h2>
-<p>We use <a href="https://chat.tomesh.net/#/group/+hyphacoop:tomesh.net" target="_blank">Matrix</a> as real-time chat for day-to-day task discussions and pinging members for urgent requests.</p>
-<p>All members are encouraged to install a Matrix client on their phone, and configure notifications for <code>+hyphacoop:tomesh.net</code> rooms to <strong>Mentions only</strong>. In messages, we refer to members by initials and only use handles when trying to trigger a notification to bring someone to a conversation (i.e., an urgent ping). There is otherwise no expectation that members will check the chat regularly, or catch up on backscrolls, therefore it is important to be intentional in bringing summaries of decisions made back into Issues in GitHub.</p>
-<h2 id="shared-calendar"><a name="shared-calendar" class="plugin-anchor" href="#shared-calendar"><i class="fa fa-link" aria-hidden="true"></i></a>Shared Calendar</h2>
-<p>We have two shared Google Calendars:</p>
+<h3 id="signal"><a name="signal" class="plugin-anchor" href="#signal"><i class="fa fa-link" aria-hidden="true"></i></a>Signal</h3>
+<p>An admin user of the <code>hyphacoop (Emergency Channel)</code> room needs to remove the employee being offborded.</p>
 <ul>
-<li><a href="https://link.hypha.coop/calendar" target="_blank"><code>hyphacoop</code></a>: <em>Internal meetings</em> and <em>public events of interest</em></li>
-<li><a href="https://link.hypha.coop/availability" target="_blank"><code>hyphacoop: availability</code></a>: <em>Member office hours</em> and <em>member travels (as all-day events)</em></li>
+<li>Open the Signal app and open the room</li>
+<li>Open the room setting</li>
+<li>Click on the user being removed</li>
+<li>Click on <code>Remove from group</code></li>
 </ul>
-<p>Members can use <em>office hours</em> to identify work hour overlaps with each other, where they can expect peers to be on chat and likely to be available for calls. The <em>travels</em> allow people to figure out the timezone other members are in.</p>
-<h2 id="signal"><a name="signal" class="plugin-anchor" href="#signal"><i class="fa fa-link" aria-hidden="true"></i></a>Signal</h2>
-<p>We use Signal for emergency communications.</p>
-<h2 id="google-drive"><a name="google-drive" class="plugin-anchor" href="#google-drive"><i class="fa fa-link" aria-hidden="true"></i></a>Google Drive</h2>
-<p>We use <a href="https://link.hypha.coop/drive" target="_blank">Google Drive</a> (with both privileged 🔒 and public folders).</p>
+<h3 id="matrix"><a name="matrix" class="plugin-anchor" href="#matrix"><i class="fa fa-link" aria-hidden="true"></i></a>Matrix</h3>
+<p>Room admins for the relevant channels need to perform these actions.
+Removing users from non-public rooms:</p>
+<ul>
+<li>In the room user list click on the user being offborded</li>
+<li>In the user settings click on <code>Remove from room</code></li>
+<li>Enter a optional reason</li>
+<li>Click <code>Remove from room</code> button</li>
+</ul>
+<p>If the user you are trying to remove have a power level of <code>100</code> and is on the <code>@tomesh.net</code> homeserver tell server admins (@asotnetworks or @YurkoWasHere) to help remove the user.</p>
+<h3 id="github"><a name="github" class="plugin-anchor" href="#github"><i class="fa fa-link" aria-hidden="true"></i></a>GitHub</h3>
+<p>A user in the <code>Owner</code> group is needed to remove users.</p>
+<ul>
+<li>Login to GitHub and go to <code>https://github.com/orgs/hyphacoop/people</code></li>
+<li>Click on the ⚙️ button beside the user you want to remove</li>
+<li>Click on <code>Remove from organization...</code></li>
+</ul>
+<h3 id="slack"><a name="slack" class="plugin-anchor" href="#slack"><i class="fa fa-link" aria-hidden="true"></i></a>Slack</h3>
+<p>Open the Slack web app and remove the user from the Hypha workspace.</p>
+<h3 id="bitwarden"><a name="bitwarden" class="plugin-anchor" href="#bitwarden"><i class="fa fa-link" aria-hidden="true"></i></a>Bitwarden</h3>
+<p>These action needs the admin admin user privileges.</p>
+<ul>
+<li>Login to <a href="https://vault.bitwarden.com/" target="_blank">Bitwarden</a></li>
+<li>Click on <code>Organizations</code> on the top menu</li>
+<li>Click on the Manage tab</li>
+<li>Select the user you want to remove</li>
+<li>Click on the ⚙️ button between the <code>Search</code> and <code>Invite user</code> button</li>
+<li>And click on <code>Remove</code></li>
+</ul>
 </body></html>
                                 
                                 </section>
@@ -844,12 +880,12 @@ Labels are also used to indicate priorities of tasks.</p>
 
             
                 
-                <a href="offboarding.html" class="navigation navigation-prev " aria-label="Previous page: Offboarding">
+                <a href="onboarding.html" class="navigation navigation-prev " aria-label="Previous page: Onboarding">
                     <i class="fa fa-angle-left"></i>
                 </a>
                 
                 
-                <a href="initiatives.html" class="navigation navigation-next " aria-label="Next page: Initiatives">
+                <a href="coordination.html" class="navigation navigation-next " aria-label="Next page: Coordination 🚧">
                     <i class="fa fa-angle-right"></i>
                 </a>
                 
@@ -860,7 +896,7 @@ Labels are also used to indicate priorities of tasks.</p>
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Coordination 🚧","level":"3.3","depth":1,"next":{"title":"Initiatives","level":"3.4","depth":1,"path":"initiatives.md","ref":"initiatives.md","articles":[]},"previous":{"title":"Offboarding","level":"3.2","depth":1,"path":"offboarding.md","ref":"offboarding.md","articles":[]},"dir":"ltr"},"config":{"plugins":["anchors"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"anchors":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"theme":"default","author":"Hypha Worker Co-operative","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56},"embedFonts":false},"structure":{"langs":"LANGS.md","readme":"handbook.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"H&#8322;O","gitbook":"*","description":"Hypha handbook describes the vision, processes, and culture of Hypha Worker Co-operative. 🌿🍄"},"file":{"path":"coordination.md","mtime":"2023-01-11T00:01:17.926Z","type":"markdown"},"gitbook":{"version":"4.0.4","time":"2023-01-11T00:01:27.872Z"},"basePath":".","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Offboarding","level":"3.2","depth":1,"next":{"title":"Coordination 🚧","level":"3.3","depth":1,"path":"coordination.md","ref":"coordination.md","articles":[]},"previous":{"title":"Onboarding","level":"3.1","depth":1,"path":"onboarding.md","ref":"onboarding.md","articles":[]},"dir":"ltr"},"config":{"plugins":["anchors"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"anchors":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"theme":"default","author":"Hypha Worker Co-operative","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56},"embedFonts":false},"structure":{"langs":"LANGS.md","readme":"handbook.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"H&#8322;O","gitbook":"*","description":"Hypha handbook describes the vision, processes, and culture of Hypha Worker Co-operative. 🌿🍄"},"file":{"path":"offboarding.md","mtime":"2023-01-11T00:01:17.954Z","type":"markdown"},"gitbook":{"version":"4.0.4","time":"2023-01-11T00:01:27.872Z"},"basePath":".","book":{"language":""}});
         });
     </script>
 </div>
