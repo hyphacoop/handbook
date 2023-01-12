@@ -34,18 +34,19 @@ What do all of those mean? See their [definitions by the Co-operators](https://w
 
 As a worker co-operative, Hypha has a policy of allocating part of our annual surplus (or loss) towards individual members' capital accounts, as defined in section 6.4 of our [bylaws](bylaws.md).
 
-The co-operative keeps an account balance for each full member, and after each fiscal year, 20% of the co-operative's surplus/loss in that year is allocated among all the members according to labour contribution (i.e., [time commitment](time-commitment.md)) through the fiscal year.
+The co-operative keeps an account balance for each full member. After each fiscal year, 20% of the co-operative's surplus/loss in that year is allocated among all the members according to labour contribution (i.e., [time commitment](time-commitment.md)) through the fiscal year.
 
-At the moment, the account balance is loaned to the co-operative at 0% interest as liquidity for business activities, and there is no process for members to receive the balance, except when a member resigns their membership, then their account balance is paid out.
+Currently, the account balance is loaned to the co-operative at 0% interest as liquidity for business activities. There is no process for members to receive the balance, except when a member resigns their membership, at which point their account balance is paid out.
 
 ## Client Initiative Allocations
 
-Hypha often participates in exciting projects where clients may offer incentives to individual key contributors at various stages, in the form of shares (e.g., founders shares, stock options, RSUs), tokens, bonuses, or other incentive-alignment mechanisms. Members are free to make these direct arrangements with clients as appropriate.
+Hypha participates in projects where clients may offer incentives to key individual contributors in the form of shares (e.g., founders shares, stock options, Restricted Stock Units (RSUs)), tokens, bonuses, or other incentive-alignment mechanisms. Members are free to make these arrangements directly with clients as appropriate. These incentives are owned and managed by the individual, and do not involve the co-op.
 
-Historically, there are cases where Hypha gets a small allocation, or does not involve in the allocation agreements at all, while at other times the co-operative will directly join onto capitalization tables. This depends highly on the client's intention and Hypha's role in the project. When Hypha receives these asset allocations, they become part of Hypha's assets and is collectively managed by the membership just like other asset types.
+
+Historically, there have been cases where Hypha receives a small allocation, or where the co-operative participates in the capitalization table. There are also instances where neither individuals nor the co-op are involved in the allocation agreements. The arrangement depends on the client's intention and Hypha's role in the project. In cases where the co-op receives asset allocations, they become part of Hypha's assets and are collectively managed by the membership, similar to other asset types.
 
 ## Democratic Governance Participation
 
-A worker co-operative is democratically managed by its membership, which means the most important decisions require one-person-one-vote approvals as defined in our [bylaws](bylaws.md). These decisions are made throughout the year, and most importantly at our *Annual General Meeting*.
+A worker co-operative is democratically managed by its membership; this means that all key decisions require one-person-one-vote approvals as defined in our [bylaws](bylaws.md). These decisions are made throughout the year, and most importantly at our *Annual General Meeting*.
 
-Probationary members, in their first year, will participate in many of the discussions without actual voting power. Once one becomes accepted as a full member, they will become a voting member, and participate not only as a worker, but also as a member, who is responsible for the strategic direction of the co-operative and its responsibilities to the membership.
+In their first year, probationary members participate in many of the important Hypha-related discussions without actual voting power. Once someone is accepted as a full member, they become a voting worker-member who is responsible for the strategic direction of the co-operative and its obligations to the membership.
