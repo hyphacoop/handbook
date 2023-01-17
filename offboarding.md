@@ -1,5 +1,7 @@
 
 # Offboarding 
+
+Follow the steps below to offboard an inactive or departing member, employee or contractor. Use the [offboarding checklist](checklist-offboarding.md) to track your work.
 ## Google Account
 These actions require the `Super Admin` permissions.
 ### Export user data
@@ -15,7 +17,7 @@ Login to [Google Admin](https://admin.google.com)
 - Rename to `email@hypha.coop-takeout-...`
 - Upload to the [Former employee export](https://drive.google.com/drive/folders/1HxS9KvSACFL8b9vsVaqmjU-T5Oc8uHuT) folder in our `Privileged` Google drive
 ### Delete the user
-- Log back into [Google Admin](https://admin.google.com)
+Log back into [Google Admin](https://admin.google.com)
 - In the `Directory/Users` page click on the user being offboarded
 - Click on `Delete`
 - Move `Drive` and `Brand Accounts` to another `@hypha.coop` user (ask in Matrix who the new owner of the deleted account should be)
