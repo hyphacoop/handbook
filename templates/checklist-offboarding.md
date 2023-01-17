@@ -59,7 +59,7 @@ This is a checklist for offboarding a member of the Co-operative 👋😢
 | Active initiatives/WGs 	| ✅	|  ❌ 	| ❌  	|
 | Community [deprecated]	| ✅	|  ✅	| ❌	|
 | **Email** 	|  	|  	|  	|
-| Own inbox | ✅ | ✅ (monitored encourage out of office, not responding from email) | ❌   |
+| Own inbox | ✅ | ✅ (set out of office directing to active member if not monitoring email) | ❌   |
 | members@ 	| ✅	| ✅	| ❌  	|
 | other WG/initiative groups   | ✅ | ❌  | ❌   |
 | **Bitwarden** 	|  	|  	|  	|
