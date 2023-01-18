@@ -38,6 +38,7 @@ These templates are used as [GitHub Issue templates](https://docs.github.com/en/
 | [Tracking Task](https://github.com/hyphacoop/organizing/blob/main/.github/ISSUE_TEMPLATE/tracking_task_template.md) | Create a high-level organizational tracking task |
 | [Infra Ticket](https://github.com/hyphacoop/organizing/blob/main/.github/ISSUE_TEMPLATE/infra_ticket_template.md) | Create a ticket to report bugs or incidents related to our office infrastructure |
 | [Onboarding](https://github.com/hyphacoop/organizing-private/blob/main/.github/ISSUE_TEMPLATE/onboarding_template.md) 🔒 | Create a task to track onboarding both employees and contractors |
+| [Offboarding](https://github.com/hyphacoop/organizing-private/blob/main/.github/ISSUE_TEMPLATE/offboarding_template.md) 🔒 | Create a task to track offboarding a member :( |
 | [Opportunity](https://github.com/hyphacoop/organizing-private/blob/main/.github/ISSUE_TEMPLATE/opportunity_template.md) 🔒 | Create a task to track pursuing and landing an opportunity |
 
 ## Meetings
@@ -52,7 +53,7 @@ These templates are used for our [meeting notes](https://meetings.hypha.coop).
 | [Annual Members Meeting](https://raw.githubusercontent.com/hyphacoop/organizing/main/templates/members.md) | Template for our annual meetings of all members |
 | [Retreat](https://raw.githubusercontent.com/hyphacoop/organizing/main/templates/retreat.md) | Template for our team retreats |
 
-## Handbook 🚧
+## Handbook 
 
 These templates are used for sections in this handbook.
 
@@ -62,5 +63,3 @@ These templates are used for sections in this handbook.
 | [Role](https://raw.githubusercontent.com/hyphacoop/handbook/master/templates/role.md) | Template to add to [Roles](roles.md) |
 | [Initiative](https://raw.githubusercontent.com/hyphacoop/handbook/master/templates/initiative.md) | Template to propose a new initiative |
 | [Initiative Description](https://raw.githubusercontent.com/hyphacoop/handbook/master/templates/initiative-description.md) | Template to add to [Initiatives](initiatives.md) |
-| [Onboarding](https://raw.githubusercontent.com/hyphacoop/handbook/master/templates/checklist-onboarding.md) | Template for onboarding a new employee or contractor (🚧 move to Tasks as GitHub Issue template) |
-| [Offboarding](https://raw.githubusercontent.com/hyphacoop/handbook/master/templates/checklist-offboarding.md) | Template for onboarding a new employee or contractor (🚧 move to Tasks as GitHub Issue template) |
