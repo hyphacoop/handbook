@@ -1,6 +1,6 @@
 # Employee Salary Guide
 
-This document outlines the salary tiers of Hypha members and the evaluation process.
+This document outlines the salary tiers of Hypha members and the review process.
 
 ## Evaluation
 
@@ -23,7 +23,7 @@ with the following criteria:
 | Geo-downscaling    |         `0.850` | Modifier applied to members living in lower cost of living regions compared to Canadian average  |
 | Adjustment         |                 | Custom dollar amount adjustment applied on a case-by-case basis                                  |
 
-At evaluation time, each member will perform a self-assessment to suggest their *L* and *R* to an evaluation committee made up of other members who are most suited to contribute to their evaluation. Together they will determine the appropriate values for the upcoming cycle. *S* and the *Modifiers* are based largely on objective factors, and a custom dollar amount *Adjustment* may be applied to retain members with high market demand skills, or in other special circumstances.
+At salary review time, each member will perform a self-assessment to suggest their *L* and *R* to an review group made up of other members who are most suited to contribute to their evaluation. Together they will determine the appropriate values for the upcoming cycle. *S* and the *Modifiers* are based largely on objective factors, and a custom dollar amount *Adjustment* may be applied to retain members with high market demand skills, or in other special circumstances.
 
 Salaries are reassessed at minimum annually, or more frequently, at maximum quarterly. If a new hire or existing member negotiates a higher salary, we should reassess all roles to ensure pay consistency.
 
