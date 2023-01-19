@@ -34,12 +34,13 @@ These templates are used as [GitHub Issue templates](https://docs.github.com/en/
 
 | Template | Description |
 |:---------|:------------|
-| [Task](https://github.com/hyphacoop/organizing/blob/main/.github/ISSUE_TEMPLATE/task_template.md) | Create a small task |
-| [Tracking Task](https://github.com/hyphacoop/organizing/blob/main/.github/ISSUE_TEMPLATE/tracking_task_template.md) | Create a high-level organizational tracking task |
+| [Public Task](https://github.com/hyphacoop/organizing/blob/main/.github/ISSUE_TEMPLATE/public_task_template.md) | Create a high-level public organizational task |
 | [Infra Ticket](https://github.com/hyphacoop/organizing/blob/main/.github/ISSUE_TEMPLATE/infra_ticket_template.md) | Create a ticket to report bugs or incidents related to our office infrastructure |
+| [Private Task](https://github.com/hyphacoop/organizing-private/blob/main/.github/ISSUE_TEMPLATE/private_task_template.md) 🔒 | Create a high-level organizational task  |
 | [Onboarding](https://github.com/hyphacoop/organizing-private/blob/main/.github/ISSUE_TEMPLATE/onboarding_template.md) 🔒 | Create a task to track onboarding both employees and contractors |
 | [Offboarding](https://github.com/hyphacoop/organizing-private/blob/main/.github/ISSUE_TEMPLATE/offboarding_template.md) 🔒 | Create a task to track offboarding a member :( |
 | [Opportunity](https://github.com/hyphacoop/organizing-private/blob/main/.github/ISSUE_TEMPLATE/opportunity_template.md) 🔒 | Create a task to track pursuing and landing an opportunity |
+| [ATOM Transfer Request](https://github.com/hyphacoop/organizing-private/blob/main/.github/ISSUE_TEMPLATE/token_request_template.md) 🔒 | Request ATOM for project work  |
 
 ## Meetings
 
