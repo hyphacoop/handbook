@@ -130,21 +130,21 @@ Initiative for scoping out initiatives that aren't yet formed.
 [members]: https://link.hypha.coop/initiatives
 
 <!-- Links: Labels -->
-[l-fin]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"finance"
-[l-opp]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"opportunities"
-[l-inf]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"infrastructure"
-[l-ops]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"operations"
-[l-scope]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"scoping"
-[l-chrysalis]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"init-chrysalis"
-[l-migration]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"init-migration"
-[l-drip]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"init-drip"
-[l-hello]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"init-hello"
-[l-improvetech]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"init-improvetech"
-[l-homeostatis]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"init-homeostatis"
-[l-ochost]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"init-ochost"
-[l-radcoops]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"init-radcoops"
-[l-socials]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"init-socials"
-[l-hiring]: https://github.com/orgs/hyphacoop/projects/2?card_filter_query=label:"init-hiring"
+[l-fin]: https://github.com/orgs/hyphacoop/projects/10/views/1?filterQuery=label:"finance"
+[l-opp]: https://github.com/orgs/hyphacoop/projects/10/views/1?filterQuery=label:"opportunities"
+[l-inf]: https://github.com/orgs/hyphacoop/projects/10/views/1?filterQuery=label:"infrastructure"
+[l-ops]: https://github.com/orgs/hyphacoop/projects/10/views/1?filterQuery=label:"operations"
+[l-scope]: https://github.com/orgs/hyphacoop/projects/10/views/1?filterQuery=label:"scoping"
+[l-chrysalis]: https://github.com/orgs/hyphacoop/projects/10/views/1?filterQuery=label:"init-chrysalis"
+[l-migration]: https://github.com/orgs/hyphacoop/projects/10/views/1?filterQuery=label:"init-migration"
+[l-drip]: https://github.com/orgs/hyphacoop/projects/10/views/1?filterQuery=label:"init-drip"
+[l-hello]: https://github.com/orgs/hyphacoop/projects/10/views/1?filterQuery=label:"init-hello"
+[l-improvetech]: https://github.com/orgs/hyphacoop/projects/10/views/1?filterQuery=label:"init-improvetech"
+[l-homeostatis]: https://github.com/orgs/hyphacoop/projects/10/views/1?filterQuery=label:"init-homeostatis"
+[l-ochost]: https://github.com/orgs/hyphacoop/projects/10/views/1?filterQuery=label:"init-ochost"
+[l-radcoops]: https://github.com/orgs/hyphacoop/projects/10/views/1?filterQuery=label:"init-radcoops"
+[l-socials]: https://github.com/orgs/hyphacoop/projects/10/views/1?filterQuery=label:"init-socials"
+[l-hiring]: https://github.com/orgs/hyphacoop/projects/10/views/1?filterQuery=label:"init-hiring"
 
 [t-opp]: https://github.com/orgs/hyphacoop/teams/opportunities/members
 [t-fin]: https://github.com/orgs/hyphacoop/teams/finance/members
