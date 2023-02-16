@@ -23,7 +23,7 @@
    * [How We Use Data](./Policies/data.md)
 
 ## How we work 
-Virtual Office (bulletin board and our virtual office sections)
+   * [Virtual Office](./How-we-work/virtual-office.md)
    * [Onboarding](./How-we-work/onboarding.md)
    * [Time commitment](./How-we-work/time-commitment.md)
    * [Compensation and Benefits](./How-we-work/compensation-benefits.md) 
