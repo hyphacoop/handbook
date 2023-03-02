@@ -17,7 +17,7 @@ When working remotely, it can be difficult to maintain social connection both wi
 * Talking to other remote employees about the strategies they use to stay connected :)
 
 **Disconnecting from work** 
-Employees must be familiar with Hypha’s [vacation and time-off policy](https://handbook.hypha.coop/holidays.html). When on personal time (e.g., When on vacation, taking sick days, or after an employee’s scheduled working hours), employees are expected to be unreachable for non-emergency project matters.
+Employees must be familiar with Hypha’s [vacation and time-off policy](../How-we-work/holidays.md). When on personal time (e.g., When on vacation, taking sick days, or after an employee’s scheduled working hours), employees are expected to be unreachable for non-emergency project matters.
 
 ## Physically co-located work
 When working in the same physical location, we encourage you to inquire who on the current Hypha team has formal first aid training and certification.

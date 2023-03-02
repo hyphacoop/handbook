@@ -45,7 +45,7 @@ Salaries are reassessed at minimum annually, or more frequently, at maximum quar
 
 ### Responsibilities
 
-**R0**: Meets [good member requirements](https://handbook.hypha.coop/member-workers.html#being-a-good-member). Performs tasks as defined by others.
+**R0**: Meets [good member requirements](../Hypha-Worker-Co-operative/member-workers.md#being-a-good-member). Performs tasks as defined by others.
 
 **R1**: Takes ownership of key deliverables and occasional leadership of small initiatives or sub-initiatives within larger initiatives. Supports others in small ways (e.g., peering).
 

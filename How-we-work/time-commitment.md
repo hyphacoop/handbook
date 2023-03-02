@@ -20,7 +20,7 @@ Based on this, Alice's time is 87.5% billable. When we invoice the clients, Hyph
 
 For the Finance Working Group's projections, we know that Hypha:
 
-- has 12 days of [public holiday](https://handbook.hypha.coop/holidays.html) equivalent to **three 4-day weeks**
+- has 12 days of [public holiday](holidays.md) equivalent to **three 4-day weeks**
 - has Christmas week closure (Dec 27-Jan 1) roughly equal to **one 4-day week**
 - has **three weeks of vacation** for the employee
 
