@@ -8,10 +8,14 @@ Hypha has seven **member-workers**, or **members**, four of which are full membe
 At our [2020 AGM][2020-agm] we began the process of defining what it means to be a good member, we came up with the following initial description:
 
 In order to be a good member, we commit to:
-- being accountable to others, doing the work we've committed to and coming prepared to our initiatives and meetings 
-- making time for each other to learn and grow through co-working and peer sessions 
-- actively soliciting and providing feedback as we work on specific tasks
-- providing confirmations and a sense of closure for others on tasks and initiatives (both synchronously and asynchronously)
+- following Hypha’s [Code of Conduct](coc.md) and [Conflict Transformation](conflict-transformation.md) processes
+- being accountable to others, doing the work you've committed to, and coming prepared to all initiatives and meetings
+- making time to learn and grow through co-working and peer sessions
+- actively soliciting and providing feedback as you work on specific tasks
+- taking initiative to better yourself and Hypha
+- setting a high standard for the work you produce
+- cultivating a healthy, collaborative environment, which means celebrating the accomplishments of your team and supporting each other through failure
+
 
 Our understanding was shaped from the following prompts and examples:
 
