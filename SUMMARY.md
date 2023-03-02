@@ -55,7 +55,6 @@
 ## Operations 
    * [Inactivating Membership](./Operations/inactivating-membership.md)
    * [Issue Labels](./Operations/issue-labels.md)
-   * [Meetings](./Operations/meetings.md)
    * [Sensitive Data](./Operations/sensitive-data.md)
    * [Signatures](./Operations/signatures.md)
    * [Shortlinks](./Operations/shortlinks.md)

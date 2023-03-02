@@ -3,9 +3,6 @@
 The purpose of this resource is to share details about how and when we
 meet.
 
-We have specific guides for [scheduling][scheduling] and
-[hosting][hosting] meetings.
-
 ### Contents
 
 - [Types](#types)
@@ -124,8 +121,8 @@ up-to-date [weekly availability schedules][schedules].
 
    [roles]: /roles.md
    [cultivator]: /roles.md#cultivator-aka-meeting-chair
-   [bylaws-3]: /bylaws.md#3-member-meetings
-   [bylaws-4]: /bylaws.md#4-board-of-directors
+   [bylaws-3]: ../Hypha-Worker-Co-operative/bylaws.md#3-member-meetings
+   [bylaws-4]: ../Hypha-Worker-Co-operative/bylaws.md#4-board-of-directors
    [scheduling]: /guides/meetings.md#scheduling-a-meeting
    [hosting]: /guides/meetings.md#hosting-a-meeting
    [availability]: https://link.hypha.coop/availability
