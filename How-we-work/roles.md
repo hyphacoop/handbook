@@ -58,7 +58,7 @@ The previous Cultivator is responsible for making time to mentor and support the
 
 **Tasks:**
 - invoice clients and settle income transactions
-	- work with project leads to [draft and send invoices](/guides/invoices.md#creating-an-invoice-for-a-client)
+	- work with project leads to [draft and send invoices](./Finance/invoices.md#creating-an-invoice-for-a-client)
 	- [settle invoice payments](/guides/invoice.md#settling-an-invoice-payment)
 - make timely bill payments and ensure organization is in good financial standing
 - keep our books synchronized with bank accounts and match transactions to appropriate categories
@@ -142,13 +142,13 @@ Single meeting. Moves through alphabetical list of active member names.
 
 **Tasks:**
 - run payroll for each pay period
-	- [approve reimbursement of expenses](/guides/expense-reimbursement.md)
-	- [prepare payroll](guides/payroll.md)
+	- [approve reimbursement of expenses](../Finance/expense-reimbursement.md)
+	- [prepare payroll](../Finance/payroll.md)
 	- ensure payroll taxes are remitted, manually file a nil remittance if a pay period is skipped
 	- archive [Employee Payroll sheet](http://link.hypha.coop/payroll) and payroll reports
 - issue T4 (to each employee) and T4A (to each contractor) for each year
 - assist Operations WG in [employee and contractor onboarding](onboarding.md#onboarding-checklist) and keep appropriate records
-- adhere to legal requirements around [keeping records](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/keeping-records.html) and [handling of Social Insurance Number](https://www.canada.ca/en/employment-social-development/services/sin/reports/code-of-practice/section-3.html), and [our sensitive data practices](/guides/sensitive-data.md)
+- adhere to legal requirements around [keeping records](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/keeping-records.html) and [handling of Social Insurance Number](https://www.canada.ca/en/employment-social-development/services/sin/reports/code-of-practice/section-3.html), and [our sensitive data practices](../Operations/sensitive-data.md)
 
 **Authority:**
 - access to sensitive data on employee records

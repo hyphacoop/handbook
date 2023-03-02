@@ -8,7 +8,7 @@ Hypha has seven **member-workers**, or **members**, four of which are full membe
 At our [2020 AGM][2020-agm] we began the process of defining what it means to be a good member, we came up with the following initial description:
 
 In order to be a good member, we commit to:
-- following Hypha’s [Code of Conduct](coc.md) and [Conflict Transformation](conflict-transformation.md) processes
+- following Hypha’s [Code of Conduct](../Policies/coc.md) and [Conflict Transformation](../Policies/conflict-transformation.md) processes
 - being accountable to others, doing the work you've committed to, and coming prepared to all initiatives and meetings
 - making time to learn and grow through co-working and peer sessions
 - actively soliciting and providing feedback as you work on specific tasks
@@ -49,7 +49,7 @@ Our bylaws do not allow for members to be contractors and we do not employ *depe
 
 Employees, as well as contractors and collaborators engaged in certain initiatives with Hypha,
 are expected to sign an *Employee and Contractor Intellectual Property Agreement* and comply with
-[tax obligations as applicable to them](finance.md#gsthst-rt).
+[tax obligations as applicable to them](../Finance/finance.md#gsthst-rt).
 
 A **member**:
   - Has completed a membership application (and/or been officially welcomed into 

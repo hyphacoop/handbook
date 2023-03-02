@@ -7,7 +7,7 @@ This document outlines finance and accounting practices of Hypha Worker Co-opera
 - Member payroll and expense reimbursements
 - Tools and procedures for bookkeeping, accounting, and tax remittances
 
-There are two organizational roles associated with carrying out the day-to-day financial processes at Hypha—the [Finance Steward](roles.md#finance-steward) and [Payroll Coordinator](roles.md#payroll-coordinator).
+There are two organizational roles associated with carrying out the day-to-day financial processes at Hypha—the [Finance Steward](../How-we-work/roles.md#finance-steward) and [Payroll Coordinator](../How-we-work/roles.md#payroll-coordinator).
 
 ### Contents
 
@@ -56,7 +56,7 @@ For example:
 
 Before the **7th of each month**, Members must submit payroll information to the [Employee Payroll](https://link.hypha.coop/payroll) sheet in order to be paid for the pay period covering the previous month.
 
-All wages, expense reimbursements, and withheld taxes are managed by the [Payroll Coordinator](roles.md#payroll-coordinator) using Wagepoint and Quickbooks Online, which are linked to our main Desjardins account.
+All wages, expense reimbursements, and withheld taxes are managed by the [Payroll Coordinator](../How-we-work/roles.md#payroll-coordinator) using Wagepoint and Quickbooks Online, which are linked to our main Desjardins account.
 
 ### Calculating Member Wages
 
@@ -92,20 +92,20 @@ These annualized amounts are calculated and included for each pay period.
 You can use the [Wage Calculator](https://link.hypha.coop/wage) to determine these amounts.
 
 After tax withholdings and other applicable deductions (e.g. CPP & EI employee contributions), the net amount is electronically transferred to the Member's bank account on pay day using **Wagepoint**.
-Refer to the guides for [Payroll](/guides/payroll.md) to set up the payroll run for each pay period.
+Refer to the guides for [Payroll](payroll.md) to set up the payroll run for each pay period.
 
 ### Expense Reimbursement
 
 Member expenses eligible for reimbursement should be submitted to the [Expense Reimbursement](https://link.hypha.coop/expenses) sheet and receipts uploaded to [Employee Expense Receipts](https://link.hypha.coop/receipts) in the same quarter they are incurred.
 Reimbursements are paid out with wages on the next pay day, but do not appear on tax forms.
 
-Follow the guides for [Expense Reimbursement](/guides/expense-reimbursement.md) to submit an eligible expense.
+Follow the guides for [Expense Reimbursement](expense-reimbursement.md) to submit an eligible expense.
 
 ### Public Holiday Pay
 
-Hypha is [closed on public holidays](/holidays.md#public-and-additional-holidays) and Members recieve 5% annualized public holiday pay in their wages every pay period. 
+Hypha is [closed on public holidays](../How-we-work/holidays.md#public-and-additional-holidays) and Members recieve 5% annualized public holiday pay in their wages every pay period. 
 
-In the case where Member-workers [work on holidays](holidays.md#public-and-additional-holidays), they receive regular wages with "substitute time off" and there is no expectation of "public holiday plus premium pay", following the [Employment Standards Act of Ontario](https://www.ontario.ca/document/your-guide-employment-standards-act-0/public-holidays). Wages for work performed on public holidays are calculated without "premium pay" because Members have significantly variable hours of work per period and a 5% annualized public holiday pay is included in Member wages in every pay period. Members are already adequately compensated for any "substitute time off" and set their own schedule. This strikes a balance between those who want the time off and those who want the flexibility to work on the day. 
+In the case where Member-workers [work on holidays](../How-we-work/holidays.md#public-and-additional-holidays), they receive regular wages with "substitute time off" and there is no expectation of "public holiday plus premium pay", following the [Employment Standards Act of Ontario](https://www.ontario.ca/document/your-guide-employment-standards-act-0/public-holidays). Wages for work performed on public holidays are calculated without "premium pay" because Members have significantly variable hours of work per period and a 5% annualized public holiday pay is included in Member wages in every pay period. Members are already adequately compensated for any "substitute time off" and set their own schedule. This strikes a balance between those who want the time off and those who want the flexibility to work on the day. 
 
 
 ## Reporting & Remitting Taxes
@@ -177,5 +177,5 @@ If none of these scenarios apply to your situation, and you are unsure whether t
 
 Hypha may sometimes need to hold cryptocurrencies. 
 
-- We have a [key holder role](/roles.md#key-holder) to manage our keys.
+- We have a [key holder role](../How-we-work/roles.md#key-holder) to manage our keys.
 - We have a [Cosmos multisig treasury wallet](https://docs.google.com/document/d/1vXXh1tJqzjs6NyxJhS6Wof5ITGDYSVThT3sX_yTegQ0/edit#) 🔒, a hot wallet, and various purpose-specific wallets listed in our [account information](https://github.com/hyphacoop/organizing-private/blob/main/documents/finances/account-information.md#cryptocurrencies) 🔒

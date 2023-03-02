@@ -61,6 +61,6 @@ These templates are used for sections in this handbook.
 | Template | Description |
 |:---------|:------------|
 | [Guide](https://raw.githubusercontent.com/hyphacoop/handbook/master/templates/guide.md) | Template to add to [Guides](guides.md) |
-| [Role](https://raw.githubusercontent.com/hyphacoop/handbook/master/templates/role.md) | Template to add to [Roles](roles.md) |
+| [Role](https://raw.githubusercontent.com/hyphacoop/handbook/master/templates/role.md) | Template to add to [Roles](../How-we-work/roles.md) |
 | [Initiative](https://raw.githubusercontent.com/hyphacoop/handbook/master/templates/initiative.md) | Template to propose a new initiative |
 | [Initiative Description](https://raw.githubusercontent.com/hyphacoop/handbook/master/templates/initiative-description.md) | Template to add to [Initiatives](initiatives.md) |
