@@ -4,7 +4,7 @@
 >
 >*—Diane Musho Hamilton*
 
-All member-workers, employees and contractors of Hypha Worker Co-operative must agree to follow [Hypha's Code of Conduct](coc.md), [principles of being a good member](member-workers.md) and uphold the [co-op's values](vision.md) when working together. These form the guidelines for our work together.
+All member-workers, employees and contractors of Hypha Worker Co-operative must agree to follow [Hypha's Code of Conduct](coc.md), [principles of being a good member](../Hypha-Worker-Co-operative/member-workers.md) and uphold the [co-op's values](../Hypha-Worker-Co-operative/vision.md) when working together. These form the guidelines for our work together.
 
 When conflict within the co-operative arises, which is both natural, expected, and normal, the following process should be followed to transform the conflict into a better, or at the minimum, neutral experience for those involved. The goal of this process is to transform the conflict at the lowest level of escalation. 
 

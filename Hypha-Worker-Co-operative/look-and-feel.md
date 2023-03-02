@@ -15,7 +15,7 @@ For web or print treatments we uppercase "Hypha":
 
 We use the following wordmark in online spaces, services, and social media where we represent the organization: 
 
-<img src="images/hypha-wordmark.png" alt="Hypha Wordmark in white on violet background" width="50%"/>
+<img src="../images/hypha-wordmark.png" alt="Hypha Wordmark in white on violet background" width="50%"/>
 
 
 ### Typography
@@ -29,7 +29,7 @@ Our **heading typeface** is [Work Sans](https://github.com/weiweihuanghuang/Work
 
 ### Colours
 
-<img src="images/hypha-colours.png" alt="Hypha colours" width="95%"/>
+<img src="../images/hypha-colours.png" alt="Hypha colours" width="95%"/>
 
 **Black (X11 Black)**  
 > `#000000;`  

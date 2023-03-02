@@ -32,7 +32,7 @@ What do all of those mean? See their [definitions by the Co-operators](https://w
 
 ## Labour Patronage
 
-As a worker co-operative, Hypha has a policy of allocating part of our annual surplus (or loss) towards individual members' capital accounts, as defined in section 6.4 of our [bylaws](bylaws.md).
+As a worker co-operative, Hypha has a policy of allocating part of our annual surplus (or loss) towards individual members' capital accounts, as defined in section 6.4 of our [bylaws](../Hypha-Worker-Co-operative/bylaws.md).
 
 The co-operative keeps an account balance for each full member. After each fiscal year, 20% of the co-operative's surplus/loss in that year is allocated among all the members according to labour contribution (i.e., [time commitment](time-commitment.md)) through the fiscal year.
 
@@ -47,6 +47,6 @@ Historically, there have been cases where Hypha receives a small allocation, or 
 
 ## Democratic Governance Participation
 
-A worker co-operative is democratically managed by its membership; this means that all key decisions require one-person-one-vote approvals as defined in our [bylaws](bylaws.md). These decisions are made throughout the year, and most importantly at our *Annual General Meeting*.
+A worker co-operative is democratically managed by its membership; this means that all key decisions require one-person-one-vote approvals as defined in our [bylaws](../Hypha-Worker-Co-operative/bylaws.md). These decisions are made throughout the year, and most importantly at our *Annual General Meeting*.
 
 In their first year, probationary members participate in many of the important Hypha-related discussions without actual voting power. Once someone is accepted as a full member, they become a voting worker-member who is responsible for the strategic direction of the co-operative and its obligations to the membership.

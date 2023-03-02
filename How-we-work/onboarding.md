@@ -2,32 +2,6 @@
 
 Welcome to Hypha! This page is to help those getting situated in our organization.
 
-## Bulletin Board 
-
-Check out the board for announcements and notices! Please feel free to [add your own][bb] and put a readable copy in the [folder][bb-folder].
-
-[![Bulletin Board](https://docs.google.com/drawings/d/e/2PACX-1vScf7VtN05yDlUFNVXcc8dcgY7J_zmAozp-Nvz51cnNQ5cHPJ_Xfdp6u5rChpLBKKDryD0junefuHsZ/pub?w=1433&h=975)][bb-folder]
-
-
-## Our Virtual Office
-
-We interact with the public though the following channels:
-
-- 📞 +1-437-887-6936 (We have specific guides for [Accessing][accessing-vm] and [Managing][managing-vm] Voicemail)
-- 📫 #1308-1403 Royal York Road, Etobicoke, Ontario  M9P 0A1
-- 📧 hello@hypha.coop (we have specific guides for [Using][accessing-em] Email)
-
-Instead of a physical place we have virtual office with the following spaces:
-
-- [Matrix Chat][matrix-chat] (`chat.tomesh.net`)
-- [GitHub Organization][github-org], with a [task tracker][task-tracker]
-- [Google Drive][google-drive] (with both privileged 🔒 and public folders)
-
-We also have the following "helper" tools to navigate our office spaces:
-
-- [Link Shortener][link-shortener] (`link.hypha.coop`)
-
-
 ## Onboarding Checklist
 
 This is a checklist for onboarding new members, workers, and contractors to the Co-operative that should be done by the [Operations WG][operations]. 🚀
@@ -60,9 +34,9 @@ This is a checklist for onboarding new members, workers, and contractors to the 
 1. Add member SIN to BitWarden and share access with `People Operations` group.
    Change the member access to the entry as read-only, as this information is for recording keeping and the Member should not be able to modify it
 
-1. Collect encrypted (see [Sensitive Data](/guides/sensitive-data.md) guide) [`TD1` and `TD1-ON` forms](https://www.canada.ca/en/revenue-agency/services/forms-publications/td1-personal-tax-credits-returns.html) to [Drive](https://link.hypha.coop/drive)
+1. Collect encrypted (see [Sensitive Data](../Operations/sensitive-data.md) guide) [`TD1` and `TD1-ON` forms](https://www.canada.ca/en/revenue-agency/services/forms-publications/td1-personal-tax-credits-returns.html) to [Drive](https://link.hypha.coop/drive)
 
-1. Add member to Clockify and [as Employee in Wagepoint](/guides/payroll.md#adding-a-new-employee) for payroll
+1. Add member to Clockify and [as Employee in Wagepoint](../Finance/payroll.md#adding-a-new-employee) for payroll
 
 #### Set up communications
 ##### Google Account
@@ -77,7 +51,7 @@ Login to [Google Admin](https://admin.google.com)
 - Click on `ADD NEW USER` button
 - Copy the password
 - Send a email to the new user using their personal email with instructions to log in using the password above
-- Update the [emails document](email.md) with the new email
+- Update the [emails document](../Infrastructure/email.md) with the new email
 - Add the new user to the `everyone` group
 
 ##### Google Drive
@@ -128,9 +102,9 @@ These action needs the admin admin user privileges.
 
 <!-- Links -->
 [link-shortener]: https://link.hypha.coop
-[accessing-em]: /guides/email.md#using-your-new-inbox-users
-[accessing-vm]: /guides/voicemail.md
-[managing-vm]: /guides/voicemail.md#managing-voicemail-and-phone-forwarding
+[accessing-em]: ../Infrastructure/email.md#using-your-new-inbox-users
+[accessing-vm]: ../Infrastructure/voicemail.md
+[managing-vm]: ../Infrastructure/voicemail.md#managing-voicemail-and-phone-forwarding
 [matrix-chat]: https://chat.tomesh.net/#/group/+hyphacoop:tomesh.net
 [task-tracker]: https://link.hypha.coop/tasks
 [github-org]: https://github.com/hyphacoop/
