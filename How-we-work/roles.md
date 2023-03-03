@@ -29,11 +29,6 @@ The *Cultivator* is responsible for tending to the all hands meetings and import
   - set up required loomio theads and decisions
   - send reminders on time-sensitive action items
 
-For more details, see our Guides for [scheduling][] and [hosting][]
-meetings (summarized above).
-
-   [scheduling]: /guides/meetings.md#scheduling-a-meeting
-   [hosting]: /guides/meetings.md#hosting-a-meeting
 
 **Authority:**
 - set agenda and determine discussion items for all hands
@@ -58,8 +53,7 @@ The previous Cultivator is responsible for making time to mentor and support the
 
 **Tasks:**
 - invoice clients and settle income transactions
-	- work with project leads to [draft and send invoices](./Finance/invoices.md#creating-an-invoice-for-a-client)
-	- [settle invoice payments](/guides/invoice.md#settling-an-invoice-payment)
+	- work with project leads to [draft and send invoices](../Finance/invoices.md#creating-an-invoice-for-a-client)
 - make timely bill payments and ensure organization is in good financial standing
 - keep our books synchronized with bank accounts and match transactions to appropriate categories
 - review quarterly financial reports

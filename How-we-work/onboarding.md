@@ -111,4 +111,4 @@ These action needs the admin admin user privileges.
 [google-drive]: https://link.hypha.coop/drive
 [bb]: https://docs.google.com/drawings/d/1tpczePR5ky0EkdOGGdfU16irDz-gjdC61p2QGoAKhIE/edit
 [bb-folder]: https://drive.google.com/drive/folders/1GenT6xQdSEwUlToKhYdQktGlHW6AgRYN?usp=sharing
-[operations]: /initiatives.md#operations
+[operations]: ./initiatives.md#operations

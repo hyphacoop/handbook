@@ -1,7 +1,6 @@
 
 ### Contents
 - [Proxmox](#proxmox)
-    - [Manually creating Virtual Machines](#manually-creating-virtual-machines)
 - [OVH Hosting](#ovh-hosting)
     - [Setting up OVH backup space](#setting-up-ovh-backup-space)
 - [Backup and Restore](#backup-and-restore)

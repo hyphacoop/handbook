@@ -13,8 +13,6 @@ meet.
   - [Board Meeting](#board-meeting)
   - [Social Time](#social-time)
 - [Calendar Holds](#calendar-holds)
-- [Scheduling][scheduling] 🔗
-- [Hosting][hosting] 🔗
 
 
 ## Types
@@ -119,12 +117,10 @@ available, that we try to leave open. They could be used for:
 We periodically re-poll members for the best time, often using our
 up-to-date [weekly availability schedules][schedules].
 
-   [roles]: /roles.md
-   [cultivator]: /roles.md#cultivator-aka-meeting-chair
+   [roles]: roles.md
+   [cultivator]: roles.md#cultivator-aka-meeting-chair
    [bylaws-3]: ../Hypha-Worker-Co-operative/bylaws.md#3-member-meetings
    [bylaws-4]: ../Hypha-Worker-Co-operative/bylaws.md#4-board-of-directors
-   [scheduling]: /guides/meetings.md#scheduling-a-meeting
-   [hosting]: /guides/meetings.md#hosting-a-meeting
    [availability]: https://link.hypha.coop/availability
    [schedules]: https://link.hypha.coop/schedules
    [meetings]: https://link.hypha.coop/meetings
