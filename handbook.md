@@ -11,7 +11,6 @@ but it will be publicly available for others who might find it useful.
 The goal is to provide as much clarity and context as possible, 
 while sharing our structures and practices with the outside world as well.
 
-![Old-timey web 1.0 UNDER CONSTRUCTION banner](images/under-construction.gif)<br />
 This resource is in perpetual beta and constantly changing. 
 If you see something that could be improved, 
 consider this your invitation to improve it!
