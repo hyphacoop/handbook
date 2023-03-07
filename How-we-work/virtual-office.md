@@ -34,4 +34,3 @@ Check out the board for announcements and notices! Please feel free to [add your
 [google-drive]: https://link.hypha.coop/drive
 [bb]: https://docs.google.com/drawings/d/1tpczePR5ky0EkdOGGdfU16irDz-gjdC61p2QGoAKhIE/edit
 [bb-folder]: https://drive.google.com/drive/folders/1GenT6xQdSEwUlToKhYdQktGlHW6AgRYN?usp=sharing
-[operations]: ../How-we-work/initiatives.md#operations
