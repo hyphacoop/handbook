@@ -14,13 +14,16 @@ You should have a completed [Employee Payroll](http://link.hypha.coop/payroll) s
 
 ## 2. Collect LTD Deductions
 
-1. Log into the Co-operators portal using the operations credentials found in BitWarden.
+1. Log into the Co-operators portal using the Plan Sponsor credentials found in BitWarden.
 2. Go to the Account Information menu
 3. Click 'View Bills`
 4. Click `View` for the bill for the relevant time period (usually the second from the top at the time of running payroll)
-5. Select `Billing Statement` and click `View`.
-6. Record the LTD premium paid by the Employee after tax.
-7. Log out of the Co-operators portal.
+5. Select `Billing Statement` and click `View`. A PDF version of the bill will open.
+6. For each employee, add the values from the `CURRENT PERIOD DETAIL LIST` and `PRIOR PERIOD ADJUSTMENTS DETAIL LIST`:
+  - `Premium` column, `Employee` subcolumn
+  - `Total Amount Due for Member` row
+
+> Adjustments are optional and typically there will not be any.
 
 ## 3. Verify Deductions in Wagepoint
 
@@ -28,7 +31,7 @@ You should have a completed [Employee Payroll](http://link.hypha.coop/payroll) s
 2. Click the `EMPLOYEES` tab.
 3. Click on an employee's name.
 4. Click `DEDUCTIONS`.
-5. The `Long-term disability premium` deduction must match the employee's entry in the Co-operators billing statement: see the "Total Amount Due for Member" line under Premium -> Employee.
+5. The `Long-term disability premium` deduction must match the value calculated using the benefits plan billing statement.
 6. Repeat steps 3-5 for all employees.
 
 ## 4. Submit Payroll in Wagepoint
