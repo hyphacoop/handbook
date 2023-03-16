@@ -23,3 +23,14 @@ Check out the board for announcements and notices! Please feel free to [add your
 
 [![Bulletin Board](https://docs.google.com/drawings/d/e/2PACX-1vScf7VtN05yDlUFNVXcc8dcgY7J_zmAozp-Nvz51cnNQ5cHPJ_Xfdp6u5rChpLBKKDryD0junefuHsZ/pub?w=1433&h=975)][bb-folder]
 
+<!-- Links -->
+[link-shortener]: https://link.hypha.coop
+[accessing-em]: ../Infrastructure/email.md#using-your-new-inbox-users
+[accessing-vm]: ../Infrastructure/voicemail.md
+[managing-vm]: ../Infrastructure/voicemail.md#managing-voicemail-and-phone-forwarding
+[matrix-chat]: https://chat.tomesh.net/#/group/+hyphacoop:tomesh.net
+[task-tracker]: https://link.hypha.coop/tasks
+[github-org]: https://github.com/hyphacoop/
+[google-drive]: https://link.hypha.coop/drive
+[bb]: https://docs.google.com/drawings/d/1tpczePR5ky0EkdOGGdfU16irDz-gjdC61p2QGoAKhIE/edit
+[bb-folder]: https://drive.google.com/drive/folders/1GenT6xQdSEwUlToKhYdQktGlHW6AgRYN?usp=sharing
