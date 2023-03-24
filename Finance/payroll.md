@@ -4,7 +4,7 @@ This guide describes how to to set up a payroll run for the pay period. The proc
 1. Verify the Employee Payroll sheet.
 2. Collect the Long Term Disability (LTD) deductions.
 3. Verify benefit deductions via Wagepoint.
-3. Submit payroll via Wagepoint.
+4. Submit payroll via Wagepoint.
 
 We use [Wagepoint](https://wagepoint.com) to run payroll. If this is the first time you use Wagepoint, watch this introductory video: [Running your first payroll with Wagepoint - Canada](https://www.youtube.com/watch?v=KfLMcqGTDwE) video.
 
