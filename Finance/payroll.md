@@ -61,4 +61,4 @@ You should have a completed [Employee Payroll](http://link.hypha.coop/payroll) s
 9. Three working days ahead of the `Pay Date`, Wagepoint will withdraw funds from our bank account.
     After we receive a notification from Wagepoint that payroll reports are ready, we must upload the following documents for our bookkeeper to update Quickbooks (all of these are available under the `REPORTS` tab in Wagepoint):
     - Copy the [Payroll Register](https://secure.wagepoint.com/payrollRegister) and [Posting Journal](https://secure.wagepoint.com/postingJournal) to 🔒 [`Finance > Payroll > Payroll Information`](https://drive.google.com/drive/u/0/folders/13ZFnCm0kFLFfvHc83mDiYX5HkE9r0piT). 
-    - Send the [Payroll Invoice](https://secure.wagepoint.com/invoice)  to the QuickBooks receipt address.
+    - Send the [Payroll Invoice](https://secure.wagepoint.com/invoice) to the QuickBooks receipt address.
