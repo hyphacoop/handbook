@@ -1,6 +1,14 @@
 # Paying Invoices
 
-Prior to paying the first invoice for a contractor, confirm with the contractor whether they would like to pay in CAD, USD, EUR, or GBP, and obtain their relevant banking details.
+
+## New contractors
+
+Prior to paying the first invoice for a contractor:
+- If there was no notice of a new contractor/invoice to be paid, confirm invoice with project lead.
+- Confirm what currency the invoice is in. If not in CAD make sure it is identified somewhere on the invoice.
+- Confirm with contractor and project lead in what currency they would be paid in (CAD, USD, EUR, or GBP).
+- Collect banking details from contractor and enter them into Wise.
+- After entering the banking information, provide screenshot to contractor to confirm.
 
 ## Paying an Invoice through Wise
 
