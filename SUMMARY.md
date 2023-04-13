@@ -36,10 +36,12 @@
 
 ## Finance
    * [Finance](./Finance/finance.md)
-   * [Invoices](./Finance/invoices.md)
+   * [Sending Invoices](./Finance/sending-invoices.md)
+   * [Paying Invoices](./Finance/paying-invoices.md)
    * [Payroll](./Finance/payroll.md)
    * [Reporting HST](./Finance/reporting-hst.md)
    * [Expense Reimbursement](./Finance/expense-reimbursement.md)
+   * [Add an Employee](./Finance/add-employee.md)
 
 ## Infrastructure 
    * [Calendar](./Infrastructure/calendar.md)
