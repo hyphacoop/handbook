@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>404 Page Not Found</title>
+  <style>
+    body {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+      font-family: Arial, sans-serif;
+      text-align: center;
+    }
+
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+  </style>
+</head>
+<body>
+  <h1>Oops! Something went wrong.</h1>
+  <p>The page you are looking for does not exist or an error occurred. You will be redirected to the homepage in 5 seconds.</p>
+  <img src="https://media.tenor.com/_OuDiydBjrkAAAAC/get-in-loser-were-going-shopping.gif" alt="Get in loser, we're going shopping">
+
+  <script>
+    setTimeout(function() {
+      window.location.href = '/index.html';
+    }, 5000);
+  </script>
+</body>
+</html>
