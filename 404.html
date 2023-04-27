@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -21,17 +22,25 @@
       max-width: 100%;
       height: auto;
     }
+    p {
+      margin-top: 2.5rem;}
   </style>
 </head>
+
 <body>
-  <h1>Oops! Something went wrong.</h1>
-  <p>The page you are looking for does not exist or an error occurred. You will be redirected to the homepage in 5 seconds.</p>
-  <img src="https://media.tenor.com/_OuDiydBjrkAAAAC/get-in-loser-were-going-shopping.gif" alt="Get in loser, we're going shopping">
+  <h1>Oops...</h1>
+  
+  <img src="images/get-in-loser-were-going-to-the-homepage.gif"
+    alt="Get in loser, we're going to the homepage">
+
+    <p>The page you are looking for does not exist or an error occurred. You will be redirected to the <a href="https://handbook.hypha.coop/">homepage</a> in 7
+      seconds.</p>
 
   <script>
-    setTimeout(function() {
-      window.location.href = '/index.html';
-    }, 5000);
+    setTimeout(function () {
+      window.location.href = 'https://handbook.hypha.coop/';
+    }, 7000);
   </script>
 </body>
+
 </html>
