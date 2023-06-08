@@ -12,7 +12,17 @@ On a quarterly basis, members should identify their [time commitment](time-commi
 |                 4 |                               12 |
 |                 5 |                               15 |
 
-Members are responsible for keeping track of and reporting their vacation days. It is strongly recommended that members take all their alloted days, and in the event that they are not fully utilized, only a maximum of 2 weeks can be paid out each year.
+It is strongly recommended that members take all their alloted days, and in the event that they are not fully utilized, only a maximum of 2 weeks can be paid out each year.
+
+## How to track vacation time
+
+1. Send an email to [Operations](mailto:operations@hypha.coop). Include vacation start and end dates, and number of days you will be taking off. 
+Also note: your usual day off should not be tracked as a vacation day (eg: You don’t work Fridays in a regular work week)
+2. Operations coordinator will update the [vacation tracking spreadsheet](https://link.hypha.coop/vacation)🔒
+3. Operations coordinator will add your vacation to the [shared Availability calendar](https://link.hypha.coop/availability)🔒
+4. Block out your personal Hypha calendar with out of office/vacation time to ensure people don’t book meetings during the time you are away.
+5. Please post a message in #private-general chat right before you go on vacation, as a reminder you will be away and when.
+
 
 ## Lieu Days
 
