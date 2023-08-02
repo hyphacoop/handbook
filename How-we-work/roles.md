@@ -1,237 +1,82 @@
-# Roles 🚧
+# Roles 
+Roles are loosely defined one-person jobs/responsibilities held within the co-op. Some roles exist only within the constraints of a particular meeting, while others persist as part of a working group or relationship with another member.
 
-**Table of Contents**
+## Per-meeting / sporadic roles
 
-- [Roles 🚧](#roles-🚧)
-    - [Cultivator (aka Meeting Chair)](#cultivator-aka-meeting-chair)
-    - [Finance Steward](#finance-steward)
-    - [Initiative Lead](#initiative-lead)
-    - [Notetaker](#notetaker)
-    - [Payroll Coordinator](#payroll-coordinator)
-    - [Social Media Steward](#social-media-steward)
-    - [Key Holder](#key-holder)
-    - [Operations Coordinator](#operations-coordinator)
+These roles occur within meetings or as-needed.
 
-### Cultivator (aka Meeting Chair)
+### Cultivator (meeting chair)
+ * **Eligibility**: A person present at the meeting
+ * **Responsibilities**: Clearly define meeting topics and objectives, keep meeting on-track and within the allotted time
+ * **Tasks**: Solicit agenda items, set agenda, guide conversation around meeting topics, ensure action items and notes are distributed/uploaded as appropriate
 
-The *Cultivator* is responsible for tending to the all hands meetings and important shared fields of the co-operative: where we make decisions (Loomio), where we keep our documents (GitHub), and where we keep our calendar (Google Calendar).
-
-**Tasks**:
-- chair all hands meetings (Weekly):
-   - prepare meeting pad in advance so we start on time
-   - ask for additional agenda items at start of meeting
-   - facilitate discussion
-   - keep time
-- review and merge notes (Weekly)
-- host and plan activity for social call (Monthly)
-- help member-workers stay organized (As needed):
-  - add meetings and important dates to calendar after meeting
-  - set up required loomio theads and decisions
-  - send reminders on time-sensitive action items
-
-
-**Authority:**
-- set agenda and determine discussion items for all hands
-
-**Limits:** (on Authority)
-- permission of member-workers needed to:
-	- cancel or reschedule call for week
-
-**Time Budget:** Up to 2 hours/week.
-
-**Length and Succession**: 1 month, rotates through member-workers. Last meeting of each month, the Cultivator asks for volunteers for the next person, if no one volunteers they can request those who have not been one recently to do so, which can be declined within based on discussion and with cause.
-
-**Support**:
-The previous Cultivator is responsible for making time to mentor and support the incoming Cultivator for the first week as needed.
-
-
-### Finance Steward
-
-**Parent WG:** Finance
-
-**Aim:** Facilitate income and expense transactions for the organization, and steward our financial accounts, records, and projections.
-
-**Tasks:**
-- invoice clients and settle income transactions
-	- work with project leads to [draft and send invoices](../Finance/invoices.md#creating-an-invoice-for-a-client)
-- make timely bill payments and ensure organization is in good financial standing
-- keep our books synchronized with bank accounts and match transactions to appropriate categories
-- review quarterly financial reports
-- update financial projections and communicate financial health to members
-- upload bank statement to 🔒 [`Finance > Desjardins Account > Monthly Statements`](https://drive.google.com/drive/u/0/folders/1gEcomHQe4OqVAPUqHwvrtdQJz-mc23K9) each month
-- serve as contact person for our accountant and bookkeeper
-- oversee all tax obligations
-	- familiarize with [GST/HST Information for Non-Profit Organizations](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4081/gst-hst-information-non-profit-organizations.html)
-	- report and remit HST and any other non-payroll taxes as applicable
-	- file annual tax return with our accountant at fiscal year-end
-
-**Authority:**
-- move balances across our internal accounts for amounts <= CAD$10,000
-- work with our accountant and bookkeeper as needed
-
-**Limits:** (on Authority)
-- permission of parent WG needed to:
-    - move balances across our internal accounts for amounts > CAD$10,000
-    - move balances outside of our internal accounts for any reason and amount
-    - make non-routine adjustments to our financial accounts, records, and projections
-    - submit our annual tax return
-- permission of project lead needed to:
-	- alter or send an invoice to a client
-
-**Time Budget:** Up to 2 hours/week.
-
-**Length and Succession**: 6 months, with renewal. Max 2 terms.
-
-### Initiative Lead
-
-The *Initiative lead* is part-PM, part-coach and is responsible for ensuring initiatives are on track and that all members of the squad are able to work.
-
-**Parent Initiative:** Per initative
-
-**Aim:** Ensuring initiatives are on track and all members of the squad are able to work on tasks.
-
-**Tasks**:
-- report on inititative progress at all hands and strategic meetings 
-- chair inititative meetings (as needed):
-   - prepare for meetings in advance 
-   - facilitate discussion and times
-- review and merge notes (as needed)
-- help squad members stay organized (as needed):
-  - add meetings and important dates to calendar after meeting
-  - set up required tasks on GitHub or documents
-  - send reminders on time-sensitive action items
-- work with Back Office for project setup, invoicing, payroll and contracts
-- track and record project work hours using Clockify 
-
-**Authority:**
-- set strategy and direction within intiative
-
-**Limits:** (on Authority)
-- permissions of all member-workers needed to:
-  - start an initiative
-  - change the scope or extend the length of the initiative
-  - increase the budget
-
-**Time Budget:** Variable depending on needs of initative.
-
-**Length and Succession**: Variable depending on needs of initative.
-
-
-### Notetaker
-
-The *Notetaker*
-
-**Tasks** (Weekly):
-- taking notes
-- cleaning up notes, adding to GH and pinging for review
-
-**Length Succession**:
-Single meeting. Moves through alphabetical list of active member names.
-
-### Payroll Coordinator
-
-**Parent WG:** Finance
-
-**Aim:** Fulfill financial responsibilities to employees and contractors, and adhere to associated legal and tax obligations.
-
-**Tasks:**
-- run payroll for each pay period
-	- [approve reimbursement of expenses](../Finance/expense-reimbursement.md)
-	- [prepare payroll](../Finance/payroll.md)
-	- ensure payroll taxes are remitted, manually file a nil remittance if a pay period is skipped
-	- archive [Employee Payroll sheet](http://link.hypha.coop/payroll) and payroll reports
-- issue T4 (to each employee) and T4A (to each contractor) for each year
-- assist Operations WG in [employee and contractor onboarding](onboarding.md#onboarding-checklist) and keep appropriate records
-- adhere to legal requirements around [keeping records](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/keeping-records.html) and [handling of Social Insurance Number](https://www.canada.ca/en/employment-social-development/services/sin/reports/code-of-practice/section-3.html), and [our sensitive data practices](../Operations/sensitive-data.md)
-
-**Authority:**
-- access to sensitive data on employee records
-- approve reimbursement of employee and project expenses <= CAD$200
-
-**Limits:** (on Authority)
-- permission of parent WG needed to:
-    - approve reimbursement of employee and project expenses > CAD$200
-	- approve payroll for employees and contractors
-
-**Time Budget:** Up to 2 hours/week.
-
-**Length and Succession**: 6 months, with renewal. Max 2 terms.
+### Notetaker 
+ * **Eligibility**: A person present at the meeting
+* **Responsibilities**: Ensure that the meeting is documented and important information is recorded
+* **Tasks**: Create meeting notes, record important ideas and outcomes from meeting
 
 ### Social Media Steward
-
-**Parent WG:** Business Development
-
-**Aim:** Maintain an active online presence amongst neighbors and co-operative allies.
-
-**Tasks:**
-- interact on approved platforms
-- support or initiate discussions about presence on new platforms
-- share monthly updates with parent WG
-- track time under a specific tag
-
-**Authority:**
-- any interactions on our approved platforms:
-    - Twitter
-    - Linkedin
-
-**Limits:** (on Authority)
-- permission of parent WG needed to:
-    - create and activate new social media accounts
-    - squat namespaces on new platforms
-
-**Time Budget:** Up to 2 hours/week.
-
-**Length and Succession**: 3 months, with renewal. Max 2 terms.
-
-### Key Holder
-
-**Parent WG:** Finance
-
-**Aim**: Keep Hypha's cryptocurrency secure by safely managing our keys and making transactions on our behalf.
-
-What kinds of transactions might Hypha be doing on blockchains?
-- Receiving or sending tokens between wallets
-- Delegating our tokens to a validator
-- Voting on governance proposals
-
-**Responsibilities**:
-- Basic knowledge of the features and capabilities of their hardware device
-- Clearly understand the security risks associated with a leaked key
-- Awareness of various attack vectors (e.g., phishing etc.) that could lead to a leaked key
-- Keeping both your backup mnemonic and your hardware device safe
-- Ensure that there is a redundant backup of their mnemonic kept safely
-- Knowledge of how to create transactions for blockchains (scoped to Cosmos Hub for now, but can change)
-- Participate in signing on-chain transactions on behalf of Hypha for various blockchains (scoped to Cosmos Hub for now, but can change)
-
-**Standards**
-- No standards for storing pin. Don't keep anywhere near your hardware device
-- Standards for storing mnemonic
-    - Sealed envelope, lots of tape is fine, ideally in a safe deposit box
-    - Try to keep the hardware device in a separate locked drawer
-
-**Availability expectations**
-- Can make an on-chain transaction within 36 hours from when a decision is made by Hypha membership
-
-**Length and Succession**:  2 year terms
+* **Eligibility:** Anyone in the co-op
+* **Responsibilities**: Manage Hypha’s social media presence with guidance from other members. Facilitate posting and social media strategy.
+* **Tasks:** Post content on existing platforms (Twitter, LinkedIn) behalf of other members and project teams, create accounts to squat namespace as needed.
 
 
-### Operations Coordinator
+## Roles within working groups
 
-**Parent WG:** Operations
+### Finance Steward (role within Finance)
+* **Eligibility**: Full and probationary members in the Finance WG
+* **Responsibilities**: Work in collaboration with the Finance WG to manage and execute on financial related tasks on behalf of Hypha
+* **Tasks**: AP/AR, monthly invoicing, financial reporting, coordination with the bookkeeper, paying contractors, payroll, coordinating employee expenses, etc.
 
-**Aim:** Track and manage time spent on internal (Hypha-related) projects.
+### Payroll Coordinator (role within Finance)
+* **Eligibility**: Full and probationary members in the Finance WG
+* **Responsibilities**: Ensuring payroll is submitted to Wagepoint before the processing deadline (8th or 9th) each month, and paid out on the 15th.
+* **Tasks**: Verifying LTD rates from Co-operators, entering accurate monthly hours and salary, and entering employee expenses quarterly.
 
-**Tasks:**
+### Key Holder (role within Finance)
+* **Eligibility:** Full members in the Finance WG
+* **Responsibilities:** Keep Hypha's cryptocurrency secure by safely managing our keys and making transactions on our behalf.
+	* Basic knowledge of the features and capabilities of their hardware device
+	* Clearly understand the security risks associated with a leaked key
+        * Awareness of various attack vectors (e.g., phishing etc.) that could lead to a leaked key
+* **Tasks:** Create and sign on-chain transactions within 36 hours of a decision being made by Hypha membership. Keep mnemonic, backup mnemonic, and hardware device safe.
 
-- ensure fair distribution of internal work among Hypha members
+### Operations Coordinator (role within Operations)
+ * **Eligibility**: Full and probationary members in the Finance WG
+* **Responsibilities**: Working with the Operations WG and the Finance WG to oversee, manage, and execute on both operational and financial tasks on behalf of Hypha.
+* **Tasks**: A full range of tasks related to finance, operations, HR, assisting with planning annual events (AGM, retreat), etc.
 
 
-**Authority:**
+## Relational roles
+Relational roles are part of helping incoming members develop in their path towards membership.
 
-**Limits:** (on Authority)
+### Membership mentor
+* **Eligibility**: Full members
+* **Responsibilities**: Ensure that assigned mentee understands and is prepared for the responsibilities of membership
+* **Tasks**: Regular check-in meetings with membership mentee, answering questions and supporting mentee’s growth towards membership
+* **Term**: One year (length of mentee’s probationary membership period)
 
-**Time Budget:**
+### Membership buddy
+* **Eligibility**: Probationary member
+* **Responsibilities:** Calibrate progress and provide peer support to a fellow membership-path person
+* **Tasks:** Regular check-in meetings with membership buddy for peer learning and support 
+* **Term**: Up to one year (length of mentee’s probationary membership period)
 
-**Length and Succession:**
-- 6 months, with renewal. Max 2 terms.
+
+## Leadership roles
+
+### Practice lead
+* **Eligibility**: Full and probationary members 
+* **Responsibilities**: Manages the strategy and opportunities within a particular practice area that stretches beyond single-client projects.
+* **Tasks**: Hold context around a practice area and make decisions about resourcing, opportunities, long-term strategic decisions. 
+
+### Project lead
+* **Eligibility**: Full and probationary members 
+* **Responsibilities**: Oversees a particular client account and is accountable for its deliverables.
+* **Tasks**: Organize and support a project team in their work.
+
+### Working group lead
+* **Eligibility**: Full or probationary member who is a consistent part of the working group
+* **Responsibilities**: Oversee working group’s overall pace and direction, supporting other members in their work and priorities
+* **Tasks**: Regular working group meetings, monitoring org-wide kanban board for relevant tasks
 

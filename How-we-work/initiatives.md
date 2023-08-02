@@ -3,169 +3,149 @@
 
 Initiatives are mission-oriented projects that are executed by a self-organising team of 2-4 Hypha members who have the skills and tools to design, build, gather feedback or test, and finalize/release on the project. 
 
-## Setting up an Initiative
-
-An initiative proposal should be **brief** and provide and overview and argument and use the [template](https://github.com/hyphacoop/organizing/blob/master/_posts/initiatives/-initiative-xxx.md). You can add more sections as appropriate, including sample code, project roadmap, etc. Examples can be found in our [initiatives archive](https://github.com/hyphacoop/organizing-private/tree/master/initiatives-internal) 🔒.
-
-Once a proposal has been drafted and approved, the squad will set up a new initiative with support from the [Operations squad](#operations).
-
-## Leads, Opportunities & Client Proposals
-
-While the [Opportunities squad](#opportunities) is mainly in charge of sales lead generation,
-all members may pursue leads as they come up.
-
-If a member decides to pursue a **lead**,
-they can reach out to gauge potential interest in working together.
-If the lead expresses intention to proceed with a concrete project in mind,
-this becomes an **opportunity**.
-
-The member now heads up this sales effort and drafts an **Initiative Proposal** with support from the [Opportunities squad](#opportunities), then present it (e.g., at a meeting, or via virtual channels) to see whether the co-operative wants to move forward.
-In this meeting, we should discuss any concerns by other members,
-and gauge team capacity given project timelines.
-
-Below we have the list of **active** initiatives as of **2022 Q4**. Detailed information about our client projects is in our [initiatives database][members] 🔒. 
+Below we have the list of **active** initiatives as of **2023 Q2**. Detailed information about our client projects is in our [initiatives database][members] 🔒. 
 
 --- 
 
+### All-hands 
+Responsible for facilitating the monthly All-Hands meeting series where we share monthly updates on client projects, internal working groups, and discuss co-op business.
+
+✅ Tasks: GitHub board > [`all-hands` label][l-all-hands]   
+
+### Community-cultivating
+Supports the social connections and team bonding within the co-op by hosting social events
+
+✅ Tasks: GitHub board > [`community-cultivating` label][l-community-cultivating]   
+
+### Coop-dev
+Support cooperative ecosystem developments.
+
+✅ Tasks: GitHub board > [`coop-dev` label][l-coop-dev]   
+
+### Data-centre
+Responsible for monitoring and maintaining infrastructure stored in our data centre, and responding to infrastructure emergencies.
+
+✅ Tasks: GitHub board > [`data-centre` label][l-data-centre]   
+
 ### Dripline
+Responsible for maintaining our reading/writing practice and publishing posts to our Dripline blog.
 
-Initiative for developing Hypha’s writing practice by publishing monthly public-facing articles on our website.
+✅ Tasks: GitHub board > [`dripline` label][l-dripline]   
 
-📅 Calls: [Monthly][calendar]   
-👪 Squad Members: [**aa (lead)** and others][members]  
-✅ Tasks: GitHub board > [`init-drip` label][l-drip]  
+### Engineering-culture
+Facilitates the sharing of engineering knowledge across client projects to upskill engineers and define Hypha's engineering values.
 
-### Hello Hypha
+✅ Tasks: GitHub board > [`engineering-culture` label][l-engineering-culture]   
 
-Initiative for meeting neighbours, potential collaborators, and the co-op curious to deepen our relationships through 2-3 calls per month.
+### Handbook
+Holds primary responsibility for maintaining our internal handbook at handbook.hypha.coop (e.g., Noticing and fixing broken links, calling for adjustments to out-of-date material)
 
-📅 Calls: [Weekly][calendar]   
-👪 Squad Members:  [**aa (lead)** and others][members]   
-✅ Tasks: GitHub board > [`init-hello` label][l-hello] 
+✅ Tasks: GitHub board > [`handbook` label][l-handbook]
 
-### Hiring
+📋 Repo: [handbook-repo]
 
-Initiative for shepharding the hiring proces: identifying and refining roles, forming hiring committees, writing job descriptions, and interviewing.
- 
-📅 Calls: [bi-weekly][calendar]    
-👪 Squad Members: [**bl (lead)** and others][members]    
-✅ Tasks: GitHub board > [`init-hiring` label][l-hiring]  
+### Hello-Hypha
+Facilitates the external meeting series in which we meet with new organizations or companies. First point of contact for new contacts looking to get in touch with Hypha. 
 
-### Improving Tech Stack
+✅ Tasks: GitHub board > [`hello-hypha` label][l-hello-hypha]
 
-Initiative for improving workflow, testing and adding new tools as new requirements emerge.
+### Innovation-circle
+Organizes regular meetings with domain experts to share problems and stimulate creative thinking on various issues. Each person brings a problem statement + resource list + desired output for their problem and the circle briefly discusses and checks in each week.
 
-📅 Calls: [Monthly][calendar]  
-👪 Squad Members: [**yj (lead)** and others][members]   
-✅ Tasks: GitHub board > [`init-improvetech` label][l-improvetech]  
+✅ Tasks: GitHub board > [`innovation-circle` label][l-innovation-circle]
 
-### Organisation Homeostasis
+### Roo-dev
+Develops and maintains our Matrix chatbot.
 
-Initiative for leading the creation and execution of strategy and governance, including quarterly planning meetings and AGM.
- 
-📅 Calls: [As needed][calendar]  
-👪 Squad Members: [**uv (lead)** and others][members]   
-✅ Tasks: GitHub board > [`init-homeostatis` label][l-homeostatis]  
+✅ Tasks: GitHub board > [`roo-dev` label][l-roo-dev]
 
-### [Open Collective Fiscal Host][oc-host]
+📋 Repo: [roo-repo]
 
-Initiative for operating as a fiscal host using Open Collective to aid small projects and informal groups aligned with our mission-work. 
-  
-📅 Calls: [Biweekly][calendar]   
-👪 Squad Members: [**bl (lead)** and others][members]     
-✅ Tasks: GitHub board > [`init-ochost` label][l-ochost]   
+### Subject matter support
+Responsible for providing subject matter expertise on a particular topic 
 
-[oc-host]: https://github.com/hyphacoop/organizing/blob/master/_posts/initiatives/2021-07-01-open-collective-fiscal-host-v1.md
+✅ Tasks: GitHub board > [`subject-matter-support` label][l-subject-matter-support]
 
-<!-- ### Radical Co-op Development
+### Website
+Maintains the content in our public-facing website at hypha.coop. 
 
-Initiative for being active in co-operative spaces (e.g., CIU, CWCF, etc.) and growing other co-operatives. Principle 6. 
+✅ Tasks: GitHub board > [`website` label][l-website]
 
-⏲️ Status: Launched   
-📑 Timeline: Ongoing   
-📈 Scale and Est. Hours: [Small][hours]   
-📅 Calls: [Monthly][calendar]    
-👪 Squad Members: [**uv (lead)** and others][members]  
-✅ Tasks: GitHub board > [`init-radcoops` label][l-radcoops]   -->
+📋 Repo: [hypha-coop-repo]
 
-### Social Spaces
+## Back office working groups
 
-Initiative for maintaining Hypha's social media accounts (e.g., Twitter, Instagram, LinkedIn) and other platforms we use that have a social element (e.g., OpenCollective, Arena, GitHub).
-
-⏲️ Status: Launched   
-📑 Timeline: Ongoing   
-📈 Scale and Est. Hours: [Medium][hours]   
-📅 Calls: [Weekly][calendar]    
-👪 Squad Members: [**open (lead)** and others][members]    
-✅ Tasks: GitHub board > [`init-socials` label][l-socials]  
-
-
-## Back office 
-
-Contains core business activities for sustaining Hypha's virtual office. These are not set up in the same way as the above initiatives:
+Contains core business activities for sustaining Hypha's virtual office. 
 
 ### Finance
+**Responsible for:** Stewarding the financial sustainability of the organization, ensuring that a clear picture of the organization’s financial status is available.
+**Tasks:** Establishing accounting practices, maintaining financial accounts, processing invoices, expenses, and payroll, and creating reports on our financial statements and tax obligations.
 
-Initiative for stewarding the financial sustainability of the organization, this includes establishing accounting practices, maintaining financial accounts, processing invoices, expenses, and payroll, and creating reports on our financial statements and tax obligations.
+📅 Calls: As needed  
 
-📅 Calls: [As needed][calendar]    
-👪 Squad Members: [**@finance**][t-fin]   
+👪 Squad Members: Yurko (lead), Dante, Rachael
+
 ✅ Tasks: GitHub board > [`finance` label][l-fin]   
 
 ### Infrastructure
+**Responsible for:** Managing technical infrastructure and providing technical support for our organization’s internal tools and services. 
+**Tasks:** Maintaining servers, configuring tools such as Google Workspace, 
 
-Initiative for providing support and maintaining our "virtual office" and public services.
+📅 Calls: As needed 
 
-📅 Calls: [Monthly][calendar]   
-👪 Squad Members: [**@infrastructure**][t-inf]   
+👪 Squad Members: Yurko (lead), Elon
+
 ✅ Tasks: GitHub board > [`infrastructure` label][l-inf]   
 
 ### Operations
+**Responsible for:** Managing and overseeing day-to-day operational activities and processes, creating and refining org-wide policies and processes.
+**Tasks:** Creating, reviewing, signing contracts; creating and documenting workplace policies; planning and executing org-wide events such as our Annual Retreat, AGM, and other internal-focused meetings such as All-Hands; supporting practice areas in operational tasks such as hiring.
 
-Initiative for stewarding our shared practices and policies for effective remote collaboration.
+📅 Calls: Biweekly
 
-📅 Calls: [As needed][calendar]   
-👪 Squad Members: [**@operations**][t-ops]   
+👪 Squad Members: Ben (lead), Lexa, Rachael
+
 ✅ Tasks: GitHub board > [`operations` label][l-ops]   
 
-### Opportunities
+### Strategy / Opportunities
+**Responsible for:** Defining the organization’s overall strategy and approach to business.
+**Tasks:** Identifying and seeking out new opportunities for business growth and development
 
-Initiative for pursuing business opportunities.
+📅 Calls: Weekly
 
-📅 Calls: [As needed][calendar]   
-👪 Squad Members: [**@opportunities**][t-opp]   
+👪 Squad Members: Andi (lead), Udit, Ben
+
 ✅ Tasks: GitHub board > [`opportunities` label][l-opp]   
 
-<!-- ### Scoping new initiatives
-
-Initiative for scoping out initiatives that aren't yet formed.
-
-📅 Calls: [As needed][calendar]    
-👪 Squad Members: all Hypha members  
-✅ Tasks: GitHub board > [`scoping` label][l-scope]   -->
 
 <!-- Links: Important -->
+[handbook-repo]: https://github.com/hyphacoop/handbook
+[hypha-coop-repo]: https://github.com/hyphacoop/hypha.coop
+[roo-repo]: https://github.com/hyphacoop/matrix-roobot
+
 [calendar]: https://link.hypha.coop/calendar
 [projects]: https://link.hypha.coop/projects
 [hours]: https://link.hypha.coop/hours
 [members]: https://link.hypha.coop/initiatives
 
 <!-- Links: Labels -->
+[l-all-hands]: https://github.com/orgs/hyphacoop/projects/10/views/1?filterQuery=label:"all-hands"
+[l-community-cultivating]: https://github.com/orgs/hyphacoop/projects/10/views/1?filterQuery=label:"community-cultivating"
+[l-coop-dev]: https://github.com/orgs/hyphacoop/projects/10/views/1?filterQuery=label:"coop-dev"   
+[l-data-centre]: https://github.com/orgs/hyphacoop/projects/10/views/1?filterQuery=label:"data-centre"   
+[l-dripline]: https://github.com/orgs/hyphacoop/projects/10/views/1?filterQuery=label:"dripline"   
+[l-engineering-culture]: https://github.com/orgs/hyphacoop/projects/10/views/1?filterQuery=label:"engineering-culture"   
+[l-handbook]: https://github.com/orgs/hyphacoop/projects/10/views/1?filterQuery=label:"handbook"
+[l-hello-hypha]: https://github.com/orgs/hyphacoop/projects/10/views/1?filterQuery=label:"hello-hypha"
+[l-innovation-circle]: https://github.com/orgs/hyphacoop/projects/10/views/1?filterQuery=label:"innovation-circle"
+[l-roo-dev]: https://github.com/orgs/hyphacoop/projects/10/views/1?filterQuery=label:"roo-dev"
+[l-subject-matter-support]: https://github.com/orgs/hyphacoop/projects/10/views/1?filterQuery=label:"subject-matter-support"
+[l-website]: https://github.com/orgs/hyphacoop/projects/10/views/1?filterQuery=label:"website"
+
 [l-fin]: https://github.com/orgs/hyphacoop/projects/10/views/1?filterQuery=label:"finance"
 [l-opp]: https://github.com/orgs/hyphacoop/projects/10/views/1?filterQuery=label:"opportunities"
 [l-inf]: https://github.com/orgs/hyphacoop/projects/10/views/1?filterQuery=label:"infrastructure"
 [l-ops]: https://github.com/orgs/hyphacoop/projects/10/views/1?filterQuery=label:"operations"
-[l-scope]: https://github.com/orgs/hyphacoop/projects/10/views/1?filterQuery=label:"scoping"
-[l-chrysalis]: https://github.com/orgs/hyphacoop/projects/10/views/1?filterQuery=label:"init-chrysalis"
-[l-migration]: https://github.com/orgs/hyphacoop/projects/10/views/1?filterQuery=label:"init-migration"
-[l-drip]: https://github.com/orgs/hyphacoop/projects/10/views/1?filterQuery=label:"init-drip"
-[l-hello]: https://github.com/orgs/hyphacoop/projects/10/views/1?filterQuery=label:"init-hello"
-[l-improvetech]: https://github.com/orgs/hyphacoop/projects/10/views/1?filterQuery=label:"init-improvetech"
-[l-homeostatis]: https://github.com/orgs/hyphacoop/projects/10/views/1?filterQuery=label:"init-homeostatis"
-[l-ochost]: https://github.com/orgs/hyphacoop/projects/10/views/1?filterQuery=label:"init-ochost"
-[l-radcoops]: https://github.com/orgs/hyphacoop/projects/10/views/1?filterQuery=label:"init-radcoops"
-[l-socials]: https://github.com/orgs/hyphacoop/projects/10/views/1?filterQuery=label:"init-socials"
-[l-hiring]: https://github.com/orgs/hyphacoop/projects/10/views/1?filterQuery=label:"init-hiring"
 
 [t-opp]: https://github.com/orgs/hyphacoop/teams/opportunities/members
 [t-fin]: https://github.com/orgs/hyphacoop/teams/finance/members
