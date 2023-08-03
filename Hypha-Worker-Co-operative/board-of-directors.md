@@ -1,7 +1,7 @@
 # Board of Directors
 
 Hypha has a board of directors that consists of a minimum of three and a maximum of twenty directors.
-The current board includes all four of our full members, with four officer positions.
+The current board includes four of our full members, with four officer positions.
 
 ## Officers
 
