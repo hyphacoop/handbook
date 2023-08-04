@@ -113,7 +113,7 @@ Contains core business activities for sustaining Hypha's virtual office.
 
 📅 Calls: Weekly
 
-👪 Squad Members: Andi (lead), Udit, Ben
+👪 Squad Members: Andi (lead), Udit, Ben, Mauve
 
 ✅ Tasks: GitHub board > [`opportunities` label][l-opp]   
 
