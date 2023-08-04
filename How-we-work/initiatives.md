@@ -107,7 +107,7 @@ Contains core business activities for sustaining Hypha's virtual office.
 
 👪 Squad Members: Andi (lead), Udit, Ben, Mauve
 
-✅ Tasks: GitHub board > [`opportunities` label][l-opp]
+✅ Tasks: GitHub board > [`strategy` label][l-str] and [`opportunities` label][l-opp]
 
 
 <!-- Links: Important -->
@@ -135,6 +135,7 @@ Contains core business activities for sustaining Hypha's virtual office.
 [l-website]: https://github.com/orgs/hyphacoop/projects/10/views/1?filterQuery=label:"website"
 
 [l-fin]: https://github.com/orgs/hyphacoop/projects/10/views/1?filterQuery=label:"finance"
+[l-str]: https://github.com/orgs/hyphacoop/projects/10/views/1?filterQuery=label:"strategy"
 [l-opp]: https://github.com/orgs/hyphacoop/projects/10/views/1?filterQuery=label:"opportunities"
 [l-inf]: https://github.com/orgs/hyphacoop/projects/10/views/1?filterQuery=label:"infrastructure"
 [l-ops]: https://github.com/orgs/hyphacoop/projects/10/views/1?filterQuery=label:"operations"
