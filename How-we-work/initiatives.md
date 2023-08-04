@@ -7,22 +7,22 @@ Below we have the list of **active** initiatives as of **2023 Q2**. Detailed inf
 
 --- 
 
-### All-hands 
+### All hands 
 Responsible for facilitating the monthly All-Hands meeting series where we share monthly updates on client projects, internal working groups, and discuss co-op business.
 
 ✅ Tasks: GitHub board > [`all-hands` label][l-all-hands]   
 
-### Community-cultivating
+### Community cultivating
 Supports the social connections and team bonding within the co-op by hosting social events.
 
 ✅ Tasks: GitHub board > [`community-cultivating` label][l-community-cultivating]   
 
-### Coop-dev
+### Coop dev
 Support cooperative ecosystem developments.
 
 ✅ Tasks: GitHub board > [`coop-dev` label][l-coop-dev]   
 
-### Data-centre
+### Data centre
 Responsible for monitoring and maintaining infrastructure stored in our data centre, and responding to infrastructure emergencies.
 
 ✅ Tasks: GitHub board > [`data-centre` label][l-data-centre]   
@@ -32,7 +32,7 @@ Responsible for maintaining our reading/writing practice and publishing posts to
 
 ✅ Tasks: GitHub board > [`dripline` label][l-dripline]   
 
-### Engineering-culture
+### Engineering culture
 Facilitates the sharing of engineering knowledge across client projects to upskill engineers and define Hypha's engineering values.
 
 ✅ Tasks: GitHub board > [`engineering-culture` label][l-engineering-culture]   
@@ -44,17 +44,17 @@ Holds primary responsibility for maintaining our internal handbook at `handbook.
 
 📋 Repo: [handbook-repo]
 
-### Hello-Hypha
+### Hello Hypha
 Facilitates the external meeting series in which we meet with new organizations or companies. First point of contact for new contacts looking to get in touch with Hypha.
 
 ✅ Tasks: GitHub board > [`hello-hypha` label][l-hello-hypha]
 
-### Innovation-circle
+### Innovation circle
 Organizes regular meetings with domain experts to share problems and stimulate creative thinking on various issues. Each person brings a problem statement + resource list + desired output for their problem and the circle briefly discusses and checks in each session.
 
 ✅ Tasks: GitHub board > [`innovation-circle` label][l-innovation-circle]
 
-### Roo-dev
+### Roo dev
 Develops and maintains our Matrix chatbot.
 
 ✅ Tasks: GitHub board > [`roo-dev` label][l-roo-dev]
