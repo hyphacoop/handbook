@@ -13,7 +13,7 @@ Responsible for facilitating the monthly All-Hands meeting series where we share
 ✅ Tasks: GitHub board > [`all-hands` label][l-all-hands]   
 
 ### Community-cultivating
-Supports the social connections and team bonding within the co-op by hosting social events
+Supports the social connections and team bonding within the co-op by hosting social events.
 
 ✅ Tasks: GitHub board > [`community-cultivating` label][l-community-cultivating]   
 
@@ -38,19 +38,19 @@ Facilitates the sharing of engineering knowledge across client projects to upski
 ✅ Tasks: GitHub board > [`engineering-culture` label][l-engineering-culture]   
 
 ### Handbook
-Holds primary responsibility for maintaining our internal handbook at handbook.hypha.coop (e.g., Noticing and fixing broken links, calling for adjustments to out-of-date material)
+Holds primary responsibility for maintaining our internal handbook at `handbook.hypha.coop` (e.g., Noticing and fixing broken links, calling for adjustments to out-of-date material).
 
 ✅ Tasks: GitHub board > [`handbook` label][l-handbook]
 
 📋 Repo: [handbook-repo]
 
 ### Hello-Hypha
-Facilitates the external meeting series in which we meet with new organizations or companies. First point of contact for new contacts looking to get in touch with Hypha. 
+Facilitates the external meeting series in which we meet with new organizations or companies. First point of contact for new contacts looking to get in touch with Hypha.
 
 ✅ Tasks: GitHub board > [`hello-hypha` label][l-hello-hypha]
 
 ### Innovation-circle
-Organizes regular meetings with domain experts to share problems and stimulate creative thinking on various issues. Each person brings a problem statement + resource list + desired output for their problem and the circle briefly discusses and checks in each week.
+Organizes regular meetings with domain experts to share problems and stimulate creative thinking on various issues. Each person brings a problem statement + resource list + desired output for their problem and the circle briefly discusses and checks in each session.
 
 ✅ Tasks: GitHub board > [`innovation-circle` label][l-innovation-circle]
 
@@ -62,12 +62,12 @@ Develops and maintains our Matrix chatbot.
 📋 Repo: [roo-repo]
 
 ### Subject matter support
-Responsible for providing subject matter expertise on a particular topic 
+Responsible for providing subject matter expertise on a particular topic.
 
 ✅ Tasks: GitHub board > [`subject-matter-support` label][l-subject-matter-support]
 
 ### Website
-Maintains the content in our public-facing website at hypha.coop. 
+Maintains the content in our public-facing website at `hypha.coop`.
 
 ✅ Tasks: GitHub board > [`website` label][l-website]
 
@@ -78,44 +78,36 @@ Maintains the content in our public-facing website at hypha.coop.
 Contains core business activities for sustaining Hypha's virtual office. 
 
 ### Finance
-**Responsible for:** Stewarding the financial sustainability of the organization, ensuring that a clear picture of the organization’s financial status is available.
-**Tasks:** Establishing accounting practices, maintaining financial accounts, processing invoices, expenses, and payroll, and creating reports on our financial statements and tax obligations.
-
-📅 Calls: As needed  
+**Responsibilities:** Stewarding the financial sustainability of the organization, ensuring that a clear picture of the organization’s financial status is available.  
+**Tasks:** Establishing accounting practices, maintaining financial accounts, processing invoices, expenses, and payroll, and creating reports on our financial statements and tax obligations.  
 
 👪 Squad Members: Yurko (lead), Dante, Rachael
 
-✅ Tasks: GitHub board > [`finance` label][l-fin]   
+✅ Tasks: GitHub board > [`finance` label][l-fin]
 
 ### Infrastructure
-**Responsible for:** Managing technical infrastructure and providing technical support for our organization’s internal tools and services. 
-**Tasks:** Maintaining servers, configuring tools such as Google Workspace, 
-
-📅 Calls: As needed 
+**Responsibilities:** Managing technical infrastructure and providing technical support for our organization’s internal tools and services.  
+**Tasks:** Maintaining servers, configuring tools such as Google Workspace and Slack.  
 
 👪 Squad Members: Yurko (lead), Elon
 
-✅ Tasks: GitHub board > [`infrastructure` label][l-inf]   
+✅ Tasks: GitHub board > [`infrastructure` label][l-inf]
 
 ### Operations
-**Responsible for:** Managing and overseeing day-to-day operational activities and processes, creating and refining org-wide policies and processes.
-**Tasks:** Creating, reviewing, signing contracts; creating and documenting workplace policies; planning and executing org-wide events such as our Annual Retreat, AGM, and other internal-focused meetings such as All-Hands; supporting practice areas in operational tasks such as hiring.
-
-📅 Calls: Biweekly
+**Responsibilities:** Managing and overseeing day-to-day operational activities and processes, creating and refining org-wide policies and processes.  
+**Tasks:** Creating, reviewing, signing contracts; creating and documenting workplace policies; planning and executing org-wide events such as our Annual Retreat, AGM, and other internal-focused meetings such as All-Hands; supporting practice areas in operational tasks such as hiring.  
 
 👪 Squad Members: Ben (lead), Lexa, Rachael
 
-✅ Tasks: GitHub board > [`operations` label][l-ops]   
+✅ Tasks: GitHub board > [`operations` label][l-ops]
 
 ### Strategy / Opportunities
-**Responsible for:** Defining the organization’s overall strategy and approach to business.
-**Tasks:** Identifying and seeking out new opportunities for business growth and development
-
-📅 Calls: Weekly
+**Responsibilities:** Defining the organization’s overall strategy and approach to business.  
+**Tasks:** Identifying and seeking out new opportunities for business growth and development.  
 
 👪 Squad Members: Andi (lead), Udit, Ben, Mauve
 
-✅ Tasks: GitHub board > [`opportunities` label][l-opp]   
+✅ Tasks: GitHub board > [`opportunities` label][l-opp]
 
 
 <!-- Links: Important -->
