@@ -50,18 +50,18 @@ Additionally, the December Holidays where the virtual office is closed between D
 
 If a public holiday lands on a member's off-day under a four-day work week, the member should take one of the work days off as a make-up holiday.
 
-| **Holiday**                                      | **2022**         | **2023**          | **2024**          |
-|--------------------------------------------------|------------------|-------------------|-------------------|
-| New Year's Day<br />January 1                    | Sat, January 1   | Sun, January 1    | Mon, January 1    |
-| Ontario Family Day<br />Third Monday in February | Mon, February 21 | Mon, February 20  | Mon, February 19  |
-| Good Friday<br />Friday before Easter Sunday     | Fri, April 15    | Fri, April 7      | Fri, March 29     |
-| May Day (International Workers' Day)<br />May 1  | Sunday, May 1    | Mon, May 1        |Weds, May 1        |
-| Victoria Day<br />Monday before May 25           | Mon, May 23      | Mon, May 22       | Mon, May 20       |
-| Canada Day<br />July 1                           | Fri, July 1      | Sat, July 1       | Mon, July 1       |
-| Civic Holiday<br />First Monday in August        | Mon, August 1    | Mon, August 7     | Mon, August 5     |
-| Labour Day<br />First Monday in September        | Mon, September 5 | Mon, September 4  | Mon, September 2  |
-| Thanksgiving<br />Second Monday in October       | Mon, October 10  | Mon, October 9    | Mon, October 14   |
-| Remembrance Day<br />November 11                 | Fri, November 11 | Sat, November 11  | Mon, November 11  |
-| Christmas Day<br />December 25                   | Sun, December 25 | Mon, December 25  | Weds, December 25 |
-| Boxing Day<br />December 26                      | Mon, December 26 | Tues, December 26 | Tues, December 26 |
+| **Holiday**                                      | **2023**          | **2024**          |
+|--------------------------------------------------|-------------------|-------------------|
+| New Year's Day<br />January 1                    | Sun, January 1    | Mon, January 1    |
+| Ontario Family Day<br />Third Monday in February | Mon, February 20  | Mon, February 19  |
+| Good Friday<br />Friday before Easter Sunday     | Fri, April 7      | Fri, March 29     |
+| May Day (International Workers' Day)<br />May 1  | Mon, May 1        |Weds, May 1        |
+| Victoria Day<br />Monday before May 25           | Mon, May 22       | Mon, May 20       |
+| Canada Day<br />July 1                           | Sat, July 1       | Mon, July 1       |
+| Civic Holiday<br />First Monday in August        | Mon, August 7     | Mon, August 5     |
+| Labour Day<br />First Monday in September        | Mon, September 4  | Mon, September 2  |
+| Thanksgiving<br />Second Monday in October       | Mon, October 9    | Mon, October 14   |
+| Remembrance Day<br />November 11                 | Sat, November 11  | Mon, November 11  |
+| Christmas Day<br />December 25                   | Mon, December 25  | Weds, December 25 |
+| Boxing Day<br />December 26                      | Tues, December 26 | Tues, December 26 |
 
