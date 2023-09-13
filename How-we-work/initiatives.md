@@ -109,6 +109,16 @@ Contains core business activities for sustaining Hypha's virtual office.
 
 ✅ Tasks: GitHub board > [`strategy` label][l-str] and [`opportunities` label][l-opp]
 
+### Communications
+**Responsibilities:** Guiding internal and external communications in alignment with its strategic vision. 
+**Tasks:** Crafting HYPHA's communication strategy,aligning messaging with the co-operative's core values, leading marketing and branding initiatives and ensuring cohesive internal communications.
+
+📅 Calls: Triweekly
+
+👪 Squad Members: Vincent (lead), Rachael (Social Media Steward), Andi, Mauve, Denise
+
+✅ Tasks: GitHub board > [`comms` label][l-comms] 
+
 
 <!-- Links: Important -->
 [handbook-repo]: https://github.com/hyphacoop/handbook
@@ -139,6 +149,7 @@ Contains core business activities for sustaining Hypha's virtual office.
 [l-opp]: https://github.com/orgs/hyphacoop/projects/10/views/1?filterQuery=label:"opportunities"
 [l-inf]: https://github.com/orgs/hyphacoop/projects/10/views/1?filterQuery=label:"infrastructure"
 [l-ops]: https://github.com/orgs/hyphacoop/projects/10/views/1?filterQuery=label:"operations"
+[l-comms]: https://github.com/orgs/hyphacoop/projects/10/views/1?filterQuery=label:"comms"
 
 [t-opp]: https://github.com/orgs/hyphacoop/teams/opportunities/members
 [t-fin]: https://github.com/orgs/hyphacoop/teams/finance/members
