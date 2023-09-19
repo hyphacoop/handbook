@@ -37,7 +37,7 @@ You can contact us the following ways:
 
 ## Notes
 
-<sup>1. A full list of [CWCF affiliations](https://canadianworker.coop/about/affliations/) is on their website.</sup>
+<sup>1. A full list of [CWCF affiliations](https://canadianworker.coop/about/affiliation/) is on their website.</sup>
 
 
 <!-- Links -->
