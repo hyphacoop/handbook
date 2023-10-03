@@ -110,7 +110,7 @@ Contains core business activities for sustaining Hypha's virtual office.
 ✅ Tasks: GitHub board > [`strategy` label][l-str] and [`opportunities` label][l-opp]
 
 ### Communications
-**Responsibilities:** Guiding internal and external communications in alignment with its strategic vision. 
+**Responsibilities:** Guiding internal and external communications in alignment with its strategic vision.  
 **Tasks:** Crafting HYPHA's communication strategy,aligning messaging with the co-operative's core values, leading marketing and branding initiatives and ensuring cohesive internal communications.
 
 📅 Calls: Triweekly
