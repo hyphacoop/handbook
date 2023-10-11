@@ -1,0 +1,17 @@
+**Finance Working Group areas of responsibility:**
+
+- Run payroll (monthly)
+- Send fiat invoices (monthly)
+- Send crypto invoices (quarterly right now, but this may change)
+- Reimburse expenses (quarterly)
+- Generate monthly reports (monthly)
+- Support bookkeeper with monthly reports (monthly)
+- Review monthly reports from bookkeeper (monthly)
+- Track invoice payments (monthly)
+- Generate T4/T4As (yearly in February)
+- Support accountant with FYE (yearly)
+- Generate FYE reports before AGM (yearly)
+- Service a request for crypto (as needed)
+- Rebalance treasury (quarterly)
+- Move money between accounts (monthly or as needed)
+- Update Member/reserve accounts (yearly)
