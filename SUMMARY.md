@@ -58,6 +58,7 @@
    * [Infrastructure (advanced)](./Infrastructure/guides-infrastructure-advanced.md)
 
 ## Operations 
+   * [Areas of responsibility](./Operations/areas-of-responsibility.md)
    * [Inactivating Membership](./Operations/inactivating-membership.md)
    * [Issue Labels](./Operations/issue-labels.md)
    * [Sensitive Data](./Operations/sensitive-data.md)
