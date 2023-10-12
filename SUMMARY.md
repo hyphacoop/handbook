@@ -38,6 +38,7 @@
 
 ## Finance
    * [Finance](./Finance/finance.md)
+   * [Areas of Responsibility](./Finance/areas-of-responsibility.md)
    * [Sending Invoices](./Finance/sending-invoices.md)
    * [Paying Invoices](./Finance/paying-invoices.md)
    * [Payroll](./Finance/payroll.md)
