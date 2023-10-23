@@ -45,6 +45,7 @@
    * [Reporting HST](./Finance/reporting-hst.md)
    * [Expense Reimbursement](./Finance/expense-reimbursement.md)
    * [Add an Employee](./Finance/add-employee.md)
+   * [Glossary](./Finance/glossary.md)
 
 ## Infrastructure 
    * [Calendar](./Infrastructure/calendar.md)
