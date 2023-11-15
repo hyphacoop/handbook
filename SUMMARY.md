@@ -48,6 +48,7 @@
    * [Glossary](./Finance/glossary.md)
 
 ## Infrastructure 
+   * [Areas of Responsibility](./Infrastructure/areas-of-responsibility.md)
    * [Calendar](./Infrastructure/calendar.md)
    * [Email](./Infrastructure/email.md)
    * [Virtual Machines](./Infrastructure/virtual-machines.md)
