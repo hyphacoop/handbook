@@ -11,7 +11,7 @@
 
 ## Proxmox
 
-### Manageing Virtual Machines with Proxmox
+### Managing Virtual Machines with Proxmox
 Most of our VMs are provisioned with Ansible but sometimes we need to create VMs manually for testing or without automation.
 
 Process of creating and deleting VM videos can accessed in our [shared drive](https://drive.google.com/drive/folders/14Wq39Qtvk7X7kxsiCTDk3BPs3eNKD8nV)
