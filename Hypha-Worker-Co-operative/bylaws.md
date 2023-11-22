@@ -58,12 +58,14 @@ Bylaws adopted: June 13, 2020
     has not been in operation long enough, may retain membership, subject to
     the approval of the board of directors.
 
-  1. **Employment Requirements** – All permanent employees must be
-     members of the Co-operatives. An employee is not a permanent
-     employee if:
+  1. **Employment Requirements** – All permanent employees must be members of 
+     the Co-operative. An employee is a permanent employee if the employee has 
+     been employed for a probationary period of at least 1 year.
 
-     A. the employee is employed for a probationary period of 1 year or less; or  
-     B. the employee is employed under a contract for a term of 1 year or less.
+     The probationary period commences from the first day of employment. Employees 
+     who have less than 5 years of cumulative professional work experience may be 
+     subject to additional probationary membership terms; this is at the discretion 
+     of the board.
 
   1. **Non-Members on Casual Contracts** – The Co-operative shall not
      contract out work normally performed by its members to
