@@ -523,7 +523,7 @@ Bylaws adopted: June 13, 2020
     After this allocation is made, as cash flow and capital requirements
     permit, the board of directors may direct the Co-operative to pay out in
     cash a fixed percentage of all member loans as they stand after the
-    year’s surplus allocations. The balance of the individual member’s
+    year’s surplus or loss allocations. The balance of the individual member’s
     capital account shall be adjusted accordingly.
 
     Within 3 months after the end of every financial year, the treasurer
