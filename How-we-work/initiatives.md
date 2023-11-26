@@ -81,7 +81,7 @@ Contains core business activities for sustaining Hypha's virtual office.
 **Responsibilities:** Stewarding the financial sustainability of the organization, ensuring that a clear picture of the organization’s financial status is available.  
 **Tasks:** Establishing accounting practices, maintaining financial accounts, processing invoices, expenses, and payroll, and creating reports on our financial statements and tax obligations.  
 
-👪 Squad Members: Yurko (lead), Dante, Rachael
+👪 Squad Members: Yurko (lead), Dante
 
 ✅ Tasks: GitHub board > [`finance` label][l-fin]
 
@@ -97,7 +97,7 @@ Contains core business activities for sustaining Hypha's virtual office.
 **Responsibilities:** Managing and overseeing day-to-day operational activities and processes, creating and refining org-wide policies and processes.  
 **Tasks:** Creating, reviewing, signing contracts; creating and documenting workplace policies; planning and executing org-wide events such as our Annual Retreat, AGM, and other internal-focused meetings such as All-Hands; supporting practice areas in operational tasks such as hiring.  
 
-👪 Squad Members: Ben (lead), Lexa, Rachael
+👪 Squad Members: Ben (lead), Lexa
 
 ✅ Tasks: GitHub board > [`operations` label][l-ops]
 
@@ -109,13 +109,19 @@ Contains core business activities for sustaining Hypha's virtual office.
 
 ✅ Tasks: GitHub board > [`strategy` label][l-str] and [`opportunities` label][l-opp]
 
+### Governance
+**Responsibilities:** Responsible for the organization's corporate governance, including records and bylaws.  
+**Tasks:** Designing the co-operative's organizational structure to best fulfill the expectations of its key stakeholders, including but not limited to the membership and the board of directors. Ensuring that the co-operative maintains accurate and sufficient corporate records, maintains and interprets the bylaws.   
+
+👪 Squad Members: Ben (lead), Dante, Lexa, Udit
+
+✅ Tasks: GitHub board > [`governance` label][l-gov] 
+
 ### Communications
 **Responsibilities:** Guiding internal and external communications in alignment with its strategic vision.  
-**Tasks:** Crafting HYPHA's communication strategy,aligning messaging with the co-operative's core values, leading marketing and branding initiatives and ensuring cohesive internal communications.
+**Tasks:** Crafting Hypha's communication strategy, aligning messaging with the co-operative's core values, leading marketing and branding initiatives and ensuring cohesive internal communications.
 
-📅 Calls: Triweekly
-
-👪 Squad Members: Vincent (lead), Rachael (Social Media Steward), Andi, Mauve, Denise
+👪 Squad Members: Vincent (lead), Andi, Mauve
 
 ✅ Tasks: GitHub board > [`comms` label][l-comms] 
 
@@ -147,12 +153,7 @@ Contains core business activities for sustaining Hypha's virtual office.
 [l-fin]: https://github.com/orgs/hyphacoop/projects/10/views/1?filterQuery=label:"finance"
 [l-str]: https://github.com/orgs/hyphacoop/projects/10/views/1?filterQuery=label:"strategy"
 [l-opp]: https://github.com/orgs/hyphacoop/projects/10/views/1?filterQuery=label:"opportunities"
+[l-gov]: https://github.com/orgs/hyphacoop/projects/10/views/1?filterQuery=label:"governance"
 [l-inf]: https://github.com/orgs/hyphacoop/projects/10/views/1?filterQuery=label:"infrastructure"
 [l-ops]: https://github.com/orgs/hyphacoop/projects/10/views/1?filterQuery=label:"operations"
 [l-comms]: https://github.com/orgs/hyphacoop/projects/10/views/1?filterQuery=label:"comms"
-
-[t-opp]: https://github.com/orgs/hyphacoop/teams/opportunities/members
-[t-fin]: https://github.com/orgs/hyphacoop/teams/finance/members
-[t-gov]: https://github.com/orgs/hyphacoop/teams/governance/members 
-[t-ops]: https://github.com/orgs/hyphacoop/teams/operations/members
-[t-inf]: https://github.com/orgs/hyphacoop/teams/infrastructure/members
