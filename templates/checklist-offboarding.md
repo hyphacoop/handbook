@@ -46,9 +46,9 @@ This is a checklist for offboarding a member of the Co-operative 👋😢
 
 ## Chat of access and permissions for member-workers
 
-🏆 = admin priviliges (this is not fully represented, just to help distinguish access between Active and Inactive membership)
-✅ = access
-❌ = access removed
+🏆 = admin priviliges (this is not fully represented, just to help distinguish access between Active and Inactive membership)  
+✅ = access  
+❌ = access removed  
 
 | Access 	| Active Member  	| Inactive  	| Leaving Membership  |
 |-	|-	|-	|-	|
