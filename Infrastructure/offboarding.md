@@ -1,7 +1,7 @@
 
 # Offboarding 
 
-Follow the steps below to offboard an inactive or departing member, employee or contractor. Use the [offboarding checklist](../templates/checklist-offboarding.md) to track your work.
+Follow the steps below to offboard an inactive or departing member, employee or contractor. Use the [offboarding checklist](https://github.com/hyphacoop/handbook/blob/master/templates/checklist-offboarding.md) to track your work.
 ## Google Account
 These actions require the `Super Admin` permissions.
 ### Export user data
