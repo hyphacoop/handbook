@@ -23,6 +23,15 @@ jobs:
         npm install
         npx honkit build
 
+    - name: Publish to Distributed Press Production
+      if: ${{ github.ref == 'refs/heads/master' }}
+      uses: hyphacoop/actions-distributed-press@v1.1.0
+      with:
+        publish_dir: ./_book
+        dp_url: https://api.distributed.press
+        refresh_token: ${{ secrets.DISTRIBUTED_PRESS_PRODUCTION_TOKEN}}
+        site_url: handbook.hypha.coop
+
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       with:
