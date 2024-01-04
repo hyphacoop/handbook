@@ -24,3 +24,28 @@ A selection of our press coverage and public talks.
 - [#TechTalks with Chris Glover MPP](https://www.youtube.com/watch?v=bp95oowQ5Hw), May 18, 2021
 - [X University CFE Series: Taming Big Tech: Exploring the Alternatives](https://cfe.torontomu.ca/events/defund-big-tech-refund-communities), Defund Big Tech, Refund Communities Panel, June 10, 2021 
 - [Treaty Lands](https://www.instagram.com/p/CWBSH5qLI9Y/), Global Stories, Co-Opt: A Symposium on Worker Co-operatives as Alternatives to Traditional Workplaces, November 18, 2021
+
+## Submitting Press Coverage
+
+To submit press coverage and related content, follow these steps:
+
+1. **Open New Issue:**
+   - Go to the [Issues tab](https://github.com/hyphacoop/organizing-private/issues) in the organizing-private GitHub repository.
+   - Click on **New Issue**.
+
+2. **Select the Template:**
+   - Choose the **Press Coverage Submission** issue template.
+
+3. **Fill in the Details:**
+   - **Title**: Enter the content's title.
+   - **Host**: Specify where it was presented or the host organization.
+   - **Category**: Select from Press Coverage, Session, Workshop, or Talk.
+   - **Date**: Input the date (YYYY-MM-DD).
+   - **Description**: Provide a brief description.
+   - **Link**: Add a URL to the content.
+
+4. **Submit:**
+   - Review your information for accuracy.
+   - Click **Submit new issue** to complete the process.
+
+The communications team will review the submission and may reach out for additional details.
