@@ -15,8 +15,8 @@ A selection of our press coverage and public talks.
 
 ## Sessions, Workshops & Talks
 
-- [Holistic Local First Software](https://www.youtube.com/watch?v=rSvj_NQ5rho&list=PLfW9my7NCey_HXemvHbILZul-fLcVsvaW&index=4), Causal Islands, April 2023
 - [The Dweb in your Back Pocket](https://www.youtube.com/watch?v=eNChX7PVh7E), DWeb Camp, June 2023
+- [Holistic Local First Software](https://www.youtube.com/watch?v=rSvj_NQ5rho&list=PLfW9my7NCey_HXemvHbILZul-fLcVsvaW&index=4), Causal Islands, April 2023
 - [564: Innovative uses of data](https://www.cbc.ca/listen/live-radio/1-55-spark/clip/15958381-564-innovative-uses-data), Spark - CBC Radio, January 6, 2023
 - [Decentralized web movement imagines 'a web with many winners' that puts community first](https://www.cbc.ca/radio/spark/decentralized-web-movement-imagines-a-web-with-many-winners-that-puts-community-first-1.6609562), Spark - CBC Radio, October 7, 2022
 - [Human Rights & Web3 for Activists: Salon #8](https://www.youtube.com/watch?v=gVcgWyULH48), Amnesty International & Fight for the Future, September 29, 2022
