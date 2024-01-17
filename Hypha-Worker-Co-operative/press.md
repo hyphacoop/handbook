@@ -4,6 +4,7 @@ A selection of our press coverage and public talks.
 
 ## Press Coverage
 
+- [Finding the Friends of HEK Basel: How to Bring Membership Online with a DAO](https://medium.com/@wac-lab/finding-the-friends-of-hek-basel-how-to-bring-membership-online-with-a-dao-1fd62425869f); WAC Lab - Web3 for the Arts and Culture, Dec 5, 2023
 - [Co-operatives, Work, and the Digital Economy: A Knowledge Synthesis Report](https://canadianworker.coop/worker-co-ops-and-the-sixth-principle/); Cultural Workers Organize, May 19, 2022
 - [Worker Co-ops and the Sixth Principle](https://canadianworker.coop/worker-co-ops-and-the-sixth-principle/); Canadian Worker Co-operative Federation, March 24, 2022
 - [Can a Worker's Co-Op Thrive in Big Tech?](https://www.earlymagazine.com/articles/can-a-workers-co-op-thrive-in-big-tech); Early, August 19, 2021
