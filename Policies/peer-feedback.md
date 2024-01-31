@@ -10,13 +10,13 @@ The peer feedback program applies to members and people on the member path.
 
 
 ## Process
-1. Every January, all participants will engage in the peer feedback program using peer.haus.
+1. Every January, all participants will engage in the peer feedback program.
 2. Before beginning, all participants will review a one-pager document (to-be-produced) on soliciting, giving, and receiving effective feedback.
 3. Each individual will identify three specific areas they would like feedback on. These areas should be co-op focused items that peers have a path to forming an opinion on (i.e., Internal work, mannerisms, attitude, but not client-project-specific tasks). Open-ended questions are encouraged, but it is the joint responsibility of the asker and the feedback-giver to make sure thoughtful, detailed feedback can be generated. For example:
   - *How can I grow in my ability to contribute to the co-op?*
   - *Do I participate effectively in strategic problem-solving? What’s working vs. not working?*
   - *Am I available and easy to connect with when people want time with me?*
-4. Each participant will enter their questions on Peer Haus, assigned to their ‘team’ (which is everyone). Everyone will be able to see everyone else’s requests for feedback. This generates a flood of emails - sorry.
+4. Each participant will enter their questions on a Google form. Everyone will be able to see everyone else’s requests for feedback but only the receiver can see the response. 
 5. We will use a random match generator such as drawnames.ca to assign two people to give feedback to each person. Each person will thus have to write feedback for two other people, which guarantees that everyone will receive at least two pieces of feedback.
 6. All participants will contribute feedback on Peer Haus. Participants must, at minimum, write feedback for their assigned person but there is no restriction on writing feedback for others if you feel you have something to contribute.
 
