@@ -17,8 +17,8 @@ The peer feedback program applies to members and people on the member path.
   - *Do I participate effectively in strategic problem-solving? What’s working vs. not working?*
   - *Am I available and easy to connect with when people want time with me?*
 4. Each participant will enter their questions on a Google form. Everyone will be able to see everyone else’s requests for feedback but only the receiver can see the response. 
-5. We will use a random match generator such as drawnames.ca to assign two people to give feedback to each person. Each person will thus have to write feedback for two other people, which guarantees that everyone will receive at least two pieces of feedback.
-6. All participants will contribute feedback on Peer Haus. Participants must, at minimum, write feedback for their assigned person but there is no restriction on writing feedback for others if you feel you have something to contribute.
+5. Participants must, at minimum, write feedback to  their practice area team.
+6. Everyone is encouraged to give feedback to as many colleagues as possible.
 
 ### Resources for soliciting, giving, and receiving feedback
 * [Seeds For Change](https://www.seedsforchange.org.uk/feedback.pdf)
