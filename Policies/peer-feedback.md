@@ -16,7 +16,7 @@ The peer feedback program applies to members and people on the member path.
   - *How can I grow in my ability to contribute to the co-op?*
   - *Do I participate effectively in strategic problem-solving? What’s working vs. not working?*
   - *Am I available and easy to connect with when people want time with me?*
-4. Each participant will enter their questions on a Google form. Everyone will be able to see everyone else’s requests for feedback but only the receiver can see the response. 
+4. Each participant will enter their questions on a Google form. Everyone will be able to see everyone else’s requests for feedback but only the receiver can see the responses. 
 5. Participants must, at minimum, write feedback to  their practice area team.
 6. Everyone is encouraged to give feedback to as many colleagues as possible.
 
