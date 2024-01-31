@@ -14,3 +14,7 @@ while sharing our structures and practices with the outside world as well.
 This resource is in perpetual beta and constantly changing. 
 If you see something that could be improved, 
 consider this your invitation to improve it!
+
+## Distributed Web
+
+This handbook is published using [Distributed Press](https://distributed.press/). You can [use it to publish](https://github.com/hyphacoop/api.distributed.press) on the p2p and distributed web too. Distributed Web: [ipns://handbook.hypha.coop/](https://handbook-hypha-coop.ipns.ipfs.hypha.coop/)
