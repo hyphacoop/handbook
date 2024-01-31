@@ -11,7 +11,7 @@ The peer feedback program applies to members and people on the member path.
 
 ## Process
 1. Every January, all participants will engage in the peer feedback program.
-2. Before beginning, all participants will review a one-pager document (to-be-produced) on soliciting, giving, and receiving effective feedback.
+2. Before beginning, all participants will review a one-pager document on soliciting, giving, and receiving effective feedback.
 3. Each individual will identify three specific areas they would like feedback on. These areas should be co-op focused items that peers have a path to forming an opinion on (i.e., Internal work, mannerisms, attitude, but not client-project-specific tasks). Open-ended questions are encouraged, but it is the joint responsibility of the asker and the feedback-giver to make sure thoughtful, detailed feedback can be generated. For example:
   - *How can I grow in my ability to contribute to the co-op?*
   - *Do I participate effectively in strategic problem-solving? What’s working vs. not working?*
@@ -24,8 +24,7 @@ The peer feedback program applies to members and people on the member path.
 * [Seeds For Change](https://www.seedsforchange.org.uk/feedback.pdf)
 
 ## Desired outcomes for peer feedback process: 
-- Everyone gets at least two pieces of anonymized feedback. 
-- Everyone is assigned two people to write for.
+- Everyone gets anonymized feedback from their peers. 
 - Everyone can self-select, if they so choose, to write feedback for additional people. 
 - The person writing feedback knows who it’s for, but the person receiving it does not know who wrote it. 
 - No one aside from the receiver is able to see the feedback. 
