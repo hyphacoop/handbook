@@ -1,7 +1,7 @@
 # Peer feedback program
 
 ## Who it applies to
-Generally speaking, there are two groups of people involved with Hypha:
+Generally speaking, there are three groups of people involved with Hypha:
 
 - **Established member:** People who hold full membership in the co-op and are actively involved in the governance of Hypha. Generally able to act without support (but support is always nice).
 - **Member path:** People who work with the co-op with the intention to co-govern Hypha in the future. This can include new members who still need support, probationary members, and contractors or employees who are on the path to probationary membership.
