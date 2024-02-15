@@ -9,8 +9,9 @@ Follow this guide to add a new employee in Wagepoint.
     -  Pay Type: `Yearly`
     -  Pay Rate: `0`
 4. Return to the `EMPLOYEES` tab and click the Employee's name.
-    You should now be on their profile, specifically `THE PERSON` tab, which you can fill out with info from our [employee records](https://link.hypha.coop/employees).
-    Fill out everything you can, but leave `External ID` blank.
+    - You should now be on their profile, specifically `THE PERSON` tab, which you can fill out with info from our [employee records](https://link.hypha.coop/employees).
+    - Make sure to use a personal email, not the @hypha email so that the employee gets tax-related emails even after they leave Hypha.
+    - Fill out everything you can, but leave `External ID` blank.
 5. In the `THE JOB` tab, set up the Employee with the salaried method:
     - Pay Type: `Yearly`
     - Annual Salary: `$0.00`
