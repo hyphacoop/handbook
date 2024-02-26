@@ -53,7 +53,7 @@ Salaries are reassessed at minimum annually, or more frequently, at maximum quar
 
 **R3**: Manages internal and/or client and partner relationships. Often serves as the go-to person on an internal topic, or to interface with external teams. Contributes reliable and thoughtful feedback to organizational strategy and recognizes new opportunities.
 
-**R4**: Leads one or more major initiatives regularly and reliably. Serves as point person to long-running client initiatives. Actively contributes to developing the organizational strategy and represents the organization publicly. Leads the exploration of new opportunities for the organization and responsibile for its long-term sustainability.
+**R4**: Leads one or more major initiatives regularly and reliably. Serves as point person to long-running client initiatives. Actively contributes to developing the organizational strategy and represents the organization publicly. Leads the exploration of new opportunities for the organization and responsible for its long-term sustainability.
 
 ### Seniority in organization
 
