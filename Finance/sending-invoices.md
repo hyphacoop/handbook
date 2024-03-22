@@ -76,3 +76,19 @@ Monthly checklist for hand-off to bookkeeper
 5. Ensure that all of the bank feeds in QB have been refreshed and are up to date.
 6. Notify the bookkeeper when everything is ready for them to do the monthly bookkeeping
 7. The bookkeeper sends a follow up email with their reports when they have completed the bookkeeping for the month.
+
+## 5 Prepare spreadsheet for next cycle
+
+After all the invoices for the current service period have been processed, the Finance WG must create a snapshot of the Financial Planning spreadsheet and place it in the `Financial Planning Snapshots` folder.
+
+1. If there are any invoices that have not been populated completely, check with the Project Lead to see if they still want to submit an invoice.
+2. Click "Make a Copy".
+3. Enter `<YYYY>-<MM> Financial Planning` in the Name field.
+4. Select the `Financial Planning Snapshots` folder.
+5. Check the following boxes:
+   * Share it with the same people
+   * Copy comments
+   * Include resolve comments
+6. Click "Make a Copy".
+7. Close the newly created file.
+8. Back in the `Financial Planning` spreadsheet, set the "Service Period" cell to the next month.
