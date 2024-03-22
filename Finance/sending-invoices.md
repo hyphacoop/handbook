@@ -39,7 +39,7 @@ If the project has not been set up:
 3. Enter the project details, including the correct client, and click `Save`.
 
 To create an invoice:
-1. Open the `Invoicing` menu and select `Invoices`.
+1. Open the `Sales` menu and select `Invoices`.
 2. Click `Create invoice`
 3. Select the Project from the dropdown menu. QuickBooks will autofill all the client information.
 4. Copy and paste all the line items from the `Financial Planning` spreadsheet:
