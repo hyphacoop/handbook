@@ -223,9 +223,7 @@ Bylaws adopted: June 13, 2020
     
     Each active member of record at the time of the meeting is entitled
     to one and only one vote on any matter requiring membership voting.
-    Voting on resolutions happens by open ballot with abstensions are
-    recorded only as required. All elections to the board shall be by
-    secret ballot.
+    Voting on resolutions happens by secret ballot.
 
   1. **Action at a Meeting** – The president or other designee, as
     determined by the board of directors, shall chair at membership
