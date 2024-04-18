@@ -4,7 +4,7 @@ A selection of our press coverage and public talks.
 
 ## Press Coverage
 
-- [The case against carbon emissions as a universal metric](https://www.ft.com/content/6e8224bf-879d-4111-95b7-278a258b30c5); Lee Harris, Financial Times, April 15 2024
+- [The case against carbon emissions as a universal metric](https://www.ft.com/content/6e8224bf-879d-4111-95b7-278a258b30c5); Lee Harris, Financial Times, April 15 2024 (Hypha built the [Spice tool]([url](https://activestewardship.org/splice/)) mentioned in the article).
 - [Finding the Friends of HEK Basel: How to Bring Membership Online with a DAO](https://medium.com/@wac-lab/finding-the-friends-of-hek-basel-how-to-bring-membership-online-with-a-dao-1fd62425869f); WAC Lab - Web3 for the Arts and Culture, Dec 5, 2023
 - [Co-operatives, Work, and the Digital Economy: A Knowledge Synthesis Report](https://canadianworker.coop/worker-co-ops-and-the-sixth-principle/); Cultural Workers Organize, May 19, 2022
 - [Worker Co-ops and the Sixth Principle](https://canadianworker.coop/worker-co-ops-and-the-sixth-principle/); Canadian Worker Co-operative Federation, March 24, 2022
