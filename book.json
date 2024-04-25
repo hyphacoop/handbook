@@ -6,6 +6,7 @@
     "readme": "handbook.md"
   },
   "plugins": [
-    "anchors"
+    "anchors",
+    "add-custom-js"
   ]
 }
