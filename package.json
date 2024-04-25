@@ -4,7 +4,8 @@
   "description": "Hypha handbook describes the vision, processes, and culture of Hypha Worker Co-operative. 🌿🍄",
   "devDependencies": {
     "gitbook-plugin-anchors": "^0.7.1",
-    "honkit": "^4.0.8"
+    "honkit": "^4.0.8",
+    "add-custom-js": "file:plugins/add-custom-js"
   },
   "repository": {
     "type": "git",
