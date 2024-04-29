@@ -4,7 +4,7 @@ Hypha is [a worker co-operative incorporated in Ontario, Canada](../Hypha-Worker
 We run our public website, this member handbook, and a variety of services at the domain [hypha.coop](https://hypha.coop) and its subdomains. 
 This page identifes what data we collect and why, as well as where and how long we store collected data for.
 
-This page was last updated on November 29, 2022. You can see previous versions on [GitHub](https://github.com/hyphacoop/handbook/). The outline and format is inspired by [Projects by IF: How IF uses data](https://projectsbyif.com/privacy-policy/).
+This page was last updated on April 29, 2024. You can see previous versions on [GitHub](https://github.com/hyphacoop/handbook/). The outline and format is inspired by [Projects by IF: How IF uses data](https://projectsbyif.com/privacy-policy/).
 
 ### Contents
 
@@ -78,6 +78,7 @@ We use several social media accounts to share our work. We occasionally use the 
 Our social media accounts include:
 
 <ul>
+  <li><a href="https://cosocial.ca/@hyphacoop" data-proofer-ignore target="_blank">@hyphacoop on Mastodon</a> (<a href="https://cosocial.ca/privacy-policy" target="_blank">privacy policy</a>)</li>
   <li><a href="https://link.hypha.coop/twitter" data-proofer-ignore target="_blank">@hyphacoop on Twitter</a> (<a href="https://twitter.com/en/privacy" target="_blank">privacy policy</a>)</li>
   <li><a href="https://link.hypha.coop/linkedin" data-proofer-ignore target="_blank">Hypha Worker Co-operative on LinkedIn</a> (<a href="https://www.linkedin.com/legal/privacy-policy" target="_blank">privacy policy</a>)</li>
 </ul>
@@ -90,5 +91,6 @@ We also use third-party services to host and deliver services and content, almos
 - [Google Workplace](https://workspace.google.com)
 - [Matrix chat](https://chat.tomesh.net) by [Toronto Mesh](https://tomesh.net)
 - [Slack](https://hyphahq.slack.com)
+- [Plausible](https://analytics.hypha.coop)
 
 For a full list of services we use, please refer to our [Services Inventory](https://link.hypha.coop/inventory).
