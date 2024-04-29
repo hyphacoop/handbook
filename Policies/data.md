@@ -4,7 +4,7 @@ Hypha is [a worker co-operative incorporated in Ontario, Canada](../Hypha-Worker
 We run our public website, this member handbook, and a variety of services at the domain [hypha.coop](https://hypha.coop) and its subdomains. 
 This page identifes what data we collect and why, as well as where and how long we store collected data for.
 
-This page was last updated on November 29, 2022. You can see previous versions on [GitHub](https://github.com/hyphacoop/handbook/). The outline and format is inspired by [Projects by IF: How IF uses data](https://projectsbyif.com/privacy-policy/).
+This page was last updated on April 29, 2024. You can see previous versions on [GitHub](https://github.com/hyphacoop/handbook/). The outline and format is inspired by [Projects by IF: How IF uses data](https://projectsbyif.com/privacy-policy/).
 
 ### Contents
 
