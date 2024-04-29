@@ -18,6 +18,18 @@ Note that while most tasks show up as Issues from `hyphacoop/organizing` and `hy
 
 Members are encouraged to use emojis liberally to indicate they have, for example: 👀 read the comment, 👍 agree or 👎 disagree with the comment, etc. This applies generally to all our tools.
 
+### When to open an Issue in organizing or organizing-private
+
+Hypha mainly uses the `organizing` Issues to track the admin/managerial work that keeps the co-op running.
+Anything that needs to be done by "someone" but isn't work for an ongoing project should be tracked by an Issue in these repos.
+This includes, but isn't limited to:
+
+* Allocating budget to attend a conference
+* Tracking datacenter updates
+* Hiring and onboarding, including for contractors
+* Acquiring clients
+* Process improvements
+
 ## Real-time Chat
 
 We use [Matrix](https://chat.tomesh.net/#/group/+hyphacoop:tomesh.net) as real-time chat for day-to-day task discussions and pinging members for urgent requests.
