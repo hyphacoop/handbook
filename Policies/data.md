@@ -91,5 +91,6 @@ We also use third-party services to host and deliver services and content, almos
 - [Google Workplace](https://workspace.google.com)
 - [Matrix chat](https://chat.tomesh.net) by [Toronto Mesh](https://tomesh.net)
 - [Slack](https://hyphahq.slack.com)
+- [Plausible](https://analytics.hypha.coop)
 
 For a full list of services we use, please refer to our [Services Inventory](https://link.hypha.coop/inventory).
