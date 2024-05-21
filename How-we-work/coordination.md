@@ -20,8 +20,7 @@ Members are encouraged to use emojis liberally to indicate they have, for exampl
 
 ### When to open an Issue in organizing or organizing-private
 
-Hypha mainly uses the `organizing` Issues to track the admin/managerial work that keeps the co-op running.
-Anything that needs to be done by "someone" but isn't work for an ongoing project should be tracked by an Issue in these repos.
+Hypha mainly uses the `organizing` Issues to track the internal work that keeps the co-op running.
 This includes, but isn't limited to:
 
 * Allocating budget to attend a conference
