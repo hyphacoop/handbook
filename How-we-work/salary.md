@@ -12,16 +12,16 @@ Base Salary = 51,250 CAD * L^l * R^r * S^s * Modifiers + Adjustment
 
 with the following criteria:
 
-| Criteria           | Scaling factor  | Description                                                                                      |
-|:-------------------|----------------:|:-------------------------------------------------------------------------------------------------|
-| **L**evel          |       `L=1.160` | Skills and experiences `l=[0-6]`                                                                 |
-| **R**esponsibility |       `R=1.120` | Responsibilities `r=[0-4]`                                                                       |
-| **S**eniority      |       `S=1.025` | Seniority in organization `s=[0-3]`                                                              |
-| Commitment         | `0.250`-`1.200` | Modifier applied to members working part-time or over-time each week                             |
-| Contractor         |         `1.050` | Modifier applied to contractors who do not receive employee benefits                             |
-| Geo-upscaling      |         `1.150` | Modifier applied to members living in higher cost of living regions compared to Toronto          |
-| Geo-downscaling    |         `0.850` | Modifier applied to members living in lower cost of living regions compared to Toronto           |
-| Adjustment         |                 | Custom dollar amount adjustment applied on a case-by-case basis                                  |
+| Criteria           | Scaling factor  | Description                                                                             |
+|:-------------------|----------------:|:----------------------------------------------------------------------------------------|
+| **L**evel          |       `L=1.160` | Skills and experiences `l=[0-6]`                                                        |
+| **R**esponsibility |       `R=1.120` | Responsibilities `r=[0-4]`                                                              |
+| **S**eniority      |       `S=1.025` | Seniority in organization `s=[0-3]`                                                     |
+| Commitment         | `0.250`-`1.200` | Modifier applied to members working part-time or over-time each week                    |
+| Contractor         |         `1.050` | Modifier applied to contractors who do not receive employee benefits                    |
+| Geo-upscaling      |         `1.150` | Modifier applied to members living in higher cost of living regions compared to Toronto |
+| Geo-downscaling    |         `0.850` | Modifier applied to members living in lower cost of living regions compared to Toronto  |
+| Adjustment         |                 | Custom dollar amount adjustment applied on a case-by-case basis                         |
 
 At salary review time, each member will perform a self-assessment to suggest their *L* and *R* to an review group made up of other members who are most suited to contribute to their evaluation. Together they will determine the appropriate values for the upcoming cycle. *S* and the *Modifiers* are based largely on objective factors, and a custom dollar amount *Adjustment* may be applied to retain members with high market demand skills, or in other special circumstances.
 
