@@ -24,7 +24,15 @@ The process for collecting payments from clients is as follows:
 > Access to the `Financial Planning` spreadsheet is controlled by the Finance WG.
 
 
-## 2. Send Invoice in QuickBooks Online (Finance WG)
+## 2 Send Invoice in QuickBooks Online (Finance WG)
+
+### Bookkeper + Hypha process
+
+1. Notify the bookkeeper that invoices are ready to submit.
+2. Review the QuickBooks invoice after the bookkeeper sets is up.
+3. Send the invoice to the client.
+
+### Hypha-only process
 
 Go to [Quickbooks Online](https://quickbooks.intuit.com/ca/).
 
