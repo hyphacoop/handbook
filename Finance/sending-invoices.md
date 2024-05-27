@@ -8,12 +8,12 @@ The process for collecting payments from clients is as follows:
 
 ## 1. Populate Financial Planning Spreadsheet (Project Lead)
 
-If this is the first time the client is being invoiced:
+* If this is the first time the client is being invoiced:
   * Confirm with the client which currency they will be invoiced in, and in what country their financial institution is based.
   * Work with the Finance WG to set up the right invoice template and cost centres.
 
-Go to the `Customer Invoices` sheet of the `Financial Planning` spreadsheet and fill in the details for the invoice:
-  * `Period`: It should match the upcoming Service Period at the top of the sheet.
+* Go to the `Customer Invoices` sheet of the `Financial Planning` spreadsheet and fill in the details for the invoice:
+  * `Completed by Lead`: Copy the value from the Service Period cell at the top of the sheet (last day of the month), do not enter the current date.
   * `Service Date`: The end date of the provided service. If a client is billed monthly, this would list the last day of the billed month.
   * `Description`
   * `Qty`
@@ -64,7 +64,7 @@ Before sending new ones, review invoices from the previous month(s) in Quickbook
 
 Ensure each client has paid their invoices each month, and these payments have been matched and applied to invoices in Quickbooks (QB). Most of these come through Wise, or by cheque and direct deposit to our Desjardins account. Refresh feeds in QB to ensure the most up-to-date transactions are available. Invoices are Net 15, and are due roughly mid-month depending on when they were sent out
 
-## 4 Monthly bookkeeping hand-off
+## Monthly bookkeeping hand-off  (Finance WG)
 
 Monthly checklist for hand-off to bookkeeper
 
@@ -77,7 +77,7 @@ Monthly checklist for hand-off to bookkeeper
 6. Notify the bookkeeper when everything is ready for them to do the monthly bookkeeping
 7. The bookkeeper sends a follow up email with their reports when they have completed the bookkeeping for the month.
 
-## 5 Prepare spreadsheet for next cycle
+## Prepare spreadsheet for next cycle (Finance WG)
 
 After all the invoices for the current service period have been processed, the Finance WG must create a snapshot of the Financial Planning spreadsheet and place it in the `Financial Planning Snapshots` folder.
 
