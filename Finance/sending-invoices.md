@@ -64,7 +64,7 @@ Before sending new ones, review invoices from the previous month(s) in Quickbook
 
 Ensure each client has paid their invoices each month, and these payments have been matched and applied to invoices in Quickbooks (QB). Most of these come through Wise, or by cheque and direct deposit to our Desjardins account. Refresh feeds in QB to ensure the most up-to-date transactions are available. Invoices are Net 15, and are due roughly mid-month depending on when they were sent out
 
-## Monthly bookkeeping hand-off  (Finance WG)
+## Monthly bookkeeping hand-off (Finance WG)
 
 Monthly checklist for hand-off to bookkeeper
 
