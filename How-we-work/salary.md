@@ -7,21 +7,21 @@ This document outlines the salary tiers of Hypha members and the review process.
 The base salary for each member is determined according to:
 
 ```
-Base Salary = 50,000 CAD * L^l * R^r * S^s * Modifiers + Adjustment
+Base Salary = 51,250 CAD * L^l * R^r * S^s * Modifiers + Adjustment
 ```
 
 with the following criteria:
 
-| Criteria           | Scaling factor  | Description                                                                                      |
-|:-------------------|----------------:|:-------------------------------------------------------------------------------------------------|
-| **L**evel          |       `L=1.160` | Skills and experiences `l=[0-6]`                                                                 |
-| **R**esponsibility |       `R=1.120` | Responsibilities `r=[0-4]`                                                                       |
-| **S**eniority      |       `S=1.025` | Seniority in organization `s=[0-3]`                                                              |
-| Commitment         | `0.250`-`1.200` | Modifier applied to members working part-time or over-time each week                             |
-| Contractor         |         `1.050` | Modifier applied to contractors who do not receive employee benefits                             |
-| Geo-upscaling      |         `1.150` | Modifier applied to members living in higher cost of living regions compared to Canadian average |
-| Geo-downscaling    |         `0.850` | Modifier applied to members living in lower cost of living regions compared to Canadian average  |
-| Adjustment         |                 | Custom dollar amount adjustment applied on a case-by-case basis                                  |
+| Criteria           | Scaling factor  | Description                                                                             |
+|:-------------------|----------------:|:----------------------------------------------------------------------------------------|
+| **L**evel          |       `L=1.160` | Skills and experiences `l=[0-6]`                                                        |
+| **R**esponsibility |       `R=1.120` | Responsibilities `r=[0-4]`                                                              |
+| **S**eniority      |       `S=1.025` | Seniority in organization `s=[0-3]`                                                     |
+| Commitment         | `0.250`-`1.200` | Modifier applied to members working part-time or over-time each week                    |
+| Contractor         |         `1.050` | Modifier applied to contractors who do not receive employee benefits                    |
+| Geo-upscaling      |         `1.150` | Modifier applied to members living in higher cost of living regions compared to Toronto |
+| Geo-downscaling    |         `0.850` | Modifier applied to members living in lower cost of living regions compared to Toronto  |
+| Adjustment         |                 | Custom dollar amount adjustment applied on a case-by-case basis                         |
 
 At salary review time, each member will perform a self-assessment to suggest their *L* and *R* to an review group made up of other members who are most suited to contribute to their evaluation. Together they will determine the appropriate values for the upcoming cycle. *S* and the *Modifiers* are based largely on objective factors, and a custom dollar amount *Adjustment* may be applied to retain members with high market demand skills, or in other special circumstances.
 
@@ -76,7 +76,7 @@ The table below lists *base salaries* at `S=0` in CAD for four-day work weeks. T
 | L0  |  51,250 |  57,400 |  64,288 |  72,003 |  80,643 |
 | L1  |  59,450 |  66,584 |  74,574 |  83,523 |  93,546 |
 | L2  |  68,962 |  77,237 |  86,506 |  96,887 | 108,513 |
-| L3  |  79,996 |  89,595 |  100,347 | 112,389 | 125,875 |
+| L3  |  79,996 |  89,595 | 100,347 | 112,389 | 125,875 |
 | L4  |  92,795 | 103,931 | 116,402 | 130,371 | 146,015 |
 | L5  | 107,643 | 120,560 | 135,027 | 151,230 | 169,378 |
 | L6  | 124,865 | 139,849 | 156,631 | 175,427 | 196,478 |
