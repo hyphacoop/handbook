@@ -50,21 +50,22 @@ To create an invoice:
 1. Open the `Sales` menu and select `Invoices`.
 2. Click `Create invoice`
 3. Select the Project from the dropdown menu. QuickBooks will autofill all the client information.
-4. Copy and paste all the line items from the `Financial Planning` spreadsheet:
+4. Select the Location from the dropdown menu that matches the one in the `Financial Planning` spreadsheet.
+5. Copy and paste all the line items from the `Financial Planning` spreadsheet:
    * Service Date
    * Description
    * Qty
    * Rate
    * Sales Tax
    * Leave the `Class` column blank
-5. At the bottom of the page, click `Customize` to select the invoice template listed in the `Financial Planning` spreadsheet.
+6. At the bottom of the page, click `Customize` to select the invoice template listed in the `Financial Planning` spreadsheet.
    * If a new template is required or the payment information needs to be changed:
       * Select the `Content` tab, click on the bottom section of the template preview to reveal the `Add payment details and footer` section.
       * Enter the [applicable payment information](https://github.com/hyphacoop/organizing-private/blob/master/documents/finances/payments.md), you can look at a previous invoices for examples.
       * Review the invoice preview, then click `Done`.
-6. Click `Preview` and review the information. The calculated total must match the one from the `Financial Planning` spreadsheet.
+7. Click `Preview` and review the information. The calculated total must match the one from the `Financial Planning` spreadsheet.
    * If this is the first time the client is being invoiced, the invoice must be reviewed by the project lead before it is sent out.
-7. Click `Save and Send` to send the invoice to the client.
+8. Click `Save and Send` to send the invoice to the client.
 
 ## 3. Accounts Receivable on client invoices (Operations Coordinator)
 
