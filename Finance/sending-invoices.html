@@ -970,27 +970,36 @@
 <li>Monthly bookkeeping and reconciliation of books.</li>
 </ol>
 <h2 id="1-populate-financial-planning-spreadsheet-project-lead"><a name="1-populate-financial-planning-spreadsheet-project-lead" class="plugin-anchor" href="#1-populate-financial-planning-spreadsheet-project-lead"><i class="fa fa-link" aria-hidden="true"></i></a>1. Populate Financial Planning Spreadsheet (Project Lead)</h2>
-<p>If this is the first time the client is being invoiced:</p>
+<ul>
+<li><p>If this is the first time the client is being invoiced:</p>
 <ul>
 <li>Confirm with the client which currency they will be invoiced in, and in what country their financial institution is based.</li>
 <li>Work with the Finance WG to set up the right invoice template and cost centres.</li>
 </ul>
-<p>Go to the <code>Customer Invoices</code> sheet of the <code>Financial Planning</code> spreadsheet and fill in the details for the invoice:</p>
+</li>
+<li><p>Go to the <code>Customer Invoices</code> sheet of the <code>Financial Planning</code> spreadsheet and fill in the details for the invoice:</p>
 <ul>
-<li><code>Period</code>: It should match the upcoming Service Period at the top of the sheet.</li>
+<li><code>Completed by Lead</code>: Copy the value from the Service Period cell at the top of the sheet (last day of the month), do not enter the current date.</li>
 <li><code>Service Date</code>: The end date of the provided service. If a client is billed monthly, this would list the last day of the billed month.</li>
 <li><code>Description</code></li>
 <li><code>Qty</code></li>
 <li><code>Rate (&lt;currency&gt;)</code></li>
-<li><code>Sales Tax</code><ul>
-<li>Notify the Finance WG that the invoice data is ready.</li>
+<li><code>Sales Tax</code></li>
 </ul>
 </li>
+<li>Notify the Finance WG that the invoice data is ready.</li>
 </ul>
 <blockquote>
 <p>Access to the <code>Financial Planning</code> spreadsheet is controlled by the Finance WG.</p>
 </blockquote>
 <h2 id="2-send-invoice-in-quickbooks-online-finance-wg"><a name="2-send-invoice-in-quickbooks-online-finance-wg" class="plugin-anchor" href="#2-send-invoice-in-quickbooks-online-finance-wg"><i class="fa fa-link" aria-hidden="true"></i></a>2. Send Invoice in QuickBooks Online (Finance WG)</h2>
+<h3 id="bookkeper--hypha-process"><a name="bookkeper--hypha-process" class="plugin-anchor" href="#bookkeper--hypha-process"><i class="fa fa-link" aria-hidden="true"></i></a>Bookkeper + Hypha process</h3>
+<ol>
+<li>Notify the bookkeeper that invoices are ready to submit.</li>
+<li>Review the QuickBooks invoice after the bookkeeper sets is up.</li>
+<li>Send the invoice to the client.</li>
+</ol>
+<h3 id="hypha-only-process"><a name="hypha-only-process" class="plugin-anchor" href="#hypha-only-process"><i class="fa fa-link" aria-hidden="true"></i></a>Hypha-only process</h3>
 <p>Go to <a href="https://quickbooks.intuit.com/ca/" target="_blank">Quickbooks Online</a>.</p>
 <p>If the client has not been set up:</p>
 <ol>
@@ -1009,6 +1018,7 @@
 <li>Open the <code>Sales</code> menu and select <code>Invoices</code>.</li>
 <li>Click <code>Create invoice</code></li>
 <li>Select the Project from the dropdown menu. QuickBooks will autofill all the client information.</li>
+<li>Select the Location from the dropdown menu that matches the one in the <code>Financial Planning</code> spreadsheet.</li>
 <li>Copy and paste all the line items from the <code>Financial Planning</code> spreadsheet:<ul>
 <li>Service Date</li>
 <li>Description</li>
@@ -1036,7 +1046,7 @@
 <h2 id="3-accounts-receivable-on-client-invoices-operations-coordinator"><a name="3-accounts-receivable-on-client-invoices-operations-coordinator" class="plugin-anchor" href="#3-accounts-receivable-on-client-invoices-operations-coordinator"><i class="fa fa-link" aria-hidden="true"></i></a>3. Accounts Receivable on client invoices (Operations Coordinator)</h2>
 <p>Before sending new ones, review invoices from the previous month(s) in Quickbooks, and send reminders on any items that are overdue.</p>
 <p>Ensure each client has paid their invoices each month, and these payments have been matched and applied to invoices in Quickbooks (QB). Most of these come through Wise, or by cheque and direct deposit to our Desjardins account. Refresh feeds in QB to ensure the most up-to-date transactions are available. Invoices are Net 15, and are due roughly mid-month depending on when they were sent out</p>
-<h2 id="4-monthly-bookkeeping-hand-off"><a name="4-monthly-bookkeeping-hand-off" class="plugin-anchor" href="#4-monthly-bookkeeping-hand-off"><i class="fa fa-link" aria-hidden="true"></i></a>4 Monthly bookkeeping hand-off</h2>
+<h2 id="monthly-bookkeeping-hand-off-finance-wg"><a name="monthly-bookkeeping-hand-off-finance-wg" class="plugin-anchor" href="#monthly-bookkeeping-hand-off-finance-wg"><i class="fa fa-link" aria-hidden="true"></i></a>Monthly bookkeeping hand-off (Finance WG)</h2>
 <p>Monthly checklist for hand-off to bookkeeper</p>
 <ol>
 <li>Accounts Receivable - Match previous month&apos;s payments to the client invoices in QB, and send out reminders on any overdue invoices.</li>
@@ -1050,7 +1060,7 @@
 <li>Notify the bookkeeper when everything is ready for them to do the monthly bookkeeping</li>
 <li>The bookkeeper sends a follow up email with their reports when they have completed the bookkeeping for the month.</li>
 </ol>
-<h2 id="5-prepare-spreadsheet-for-next-cycle"><a name="5-prepare-spreadsheet-for-next-cycle" class="plugin-anchor" href="#5-prepare-spreadsheet-for-next-cycle"><i class="fa fa-link" aria-hidden="true"></i></a>5 Prepare spreadsheet for next cycle</h2>
+<h2 id="prepare-spreadsheet-for-next-cycle-finance-wg"><a name="prepare-spreadsheet-for-next-cycle-finance-wg" class="plugin-anchor" href="#prepare-spreadsheet-for-next-cycle-finance-wg"><i class="fa fa-link" aria-hidden="true"></i></a>Prepare spreadsheet for next cycle (Finance WG)</h2>
 <p>After all the invoices for the current service period have been processed, the Finance WG must create a snapshot of the Financial Planning spreadsheet and place it in the <code>Financial Planning Snapshots</code> folder.</p>
 <ol>
 <li>If there are any invoices that have not been populated completely, check with the Project Lead to see if they still want to submit an invoice.</li>
@@ -1110,7 +1120,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Sending Invoices","level":"5.3","depth":1,"next":{"title":"Paying Invoices","level":"5.4","depth":1,"path":"Finance/paying-invoices.md","ref":"./Finance/paying-invoices.md","articles":[]},"previous":{"title":"Areas of Responsibility","level":"5.2","depth":1,"path":"Finance/areas-of-responsibility.md","ref":"./Finance/areas-of-responsibility.md","articles":[]},"dir":"ltr"},"config":{"plugins":["anchors","add-custom-js"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"anchors":{},"add-custom-js":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"theme":"default","author":"Hypha Worker Co-operative","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56},"embedFonts":false},"structure":{"langs":"LANGS.md","readme":"handbook.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"H&#8322;O","gitbook":"*","description":"Hypha handbook describes the vision, processes, and culture of Hypha Worker Co-operative. 🌿🍄"},"file":{"path":"Finance/sending-invoices.md","mtime":"2024-05-30T19:43:44.552Z","type":"markdown"},"gitbook":{"version":"4.0.8","time":"2024-05-30T19:43:48.588Z"},"basePath":"..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Sending Invoices","level":"5.3","depth":1,"next":{"title":"Paying Invoices","level":"5.4","depth":1,"path":"Finance/paying-invoices.md","ref":"./Finance/paying-invoices.md","articles":[]},"previous":{"title":"Areas of Responsibility","level":"5.2","depth":1,"path":"Finance/areas-of-responsibility.md","ref":"./Finance/areas-of-responsibility.md","articles":[]},"dir":"ltr"},"config":{"plugins":["anchors","add-custom-js"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"anchors":{},"add-custom-js":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"theme":"default","author":"Hypha Worker Co-operative","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56},"embedFonts":false},"structure":{"langs":"LANGS.md","readme":"handbook.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"H&#8322;O","gitbook":"*","description":"Hypha handbook describes the vision, processes, and culture of Hypha Worker Co-operative. 🌿🍄"},"file":{"path":"Finance/sending-invoices.md","mtime":"2024-06-11T15:57:52.955Z","type":"markdown"},"gitbook":{"version":"4.0.8","time":"2024-06-11T15:57:57.930Z"},"basePath":"..","book":{"language":""}});
         });
     </script>
 </div>
