@@ -8,12 +8,12 @@ The process for collecting payments from clients is as follows:
 
 ## 1. Populate Financial Planning Spreadsheet (Project Lead)
 
-If this is the first time the client is being invoiced:
+* If this is the first time the client is being invoiced:
   * Confirm with the client which currency they will be invoiced in, and in what country their financial institution is based.
   * Work with the Finance WG to set up the right invoice template and cost centres.
 
-Go to the `Customer Invoices` sheet of the `Financial Planning` spreadsheet and fill in the details for the invoice:
-  * `Period`: It should match the upcoming Service Period at the top of the sheet.
+* Go to the `Customer Invoices` sheet of the `Financial Planning` spreadsheet and fill in the details for the invoice:
+  * `Completed by Lead`: Copy the value from the Service Period cell at the top of the sheet (last day of the month), do not enter the current date.
   * `Service Date`: The end date of the provided service. If a client is billed monthly, this would list the last day of the billed month.
   * `Description`
   * `Qty`
@@ -25,6 +25,14 @@ Go to the `Customer Invoices` sheet of the `Financial Planning` spreadsheet and 
 
 
 ## 2. Send Invoice in QuickBooks Online (Finance WG)
+
+### Bookkeper + Hypha process
+
+1. Notify the bookkeeper that invoices are ready to submit.
+2. Review the QuickBooks invoice after the bookkeeper sets is up.
+3. Send the invoice to the client.
+
+### Hypha-only process
 
 Go to [Quickbooks Online](https://quickbooks.intuit.com/ca/).
 
@@ -42,21 +50,22 @@ To create an invoice:
 1. Open the `Sales` menu and select `Invoices`.
 2. Click `Create invoice`
 3. Select the Project from the dropdown menu. QuickBooks will autofill all the client information.
-4. Copy and paste all the line items from the `Financial Planning` spreadsheet:
+4. Select the Location from the dropdown menu that matches the one in the `Financial Planning` spreadsheet.
+5. Copy and paste all the line items from the `Financial Planning` spreadsheet:
    * Service Date
    * Description
    * Qty
    * Rate
    * Sales Tax
    * Leave the `Class` column blank
-5. At the bottom of the page, click `Customize` to select the invoice template listed in the `Financial Planning` spreadsheet.
+6. At the bottom of the page, click `Customize` to select the invoice template listed in the `Financial Planning` spreadsheet.
    * If a new template is required or the payment information needs to be changed:
       * Select the `Content` tab, click on the bottom section of the template preview to reveal the `Add payment details and footer` section.
       * Enter the [applicable payment information](https://github.com/hyphacoop/organizing-private/blob/master/documents/finances/payments.md), you can look at a previous invoices for examples.
       * Review the invoice preview, then click `Done`.
-6. Click `Preview` and review the information. The calculated total must match the one from the `Financial Planning` spreadsheet.
+7. Click `Preview` and review the information. The calculated total must match the one from the `Financial Planning` spreadsheet.
    * If this is the first time the client is being invoiced, the invoice must be reviewed by the project lead before it is sent out.
-7. Click `Save and Send` to send the invoice to the client.
+8. Click `Save and Send` to send the invoice to the client.
 
 ## 3. Accounts Receivable on client invoices (Operations Coordinator)
 
@@ -64,7 +73,7 @@ Before sending new ones, review invoices from the previous month(s) in Quickbook
 
 Ensure each client has paid their invoices each month, and these payments have been matched and applied to invoices in Quickbooks (QB). Most of these come through Wise, or by cheque and direct deposit to our Desjardins account. Refresh feeds in QB to ensure the most up-to-date transactions are available. Invoices are Net 15, and are due roughly mid-month depending on when they were sent out
 
-## 4 Monthly bookkeeping hand-off
+## Monthly bookkeeping hand-off (Finance WG)
 
 Monthly checklist for hand-off to bookkeeper
 
@@ -77,7 +86,7 @@ Monthly checklist for hand-off to bookkeeper
 6. Notify the bookkeeper when everything is ready for them to do the monthly bookkeeping
 7. The bookkeeper sends a follow up email with their reports when they have completed the bookkeeping for the month.
 
-## 5 Prepare spreadsheet for next cycle
+## Prepare spreadsheet for next cycle (Finance WG)
 
 After all the invoices for the current service period have been processed, the Finance WG must create a snapshot of the Financial Planning spreadsheet and place it in the `Financial Planning Snapshots` folder.
 
