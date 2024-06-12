@@ -26,7 +26,7 @@ Instead, we are a [not-for-profit _co-operative_][not-for-profit-coop].
 Hypha is a member of [Canadian Worker Co-op Federation (CWCF)](https://canadianworker.coop/), 
 and through that affiliation is a member of the [Ontario Co-operative Association (OCA)](https://ontario.coop/) and [Cooperatives and Mutuals Canada (CMC)](https://canada.coop/).<sup>[1](#notes)</sup> 
 
-<a href="https://canadianworker.coop/"><img src="../images/cwcf-logo.jpg" alt="CWCF logo in deep salmon and green" width="20%"/></a>
+<a href="https://canadianworker.coop/"><img src="../assets/images/cwcf-logo.jpg" alt="CWCF logo in deep salmon and green" width="20%"/></a>
 
 You can contact us the following ways:
 

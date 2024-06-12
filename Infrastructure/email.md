@@ -16,12 +16,12 @@ _Note: Consider creating a [new GitHub issue in `hyphacoop/organizing`](https://
 1. Sign into Google Admin: https://admin.google.com
     <details>
       <summary>View Screenshot 🔎</summary>
-      <img alt="Screenshot of Mailcow login page" src="../images/email-mailbox-1.png" />
+      <img alt="Screenshot of Mailcow login page" src="../assets/images/email-mailbox-1.png" />
     </details>
 2. Click "+Add a user" from the User's section on the Home screen.
     <details>
       <summary>View Screenshot 🔎</summary>
-      <img alt="Screenshot of Mailcow mailbox tab" src="../images/email-mailbox-2.png" />
+      <img alt="Screenshot of Mailcow mailbox tab" src="../assets/images/email-mailbox-2.png" />
     </details>
 3. Fill out the following fields, noting the password:
     - First Name, Last Name: `[use preferred public name]`
@@ -30,7 +30,7 @@ _Note: Consider creating a [new GitHub issue in `hyphacoop/organizing`](https://
     - Domain: `hypha.coop (or if required alternative primay email address)`
     <details>
       <summary>View Screenshot 🔎</summary>
-      <img alt="Screenshot of Mailcow mailbox creation popup" src="../images/email-mailbox-3.png" />
+      <img alt="Screenshot of Mailcow mailbox creation popup" src="../assets/images/email-mailbox-3.png" />
     </details>
 
 4. Send invite to alternative email address 
