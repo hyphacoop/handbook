@@ -6,7 +6,7 @@ and culture of Hypha Worker Co-operative. 🌿🍄
 This handbook's primary audience is Hypha member-workers and collaborators, 
 but it will be publicly available for others who might find it useful. 
 
-![Old-timey web 1.0 UNDER CONSTRUCTION banner](images/under-construction.gif)<br />
+![Old-timey web 1.0 UNDER CONSTRUCTION banner](assets/images/under-construction.gif)<br />
 This resource is in perpetual beta and constantly changing. If you see 
 something that could be improved, consider this your invitation to improve it!
 
