@@ -21,7 +21,7 @@ As per 2017's [_Cutting Unnecessary Red Tape Act_](https://www.ontario.ca/laws/s
 Hypha falls under neither the current [_Corporations Act_](https://www.ontario.ca/laws/statute/90c38), 
 nor the [_Not-for-Profit Corporations Act_](https://www.ontario.ca/laws/statute/10n15), 
 which both govern not-for-profit _corporations_ in Ontario.
-Instead, we are a [not-for-profit _co-operative_][not-for-profit-coop].
+Instead, we are a <a href="../assets/STR06_For_Profit_and_Not_for_Profit_Co-ops.pdf" target="_blank">not-for-profit _co-operative_</a>.
 
 Hypha is a member of [Canadian Worker Co-op Federation (CWCF)](https://canadianworker.coop/), 
 and through that affiliation is a member of the [Ontario Co-operative Association (OCA)](https://ontario.coop/) and [Cooperatives and Mutuals Canada (CMC)](https://canada.coop/).<sup>[1](#notes)</sup> 
@@ -44,5 +44,4 @@ You can contact us the following ways:
 [coop-act]: https://www.ontario.ca/laws/statute/90c35
 [es-act]: https://www.ontario.ca/laws/statute/00e41
 [esa-employee]: https://www.ontario.ca/document/changing-workplaces-review-final-report/chapter-8-who-employer-and-who-employee-under-employment-standards-act-2000#section-1
-[not-for-profit-coop]: https://ontario.coop/sites/default/files/STR06_For%20Profit%20and%20Not%20for%20Profit%20Co-ops.pdf
 [cwcf-guidelines]: https://canadianworker.coop/guidelines-for-determining-whether-or-not-there-is-an-employer-employee-relationship-in-a-worker-co-op/
