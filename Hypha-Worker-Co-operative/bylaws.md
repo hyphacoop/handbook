@@ -78,25 +78,29 @@ Bylaws adopted: June 13, 2020
     in management activities.
 
     Once the probationary member has worked the required number of hours,
-    they are entitled to apply for membership in the Co-operative.
-    Application for membership in the Co-operative shall be in writing to
-    the board of directors. The Co-operative shall provide application forms
-    for this purpose.
-
-    Upon an application for membership, the members shall decide whether to:
-
-    A. unanimously accept the application, in which case a resolution is
-       passed recommending to the board of directors that the probationary
-       member will become a full member as soon as they meet all of the
-       membership requirements as described in section 2.1; or  
-    B. reject the application, in which case a resolution is passed by a
-       majority of two-thirds on whether to recommend to the board of
-       directors to terminate the probationary member’s employment with the
-       Co-operative.
-
+    they are entitled to apply for membership in the Co-operative at any time.
     If the worker does not wish to become a member in the Co-operative, they
-    may decline to apply for membership and continue to work for the
-    Co-operative as a non-member at the board’s discretion.
+    may decline to apply for membership and continue to work for the Co-operative
+    as a non-member at the board’s discretion. If the worker declines to apply
+    for membership, they remain eligible to apply for membership at a future time. 
+
+    Application for membership in the Co-operative shall be in writing to the board
+    of directors. The Co-operative shall provide application forms for this purpose.
+    Upon an application for membership, the members shall vote on whether to accept
+    the application:
+    
+    A. if the vote to accept is unanimous, a resolution is passed recommending to
+       the board of directors that the probationary member will become a full member
+       as soon as they meet all of the membership requirements as described in
+       section 2.1; or
+    B. if the vote to accept is not unanimous, the application is rejected.
+    
+    If the application for membership is rejected, the members shall vote on a
+    resolution, which is passed by a majority of two-thirds, to recommend to the board
+    of directors to terminate the probationary member’s employment with the Co-operative.
+    If the resolution does not pass, the worker may continue to work for the Co-operative
+    as a non-member at the board’s discretion. If their employment continues, they are
+    eligible to apply again in the future at the board’s discretion.
 
   1. **Foreign Contractors** – Foreign contractors must be non-residents of
     and conducting work remotely outside of Canada. They are eligible for
