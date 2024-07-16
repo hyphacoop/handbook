@@ -20,6 +20,20 @@ These roles occur within meetings or as-needed.
 * **Responsibilities**: Manage Hypha’s social media presence with guidance from other members. Facilitate posting and social media strategy.
 * **Tasks:** Post content on existing platforms (Twitter, LinkedIn) behalf of other members and project teams, create accounts to squat namespace as needed.
 
+### Chat Facilitor
+* **Eligibility:** Any full members in the co-op. Rotated every quarter, with a backup volunteer in case of illness or vacation.
+* **Responsibilities:** Ensure that online chats stay effective, respectful, and on-topic. Initiate decision-making processes when needed.
+* **Tasks:** Read chat messages promptly in private-general and members-only. Recognize and respond to certain scenarios:
+
+| Recognize                                   | Act                                                                         |
+| ------------------------------------------- | --------------------------------------------------------------------------- |
+| People are getting off-topic                | Reminder to refocus, restate the topic                                      |
+| Conversation is heated                      | Reminder to follow CoC, non-violent comms, take a break                     |
+| Conversation is too long                    | Assign someone to summarize in a GitHub issue / schedule meeting            |
+| Important people are missing                | Suggest waiting to continue conversation                                    |
+| Important conversation concludes            | Assign someone to write the conclusion in a GitHub issue for preservation   |
+| Important conversation stops inconclusively | Prompt contributors for next steps                                          |
+
 
 ## Roles within working groups
 
