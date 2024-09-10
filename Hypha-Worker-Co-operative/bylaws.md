@@ -509,7 +509,7 @@ Bylaws adopted: June 13, 2020
 
     A.  80 percent of net income less the co-op’s taxes shall be credited to
         the reserve funds as defined in section 6.3. The distribution into
-        specific reverse accounts will be determined by a resolution passed
+        specific reserve accounts will be determined by a resolution passed
         at the AGM based on proposals brought forward that further the
         mission of the Co-operative;  
     B.  the remaining net income shall be credited to the loan portion of
