@@ -11,7 +11,7 @@ The current board includes four of our full members, with four officer positions
 
 **Term:** 2 years, with renewal, or as often as necessary.
 
-**Incumbent:** Yurko
+**Incumbent:** Dante _(term ending in 2025)_
 
 ### Vice-President
 
@@ -27,7 +27,7 @@ The current board includes four of our full members, with four officer positions
 
 **Term:** 2 years, with renewal, or as often as necessary.
 
-**Incumbent:** Benedict
+**Incumbent:** Lexa _(term ending in 2025)_
 
 ### Treasurer
 
@@ -35,4 +35,4 @@ The current board includes four of our full members, with four officer positions
 
 **Term:** 2 years, with renewal, or as often as necessary.
 
-**Incumbent:** Udit
+**Incumbent:** Cameron _(term ending in 2026)_
