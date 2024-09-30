@@ -1,7 +1,15 @@
 # Board of Directors
 
 Hypha has a board of directors that consists of a minimum of three and a maximum of twenty directors.
-The current board includes four of our full members, with four officer positions.
+
+The current board includes four of our full members:
+
+- Cameron _(term ending in 2026)_
+- Dante _(term ending in 2025)_
+- Lexa _(term ending in 2025)_
+- Udit _(term ending in 2026)_
+
+with four officer positions (one vacant).
 
 ## Officers
 
@@ -11,7 +19,7 @@ The current board includes four of our full members, with four officer positions
 
 **Term:** 2 years, with renewal, or as often as necessary.
 
-**Incumbent:** Yurko
+**Incumbent:** Dante _(term ending in 2025)_
 
 ### Vice-President
 
@@ -27,7 +35,7 @@ The current board includes four of our full members, with four officer positions
 
 **Term:** 2 years, with renewal, or as often as necessary.
 
-**Incumbent:** Benedict
+**Incumbent:** Lexa _(term ending in 2025)_
 
 ### Treasurer
 
@@ -35,4 +43,4 @@ The current board includes four of our full members, with four officer positions
 
 **Term:** 2 years, with renewal, or as often as necessary.
 
-**Incumbent:** Udit
+**Incumbent:** Cameron _(term ending in 2026)_
