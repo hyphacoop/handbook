@@ -14,6 +14,6 @@ Here are the steps for increasing the salary:
 ## Updating L/R Levels
 
 - Navigate to the Operations Planning Sheet
-- Navigate to the MEmber-Path Salaries Sheet
+- Navigate to the Member-Path Salaries Sheet
 - Find the row for the relevant member and update their values
 - The other cells will update accordingly
