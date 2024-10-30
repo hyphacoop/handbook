@@ -8,7 +8,7 @@ Here are the steps for increasing the salary:
 
 - Navigate to the Operations Planning Sheet
 - Navigate to the Salary Matrix Sheet
-- Increase the Min Base Salary by 2.5%
+- Increase the Min Base Salary by the determined percent
 - The other cells will update accordingly
 
 ## Updating L/R Levels
