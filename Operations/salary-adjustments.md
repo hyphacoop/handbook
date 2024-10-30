@@ -2,7 +2,7 @@
 
 ## Yearly Cost Of Living Increase
 
-Every year we increase the base salary by `2.5%` to account for the increase in cost of living due to inflation.
+Every year we increase the base salary by looking at the consumer price index for the last 12 months to account for the increase in cost of living due to inflation and use a "vibes based judgement" for the %increase..
 
 Here are the steps for increasing the salary:
 
