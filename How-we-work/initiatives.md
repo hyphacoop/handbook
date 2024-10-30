@@ -81,7 +81,7 @@ Contains core business activities for sustaining Hypha's virtual office.
 **Responsibilities:** Stewarding the financial sustainability of the organization, ensuring that a clear picture of the organization’s financial status is available.  
 **Tasks:** Establishing accounting practices, maintaining financial accounts, processing invoices, expenses, and payroll, and creating reports on our financial statements and tax obligations.  
 
-👪 Squad Members: Yurko (lead), Dante
+👪 Squad Members: Andi, Cam, Dante, Yurko (lead)
 
 ✅ Tasks: GitHub board > [`finance` label][l-fin]
 
@@ -89,7 +89,7 @@ Contains core business activities for sustaining Hypha's virtual office.
 **Responsibilities:** Managing technical infrastructure and providing technical support for our organization’s internal tools and services.  
 **Tasks:** Maintaining servers, configuring tools such as Google Workspace and Slack.  
 
-👪 Squad Members: Yurko (lead), Elon
+👪 Squad Members: Elon, Mauve, Yurko (lead)
 
 ✅ Tasks: GitHub board > [`infrastructure` label][l-inf]
 
@@ -97,7 +97,7 @@ Contains core business activities for sustaining Hypha's virtual office.
 **Responsibilities:** Managing and overseeing day-to-day operational activities and processes, creating and refining org-wide policies and processes.  
 **Tasks:** Creating, reviewing, signing contracts; creating and documenting workplace policies; planning and executing org-wide events such as our Annual Retreat, AGM, and other internal-focused meetings such as All-Hands; supporting practice areas in operational tasks such as hiring.  
 
-👪 Squad Members: Ben (lead), Lexa
+👪 Squad Members: Blexa, Mauve, Violet
 
 ✅ Tasks: GitHub board > [`operations` label][l-ops]
 
@@ -105,7 +105,7 @@ Contains core business activities for sustaining Hypha's virtual office.
 **Responsibilities:** Defining the organization’s overall strategy and approach to business.  
 **Tasks:** Identifying and seeking out new opportunities for business growth and development.  
 
-👪 Squad Members: Andi (lead), Udit, Ben, Mauve
+👪 Squad Members: Andi (lead), Ben, Cam, Mauve, Udit
 
 ✅ Tasks: GitHub board > [`strategy` label][l-str] and [`opportunities` label][l-opp]
 
@@ -121,7 +121,7 @@ Contains core business activities for sustaining Hypha's virtual office.
 **Responsibilities:** Guiding internal and external communications in alignment with its strategic vision.  
 **Tasks:** Crafting Hypha's communication strategy, aligning messaging with the co-operative's core values, leading marketing and branding initiatives and ensuring cohesive internal communications.
 
-👪 Squad Members: Vincent (lead), Andi, Mauve
+👪 Squad Members: Andi, Dante, Vincent (lead), Violet
 
 ✅ Tasks: GitHub board > [`comms` label][l-comms] 
 
