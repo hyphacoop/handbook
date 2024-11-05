@@ -2,7 +2,7 @@
     "name": "add-custom-js",
     "version": "1.0.0",
     "engines": {
-      "honkit": "^4.0.8"
+      "honkit": "^6.0.2"
     }
   }
   
