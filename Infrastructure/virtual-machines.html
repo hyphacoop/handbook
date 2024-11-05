@@ -6,7 +6,7 @@
         <title>Virtual Machines · H&#8322;O</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="description" content="">
-        <meta name="generator" content="HonKit 4.0.8">
+        <meta name="generator" content="HonKit 6.0.2">
         <meta name="author" content="Hypha Worker Co-operative">
         
         
@@ -28,7 +28,7 @@
                 
             
                 
-                <link rel="stylesheet" href="../gitbook/gitbook-plugin-fontsettings/website.css">
+                <link rel="stylesheet" href="../gitbook/@honkit/honkit-plugin-fontsettings/website.css">
                 
             
         
@@ -964,19 +964,19 @@
                                 <html><head></head><body><h1 id="infrastructure---virtual-machines"><a name="infrastructure---virtual-machines" class="plugin-anchor" href="#infrastructure---virtual-machines"><i class="fa fa-link" aria-hidden="true"></i></a>Infrastructure - Virtual Machines</h1>
 <p>We use Proxmox to run our VMs. To access the management interface you need to SSH tunnel to <code>kvm1.hypha.coop</code> on port <code>34634</code> or connect over the VPN.</p>
 <h2 id="proxmox"><a name="proxmox" class="plugin-anchor" href="#proxmox"><i class="fa fa-link" aria-hidden="true"></i></a>Proxmox</h2>
-<p>Proxmox is the hypervisor that all the virtual machines run on. There are two ways of accessing the Proxmox servers management interface. An inventory of machines running on this server can be found in the <a href="https://github.com/hyphacoop/inventory-private/blob/master/inventory-kvm1.md" data-proofer-ignore target="_blank">inventory-private</a> repo.</p>
+<p>Proxmox is the hypervisor that all the virtual machines run on. There are two ways of accessing the Proxmox servers management interface. An inventory of machines running on this server can be found in the <a href="https://github.com/hyphacoop/inventory-private/blob/master/inventory-kvm1.md" data-proofer-ignore="" target="_blank">inventory-private</a> repo.</p>
 <ul>
 <li><p>SSH tunnel</p>
 <ol>
 <li>Tunnel the web interface over SSH with <code>ssh root@kvm1.hypha.coop -p 34634 -L 8006:127.0.0.1:8006</code></li>
-<li>Access the panel using <a href="https://127.0.0.1:8006" data-proofer-ignore target="_blank">https://127.0.0.1:8006</a></li>
+<li>Access the panel using <a href="https://127.0.0.1:8006" data-proofer-ignore="" target="_blank">https://127.0.0.1:8006</a></li>
 <li>The username is root and enter the password in our shared password manager Bitwarden.</li>
 </ol>
 </li>
 <li><p>VPN (Recommended)</p>
 <ol>
 <li>Connect to OpenVPN (If you do not already have access please ping someone in the infra for the OpenVPN config file.)</li>
-<li>Access the panel using <a herf="https://kvm1.hypha.coop:8006" data-proofer-ignore>https://kvm1.hypha.coop:8006</a></li>
+<li>Access the panel using <a herf="https://kvm1.hypha.coop:8006" data-proofer-ignore="">https://kvm1.hypha.coop:8006</a></li>
 <li>The username is root and enter the password in our shared password manager Bitwarden.</li>
 </ol>
 </li>
@@ -987,21 +987,21 @@
 <li><p>Connecting to staging Ansible1 (Our provisioning and jump server for staging machines)
 By default all members access to the production environment</p>
 <ol>
-<li>You&apos;ll need to ensure that your key has been added. You can do that by making a PR <a href="https://github.com/hyphacoop/configurations/tree/master/hyphacoop/ssh-public-keys" target="_blank">here</a>.</li>
-<li><code>ssh sysadmin@ansible1.hypha.stg -p 8002 -i ~/.ssh/id_rsa</code> (assuming <code>~/.ssh/id_rsa</code> is your key you use to access Hypha&apos;s infra.)</li>
+<li>You'll need to ensure that your key has been added. You can do that by making a PR <a href="https://github.com/hyphacoop/configurations/tree/master/hyphacoop/ssh-public-keys" target="_blank">here</a>.</li>
+<li><code>ssh sysadmin@ansible1.hypha.stg -p 8002 -i ~/.ssh/id_rsa</code> (assuming <code>~/.ssh/id_rsa</code> is your key you use to access Hypha's infra.)</li>
 <li>From there you can SSH into the backend systems using their <code>.stg</code> hostnames or directly with their IP address. The passphase for <code>~/.ssh/id_rsa</code> is <a href="https://pass.hypha.coop/app/passwords/view/3adad6cf-b56c-47fd-a0cd-a845075f7622" target="_blank">here</a></li>
 </ol>
 </li>
 <li><p>Connecting to production Ansible1 (Our provisioning and jump server for production machines)
 By default only members that have a need to access have permissions to log in to the production environment</p>
 <ol>
-<li>You&apos;ll need to ensure that your key has been added. You can do that by making a PR <a href="https://github.com/hyphacoop/configurations/tree/master/hyphacoop/ssh-public-keys" target="_blank">here</a>.</li>
-<li><code>ssh sysadmin@ansible1.hypha.prod -p 9154 -i ~/.ssh/id_rsa</code> (assuming <code>~/.ssh/id_rsa</code> is your key you use to access Hypha&apos;s infra.)</li>
+<li>You'll need to ensure that your key has been added. You can do that by making a PR <a href="https://github.com/hyphacoop/configurations/tree/master/hyphacoop/ssh-public-keys" target="_blank">here</a>.</li>
+<li><code>ssh sysadmin@ansible1.hypha.prod -p 9154 -i ~/.ssh/id_rsa</code> (assuming <code>~/.ssh/id_rsa</code> is your key you use to access Hypha's infra.)</li>
 <li>From there you can SSH into the backend systems using their <code>.prod</code> hostnames or directly with their IP address. The passphase for <code>~/.ssh/id_rsa</code> is <a href="https://pass.hypha.coop/app/passwords/view/3e6018fd-7ae3-4647-8ce3-c6ccb6c71800" target="_blank">here</a></li>
 </ol>
 </li>
 </ul>
-<p>Alternatively, by adding a host profile for each hostname to <code>~/.ssh/config</code>, ssh will jump through the host and connect you to the target server automatically. Example of a profile that uses the ansible&apos;s keys below.</p>
+<p>Alternatively, by adding a host profile for each hostname to <code>~/.ssh/config</code>, ssh will jump through the host and connect you to the target server automatically. Example of a profile that uses the ansible's keys below.</p>
 <pre><code>Host [[hostname]]
   RemoteCommand ssh %n
   HostName ansible1.hypha.prod
@@ -1051,7 +1051,7 @@ By default only members that have a need to access have permissions to log in to
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Virtual Machines","level":"6.4","depth":1,"next":{"title":"Voicemail","level":"6.5","depth":1,"path":"Infrastructure/voicemail.md","ref":"./Infrastructure/voicemail.md","articles":[]},"previous":{"title":"Email","level":"6.3","depth":1,"path":"Infrastructure/email.md","ref":"./Infrastructure/email.md","articles":[]},"dir":"ltr"},"config":{"plugins":["anchors","add-custom-js"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"anchors":{},"add-custom-js":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"theme":"default","author":"Hypha Worker Co-operative","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56},"embedFonts":false},"structure":{"langs":"LANGS.md","readme":"handbook.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"H&#8322;O","gitbook":"*","description":"Hypha handbook describes the vision, processes, and culture of Hypha Worker Co-operative. 🌿🍄"},"file":{"path":"Infrastructure/virtual-machines.md","mtime":"2024-10-31T17:35:08.802Z","type":"markdown"},"gitbook":{"version":"4.0.8","time":"2024-10-31T17:35:12.675Z"},"basePath":"..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Virtual Machines","level":"6.4","depth":1,"next":{"title":"Voicemail","level":"6.5","depth":1,"path":"Infrastructure/voicemail.md","ref":"./Infrastructure/voicemail.md","articles":[]},"previous":{"title":"Email","level":"6.3","depth":1,"path":"Infrastructure/email.md","ref":"./Infrastructure/email.md","articles":[]},"dir":"ltr"},"config":{"plugins":["anchors","add-custom-js"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"anchors":{},"add-custom-js":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"theme":"default","author":"Hypha Worker Co-operative","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56},"embedFonts":false},"structure":{"langs":"LANGS.md","readme":"handbook.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"H&#8322;O","gitbook":"*","description":"Hypha handbook describes the vision, processes, and culture of Hypha Worker Co-operative. 🌿🍄"},"file":{"path":"Infrastructure/virtual-machines.md","mtime":"2024-11-05T21:45:36.000Z","type":"markdown"},"gitbook":{"version":"6.0.2","time":"2024-11-05T21:45:41.646Z"},"basePath":"..","book":{"language":""}});
         });
     </script>
 </div>
@@ -1125,7 +1125,7 @@ By default only members that have a need to access have permissions to log in to
         
     
         
-        <script src="../gitbook/gitbook-plugin-fontsettings/fontsettings.js"></script>
+        <script src="../gitbook/@honkit/honkit-plugin-fontsettings/fontsettings.js"></script>
         
     
 
