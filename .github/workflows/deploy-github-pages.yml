@@ -25,7 +25,7 @@ jobs:
 
     - name: Publish to Distributed Press Production
       if: ${{ github.ref == 'refs/heads/master' }}
-      uses: hyphacoop/actions-distributed-press@v1.1.0
+      uses: hyphacoop/actions-distributed-press@v1.2.2
       with:
         publish_dir: ./_book
         dp_url: https://api.distributed.press
