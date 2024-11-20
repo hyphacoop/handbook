@@ -16,6 +16,7 @@ A selection of our press coverage and public talks.
 
 ## Sessions, Workshops & Talks
 
+- [LLMs in the User Agent w/ Mauve Signweaver](https://www.youtube.com/watch?v=HrQAYgMA-mc), AI Tinkerers Ottawa, November 19, 2024
 - [The Dweb in your Back Pocket](https://www.youtube.com/watch?v=eNChX7PVh7E), DWeb Camp, June 2023
 - [Holistic Local First Software](https://www.youtube.com/watch?v=rSvj_NQ5rho&list=PLfW9my7NCey_HXemvHbILZul-fLcVsvaW&index=4), Causal Islands, April 2023
 - [564: Innovative uses of data](https://www.cbc.ca/listen/live-radio/1-55-spark/clip/15958381-564-innovative-uses-data), Spark - CBC Radio, January 6, 2023
