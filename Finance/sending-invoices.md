@@ -66,6 +66,7 @@ To create an invoice:
 7. Click `Preview` and review the information. The calculated total must match the one from the `Financial Planning` spreadsheet.
    * If this is the first time the client is being invoiced, the invoice must be reviewed by the project lead before it is sent out.
 8. Click `Save and Send` to send the invoice to the client.
+9. If the currency is other than CAD, enter the CAD amount from QBO in the `Amount (CAD)` column of the invoice entry in the `Financial Planning spreadsheet`.
 
 ## 3. Accounts Receivable on client invoices (Operations Coordinator)
 
