@@ -2,7 +2,7 @@
 
 ## About Us
 
-Hypha is a worker co-operative based in Toronto that collaborates with communities to build better relationships with technology. Our team of technologists, designers, and community organizers advise on sustainable practices, build capacity within organizations, and develop custom technologies to empower friends and neighbours – in the Great Lakes region and our virtual neighbourhoods.
+Hypha is a worker-owned cooperative and technical consultancy, partnering with organizations who seek out our deep knowledge and expertise in cryptography, decentralized governance, web protocols, and distributed ledger technologies. Our focus is on creative partnerships and the unique use cases of these emerging technologies. Working in solidarity with our global neighbours, we collaborate to imagine and create alternative digital futures.
 
 
 ## The Co-operative
