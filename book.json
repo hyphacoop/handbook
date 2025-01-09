@@ -5,6 +5,9 @@
   "structure": {
     "readme": "handbook.md"
   },
+  "styles": {
+      "website": "styles/website.css"
+  },
   "plugins": [
     "anchors",
     "add-custom-js"

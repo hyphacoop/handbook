@@ -50,18 +50,18 @@ Additionally, the December Holidays where the virtual office is closed between D
 
 If a public holiday lands on a member's off-day under a four-day work week, the member should take one of the work days off as a make-up holiday.
 
-| **Holiday**                                      | **2024**          | **2025**          |
-|--------------------------------------------------|-------------------|-------------------|
-| New Year's Day<br />January 1                    | Mon, January 1    | Weds, January 1   |
-| Ontario Family Day<br />Third Monday in February | Mon, February 19  | Mon, February 17  |
-| Good Friday<br />Friday before Easter Sunday     | Fri, March 29     | Fri, April 18     |
-| May Day (International Workers' Day)<br />May 1  | Weds, May 1       | Thurs, May 1      |
-| Victoria Day<br />Monday before May 25           | Mon, May 20       | Mon, May 19       |
-| Canada Day<br />July 1                           | Mon, July 1       | Tues, July 1      |
-| Civic Holiday<br />First Monday in August        | Mon, August 5     | Mon, August 4     |
-| Labour Day<br />First Monday in September        | Mon, September 2  | Mon, September 1  |
-| Thanksgiving<br />Second Monday in October       | Mon, October 14   | Mon, October 13   |
-| Remembrance Day<br />November 11                 | Mon, November 11  | Tues, November 11 |
-| Christmas Day<br />December 25                   | Weds, December 25 | Thurs, December 25|
-| Boxing Day<br />December 26                      | Tues, December 26 | Fri, December 26  |
+| **Holiday**                                    | **2025**          |
+|------------------------------------------------|-------------------|
+| New Year's Day<br>January 1                    | Weds, January 1   |
+| Ontario Family Day<br>Third Monday in February | Mon, February 17  |
+| Good Friday<br>Friday before Easter Sunday     | Fri, April 18     |
+| May Day (International Workers' Day)<br>May 1  | Thurs, May 1      |
+| Victoria Day<br>Monday before May 25           | Mon, May 19       |
+| Canada Day<br>July 1                           | Tues, July 1      |
+| Civic Holiday<br>First Monday in August        | Mon, August 4     |
+| Labour Day<br>First Monday in September        | Mon, September 1  |
+| Thanksgiving<br>Second Monday in October       | Mon, October 13   |
+| Remembrance Day<br>November 11                 | Tues, November 11 |
+| Christmas Day<br>December 25                   | Thurs, December 25|
+| Boxing Day<br>December 26                      | Fri, December 26  |
 
