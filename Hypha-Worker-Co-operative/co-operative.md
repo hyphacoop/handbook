@@ -5,6 +5,8 @@
 Hypha is a worker-owned cooperative and technical consultancy, partnering with organizations who seek out our deep knowledge and expertise in cryptography, decentralized governance, web protocols, and distributed ledger technologies. Our focus is on creative partnerships and the unique use cases of these emerging technologies. Working in solidarity with our global neighbours, we collaborate to imagine and create alternative digital futures.
 
 
+<iframe style="border-radius: 1.5rem; margin-top: 2rem;" src="https://hyphacoop.github.io/governance-experiment/timeline/" height="900px" width="100%" scrolling="no" frameborder="0"></iframe>
+
 ## The Co-operative
 
 Hypha Worker Co-operative Inc. is a worker co-operative incorporated on August 
