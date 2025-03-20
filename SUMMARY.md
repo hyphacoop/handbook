@@ -23,6 +23,7 @@
    * [Peer Feedback](./Policies/peer-feedback.md)
    * [Salary Review](./Policies/salary-review.md)
    * [How We Use Data](./Policies/data.md)
+   * [Parental Leave](./Policies/parental-leave.md)
 
 ## How we work 
    * [Virtual Office](./How-we-work/virtual-office.md)
