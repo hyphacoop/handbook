@@ -17,4 +17,9 @@ consider this your invitation to improve it!
 
 ## Distributed Web
 
-This handbook is published using [Distributed Press](https://distributed.press/). You can [use it to publish](https://github.com/hyphacoop/api.distributed.press) on the p2p and distributed web too. Distributed Web: [ipns://handbook.hypha.coop/](https://handbook-hypha-coop.ipns.ipfs.hypha.coop/)
+This handbook is published using [Distributed Press](https://distributed.press/). You can [use it to publish](https://github.com/hyphacoop/api.distributed.press) on the p2p and distributed web too.  
+ 
+### Distributed Web Links:
+
+- IPNS: [ipns://handbook.hypha.coop/](https://handbook-hypha-coop.ipns.ipfs.hypha.coop/)
+- Hypercore: [hyper://handbook-hypha-coop.hyper.hypha.coop/](https://handbook-hypha-coop.hyper.hypha.coop/)

@@ -89,7 +89,7 @@ Contains core business activities for sustaining Hypha's virtual office.
 **Responsibilities:** Managing technical infrastructure and providing technical support for our organization’s internal tools and services.  
 **Tasks:** Maintaining servers, configuring tools such as Google Workspace and Slack.  
 
-👪 Squad Members: Elon (lead), Mauve, Yurko
+👪 Squad Members: Elon (lead), Yurko
 
 ✅ Tasks: GitHub board > [`infrastructure` label][l-inf]
 
@@ -97,7 +97,7 @@ Contains core business activities for sustaining Hypha's virtual office.
 **Responsibilities:** Managing and overseeing day-to-day operational activities and processes, creating and refining org-wide policies and processes.  
 **Tasks:** Creating, reviewing, signing contracts; creating and documenting workplace policies; planning and executing org-wide events such as our Annual Retreat, AGM, and other internal-focused meetings such as All-Hands; supporting practice areas in operational tasks such as hiring.  
 
-👪 Squad Members: Violet (lead), Lexa, Mauve
+👪 Squad Members: Violet (lead), Lexa, Vincent
 
 ✅ Tasks: GitHub board > [`operations` label][l-ops]
 
@@ -105,7 +105,7 @@ Contains core business activities for sustaining Hypha's virtual office.
 **Responsibilities:** Defining the organization’s overall strategy and approach to business.  
 **Tasks:** Identifying and seeking out new opportunities for business growth and development.  
 
-👪 Squad Members: Ben (lead), Andi, Cameron, Mauve, Udit
+👪 Squad Members: Ben (lead), Andi, Cameron, Udit
 
 ✅ Tasks: GitHub board > [`strategy` label][l-str] and [`opportunities` label][l-opp]
 
