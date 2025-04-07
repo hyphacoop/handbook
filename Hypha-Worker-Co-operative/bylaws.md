@@ -28,7 +28,7 @@ Bylaws adopted: June 13, 2020
     responsibilities in the Co-operative.
 
     The Co-operative shall provide each member with a copy of these bylaws
-    and the  Co-operatives Corporation Act and the Regulations.
+    and the Co-operatives Corporation Act and the Regulations.
 
 ## 2. MEMBERSHIP
 
@@ -141,7 +141,7 @@ Bylaws adopted: June 13, 2020
     member will be given the opportunity to be heard by the directors. A
     vote of two-thirds of the directors is required before a member can be
     dismissed from the co-op. The member may appeal the decision as allowed
-    under Section 66, article 4 of the  Co-operatives Corporation Act.
+    under Section 66, article 4 of the Co-operatives Corporation Act.
 
   2. **Repurchase of Member Loans** – Upon exclusion or withdrawal from
     membership, the Co-operative shall repurchase the members loans,
