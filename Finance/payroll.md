@@ -1,18 +1,19 @@
 # Payroll
 
-This guide describes how to to set up a payroll run for the pay period. The process is as follows:
+This guide describes how to process a payroll run for the pay period. The process is as follows:
 1. Verify the Employee Payroll sheet.
 2. Collect the Long Term Disability (LTD) deductions.
 3. Verify benefit deductions via Wagepoint.
 4. Submit payroll via Wagepoint.
+5. Save reports.
 
 We use [Wagepoint](https://wagepoint.com) to run payroll. If this is the first time you use Wagepoint, watch this introductory video: [Running your first payroll with Wagepoint - Canada](https://www.youtube.com/watch?v=KfLMcqGTDwE) video.
 
-## 1. Confirm Wages
+## 1. Confirm Wages (Operations WG)
 
 You should have a completed [Employee Payroll](http://link.hypha.coop/payroll) sheet for the pay period ready, which indicates the wage information for each employee, as well as reimbursements.
 
-## 2. Collect LTD Deductions
+## 2. Collect LTD Deductions (Operations WG)
 
 1. Log into the Co-operators portal using the Plan Sponsor credentials found in BitWarden.
 2. Go to the Account Information menu
@@ -25,7 +26,7 @@ You should have a completed [Employee Payroll](http://link.hypha.coop/payroll) s
 
 > Adjustments are optional and typically there will not be any.
 
-## 3. Verify Deductions in Wagepoint
+## 3. Verify Deductions in Wagepoint (Operations WG)
 
 1. Log into Wagepoint as a user with admin privileges.
 2. Click the `EMPLOYEES` tab.
@@ -39,6 +40,8 @@ You should have a completed [Employee Payroll](http://link.hypha.coop/payroll) s
 > The payroll is not submitted until the last step of this procedure, and you must click `SAVE/NEXT` during each step to preserve the "draft" progress.
 
 > You can review past payrolls under the `REPORTS` tab.
+
+### Bookkeeper
 
 1. Log into Wagepoint as a user with admin privileges.
 2. Click the `PAYROLL` tab.
@@ -56,9 +59,14 @@ You should have a completed [Employee Payroll](http://link.hypha.coop/payroll) s
  - 6.4 In the `PAY?` column, select `YES` for any Employee who will be paid in this payroll.
  - Follow 6.1-6.4 for each employee.
  - 6.6 Click `SAVE/NEXT`.
+
+### Finance WG
 7. **Process:** Click `VIEW ALL` to verify each Employee's amount, and that we have sufficient funds in our [bank account](https://www.desjardins.com/ca/) to pay the invoice total. Click `APPROVE PAYROLL`.
 8. **Confirm:** Confirm the payroll run for this pay period. Payroll will be queued for processing and deposits to Employee accounts will happen on the `Pay Date`.
-9. Three working days ahead of the `Pay Date`, Wagepoint will withdraw funds from our bank account.
-    After we receive a notification from Wagepoint that payroll reports are ready, we must upload the following documents for our bookkeeper to update Quickbooks (all of these are available under the `REPORTS` tab in Wagepoint):
-    - Copy the [Payroll Register](https://secure.wagepoint.com/payrollRegister) and [Posting Journal](https://secure.wagepoint.com/postingJournal) to 🔒 [`Finance > Payroll > Payroll Information`](https://drive.google.com/drive/u/0/folders/13ZFnCm0kFLFfvHc83mDiYX5HkE9r0piT). 
-    - Send the [Payroll Invoice](https://secure.wagepoint.com/invoice) to the QuickBooks receipt address.
+
+## 5. Save Reports
+Three working days ahead of the `Pay Date`, Wagepoint will withdraw funds from our bank account.
+
+After we receive a notification from Wagepoint that payroll reports are ready, we must upload the following documents for our bookkeeper to update Quickbooks (all of these are available under the `REPORTS` tab in Wagepoint):
+- Copy the [Payroll Register](https://secure.wagepoint.com/payrollRegister) and [Posting Journal](https://secure.wagepoint.com/postingJournal) to 🔒 [`Finance > Payroll > Payroll Information`](https://drive.google.com/drive/u/0/folders/13ZFnCm0kFLFfvHc83mDiYX5HkE9r0piT). 
+- Send the [Payroll Invoice](https://secure.wagepoint.com/invoice) to the QuickBooks receipt address.
