@@ -145,7 +145,7 @@ Bylaws adopted: June 13, 2020
 
   2. **Repurchase of Member Loans** – Upon exclusion or withdrawal from
     membership, the Co-operative shall repurchase the members loans,
-    subject to the Co-operatives Corporation Act, Section 47, Article 3,
+    subject to the Co-operatives Corporation Act, Section 49, Article 3,
     Section 66, Article 6, and Section 67, Article 1.
 
   3. **Statement of Non-discrimination** – The Co-operative shall not
