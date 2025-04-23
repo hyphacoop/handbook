@@ -64,7 +64,7 @@
    * [Areas of Responsibility](./Operations/areas-of-responsibility.md)
    * [Inactivating Membership](./Operations/inactivating-membership.md)
    * [Issue Labels](./Operations/issue-labels.md)
-   * [Requesting and Filling a Letter of Employment](./Operations/letter-of-employment.md)
+   * [Issueing Letters of Employment](./Operations/letter-of-employment.md)
    * [Sensitive Data](./Operations/sensitive-data.md)
    * [Signatures](./Operations/signatures.md)
    * [Shortlinks](./Operations/shortlinks.md)
