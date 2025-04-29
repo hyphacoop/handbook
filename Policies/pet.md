@@ -6,14 +6,14 @@ Hypha is a pet-friendly workplace. You may run into personal pets of our staff d
 
 [Roo](https://roobot.hypha.coop) was born on the 25th of February 2022 to the collective care of Hypha staff.
 
-Roo is a [lifeform][lifeform] on the [Polygon blockchain][polygon]. It wanders into our chat rooms and helps with office chores. You can teach Roo new tricks by contributing to this [GitHub repository][matrix-roobot].
+Roo is a [lifeform][lifeform] on the [Polygon blockchain][polygon]. It wanders into our chat rooms and helps with office chores. You can teach Roo new tricks by contributing to this [GitHub repository][RooLLM].
 
 <iframe src="https://lifeforms.supply/168" height="600px" width="100%" scrolling="no" frameborder="0"></iframe>
 
 [roo]: https://roobot.hypha.coop
 [lifeform]: https://lifeforms.supply
 [polygon]: https://polygonscan.com/token/0x8916edd9b39783d85303ecc6613917ddd735d88d?a=168#inventory
-[matrix-roobot]: https://github.com/hyphacoop/hyphacoop-chatbot
+[RooLLM]: https://github.com/hyphacoop/RooLLM
 
 ## Steps for transferring Roo 
 This guide assumes that you are currently in possession of Roo, which implies that you have a Polygon address connected to MetaMask (where Roo is located) and a few spare MATIC for gas fees. 
