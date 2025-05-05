@@ -6,13 +6,6 @@ Bylaws adopted: June 13, 2020
 
   1. **Name** – The Name of the Co-operative is **Hypha Worker
     Co-operative Inc.**
-  1. **Objects** – The Co-operative’s primary object is to provide
-    employment to its members. The Co-operative shall be carried on
-    without the purpose of gain for its members and any profits or
-    other accretions to the corporation shall be used in promoting
-    its objects.
-  1. **Head Office** – The head office of the Co-operative is
-    \#1308-1403 Royal York Road, Etobicoke, Ontario, Canada.
   1. **Co-operative Corporations Act** – The affairs of the
     Co-operative will be governed by and conducted in accordance
     with the Co-operative Corporations Act of Ontario (the “Act”).
@@ -22,13 +15,11 @@ Bylaws adopted: June 13, 2020
   1. **Records** – Copies of the following documents shall be kept
     electronically and at the head office of the Co-operative:
 
-    A. the Co-operative Associations Act and the Regulations;  
+    A. the Co-operatives Corporation Act and the Regulations;  
     B. the Articles of Incorporation and Bylaws;  
     C. records of the minutes of all meetings of incorporators, directors,
        and members;  
-    D. the shares and transfer records containing the names of all members
-       and the record address, shares held by each, and the designated
-       beneficiary of each;  
+    D. the records of membership containing the names and addresses of all members;  
     E. all accounting books and documents; and  
     F. all operating and trading policies of the Co-operative.  
 
@@ -37,7 +28,7 @@ Bylaws adopted: June 13, 2020
     responsibilities in the Co-operative.
 
     The Co-operative shall provide each member with a copy of these bylaws
-    and the Co-operative Association Act and the Regulations.
+    and the Co-operatives Corporation Act and the Regulations.
 
 ## 2. MEMBERSHIP
 
@@ -133,12 +124,11 @@ Bylaws adopted: June 13, 2020
   1. **Withdrawal** – A member of the Co-operative may withdraw from
     membership by giving the board 1 month’s notice of their intention
     to withdraw. A member may only withdraw from membership if they also
-    terminate their employment effective the same date.
+    resign their employment effective the same date.
 
   1. **Exclusion** – Members may be excluded from membership according to
-    Section 9 of the Co-operative Associations Act and Regulations 4 and
-    6 of that Act, and also if one or more of the following grounds
-    exist:
+    Section 66 of the Co-operatives Corporation Act, and also if one or more
+    of the following grounds exist:
 
     A. they no longer meet the membership requirements;  
     B. they have failed to perform work assigned in a satisfactory manner; or  
@@ -151,13 +141,14 @@ Bylaws adopted: June 13, 2020
     member will be given the opportunity to be heard by the directors. A
     vote of two-thirds of the directors is required before a member can be
     dismissed from the co-op. The member may appeal the decision as allowed
-    under Section 29, article 2 of the Co-operative Associations Act.
+    under Section 66, article 4 of the Co-operatives Corporation Act.
 
-  1. **Repurchase of Member Loans** – Upon exclusion or withdrawal from
+  2. **Repurchase of Member Loans** – Upon exclusion or withdrawal from
     membership, the Co-operative shall repurchase the members loans,
-    subject to the Co-operative Associations Act, Section 29, Article 2.
+    subject to the Co-operatives Corporation Act, Section 49, Article 3,
+    Section 66, Article 6, and Section 67, Article 1.
 
-  1. **Statement of Non-discrimination** – The Co-operative shall not
+  3. **Statement of Non-discrimination** – The Co-operative shall not
     discriminate on the basis of race, age, sex, gender, gender identity
     and expression, sexual orientation, religion, physical ability,
     physical appearance, body size, or national origin when considering
@@ -217,9 +208,7 @@ Bylaws adopted: June 13, 2020
 
   1. **No Proxies** – Voting by proxy is not permitted.
 
-  1. **Decision Making and Voting** – Normally, discussions and
-    resolutions arising at any meeting of the members shall be decided
-    by consensus. Where the meeting cannot reach consensus, it goes to a
+  1. **Decision Making and Voting** – Resolutions are decided by a
     simple majority vote. A member may make a special motion requiring
     the resolution be decided by a majority of two-thirds. This special
     motion, which must have a seconder, may not be debated, and must
@@ -229,17 +218,12 @@ Bylaws adopted: June 13, 2020
     to one and only one vote on any matter requiring membership voting.
     Voting on resolutions happens by secret ballot.
 
-  1. **Action at a Meeting** – The president or other designee, as
+  2. **Action at a Meeting** – The president or other designee, as
     determined by the board of directors, shall chair at membership
     meetings. However, if at a meeting the board’s designee is not
     present for the meeting, the members present shall choose a person
     from their number to be the chairperson, provided a quorum is
     present.
-
-    When a quorum is present at a membership meeting, a majority of the
-    members present and entitled to vote shall decide any matter to be voted
-    on by the members, unless a majority of two-thirds is required by law,
-    by the Articles, or by these bylaws.
 
 ## 4. BOARD OF DIRECTORS
 
@@ -308,14 +292,13 @@ Bylaws adopted: June 13, 2020
     behalf of the board of directors, unless a larger number is required by 
     law, by the Articles, or by these bylaws.
 
-  1. **Voting** – Normally, questions arising at any meeting of the board
-    of directors shall be decided by consensus. Where a meeting cannot reach a
-    consensus, a director may make a special motion requiring the main motion 
+  1. **Voting** – Resolutions are decided by a simple majority vote.
+    A director may make a special motion requiring the main motion 
     be decided by a majority of two thirds of the directors present. The 
     motion, which must have a seconder, may not be debated and must itself 
     have a majority of two thirds of the directors present.
 
-  1. **Remuneration** – The directors shall serve without remuneration
+  2. **Remuneration** – The directors shall serve without remuneration
     for their work as directors and no director shall directly or
     indirectly receive any profit from their positions as such, provided
     that directors may be paid reasonable expenses incurred by them in
@@ -323,7 +306,7 @@ Bylaws adopted: June 13, 2020
     preclude any director from serving the Co-operative in any other
     capacity and receiving remuneration therefor.
 
-  1. **Limitation of Indemnity** – No director or officer of the
+  3. **Limitation of Indemnity** – No director or officer of the
     Co-operative shall be indemnified by the Co-operative with respect
     to any liability, costs, charges or expenses that they sustain or
     incur in or about any action, suit or other proceeding as a result
@@ -333,7 +316,7 @@ Bylaws adopted: June 13, 2020
     as director or officer, they have achieved complete or substantial
     success as a defendant.
 
-  1. **Insurance** – The Co-operative may purchase and maintain insurance
+  4. **Insurance** – The Co-operative may purchase and maintain insurance
     for the benefit of its directors and officers, except insurance
     against a liability, cost, charge or expense of the director or
     officer incurred as a result of a contravention of the standard of
@@ -499,8 +482,7 @@ Bylaws adopted: June 13, 2020
     due on member loans and credit this interest to the loan portion of
     their individual member’s capital account. The board of directors
     may, according to operating policies approved by the members, assign
-    special allocations to individual members’ capital accounts, in
-    recognition of past uncompensated contributions to the Co-operative.
+    special allocations to individual members’ capital accounts.
 
     In the event of a surplus, the net income shall be credited to internal
     capital accounts as follows:
@@ -538,13 +520,6 @@ Bylaws adopted: June 13, 2020
 
   1. **Financial Year** - The financial year of the Co-operative
     shall end on **June 30** each year.
-
-  1. **Dissolution** - If for any reason the affairs of the
-    Co-operative are dissolved or wound up and after satisfaction of
-    all debts and liabilities, including loans, any remaining
-    property shall be distributed to a co-op development fund, a
-    federation or another co-operative organization as shall be
-    identified by a resolution of the Co-operative.
 
 ## 8. MANAGEMENT OF CO-OPERATIVE
 
