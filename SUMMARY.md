@@ -15,15 +15,19 @@
    * [Press](./Hypha-Worker-Co-operative/press.md)
 
 ## Policies 
+   * [Accessibility](./Policies/accessibility.md)
    * [Code of Conduct](./Policies/coc.md)
    * [Conflict Transformation](./Policies/conflict-transformation.md)
-   * [Working Open](./Policies/working-open.md)
+   * [Disconnect from Work](./Policies/disconnect-from-work.md)
+   * [Electronic Monitoring](./Policies/electronic-monitoring.md)
    * [Health and Safety](./Policies/health-and-safety.md)
-   * [Pet Policy](./Policies/pet.md)
-   * [Peer Feedback](./Policies/peer-feedback.md)
-   * [Salary Review](./Policies/salary-review.md)
    * [How We Use Data](./Policies/data.md)
    * [Parental Leave](./Policies/parental-leave.md)
+   * [Peer Feedback](./Policies/peer-feedback.md)
+   * [Pet Policy](./Policies/pet.md)
+   * [Respect in Workplace](./Policies/respect-in-workplace.md)
+   * [Salary Review](./Policies/salary-review.md)
+   * [Working Open](./Policies/working-open.md)
 
 ## How we work 
    * [Virtual Office](./How-we-work/virtual-office.md)
