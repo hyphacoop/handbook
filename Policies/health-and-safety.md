@@ -44,7 +44,7 @@ As a remote-first workplace, employees and members are responsible for the ergon
 - [Office Ergonomics Resource List](https://www.ccohs.ca/oshanswers/ergonomics/office/)
 - [Computer Ergonomics](https://www.ontario.ca/page/computer-ergonomics)
 
-**Required:** Everyone at Hypha is required to complete this [Home Office Workstation Checklist](https://www.wsps.ca/resource-hub/worker/home-office-workstation-checklist) during the first 2 weeks of your onboarding. Please download the form, follow the instructions included, and complete the checklist. Once completed, please email your completed form to operations@hypha.coop.
+**Required:** Everyone at Hypha is required to complete this [Home Office Workstation Checklist](https://www.wsps.ca/resource-hub/worker/home-office-workstation-checklist) during the first 2 weeks of your onboarding. Please download the form, follow the instructions included, and complete the checklist. Once completed, please email your completed form to [operations@hypha.coop](mailto:operations@hypha.coop).
 
 On a continuous basis, Hypha will require everyone to complete this form annually in January.
 
@@ -96,9 +96,9 @@ To further protect your safety, we also expect everyone at Hypha to share a list
 
 ## Reporting Safety Concerns
 
-Please note that if you have any questions or concerns about remote workplace safety, you can connect with your H&S Representative, Lexa Michaelides, on Element or by email at lexa@hypha.coop.
+Please note that if you have any questions or concerns about remote workplace safety, you can connect with your H&S Representative, Lexa Michaelides, on Element or by email at [lexa@hypha.coop](mailto:lexa@hypha.coop).
 
-You can also report a workplace safety concern anonymously using this form.
+You can also report a workplace safety concern anonymously using [this form](https://docs.google.com/forms/d/e/1FAIpQLSddg_m_lPwPgul8KjRRAI8rA8mje8ufUxb04MPM17wroGACIg/viewform?usp=sharing&ouid=114380782931041961771).
 
 If you need more help, you can call the Ministry of Labour at 1-877-202-0008.
 
