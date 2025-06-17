@@ -1,6 +1,6 @@
 # Accessibility Policy
 
-Hypha is committed to ensuring accessibility for all clients, employees, and members. This policy outlines our compliance with the Accessibility for Ontarians with Disabilities Act (AODA), 2005 and the Standard sur l'accessibilité des sites Web du gouvernement du Québec.
+Hypha is committed to ensuring accessibility for all clients, employees, and members. This policy outlines our compliance with the [Accessibility for Ontarians with Disabilities Act 2005](https://www.ontario.ca/page/about-accessibility-laws#section-1) and the [Standard sur l'accessibilité des sites Web du gouvernement du Québec](https://www.quebec.ca/gouvernement/ministeres-organismes/cybersecurite-numerique/publications/standard-accessibilite-sites-web).
 
 ## Scope
 
@@ -18,7 +18,7 @@ Our website and web content are accessible to WCAG 2.0 level AA standards, as as
 
 We welcome feedback about our accessibility. Clients can provide feedback via:
 
-- **Email:** operations@hypha.coop
+- **Email:** [operations@hypha.coop](mailto:operations@hypha.coop)
 - **Mail:** PO box #1308-1403 Royal York Road, Etobicoke, Ontario M9P 0A1
 
 ## Training
