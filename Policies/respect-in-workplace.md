@@ -1,4 +1,6 @@
-# Respect in the Workplace: Anti-Harassment, Anti-Violence, Anti-Discrimination, Anti-Oppression, & Policy to Prevent Psychological or Sexual Harassment at Work
+# Respect in the Workplace 
+
+## Anti-Harassment, Anti-Violence, Anti-Discrimination, Anti-Oppression, & Policy to Prevent Psychological or Sexual Harassment at Work
 
 ## Purpose
 
@@ -73,7 +75,7 @@ For a more comprehensive definition of oppression and other terminology, we enco
 ### Notes on Definitions
 
 - It's important to note that reasonable and lawful actions taken by Hypha, such as decisions related to performance management, discipline, work assignments, or organizational changes, do not qualify as harassment or bullying.
-- For the purposes of this policy, behaviours such as harassment, violence, discrimination, oppression, psychological harassment and sexual harassment will be referred to collectively as unacceptable workplace behaviour.
+- For the purposes of this policy, behaviours such as harassment, violence, discrimination, oppression, psychological harassment and sexual harassment will be referred to collectively as __unacceptable workplace behaviour__.
 - Discrimination or harassment may occur regardless of the intent behind the action or decision. It can be overt or subtle and may take verbal, written, visual, physical, or other forms of conduct.
 
 ## Options & Actions Following Unacceptable Workplace Behaviour
@@ -102,7 +104,7 @@ At any time, you have the right to file a formal complaint with an external body
 
 Everyone at Hypha shares the responsibility to report any incidents of unacceptable workplace behaviour to the Operations Working Group, whether they experienced it directly, witnessed it, or had it disclosed to them.
 
-If you prefer to report anonymously, you can use this confidential Google Form to share concerns. While anonymous reports may limit our ability to fully investigate or follow up with you, they will still be taken seriously and reviewed by Ops with care and discretion.
+If you prefer to report anonymously, you can use [this confidential Google Form](https://docs.google.com/forms/d/e/1FAIpQLSddg_m_lPwPgul8KjRRAI8rA8mje8ufUxb04MPM17wroGACIg/viewform?usp=sharing&ouid=114380782931041961771) to share concerns. While anonymous reports may limit our ability to fully investigate or follow up with you, they will still be taken seriously and reviewed by Ops with care and discretion.
 
 Whether you are reporting anonymously or not, the following information will be helpful to have on record for our understanding and investigative purposes if you have these details:
 - The approximate date and time of each incident you wish to report
@@ -188,4 +190,4 @@ Support is available. If you have questions about this policy, need help navigat
 
 ## Policy Review
 
-This policy is reviewed annually and approved by the Operations Working Group Lead. 
+This policy is reviewed annually and approved by the Operations Working Group Leader. 
