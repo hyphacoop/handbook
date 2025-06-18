@@ -11,7 +11,10 @@ We use [Wagepoint](https://wagepoint.com) to run payroll. If this is the first t
 
 ## 1. Confirm Wages (Operations WG)
 
-You should have a completed [Employee Payroll](http://link.hypha.coop/payroll) sheet for the pay period ready, which indicates the wage information for each employee, as well as reimbursements.
+* You should have a completed [Employee Payroll](http://link.hypha.coop/payroll) sheet for the pay period ready, which indicates the wage information for each employee.
+
+## 2. Collect Expense Reimbursements (Finance WG)
+* Follow the Expense [Reimbursement](expense-reimbursement.md#reimbursement) instructions.
 
 ## 2. Collect LTD Deductions (Operations WG)
 
