@@ -66,6 +66,10 @@
 
 ## Operations 
    * [Areas of Responsibility](./Operations/areas-of-responsibility.md)
+   * [Emergency Contacts](./Operations/emergency-contacts-employees.md)
+        * [Information for Employees/Members](./Operations/emergency-contacts-employees.md)
+        * [What to Expect as an Emergency Contact](./Operations/emergency-contacts-what-to-expect.md)
+        * [Operations Working Group Process](./Operations/emergency-contacts-process.md)
    * [Inactivating Membership](./Operations/inactivating-membership.md)
    * [Issue Labels](./Operations/issue-labels.md)
    * [Issueing Letters of Employment](./Operations/letter-of-employment.md)
