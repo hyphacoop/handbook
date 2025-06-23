@@ -90,9 +90,9 @@ Hypha has also developed the following programs and policies, in alignment with 
 - [Disconnecting From Work](disconnect-from-work.md)
 
 To further protect your safety, we also expect everyone at Hypha to share a list of 2-3 Emergency Contacts with our Operations Working Group. You can find more information about the requirements in the following resources:
-- Emergency Contacts: Information for Employees/Members
-- Emergency Contacts: What to Expect as an Emergency Contact
-- Emergency Contacts: Operations Working Group Emergency Contact Process
+- [Emergency Contacts: Information for Employees/Members](../Operations/emergency-contacts-employees.md)
+- [Emergency Contacts: What to Expect as an Emergency Contact](../Operations/emergency-contacts-what-to-expect.md)
+- [Emergency Contacts: Operations Working Group Emergency Contact Process](../Operations/emergency-contacts-process.md)
 
 ## Reporting Safety Concerns
 
