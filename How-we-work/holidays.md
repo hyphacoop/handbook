@@ -91,7 +91,7 @@ Lieu days are self-tracked and arranged with the member's practice leads so as n
 
 ## Public and Additional Holidays + Winter Closure
 
-Our virtual office is closed during[ Ontario's nine public holidays](https://www.ontario.ca/document/your-guide-employment-standards-act-0/public-holidays). We recognize three additional paid holidays where the office is closed and employees are expected not to work:
+Our virtual office is closed during [Ontario's nine public holidays](https://www.ontario.ca/document/your-guide-employment-standards-act-0/public-holidays). We recognize three additional paid holidays where the office is closed and employees are expected not to work:
 
 
 
