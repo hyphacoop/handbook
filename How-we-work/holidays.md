@@ -64,7 +64,7 @@ If an employee uses up the entirety of their Legislated Vacation Entitlement, th
 
 1. Inform your relevant coworkers (project lead, project teammates, working group) of your intended vacation.
 2. Send an email to Operations with your vacation start and end dates, and the number of days you will be taking off. If you work &lt;5 days per week, your usual day off should not be tracked as a vacation day (e.g.: if you don’t work Fridays in a regular work week, you are not taking Friday as a vacation day)
-3. Operations will update the[ vacation tracking spreadsheet](https://link.hypha.coop/vacation)🔒
+3. Operations will update the [vacation tracking spreadsheet](https://link.hypha.coop/vacation)🔒
 4. Block out your personal Hypha calendar with out-of-office/vacation time to ensure people don’t book meetings during the time you are away.
 5. Set an out-of-office alert to your email and include a point-of-contact for folks to reach out to if the matter is urgent.
 
