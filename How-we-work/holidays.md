@@ -97,56 +97,13 @@ Employees receive a Legislated Vacation Entitlement of 2 or 3 weeks, depending o
 The table below shows how you can check the number of days you are entitled to, based on your average days per work week and the number of weeks you are entitled to. If your average days per work week changes, this will be reflected in your Legislated Vacation Entitlement on a prorated basis.
 
 
-<table>
-  <tr>
-   <td><strong>Average days per work week</strong>
-   </td>
-   <td><strong>Legislated Vacation Entitlement in days (2 weeks) </strong>
-   </td>
-   <td><strong>Legislated Vacation Entitlement in days (3 weeks) </strong>
-   </td>
-  </tr>
-  <tr>
-   <td>1
-   </td>
-   <td>2
-   </td>
-   <td>3
-   </td>
-  </tr>
-  <tr>
-   <td>2
-   </td>
-   <td>4
-   </td>
-   <td>6
-   </td>
-  </tr>
-  <tr>
-   <td>3
-   </td>
-   <td>6
-   </td>
-   <td>9
-   </td>
-  </tr>
-  <tr>
-   <td>4
-   </td>
-   <td>8
-   </td>
-   <td>12
-   </td>
-  </tr>
-  <tr>
-   <td>5
-   </td>
-   <td>10
-   </td>
-   <td>15
-   </td>
-  </tr>
-</table>
+| Average days per work week | Legislated Vacation Entitlement in days (2 weeks) | Legislated Vacation Entitlement in days (3 weeks) |
+|----------------------------|---------------------------------------------------|---------------------------------------------------|
+| 1                          | 2                                                 | 3                                                 |
+| 2                          | 4                                                 | 6                                                 |
+| 3                          | 6                                                 | 9                                                 |
+| 4                          | 8                                                 | 12                                                |
+| 5                          | 10                                                | 15                                                |
 
 
 You have immediate access to your vacation days at the beginning of each year; no need to wait for them to “accrue” throughout the year. Employees hired mid-year are entitled to a prorated amount of vacation time for the year in which they are hired. 
