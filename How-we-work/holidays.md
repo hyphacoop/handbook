@@ -6,78 +6,14 @@ Hypha offers several types of time off, not including extended leaves (short/lon
 In addition to the public holidays and winter office closure, employees should generally be taking a **minimum of 3 weeks of vacation**, using up your Legislated Vacation Entitlement first, then your self-directed days off.
 
 
-<table>
-  <tr>
-   <td><strong>Type</strong>
-   </td>
-   <td><strong>Amount</strong>
-   </td>
-   <td><strong>Flexibility</strong>
-   </td>
-   <td><strong>Approval and tracking</strong>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Legislated Vacation Entitlement: </strong>This is the legislated minimum vacation entitlement and must be used by the end of the calendar year.  
-   </td>
-   <td>2 or 3 weeks, based on employment length and time commitment
-   </td>
-   <td>At employee discretion
-   </td>
-   <td>Inform your teammates and the Operations WG. Operations WG tracks vacation day usage for end-of-year payouts of unused days.
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Self-Directed Vacation:</strong> These are additional paid vacation days outside of the ESA entitlement.
-   </td>
-   <td>Self-directed, available once Legislated Vacation Entitlement is used up
-   </td>
-   <td>At employee discretion, to be used responsibly given work and client commitments
-   </td>
-   <td>Managed on a per-project basis. The expectation is that they are generally approved and employees are considerate of client needs.
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Lieu Days:</strong> These are paid days off in exchange for overtime work. 
-   </td>
-   <td>As needed (see section below)
-   </td>
-   <td>As project work allows
-   </td>
-   <td>Managed on a per-project basis.
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Public Holidays: </strong>These are federally, provincially, and state legislated paid days off.
-   </td>
-   <td>12 days (9 Ontario public holidays + 3 additional holidays)
-   </td>
-   <td>Fixed (see section below)
-   </td>
-   <td>None
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Winter Office Closure (Dec 27 - Dec 31 inclusive): </strong>These are paid days off in addition to the public holidays in December.
-   </td>
-   <td>3-5 days depending on weekends and whether Boxing Day is a public holiday in your province or state
-   </td>
-   <td>Fixed
-   </td>
-   <td>None
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Wellness Days (including mental health days):</strong> These are paid days off for the purpose of health and wellness. 
-   </td>
-   <td>Self-directed
-   </td>
-   <td>As needed
-   </td>
-   <td>None, but employees must talk to their project lead about work planning after 6 consecutive sick days
-   </td>
-  </tr>
-</table>
+| Type | Amount | Flexibility | Approval and tracking |
+|------|--------|-------------|----------------------|
+| **Legislated Vacation Entitlement:** This is the legislated minimum vacation entitlement and must be used by the end of the calendar year. | 2 or 3 weeks, based on employment length and time commitment | At employee discretion | Inform your teammates and the Operations WG. Operations WG tracks vacation day usage for end-of-year payouts of unused days. |
+| **Self-Directed Vacation:** These are additional paid vacation days outside of the ESA entitlement. | Self-directed, available once Legislated Vacation Entitlement is used up | At employee discretion, to be used responsibly given work and client commitments | Managed on a per-project basis. The expectation is that they are generally approved and employees are considerate of client needs. |
+| **Lieu Days:** These are paid days off in exchange for overtime work. | As needed (see section below) | As project work allows | Managed on a per-project basis. |
+| **Public Holidays:** These are federally, provincially, and state legislated paid days off. | 12 days (9 Ontario public holidays + 3 additional holidays) | Fixed (see section below) | None |
+| **Winter Office Closure (Dec 27 - Dec 31 inclusive):** These are paid days off in addition to the public holidays in December. | 3-5 days depending on weekends and whether Boxing Day is a public holiday in your province or state | Fixed | None |
+| **Wellness Days (including mental health days):** These are paid days off for the purpose of health and wellness. | Self-directed | As needed | None, but employees must talk to their project lead about work planning after 6 consecutive sick days |
 
 
 
