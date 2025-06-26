@@ -1,7 +1,7 @@
 # Expense Reimbursement
 
-Employees should submit eligible expenses in the same quarter they are incurred.
-The Finance WG reviews submitted expenses before each pay period, and pays out reimbursement amounts on the next pay day.
+Employees should submit expenses in the same quarter they are incurred.
+The Finance WG reviews submitted expenses before each pay period, and pays out reimbursements for out of pocket expenses on the next pay day.
 
 ## Submitting an expense (Employees)
 
@@ -13,14 +13,23 @@ The Finance WG reviews submitted expenses before each pay period, and pays out r
   * Currency
   * Exchange rate, if the currency is other than CAD
   * Practice area ("Internal" if it's a Hypha expense)
+  * Was this paid with a Hypha credit card or out of pocket?
+  * Note if this expense falls under one of the following:
+    * Member and co-op development
+    * Solidarity to movement-building projects
 
-You will be reimbursed on the following pay day as part of payroll. The amount will _not_ appear on your tax forms.
+If you paid for the expense out of pocket, you will be reimbursed on the following pay day as part of payroll. The amount will _not_ appear on your tax forms.
 
 ## Processing an expense (Finance WG)
 
-### Recording
+### Recording: Hypha Credit Card
 
-Follow the Recording steps when an expense receipt arrives in the finance inbox.
+1. Forward the receipt to Quickbooks Online.
+2. If the expense is marked with a reserve fund category, add it to the relevant expenses list in the `Financial Planning` spreadsheet.
+
+### Recording: Out of Pocket
+
+Follow the Recording steps when a receipt for an out-of-pocket expense arrives in the finance inbox.
 
 1. Upload the receipt to 🔒 [Employee Expense Receipts](https://link.hypha.coop/receipts) folder with the file name `xx-YYYY-MM-DD-title.ext`, where:
   * `xx` is the employee initials
@@ -30,6 +39,9 @@ Follow the Recording steps when an expense receipt arrives in the finance inbox.
 2. Save the file URL (right click -> `Share` -> `Copy link`).
 
 3. Open the 🔒 [Employee Expenses](https://link.hypha.coop/expenses) sheet and fill in a new row using the data provided in the email. Enter the URL for the receipt from the previous step in the `Receipt Link` column.
+
+4. If the expense is marked with a reserve fund category, add it to the relevant expenses list in the `Financial Planning` spreadsheet.
+
 
 ### Reimbursement
 
