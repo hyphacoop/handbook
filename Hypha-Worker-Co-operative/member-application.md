@@ -38,7 +38,7 @@ Members are also eligible to be elected onto Hypha’s Board of Directors, which
 
 Would-be members must first complete a full year of work for the co-op during their membership probationary period. This time is intended to familiarize you with both the employment and membership possibility at Hypha. You will learn about the internal workings of the co-operative, see how decisions are made, and gradually increase your agency and contributions to Hypha.
 
-Once the probationary period is complete, you may apply for membership at any time. If you do not wish to apply for membership, you may be able to continue working for Hypha and the Board’s discretion, but this will be a decision made on a case-by-case basis. Worker co-operatives are meant to provide employment to members first, so Hypha will typically prioritize hiring people who intend to become members.
+Once the probationary period is complete, you may apply for membership at any time. If you do not wish to apply for membership, you may be able to continue working for Hypha at the Board’s discretion, but this will be a decision made on a case-by-case basis. Worker co-operatives are meant to provide employment to members first, so Hypha will typically prioritize hiring people who intend to become members.
 
 The application form consists of **four questions**. Applicants should answer all questions to the best of their ability. There is no limit to the length, however, ideally the length of the completed application form will not exceed three pages at typical font sizes, to make reviews manageable.
 
