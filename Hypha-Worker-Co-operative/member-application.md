@@ -40,13 +40,13 @@ Would-be members must first complete a full year of work for the co-op during th
 
 Once the probationary period is complete, you may apply for membership at any time. If you do not wish to apply for membership, you may be able to continue working for Hypha at the Board’s discretion, but this will be a decision made on a case-by-case basis. Worker co-operatives are meant to provide employment to members first, so Hypha will typically prioritize hiring people who intend to become members.
 
-The application form consists of **four questions**. Applicants should answer all questions to the best of their ability. There is no limit to the length, however, ideally the length of the completed application form will not exceed three pages at typical font sizes, to make reviews manageable.
+The application form consists of **four questions**. Applicants should answer all questions to the best of their ability. There is no limit to the length; however, ideally the length of the completed application form will not exceed three pages at typical font sizes, to make reviews manageable.
 
 Applications should be emailed to members@hypha.coop, and members will review submitted applications and vote to confirm membership of the applicants.
 
 * Applications will not be evaluated on writing style as much as the content of the responses.
 * The focus of the evaluation is on the ability of applicants to be good members and steer the co-operative into the future. Applicants' execution on client projects is not the focus of the evaluation.
-* Evaluations will take into account applicants' level of experience and opportunities to participate in internal activities of the organization. Those who have had limited opportunities to participate in organization decisionmaking due to other cooperative priorities (such as project work) will not be needlessly penalized for it.
+* Evaluations will take into account applicants' level of experience and opportunities to participate in internal activities of the organization. Those who have had limited opportunities to participate in organizational decision-making due to other cooperative priorities (such as project work) will not be needlessly penalized for it.
 * Applicants must demonstrate a commitment to co-operative values in their responses.
 * Applicants must demonstrate a sufficient understanding of Hypha’s organizational and decision-making workflows in their responses.
 
