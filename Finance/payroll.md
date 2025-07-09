@@ -16,7 +16,7 @@ We use [Wagepoint](https://wagepoint.com) to run payroll. If this is the first t
 ## 2. Collect Expense Reimbursements (Finance WG)
 * Follow the Expense [Reimbursement](expense-reimbursement.md#reimbursement) instructions.
 
-## 2. Collect LTD Deductions (Operations WG)
+## 3. Collect LTD Deductions (Operations WG)
 
 1. Log into the Co-operators portal using the Plan Sponsor credentials found in BitWarden.
 2. Go to the Account Information menu
@@ -29,7 +29,7 @@ We use [Wagepoint](https://wagepoint.com) to run payroll. If this is the first t
 
 > Adjustments are optional and typically there will not be any.
 
-## 3. Verify Deductions in Wagepoint (Operations WG)
+## 4. Verify Deductions in Wagepoint (Operations WG)
 
 1. Log into Wagepoint as a user with admin privileges.
 2. Click the `EMPLOYEES` tab.
@@ -38,7 +38,7 @@ We use [Wagepoint](https://wagepoint.com) to run payroll. If this is the first t
 5. The `Long-term disability premium` deduction must match the value calculated using the benefits plan billing statement.
 6. Repeat steps 3-5 for all employees.
 
-## 4. Submit Payroll in Wagepoint
+## 5. Submit Payroll in Wagepoint
 
 > The payroll is not submitted until the last step of this procedure, and you must click `SAVE/NEXT` during each step to preserve the "draft" progress.
 
@@ -67,7 +67,7 @@ We use [Wagepoint](https://wagepoint.com) to run payroll. If this is the first t
 7. **Process:** Click `VIEW ALL` to verify each Employee's amount, and that we have sufficient funds in our [bank account](https://www.desjardins.com/ca/) to pay the invoice total. Click `APPROVE PAYROLL`.
 8. **Confirm:** Confirm the payroll run for this pay period. Payroll will be queued for processing and deposits to Employee accounts will happen on the `Pay Date`.
 
-## 5. Save Reports
+## 6. Save Reports
 Three working days ahead of the `Pay Date`, Wagepoint will withdraw funds from our bank account.
 
 After we receive a notification from Wagepoint that payroll reports are ready, we must upload the following documents for our bookkeeper to update Quickbooks (all of these are available under the `REPORTS` tab in Wagepoint):
