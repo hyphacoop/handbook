@@ -14,7 +14,7 @@
 
 #### Payroll
 - [Process payroll](payroll.md)
-  - See the [Expense Reimbursement](expense-reimbursement.md) page for instructions on how to submit receipts.
+- [Process expense reimbursements](expense-reimbursement.md)
 
 #### Record-keeping
 - [Save bank account statements](record-keeping.md#save-bank-account-statements)
