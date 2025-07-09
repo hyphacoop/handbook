@@ -45,6 +45,7 @@
    * [Payroll](./Finance/payroll.md)
    * [Reporting HST](./Finance/reporting-hst.md)
    * [Expense Reimbursement](./Finance/expense-reimbursement.md)
+   * [Per Diem Policy](./Finance/per-diem-policy.md)
    * [Add an Employee](./Finance/add-employee.md)
    * [Glossary](./Finance/glossary.md)
 
