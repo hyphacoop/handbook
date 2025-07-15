@@ -1,6 +1,6 @@
 # Board of Directors
 
-See the [Governance structure](./governance-structure.md) page for information regarding the role of the board of directors.
+See the [Governance structure](governance-structure.md) page for information regarding the role of the board of directors.
 
 The current board includes four of our full members:
 
