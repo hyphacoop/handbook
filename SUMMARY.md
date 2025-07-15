@@ -10,7 +10,8 @@
    * [Fiscal Sponsorship](./Hypha-Worker-Co-operative/fiscal-sponsorship.md)
    * [Member-workers](./Hypha-Worker-Co-operative/member-workers.md)
         * [Member Application Process](./Hypha-Worker-Co-operative/member-application.md)
-   * [Board of Directors](./Hypha-Worker-Co-operative/board-of-directors.md)
+   * [Governance Structure](./Hypha-Worker-Co-operative/governance-structure.md)
+        * [Board of Directors](./Hypha-Worker-Co-operative/board-of-directors.md)
    * [Look and Feel](./Hypha-Worker-Co-operative/look-and-feel.md)
    * [Press](./Hypha-Worker-Co-operative/press.md)
 
