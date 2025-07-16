@@ -28,7 +28,7 @@ Log back into [Google Admin](https://admin.google.com)
 - Remove the email from the [emails document](email.md)
 
 ### Signal
-An admin user of the `hyphacoop (Emergency Channel)` room needs to remove the employee being offborded.
+An admin user of the `hyphacoop (Emergency Channel)` room needs to remove the employee being offboarded.
 - Open the Signal app and open the room
 - Open the room setting
 - Click on the user being removed
@@ -37,7 +37,7 @@ An admin user of the `hyphacoop (Emergency Channel)` room needs to remove the em
 ### Matrix 
 Room admins for the relevant channels need to perform these actions.
 Removing users from non-public rooms:
-- In the room user list click on the user being offborded
+- In the room user list click on the user being offboarded
 - In the user settings click on `Remove from room`
 - Enter a optional reason
 - Click `Remove from room` button
