@@ -498,7 +498,7 @@ Bylaws adopted: June 13, 2020
 
     In the event of a loss, the loss shall be allocated as follows:
 
-    A.  50 percent shall be charged against the general reserve account,
+    A.  80 percent shall be charged against the general reserve account,
         unless this exceeds the reserve account balance, in which case the
         full balance of the reserve shall be charged, and  
     B.  the remainder shall be charged against the individual member’s
