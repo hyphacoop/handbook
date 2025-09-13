@@ -9,6 +9,7 @@ A selection of our press coverage and public talks.
 - [How Can Data Cooperatives Help Build a Fair Data Economy?](https://www.projectliberty.io/wp-content/uploads/2025/01/PL_Practical_Data_Governance_Solutions_Report_v4.pdf); Initial report by Project Liberty Institute in collaboration with the Decentralization Research Center, January 2025  
 - [The case against carbon emissions as a universal metric](https://www.ft.com/content/6e8224bf-879d-4111-95b7-278a258b30c5); Lee Harris, Financial Times, April 15 2024 (Hypha built the [Spice tool]([url](https://activestewardship.org/splice/)) mentioned in the article).
 - [Finding the Friends of HEK Basel: How to Bring Membership Online with a DAO](https://medium.com/@wac-lab/finding-the-friends-of-hek-basel-how-to-bring-membership-online-with-a-dao-1fd62425869f); WAC Lab - Web3 for the Arts and Culture, Dec 5, 2023
+- [The Battle for the Soul of the Web](https://www.theatlantic.com/technology/archive/2022/10/internet-archive-decentralized-web-web3-brewster-kahle/671647/); The Atlantic, October 4, 2022
 - [Co-operatives, Work, and the Digital Economy: A Knowledge Synthesis Report](https://canadianworker.coop/worker-co-ops-and-the-sixth-principle/); Cultural Workers Organize, May 19, 2022
 - [Worker Co-ops and the Sixth Principle](https://canadianworker.coop/worker-co-ops-and-the-sixth-principle/); Canadian Worker Co-operative Federation, March 24, 2022
 - [Can a Worker's Co-Op Thrive in Big Tech?](https://www.earlymagazine.com/articles/can-a-workers-co-op-thrive-in-big-tech); Early, August 19, 2021
