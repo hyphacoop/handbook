@@ -20,6 +20,7 @@ A selection of our press coverage and public talks.
 
 ## Sessions, Workshops & Talks
 
+- [Co-Creating Tools and Processes: Governance Innovation in Contemporary Cooperatives](https://drive.google.com/file/d/1IEBMH4g8RDXTW_z8AGUHxxzHhoqftmsL/view?usp=sharing); ICA CCR Global Research Conference 2025, July 2025
 - [LLMs in the User Agent w/ Mauve Signweaver](https://www.youtube.com/watch?v=HrQAYgMA-mc), AI Tinkerers Ottawa, November 19, 2024
 - [The Dweb in your Back Pocket](https://www.youtube.com/watch?v=eNChX7PVh7E), DWeb Camp, June 2023
 - [Holistic Local First Software](https://www.youtube.com/watch?v=rSvj_NQ5rho&list=PLfW9my7NCey_HXemvHbILZul-fLcVsvaW&index=4), Causal Islands, April 2023
