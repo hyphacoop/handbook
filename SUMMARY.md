@@ -10,7 +10,8 @@
    * [Fiscal Sponsorship](./Hypha-Worker-Co-operative/fiscal-sponsorship.md)
    * [Member-workers](./Hypha-Worker-Co-operative/member-workers.md)
         * [Member Application Process](./Hypha-Worker-Co-operative/member-application.md)
-   * [Board of Directors](./Hypha-Worker-Co-operative/board-of-directors.md)
+   * [Governance Structure](./Hypha-Worker-Co-operative/governance-structure.md)
+        * [Board of Directors](./Hypha-Worker-Co-operative/board-of-directors.md)
    * [Look and Feel](./Hypha-Worker-Co-operative/look-and-feel.md)
    * [Press](./Hypha-Worker-Co-operative/press.md)
 
@@ -23,6 +24,7 @@
    * [Peer Feedback](./Policies/peer-feedback.md)
    * [Salary Review](./Policies/salary-review.md)
    * [How We Use Data](./Policies/data.md)
+   * [Parental Leave](./Policies/parental-leave.md)
 
 ## How we work 
    * [Virtual Office](./How-we-work/virtual-office.md)
@@ -44,6 +46,7 @@
    * [Payroll](./Finance/payroll.md)
    * [Reporting HST](./Finance/reporting-hst.md)
    * [Expense Reimbursement](./Finance/expense-reimbursement.md)
+   * [Per Diem Policy](./Finance/per-diem-policy.md)
    * [Add an Employee](./Finance/add-employee.md)
    * [Glossary](./Finance/glossary.md)
 
@@ -60,9 +63,10 @@
    * [Infrastructure (advanced)](./Infrastructure/guides-infrastructure-advanced.md)
 
 ## Operations 
-   * [Areas of responsibility](./Operations/areas-of-responsibility.md)
+   * [Areas of Responsibility](./Operations/areas-of-responsibility.md)
    * [Inactivating Membership](./Operations/inactivating-membership.md)
    * [Issue Labels](./Operations/issue-labels.md)
+   * [Issueing Letters of Employment](./Operations/letter-of-employment.md)
    * [Sensitive Data](./Operations/sensitive-data.md)
    * [Signatures](./Operations/signatures.md)
    * [Shortlinks](./Operations/shortlinks.md)

@@ -11,10 +11,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v1
+    - uses: actions/checkout@v4
 
     - name: Setup Node
-      uses: actions/setup-node@v1
+      uses: actions/setup-node@v4
       with:
         node-version: '18.x'
 
@@ -25,7 +25,7 @@ jobs:
 
     - name: Publish to Distributed Press Production
       if: ${{ github.ref == 'refs/heads/master' }}
-      uses: hyphacoop/actions-distributed-press@v1.1.0
+      uses: hyphacoop/actions-distributed-press@v1.2.2
       with:
         publish_dir: ./_book
         dp_url: https://api.distributed.press
@@ -33,7 +33,7 @@ jobs:
         site_url: handbook.hypha.coop
 
     - name: Deploy
-      uses: peaceiris/actions-gh-pages@v3
+      uses: peaceiris/actions-gh-pages@v4
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./_book
