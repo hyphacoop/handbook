@@ -101,19 +101,12 @@ Contains core business activities for sustaining Hypha's virtual office.
 
 ✅ Tasks: GitHub board > [`operations` label][l-ops]
 
-### Strategy / Opportunities
-**Responsibilities:** Defining the organization’s overall strategy and approach to business.  
-**Tasks:** Identifying and seeking out new opportunities for business growth and development.  
-
-👪 Squad Members: Ben (lead), Andi, Cameron, Udit
-
-✅ Tasks: GitHub board > [`strategy` label][l-str] and [`opportunities` label][l-opp]
 
 ### Governance
 **Responsibilities:** Responsible for the organization's corporate governance, including records and bylaws.  
 **Tasks:** Designing the co-operative's organizational structure to best fulfill the expectations of its key stakeholders, including but not limited to the membership and the board of directors. Ensuring that the co-operative maintains accurate and sufficient corporate records, maintains and interprets the bylaws.   
 
-👪 Squad Members: Lexa (lead), Ben, Dante, Udit
+👪 Squad Members: Ben (lead), Cole, Dante, Lexa 
 
 ✅ Tasks: GitHub board > [`governance` label][l-gov] 
 
@@ -121,7 +114,7 @@ Contains core business activities for sustaining Hypha's virtual office.
 **Responsibilities:** Guiding internal and external communications in alignment with its strategic vision.  
 **Tasks:** Crafting Hypha's communication strategy, aligning messaging with the co-operative's core values, leading marketing and branding initiatives and ensuring cohesive internal communications.
 
-👪 Squad Members: Vincent (lead), Andi, Dante, Violet
+👪 Squad Members: Vincent (lead), Andi, Cole, Udit, Violet
 
 ✅ Tasks: GitHub board > [`comms` label][l-comms] 
 
