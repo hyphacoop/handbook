@@ -4,12 +4,12 @@ See the [Governance structure](governance-structure.md) page for information reg
 
 The current board includes four of our full members:
 
+- Andi _(term ending in 2027)_
 - Cameron _(term ending in 2026)_
-- Dante _(term ending in 2025)_
-- Lexa _(term ending in 2025)_
-- Udit _(term ending in 2026)_
+- Vincent _(term ending in 2027)_
+- Violet  _(term ending in 2027)_
 
-with four officer positions (one vacant).
+with four officer positions.
 
 ## Officers
 
@@ -19,7 +19,7 @@ with four officer positions (one vacant).
 
 **Term:** 2 years, with renewal, or as often as necessary.
 
-**Incumbent:** Dante _(term ending in 2025)_
+**Incumbent:** Andi _(term ending in 2027)_
 
 ### Vice-President
 
@@ -27,7 +27,7 @@ with four officer positions (one vacant).
 
 **Term:** 2 years, with renewal, or as often as necessary.
 
-**Incumbent:** Vacant
+**Incumbent:** Violet _(term ending in 2027)_
 
 ### Secretary
 
@@ -35,7 +35,7 @@ with four officer positions (one vacant).
 
 **Term:** 2 years, with renewal, or as often as necessary.
 
-**Incumbent:** Lexa _(term ending in 2025)_
+**Incumbent:** Vincent _(term ending in 2027)_
 
 **Transition Notes for Secretarial Responsibilities**
 * Set the cadence and timing of Board meetings and ensure Board members are notified with the appropriate advance warning (section 4.7 of bylaws - at least 24 hours' notice).
