@@ -19,7 +19,7 @@ The process for collecting payments from clients is as follows:
   * `Qty`
   * `Rate (<currency>)`
   * `Sales Tax`
-* Notify the Finance WG that the invoice data is ready.
+* Notify the Finance WG via email that the invoice data is ready.
 
 > Access to the `Financial Planning` spreadsheet is controlled by the Finance WG.
 
