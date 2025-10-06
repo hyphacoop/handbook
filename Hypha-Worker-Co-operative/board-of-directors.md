@@ -44,6 +44,14 @@ with four officer positions.
 * During Board meetings, take notes, including being respectful of 'in camera' motions.
 * After Board meetings, file notes at meetings.hypha.coop as `restricted access with public stub` following the naming conventions of previous Board notes.
 * When relevant, post a summary of meeting points in the Board channel and tag the appropriate members. If a member is not in the channel (and doesn't wish to be), ensure they get the relevant information in some other way, such as by posting in the relevant working group or practice area channel.
+* File Board resolutions
+  * Each vote by the Board is a single resolution (this has not always been the case in the past)
+  * Upload the resolution to the [resolutions repo](https://github.com/hyphacoop/organizing/tree/main/resolutions), copying the format of the most recent previous resolution
+  * In each resolution, restate the current directorship and officership of the Board for posterity
+  * Create a pdf version of the resolution (ideally well-formatted and human readable)
+  * Upload the pdf to Dropbox Sign and send to two directors for signature
+  * Upload the completed signed resolution to the [resolutions repo](https://github.com/hyphacoop/organizing/tree/main/resolutions)
+  * Fill out the [decision log](https://docs.google.com/spreadsheets/d/1kTE9S8nNdkYsmKyQSwLj4pc9xR7jqouDHD43Rij5BMo/edit?gid=1420716714#gid=1420716714)
 
 ### Treasurer
 
