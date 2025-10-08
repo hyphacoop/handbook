@@ -1,6 +1,6 @@
 # Member-workers
 
-Hypha has ten **member-workers**, or **members**, ten of which are full members and two are probationary members. Members are expected to acknowledge the duties of their relationship with Hypha by signing the *Membership Acknowledgement*.
+Hypha has eleven **member-workers**, or **members**, ten of which are full members and one is a member in their probationary period. Members are expected to acknowledge the duties of their relationship with Hypha by signing the *Membership Acknowledgement*.
 
 
 ## Being a Good Member

@@ -7,7 +7,7 @@ This document outlines the salary tiers of Hypha members and the review process.
 The base salary for each member is determined according to:
 
 ```
-Base Salary = 51,250 CAD * L^l * R^r * S^s * Modifiers + Adjustment
+Base Salary = 53,844  CAD * L^l * R^r * S^s * Modifiers + Adjustment
 ```
 
 with the following criteria:
@@ -71,14 +71,14 @@ Salaries are reassessed at minimum annually, or more frequently, at maximum quar
 
 The table below lists *base salaries* at `S=0` in CAD for four-day work weeks. This is also called *1.00* commitment. Part-time members will have a 0.75, 0.50, 0.25 multipler proportional to their days worked per week. If a member works five-day weeks, a 1.20 multiplier is applied. *S*, *Modifiers*, and *Adjustment* are based on top of these values.
 
-|`S=0`| R0      | R1      | R2      | R3      | R4      |
-|:----|--------:|--------:|--------:|--------:|--------:|
-| L0  |  51,250 |  57,400 |  64,288 |  72,003 |  80,643 |
-| L1  |  59,450 |  66,584 |  74,574 |  83,523 |  93,546 |
-| L2  |  68,962 |  77,237 |  86,506 |  96,887 | 108,513 |
-| L3  |  79,996 |  89,595 | 100,347 | 112,389 | 125,875 |
-| L4  |  92,795 | 103,931 | 116,402 | 130,371 | 146,015 |
-| L5  | 107,643 | 120,560 | 135,027 | 151,230 | 169,378 |
-| L6  | 124,865 | 139,849 | 156,631 | 175,427 | 196,478 |
+|`S=0` |R0     |R1     |R2     |R3     |R4     |
+|---|-------|-------|-------|-------|-------|
+|L0 |53,844 |60,305 |67,542 |75,647 |84,725 |
+|L1 |62,459 |69,954 |78,349 |87,750 |98,281 |
+|L2 |72,452 |81,147 |90,884 |101,791|114,005|
+|L3 |84,045 |94,130 |105,426|118,077|132,246|
+|L4 |97,492 |109,191|122,294|136,969|153,406|
+|L5 |113,091|126,662|141,861|158,884|177,951|
+|L6 |131,185|146,928|164,559|184,306|206,423|
 
 This table is reassessed each year at our *Annual General Meeting*, taking into consideration inflation and other factors.
