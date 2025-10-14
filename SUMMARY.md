@@ -18,13 +18,14 @@
 ## Policies 
    * [Code of Conduct](./Policies/coc.md)
    * [Conflict Transformation](./Policies/conflict-transformation.md)
-   * [Working Open](./Policies/working-open.md)
+   * [Diversity, Equity, and Inclusion](./Policies/diversity-equity-inclusion.md)
    * [Health and Safety](./Policies/health-and-safety.md)
    * [Pet Policy](./Policies/pet.md)
    * [Peer Feedback](./Policies/peer-feedback.md)
    * [Salary Review](./Policies/salary-review.md)
    * [How We Use Data](./Policies/data.md)
    * [Parental Leave](./Policies/parental-leave.md)
+   * [Working Open](./Policies/working-open.md)
 
 ## How we work 
    * [Virtual Office](./How-we-work/virtual-office.md)
