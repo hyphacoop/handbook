@@ -86,7 +86,13 @@ When working in the same physical location, we encourage you to inquire who on t
 ## Other Fundamentals to Hypha's Health & Safety
 
 Hypha has also developed the following programs and policies, in alignment with our commitment to your Health & Safety:
+- [Respect in the Workplace](coc.md)
 - [Disconnecting From Work](disconnect-from-work.md)
+
+To further protect your safety, we also expect everyone at Hypha to share a list of 2-3 Emergency Contacts with our Operations Working Group. You can find more information about the requirements in the following resources:
+- [Emergency Contacts: Information for Employees/Members](../Operations/emergency-contacts-employees.md)
+- [Emergency Contacts: What to Expect as an Emergency Contact](../Operations/emergency-contacts-what-to-expect.md)
+- [Emergency Contacts: Operations Working Group Emergency Contact Process](../Operations/emergency-contacts-process.md)
 
 ## Reporting Safety Concerns
 
@@ -95,6 +101,7 @@ Please note that if you have any questions or concerns about remote workplace sa
 You can also report a workplace safety concern anonymously using [this form](https://docs.google.com/forms/d/e/1FAIpQLSddg_m_lPwPgul8KjRRAI8rA8mje8ufUxb04MPM17wroGACIg/viewform?usp=sharing&ouid=114380782931041961771).
 
 If you need more help, you can call the Ministry of Labour at 1-877-202-0008.
+
 
 ## Policy Review
 

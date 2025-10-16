@@ -8,7 +8,7 @@ This is a checklist for onboarding new members, workers, and contractors to the 
 
 ### _New workers and contractors will provide..._
 
-- Preferred pronouns
+- Their pronouns
 - A permanent and/or mailing address
 - A personal email for communications
 - A google-friendly email address (this could be a prior personal address or a hypha email can be used once set up)
