@@ -13,6 +13,7 @@ This page was last updated on April 29, 2024. You can see previous versions on [
     - [Why we collect data](#why-we-collect-data)
     - [Where we keep data](#where-we-keep-data)
     - [How long we keep data](#how-long-we-keep-data)
+- [Electronic Monitoring of Internal Tools](#electronic-monitoring-of-internal-tools)
 - [Our Social Media Accounts and Third-party Services](#our-social-media-accounts-and-third-party-services)
 
 ## Our Websites and Hosted Services
@@ -71,6 +72,12 @@ If you have a concern, please email <a href="mailto:%64%61%74%61%40%68%79%70%68%
 
 The [Matrix chat](https://chat.tomesh.net/#/group/+hyphacoop:tomesh.net) in Hypha rooms are periodically wiped to keep only the most recent 3 months of history.
 However, as Matrix is a federated chat protocol, chat history older than 3 months may be retained by other homeservers, and in particular, public rooms with users from other homeservers.
+
+## Electronic Monitoring of Internal Tools
+
+For information about how we monitor and access internal collaboration tools used by Hypha team members (such as Google Workspace, GitHub, Matrix Element, Slack, and others), please see our [Electronic Monitoring Policy](electronic-monitoring.md).
+
+This policy outlines what access administrators have to various tools, what data is collected, and guidelines for responsible use of company systems.
 
 ## Our Social Media Accounts and Third-party Services
 
