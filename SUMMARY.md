@@ -18,6 +18,7 @@
 ## Policies 
    * [Accessibility](./Policies/accessibility.md)
    * [Code of Conduct](./Policies/coc.md)
+   * [Conflict of Interest Principles](./Policies/conflict-of-interest.md)
    * [Conflict Transformation](./Policies/conflict-transformation.md)
    * [Electronic Monitoring](./Policies/electronic-monitoring.md)
    * [Health and Safety](./Policies/health-and-safety.md)
