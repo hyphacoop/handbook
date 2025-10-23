@@ -1,12 +1,12 @@
-# Hypha - (Interpersonal) Incident Response Process
+# (Interpersonal) Incident Response Process
 
 ## July 2025
 
-# Purpose
+## Purpose
 
 This process has been developed to provide a clear, fair, and supportive process for addressing interpersonal incidents between anyone at Hypha that may breach the [Respect in the Workplace Policy](../Policies/respect-in-workplace.md), the [Conflict of Values Philosophy](../Policies/conflict-of-values.md), or any other internal policy, philosophy, or process at Hypha. 
 
-# Roles & Responsibilities
+## Roles & Responsibilities
 
 **Affected Member(s) / "Complainant(s)":**
 
@@ -38,7 +38,7 @@ This process has been developed to provide a clear, fair, and supportive process
 
 * A third-party mediator or consultant may be engaged if the OWG deems it necessary due to conflict complexity or capacity.
 
-# Incident Response Process Steps
+## Incident Response Process Steps
 
 These steps are in alignment with the ["Options & Actions Following Unacceptable Workplace Behaviour"](../Policies/respect-in-workplace.md#options--actions-following-unacceptable-workplace-behaviour) and ["Complaint Investigation Steps"](../Policies/respect-in-workplace.md#complaint-investigation-steps) sections of our [Respect in the Workplace Policy](../Policies/respect-in-workplace.md). As a reminder, the tl;dr steps as outlined in the Respect in the Workplace Policy are: 
 
@@ -115,7 +115,7 @@ When a report of an interpersonal incident is made under this policy, the follow
     1. Members found in violation of our policies and philosophies may face corrective actions up to and including removal from membership, contractual engagement, or employment, depending on the circumstances.  
     2. Where reasonable and applicable, an emphasis will be placed on accountability, harm repair, and prevention of future incidents, rather than punitive measures.
 
-# Additional Considerations
+## Additional Considerations
 
 Within our [Respect in the Workplace Policy](../Policies/respect-in-workplace.md), you can also find critical guidance regarding: 
 
