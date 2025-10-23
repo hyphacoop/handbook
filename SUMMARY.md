@@ -16,15 +16,17 @@
    * [Press](./Hypha-Worker-Co-operative/press.md)
 
 ## Policies 
+   * [Accessibility](./Policies/accessibility.md)
    * [Code of Conduct](./Policies/coc.md)
    * [Conflict Transformation](./Policies/conflict-transformation.md)
-   * [Diversity, Equity, and Inclusion](./Policies/diversity-equity-inclusion.md)
+   * [Electronic Monitoring](./Policies/electronic-monitoring.md)
    * [Health and Safety](./Policies/health-and-safety.md)
-   * [Pet Policy](./Policies/pet.md)
-   * [Peer Feedback](./Policies/peer-feedback.md)
-   * [Salary Review](./Policies/salary-review.md)
    * [How We Use Data](./Policies/data.md)
    * [Parental Leave](./Policies/parental-leave.md)
+   * [Peer Feedback](./Policies/peer-feedback.md)
+   * [Pet Policy](./Policies/pet.md)
+   * [Respect in Workplace](./Policies/respect-in-workplace.md)
+   * [Salary Review](./Policies/salary-review.md)
    * [Working Open](./Policies/working-open.md)
 
 ## How we work 
@@ -65,6 +67,10 @@
 
 ## Operations 
    * [Areas of Responsibility](./Operations/areas-of-responsibility.md)
+   * [Emergency Contacts](./Operations/emergency-contacts-employees.md)
+        * [Information for Employees/Members](./Operations/emergency-contacts-employees.md)
+        * [What to Expect as an Emergency Contact](./Operations/emergency-contacts-what-to-expect.md)
+        * [Operations Working Group Process](./Operations/emergency-contacts-process.md)
    * [Inactivating Membership](./Operations/inactivating-membership.md)
    * [Issue Labels](./Operations/issue-labels.md)
    * [Issueing Letters of Employment](./Operations/letter-of-employment.md)
