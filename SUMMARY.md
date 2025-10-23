@@ -74,6 +74,7 @@
    * [Inactivating Membership](./Operations/inactivating-membership.md)
    * [Issue Labels](./Operations/issue-labels.md)
    * [Issueing Letters of Employment](./Operations/letter-of-employment.md)
+   * [Interpersonal Incident Response Process](./Operations/interpersonal-incident-response.md)
    * [Sensitive Data](./Operations/sensitive-data.md)
    * [Signatures](./Operations/signatures.md)
    * [Shortlinks](./Operations/shortlinks.md)
