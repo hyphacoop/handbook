@@ -1,22 +1,15 @@
-# Pathway to Membership
-
 ## Membership at Hypha
-
 In a worker co-operative, members are sometimes referred to as “member-owners” because the members collectively own their co-operative.
 
-Hypha is incorporated as a** non-share capital co-operative**, which means that we do not have shares and so there is nothing tangible to “own” at Hypha, but being a member means sharing in the responsibility and ownership of the business itself even if you do not own a quantifiable portion of the company.
+Hypha is incorporated as a non-share capital co-operative, which means that we do not have shares and so there is nothing tangible to “own” at Hypha, but being a member means sharing in the responsibility and ownership of the business itself even if you do not own a quantifiable portion of the company.
 
 Throughout your membership probationary period, you will likely get practice wearing multiple hats as you work in your practice area and contribute to an internal working group. Stepping into membership means adding a much bigger hat - it’s time to be an owner of the business.
 
-
 ## Wearing different hats
-
 One of the challenges of moving from employment to membership is having to maintain two (or more) different relationships with the co-operative. 
 
-
 ### As an employee
-
-As an employee, you should be concerned about completing your work, growing in your career, and making sure that your compensation and benefits are appropriate for how much you contribute to the company. In non-co-operative workplaces and in your membership probationary period, you are probably accustomed to operating like an employee and thinking about questions such as:
+As an employee, you should be concerned about completing your work, growing in your career, and making sure that your compensation and benefits are appropriate for how much you contribute to the company. In non-co-op workplaces and in your membership probationary period, you are probably accustomed to operating like an employee and thinking about questions such as:
 * Is my job clearly defined and am I being given the necessary resources to do it?
 * Am I being given opportunities to grow in my career?
 * Is my overall compensation package fair?
