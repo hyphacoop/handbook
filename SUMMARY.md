@@ -82,6 +82,9 @@
 ## Strategy
    * [Areas of responsibility](./Strategy/areas-of-responsibility.md)
 
+## Communications
+   * [Social Media & External Communication Policy](./Communications/social-media-policy.md)
+
 ## Principle 5
    * [Reading Pool](./Principle-5/reading-pool.md)
    * [Glossary](./Principle-5/glossary.md)
