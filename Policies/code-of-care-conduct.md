@@ -2,11 +2,11 @@
 
 ## August 2025
 
-# Purpose
+## Purpose
 
 *How* we work together matters just as much as the work itself. This landing page pulls together our commitments, expectations, and practices that support a respectful, collaborative, and accountable workplace. These guidelines are meant to provide clarity on how we uphold our shared values, navigate challenges, and ensure a safe and supportive working environment for everyone at Hypha.
 
-# Our Approach
+## Our Approach
 
 It's pretty simple:
 
@@ -16,7 +16,7 @@ It's pretty simple:
 * We are mindful of power, privilege, and impact.  
 * We support one another in building a cooperative culture.
 
-# What You'll Find Here
+## What You'll Find Here
 
 The policies outlined on this landing page provide more detail on how we each live these commitments day to day. Together, they form our **Code of Care & Conduct**.
 
