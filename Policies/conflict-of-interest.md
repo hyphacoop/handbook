@@ -1,16 +1,16 @@
-# **Hypha - Conflict of Interest Principles**
+# Conflict of Interest Principles
 
-## **October 2025**
+## October 2025
 
-# **Purpose**
+## Purpose
 
 This policy helps us name, share, and manage actual, potential, or perceived conflicts of interest at Hypha. There are already conflicts that inherently exist within the scope of our work, and the purpose here is not to eliminate them. Rather, our focus is on reducing professional, personal, and organizational risk through transparency, accountability, and fair decision-making. 
 
-# **Scope**
+## Scope
 
 This policy applies to anyone working with or on behalf of Hypha: members, employees, contractors, and collaborators.
 
-# **Kinds of Conflict of Interest**
+## Kinds of Conflict of Interest
 
 Here are some definitions we should all have a shared understanding of: 
 
@@ -27,7 +27,7 @@ Here are some definitions we should all have a shared understanding of:
 
 **Disclosure:** Letting the organization know when one of the above shows up. Even if you're not sure it "counts," it's best to flag it to the Operations Working Group (OWG). 
 
-# **Our COI Principles**
+## Our COI Principles
 
 **Transparency over Elimination:** We recognize that some conflicts, though perhaps avoidable, are still in the best interest of Hypha. The goal is not to eliminate all conflicts but to manage them through transparency and meaningful oversight.
 
@@ -39,7 +39,7 @@ Here are some definitions we should all have a shared understanding of:
 
 **No Punishment for Good Faith Disclosure:** Good faith disclosure will not result in disciplinary action. Even where it feels like you've mistakenly waited longer than you should have to disclose, the sooner we know, the better. 
 
-# **Procedure**
+## Procedure
 
 1. **Identify a (potential) COI**  
    Conflicts of interest are not always cut and dry, especially in our environment. To help determine whether you are faced with a potential COI, you can consult with the OWG and/or ask yourself:  
@@ -66,7 +66,7 @@ Here are some definitions we should all have a shared understanding of:
 5. **Record-Keeping**  
    * All disclosures and decisions are documented and stored securely for accountability.
 
-# **Accountability**
+## Accountability
 
 Failure to disclose or manage a conflict may result in appropriate disciplinary action, which could look like: 
 
@@ -74,7 +74,7 @@ Failure to disclose or manage a conflict may result in appropriate disciplinary 
 * The termination of employment and/or removal from membership   
 * Other appropriate actions determined by the OWG in consultation with the membership
 
-# **Existing COIs at Hypha**
+## Existing COIs at Hypha
 
 As we've shared, we know that there are already conflicts of interest active at Hypha. Here are the potential risks associated with such conflicts and how we are mitigating these risks: 
 
