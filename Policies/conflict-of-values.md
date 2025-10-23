@@ -1,12 +1,12 @@
-# **Hypha - Conflict of Values Philosophy**
+# Conflict of Values Philosophy
 
-## **July 2025**
+## July 2025
 
-# **Purpose**
+## Purpose
 
 This philosophy exists to ensure that our decisions about who we work with, what we build, and how we operate are aligned with our core values: **Curiosity, Intersectionality, Honesty, Self-Agency, and Solidarity**. It helps us identify and navigate situations where a potential action, client, or project may compromise or contradict these values.
 
-# **Core Values in Practice**
+## Core Values in Practice
 
 Our core values show up like this:
 
@@ -16,25 +16,25 @@ Our core values show up like this:
 * **Self-Agency**: We trust our individual and collective judgment and ensure people impacted by decisions are informed and heard.  
 * **Solidarity**: We stand with communities and people resisting oppression, and we aim not to align with organizations that enable or benefit from systems of harm.
 
-# **What This Philosophy Means in Practice** 
+## What This Philosophy Means in Practice 
 
-## **We will:**
+### We will:
 
 * Vet all incoming partnerships and projects through a values lens, not just revenue potential.  
 * Pause or decline work that triggers concern, even if a contract has already begun, where possible. When a contract cannot be cancelled, we will engage in conversation with the counterparty to align on expectations and next steps.   
 * Create space for members and impacted collaborators to raise value-based concerns early and often through a transparent and frequently updated sales funnel. 
 
-## **We will *not* work with:**
+### We will *not* work with:
 
 * Organizations actively engaged and/or complicit in surveillance, policing, incarceration, oppression, war efforts, fossil fuel extraction, or discrimination (e.g. anti-2SLGBTQIA+, racist, ableist, or classist practices).  
 * Projects that directly or indirectly compromise digital safety, data sovereignty, or consent.  
 * Clients or collaborators who are unwilling to adapt or learn when concerns are raised.
 
-# **Decision-Making & Escalation** 
+## Decision-Making & Escalation 
 
 ## We aim to balance autonomy with shared accountability. Not every decision needs full-member input, but values-based concerns must always be taken seriously. Here's how to approach decisions with potential value conflicts:
 
-## **1\. Autonomous "No" Calls**
+### 1. Autonomous "No" Calls
 
 Members or teams directly responsible for a decision (e.g., taking on a client, choosing a vendor, scoping a project) have the authority to say "no" on values grounds without needing full-member approval. Use this approach when:
 
@@ -44,7 +44,7 @@ Members or teams directly responsible for a decision (e.g., taking on a client, 
 
 *A raised flag by any member, especially one naming harm to a marginalized group, is sufficient reason to stop or decline the work.*
 
-## **2\. Consult Interested Parties**
+### 2. Consult Interested Parties
 
 Bring in relevant members when the potential conflict is unclear or context-specific. This means actively seeking out a member with lived experience relevant to the potential conflict at hand, or a trusted member of Hypha, to get their insights and advice on the matter. Use this approach when:
 
@@ -52,7 +52,7 @@ Bring in relevant members when the potential conflict is unclear or context-spec
 * You need more lived experience or identity-based context to assess potential harm.  
 * There's disagreement or uncertainty within the decision-making group.
 
-## **3\. Escalate to Full Membership**
+### 3. Escalate to Full Membership
 
 Some decisions are broad enough to impact the co-op's direction, identity, or safety. Bring it to full membership when:
 
@@ -62,7 +62,7 @@ When in doubt, consult early and document the decision trail, including who was 
 
 Where a member may not feel comfortable owning the decision, whether due to their own closeness to a particular issue or their lack of knowledge about the issue at hand, they may recuse themselves and delegate to another member for facilitation and documentation of the decision-making process. 
 
-# **Risks of Not Following This Philosophy** 
+## Risks of Not Following This Philosophy 
 
 * Erosion of trust within the co-op.  
 * Complicity in harm to people or communities we aim to support.  
@@ -71,11 +71,11 @@ Where a member may not feel comfortable owning the decision, whether due to thei
 
 Where there is an obvious (or ought to be known as obvious) conflict of values, where a member has breached this philosophy, there are a range of consequences up to and including being voted out or the organization splitting.
 
-# **Accountability & Reassessment**
+## Accountability & Reassessment
 
 This philosophy is a living document. Members are responsible for raising potential conflicts, and decision-makers must create the conditions for those concerns to be safely heard. This policy should be reviewed when new partnerships or engagements are proposed.
 
-# **Showing Our Work:** 
+## Showing Our Work: 
 
 **The thought process:** We've written this philosophy with high-stakes language because it has high-stakes impact.
 
