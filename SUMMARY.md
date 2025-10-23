@@ -17,6 +17,7 @@
 
 ## Policies 
    * [Accessibility](./Policies/accessibility.md)
+   * [Code of Care & Conduct](./Policies/code-of-care-conduct.md)
    * [Code of Conduct](./Policies/coc.md)
    * [Conflict Transformation](./Policies/conflict-transformation.md)
    * [Electronic Monitoring](./Policies/electronic-monitoring.md)
