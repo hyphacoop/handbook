@@ -6,9 +6,9 @@
 
 Everyone at Hypha Worker Co-operative must follow Hypha's Respect in the Workplace Policy, principles of being a good member and uphold the co-op's values when working together. These form the guidelines for our work together, along with our: 
 
-* Conflict of Values Philosophy  
-* Conflict of Interest Principles  
-* Internal Communication
+* [Conflict of Values Philosophy](conflict-of-values.md)  
+* [Conflict of Interest Principles](conflict-of-interest.md)  
+* [Internal Communication](../Communications/internal-communications.md)
 
 When conflict within the co-operative arises, which is both natural, expected, and normal, the following process should be followed. The aim is to transform the conflict into a better, or at the minimum, neutral experience for those involved. This process is designed to transform the conflict at the lowest reasonable step, escalating to higher steps as necessary.
 
