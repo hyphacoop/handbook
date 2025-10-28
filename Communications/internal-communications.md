@@ -22,6 +22,7 @@ For specifics, please see:
 * [Working Open](../Policies/working-open.md): Guidelines for how (and exactly what) and why we work in the open.  
 * [Roles](../How-we-work/roles.md): Who's responsible for what (in meetings, working groups, practice areas, etc.)  
   * Areas of responsibility:   
+    * [Communications](areas-of-responsibility.md)  
     * [Finance](../Finance/areas-of-responsibility.md)  
     * [Infrastructure](../Infrastructure/areas-of-responsibility.md)  
     * [Operations](../Operations/areas-of-responsibility.md)
