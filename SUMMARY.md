@@ -83,6 +83,7 @@
    * [Areas of responsibility](./Strategy/areas-of-responsibility.md)
 
 ## Communications
+   * [Areas of responsibility](./Communications/areas-of-responsibility.md)
    * [Internal Communications](./Communications/internal-communications.md)
 
 ## Principle 5
