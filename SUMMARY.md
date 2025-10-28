@@ -83,6 +83,7 @@
    * [Areas of responsibility](./Strategy/areas-of-responsibility.md)
 
 ## Communications
+   * [Areas of responsibility](./Communications/areas-of-responsibility.md)
    * [Social Media & External Communication Policy](./Communications/social-media-policy.md)
 
 ## Principle 5
