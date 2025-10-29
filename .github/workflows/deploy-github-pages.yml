@@ -23,14 +23,15 @@ jobs:
         npm install
         npx honkit build
 
-    - name: Publish to Distributed Press Production
-      if: ${{ github.ref == 'refs/heads/master' }}
-      uses: hyphacoop/actions-distributed-press@v1.2.2
-      with:
-        publish_dir: ./_book
-        dp_url: https://api.distributed.press
-        refresh_token: ${{ secrets.DISTRIBUTED_PRESS_PRODUCTION_TOKEN}}
-        site_url: handbook.hypha.coop
+    # Temporarily disabled to only publish to GitHub Pages
+    # - name: Publish to Distributed Press Production
+    #   if: ${{ github.ref == 'refs/heads/master' }}
+    #   uses: hyphacoop/actions-distributed-press@v1.2.2
+    #   with:
+    #     publish_dir: ./_book
+    #     dp_url: https://api.distributed.press
+    #     refresh_token: ${{ secrets.DISTRIBUTED_PRESS_PRODUCTION_TOKEN}}
+    #     site_url: handbook.hypha.coop
 
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v4
