@@ -19,6 +19,7 @@
    * [Accessibility](./Policies/accessibility.md)
    * [Code of Conduct](./Policies/coc.md)
    * [Conflict Transformation](./Policies/conflict-transformation.md)
+   * [Diversity, Equity, and Inclusion](./Policies/diversity-equity-inclusion.md)
    * [Electronic Monitoring](./Policies/electronic-monitoring.md)
    * [Health and Safety](./Policies/health-and-safety.md)
    * [How We Use Data](./Policies/data.md)
