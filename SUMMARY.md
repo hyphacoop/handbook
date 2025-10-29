@@ -37,6 +37,7 @@
    * [Compensation and Benefits](./How-we-work/compensation-benefits.md) 
         * [Employee Salary Guide](./How-we-work/salary.md)
         * [Holidays, Time off, and Leaves](./How-we-work/holidays.md)
+        * [PTO Add-Ons](./How-we-work/pto-add-ons.md)
    * [Initiatives](./How-we-work/initiatives.md) (currently two pages, should become one)
    * [Roles](./How-we-work/roles.md)
    * [Meetings](./How-we-work/meetings.md)
