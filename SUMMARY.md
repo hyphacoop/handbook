@@ -84,6 +84,7 @@
 
 ## Communications
    * [Areas of responsibility](./Communications/areas-of-responsibility.md)
+   * [Internal Communications](./Communications/internal-communications.md)
 
 ## Principle 5
    * [Reading Pool](./Principle-5/reading-pool.md)
