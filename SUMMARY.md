@@ -85,6 +85,7 @@
 ## Communications
    * [Areas of responsibility](./Communications/areas-of-responsibility.md)
    * [Internal Communications](./Communications/internal-communications.md)
+   * [Social Media & External Communication Policy](./Communications/social-media-policy.md)
 
 ## Principle 5
    * [Reading Pool](./Principle-5/reading-pool.md)
