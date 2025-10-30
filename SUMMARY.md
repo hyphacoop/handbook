@@ -18,6 +18,7 @@
 ## Policies 
    * [Accessibility](./Policies/accessibility.md)
    * [Code of Conduct](./Policies/coc.md)
+   * [Conflict of Values Philosophy](./Policies/conflict-of-values.md)
    * [Conflict Transformation](./Policies/conflict-transformation.md)
    * [Diversity, Equity, and Inclusion](./Policies/diversity-equity-inclusion.md)
    * [Electronic Monitoring](./Policies/electronic-monitoring.md)
