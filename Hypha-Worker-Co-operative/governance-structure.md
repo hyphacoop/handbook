@@ -18,9 +18,8 @@ Officer positions (e.g. President) within the board are elected by the directors
 
 * Must meet once a quarter
 * Represent the interests of membership
-* Establish the mission for each practice area and make recommendations for its growth and development
-* Prioritize and evaluate decisions to be taken by practice area leads
-* Allocate resources based on data provided by practice leads, e.g. approval of practice area budgets and working group mandates and strategies
+* Prioritize and evaluate decisions to be taken by high responsibility members 
+* Allocate resources based on data provided by high responsibility members, e.g. approval of budgets and working group mandates and strategies
 * Make recommendations on the scope of work for each working group
 * Review labour practices to identify any shortcomings in our competitiveness as an employer
 * Facilitate access and deals between the Co-operative and external parties
@@ -41,49 +40,42 @@ A subset of the board are elected as officers. Officers are elected by and subje
   * Steward the books of account
 
 ### Members
-Members ultimately hold the highest level of governance power in the organization. Members, including probationary members, may make policy proposals for the betterment of the Co-op. Full members get a vote. If it touches membership changes or bylaws, then the board needs to sign off on those proposals.
+Members ultimately hold the highest level of governance power in the organization. Members, including individuals in their probationary period, may make policy proposals for the betterment of the Co-op. Members get a vote. If it touches membership changes or bylaws, then the board needs to sign off on those proposals. Existing members are responsible for accepting new members to the Co-operative, through voting and recommendation to the board, as defined in the bylaws. 
 
-There are two levels of membership:
-* Full members
-  * Elect or dismiss members of the board of directors
-* Probationary members
-  * Must complete their probationary period before they get to vote
-
-Full members are responsible for accepting new members to the Co-operative, through voting and recommendation to the board, as defined in the bylaws. 
+Technically all roles represented in this governance diagram are held by members, sometimes at the same time. Members need to think carefully about the differences between the mindset of a member acting in a governance capacity, a managment capacity, and a staff capacity.
 
 ### Staff
-
-Individuals who do work at Hypha. There are two kinds of staff:
+Individuals who do work at Hypha with a lower level of decision-making responsibility. There are two kinds of staff:
 * Employees
-  * Perform the work as established by their practice area
+  * Perform the work as established by their team and high-responsibility members
 * Contractors
-  * Perform the work as established by their practice area
+  * Perform the work as established by their team and high-responsibility membe
 
-### Practice leads
-Individuals appointed by the board of directors.
-* Propose practice area budgets
-* Assign work to the practice area staff in alignment with the practice area mission
+### Management
+Individuals appointed by the board of directors who make higher-responsibility decisions for the work that happens within the co-operative.
+* Propose budgets
+* Make staffing decisions
+* Assign work to staff in alignment with the co-op's mission
 
 
 ## Summary
 
 * The board:
-  * Approves and dismisses practice leads.
+  * Approves and dismisses high-responsibility members
   * Elects and removes board officers.
   * Demonstrates that it represents membership interests to the members.
 * Members:
   * Elect and dismiss directors.
   * Recommend membership changes to the board.
 * Staff:
-  * Performs the work as established by their practice area leads.
-  * Chooses to apply for membership or quit.
-* Practice area leads:
+  * Performs the work as established by management-level members.
+* Management:
   * Hire or dismiss staff, assign and manage work.
   * Report and are accountable to the board
 * The board of directors and members comprise a governance group, which:
   * Defines the long-term strategy.
-  * Establishes practice areas.
+  * Course-corrects management actions.
   * Approves resource allocation.
-* The practice area leads and staff comprise a management group, which translates long-term strategy to short-term.
+* The management and staff comprise an operational group, which translates long-term strategy to short-term.
 
 ![Diagram of the relationships between roles in governance and management](governance-management.png "Governance-Management Roles")
