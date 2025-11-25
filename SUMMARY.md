@@ -19,7 +19,9 @@
    * [Accessibility](./Policies/accessibility.md)
    * [Code of Conduct](./Policies/coc.md)
    * [Conflict of Interest Principles](./Policies/conflict-of-interest.md)
+   * [Conflict of Values Philosophy](./Policies/conflict-of-values.md)
    * [Conflict Transformation](./Policies/conflict-transformation.md)
+   * [Diversity, Equity, and Inclusion](./Policies/diversity-equity-inclusion.md)
    * [Electronic Monitoring](./Policies/electronic-monitoring.md)
    * [Health and Safety](./Policies/health-and-safety.md)
    * [How We Use Data](./Policies/data.md)
@@ -82,6 +84,11 @@
 
 ## Strategy
    * [Areas of responsibility](./Strategy/areas-of-responsibility.md)
+
+## Communications
+   * [Areas of responsibility](./Communications/areas-of-responsibility.md)
+   * [Internal Communications](./Communications/internal-communications.md)
+   * [Social Media & External Communication Policy](./Communications/social-media-policy.md)
 
 ## Principle 5
    * [Reading Pool](./Principle-5/reading-pool.md)
