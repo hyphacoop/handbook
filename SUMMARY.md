@@ -16,11 +16,13 @@
    * [Press](./Hypha-Worker-Co-operative/press.md)
 
 ## Policies 
+   * [Policy Landing Page](./Policies/policies.md)
    * [Accessibility](./Policies/accessibility.md)
    * [Code of Conduct](./Policies/coc.md)
    * [Conflict of Interest Principles](./Policies/conflict-of-interest.md)
    * [Conflict of Values Philosophy](./Policies/conflict-of-values.md)
    * [Conflict Transformation](./Policies/conflict-transformation.md)
+   * [Disconnecting from Work](./Policies/disconnect-from-work.md)
    * [Diversity, Equity, and Inclusion](./Policies/diversity-equity-inclusion.md)
    * [Electronic Monitoring](./Policies/electronic-monitoring.md)
    * [Health and Safety](./Policies/health-and-safety.md)
