@@ -59,11 +59,11 @@ Salaries are reassessed at minimum annually, or more frequently, at maximum quar
 
 **S0**: A new employee who is a probationary member, or foreign contractor who is specially approved to be a probationary member.
 
-**S1**: A member who is in their first year of full membership.
+**S1**: A member who is in their first year of membership.
 
-**S2**: A member who is in their second or third year of full membership.
+**S2**: A member who is in their second year of membership.
 
-**S3**: A member who has been a full member for more than three years, or is a founding member.
+**S3**: A member who has been a member for three or more years.
 
 **A year implies full-time commitment. For part-time workers, a year is the time commitment equivalent of a full-time year.*
 
