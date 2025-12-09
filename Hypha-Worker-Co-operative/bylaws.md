@@ -139,7 +139,7 @@ Bylaws adopted: June 13, 2020
     grounds are met. The board of directors shall notify the member by
     registered mail of the grounds and schedule a hearing in which the
     member will be given the opportunity to be heard by the directors. A
-    vote of two-thirds of the directors is required before a member can be
+    vote[^17] of two-thirds of the directors is required before a member can be
     dismissed from the co-op. The member may appeal the decision as allowed
     under Section 66, article 4 of the Co-operatives Corporation Act.
 
@@ -216,7 +216,7 @@ Bylaws adopted: June 13, 2020
     
     Each active member of record at the time of the meeting is entitled
     to one and only one vote on any matter requiring membership voting.
-    Voting on resolutions happens by secret ballot.
+    Voting on resolutions happens by secret ballot.[^16]
 
   2. **Action at a Meeting** – The president or other designee, as
     determined by the board of directors, shall chair at membership
@@ -292,7 +292,7 @@ Bylaws adopted: June 13, 2020
     behalf of the board of directors, unless a larger number is required by 
     law, by the Articles, or by these bylaws.
 
-  1. **Voting** – Resolutions are decided by a simple majority vote.
+  1. **Voting** – Resolutions are decided by a simple majority vote.[^17]
     A director may make a special motion requiring the main motion 
     be decided by a majority of two thirds of the directors present. The 
     motion, which must have a seconder, may not be debated and must itself 
@@ -507,7 +507,7 @@ Bylaws adopted: June 13, 2020
     in proportion to each member’s share of labour patronage.
 
     After this allocation is made, as cash flow and capital requirements
-    permit, the board of directors may direct the Co-operative to pay out in
+    permit, the board of directors may direct the Co-operative to pay out[^18] in
     cash a fixed percentage of all member loans as they stand after the
     year’s surplus or loss allocations. The balance of the individual member’s
     capital account shall be adjusted accordingly.
@@ -579,3 +579,6 @@ They are not binding and have no legal weight.
 [^13]: 20% of surplus is allocated to members, according to hours worked, but is initially held by the co-op as a loan by the member.
 [^14]: if the year's loss is bigger than the reserve, the reserve goes to $0.
 [^15]: 20% of the loss (or more, if the reserver couldn't cover the 80%) is taken from member loans, relative to their hours worked.
+[^16]: Voting by secret ballot reduces social pressures and repercussions to help ensure a free and honest vote.
+[^17]: When directors vote, it is by open ballot to keep them accountable to membership.
+[^18]: This is the mechanism by which surplus money actually makes its way into members' pockets.
