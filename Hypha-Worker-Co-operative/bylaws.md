@@ -11,7 +11,7 @@ Bylaws adopted: June 13, 2020
     with the Co-operative Corporations Act of Ontario (the “Act”).
     If any conflict arises between the mandatory provisions of the
     Act and the bylaws of the Co-operative, such provisions of the
-    Act shall govern.
+    Act shall govern.[^1]
   1. **Records** – Copies of the following documents shall be kept
     electronically and at the head office of the Co-operative:
 
@@ -37,10 +37,10 @@ Bylaws adopted: June 13, 2020
 
     A. is an employee or foreign contractor of the Co-operative;  
     B. supports the objects of the Co-operative as described in section 1.2
-       of these bylaws;  
+       of these bylaws;[^2]  
     C. has performed at least 800 hours of paid work for the Co-operative
        in the last 52 weeks, and expect to continue this relationship with
-       the Co-operative;  
+       the Co-operative;[^3]  
     D. agrees to participate in working groups and accept other management
        duties in the Co-operative, as determined by the board of directors.  
 
@@ -50,7 +50,7 @@ Bylaws adopted: June 13, 2020
     the approval of the board of directors.
 
   1. **Employment Requirements** – All permanent employees must be members of 
-     the Co-operative. An employee is a permanent employee if the employee has 
+     the Co-operative.[^4] An employee is a permanent employee if the employee has 
      been employed for a probationary period of at least 1 year.
 
      The probationary period commences from the first day of employment. Employees 
@@ -61,12 +61,12 @@ Bylaws adopted: June 13, 2020
   1. **Non-Members on Casual Contracts** – The Co-operative shall not
      contract out work normally performed by its members to
      non-members or non-employees without the prior approval of
-     two-thirds of the membership.
+     two-thirds of the membership.[^5]
 
   1. **Probationary Members** – Probationary members shall not have
     the right to vote in the Co-operative. However, probationary
     members may be required by the board of directors to participate
-    in management activities.
+    in management activities.[^6]
 
     Once the probationary member has worked the required number of hours,
     they are entitled to apply for membership in the Co-operative at any time.
@@ -124,11 +124,11 @@ Bylaws adopted: June 13, 2020
   1. **Withdrawal** – A member of the Co-operative may withdraw from
     membership by giving the board 1 month’s notice of their intention
     to withdraw. A member may only withdraw from membership if they also
-    resign their employment effective the same date.
+    resign their employment effective the same date.[^7]
 
   1. **Exclusion** – Members may be excluded from membership according to
     Section 66 of the Co-operatives Corporation Act, and also if one or more
-    of the following grounds exist:
+    of the following grounds exist:[^8]
 
     A. they no longer meet the membership requirements;  
     B. they have failed to perform work assigned in a satisfactory manner; or  
@@ -229,14 +229,14 @@ Bylaws adopted: June 13, 2020
 
   1. **Qualifications** – Each member of the board of directors shall
     be an active member of the Co-operative and at least 18 years of
-    age.
+    age.[^9]
 
   1. **Powers** – The board of directors will manage the Co-operative
     in all matters as delegated, excluding those requiring
     acceptance by the membership.
 
   1. **Election and Size** – The board of directors shall consist of
-    a minimum of three and a maximum of 20 directors, who shall be
+    a minimum of three[^10] and a maximum of 20 directors, who shall be
     elected for a term of 2 years arranged so that at least **50%**
     of directors are elected each year. Directors shall be eligible
     for re-election upon completion of their term. In the event that
@@ -304,7 +304,7 @@ Bylaws adopted: June 13, 2020
     that directors may be paid reasonable expenses incurred by them in
     the performance of their duties. Nothing herein contained shall
     preclude any director from serving the Co-operative in any other
-    capacity and receiving remuneration therefor.
+    capacity and receiving remuneration therefor.[^11]
 
   3. **Limitation of Indemnity** – No director or officer of the
     Co-operative shall be indemnified by the Co-operative with respect
@@ -452,7 +452,7 @@ Bylaws adopted: June 13, 2020
 
     The *patronage return* is the amount that is allocated, credited or paid
     in each fiscal year to members based on the business done by them with
-    or through the Co-operative.
+    or through the Co-operative.[^12]
 
   1. **Member Loans** – The Co-operative may hold loans from its members.
     These loans may result from:
@@ -494,15 +494,15 @@ Bylaws adopted: June 13, 2020
         mission of the Co-operative;  
     B.  the remaining net income shall be credited to the loan portion of
         the individual member’s capital account, according to each member’s
-        share of labour patronage.  
+        share of labour patronage.[^13]  
 
     In the event of a loss, the loss shall be allocated as follows:
 
     A.  80 percent shall be charged against the general reserve account,
         unless this exceeds the reserve account balance, in which case the
-        full balance of the reserve shall be charged, and  
+        full balance of the reserve shall be charged[^14], and  
     B.  the remainder shall be charged against the individual member’s
-        capital account,  
+        capital account,[^15]  
 
     in proportion to each member’s share of labour patronage.
 
@@ -556,3 +556,26 @@ unless inconsistent with the law, the Articles, or these bylaws.
 
   1. **Severability** - If a court finds any part of these bylaws to
     be void, the rest of the bylaws are still in force.
+
+---
+
+## Explanatory footnotes
+
+These footnotes are not part of the the bylaws, and serve only to add more context.
+They are not binding and have no legal weight.
+
+[^1]: Hypha was created under this act, and so it is the final law that determines what we can and cannot do.
+[^2]: This is mainly "provide employment to its members" as stated in the articles of incorporation.
+[^3]: This is equivalent to about two work days a week for a year. This is also about 15 hours a week, the minimum amount of work time required to be considered a "permanent full-time employee" by the [law](https://www.ontario.ca/laws/statute/90c35#BK174).
+[^4]: The law [requires](https://www.ontario.ca/laws/statute/90c35#BK174) 75%, we go further to ensure worker democracy.
+[^5]: This helps ensure labour contributors to the co-op are represented (by being members), and that labour is kept within the co-op by default.
+[^6]: This allows probationary members to learn how to be a worker-member and do co-op governance, without affecting formal decisions until they have been accepted by members.
+[^7]: This provides a longer hand-off window than the typical two week deadline, to make transition time easier.
+[^8]: This section is mostly a restatement of [section 66](https://www.ontario.ca/laws/statute/90c35#BK82) in the law, with the adition of specific grounds for exclusion.
+[^9]: Required by [law](https://www.ontario.ca/laws/statute/90c35#BK112).
+[^10]: Required by [law](https://www.ontario.ca/laws/statute/90c35#BK107).
+[^11]: Paying directors is allowed by [law](https://www.ontario.ca/laws/statute/90c35#BK27), but Hypha chose not to do this. Directors already have increased power, and rewarding them beyond their member salary would increase power imbalance in the co-op.
+[^12]: This is a standard co-operative concept. Some portion of any excess money (surplus) is returned to members each year.
+[^13]: 20% of surplus is allocated to members, according to hours worked, but is initially held by the co-op as a loan by the member.
+[^14]: if the year's loss is bigger than the reserve, the reserve goes to $0.
+[^15]: 20% of the loss (or more, if the reserver couldn't cover the 80%) is taken from member loans, relative to their hours worked.
