@@ -50,6 +50,7 @@
    * [Sending Invoices](./Finance/sending-invoices.md)
    * [Paying Invoices](./Finance/paying-invoices.md)
    * [Payroll](./Finance/payroll.md)
+   * [Payroll: Employee How To](./Finance/payroll-for-employees.md)
    * [Reporting HST](./Finance/reporting-hst.md)
    * [Expense Reimbursement](./Finance/expense-reimbursement.md)
    * [Per Diem Policy](./Finance/per-diem-policy.md)
