@@ -79,10 +79,27 @@ Relational roles are part of helping incoming members develop in their path towa
 
 ## Leadership roles
 
-### Practice lead
-* **Eligibility**: Full and probationary members 
-* **Responsibilities**: Manages the strategy and opportunities within a particular practice area that stretches beyond single-client projects.
-* **Tasks**: Hold context around a practice area and make decisions about resourcing, opportunities, long-term strategic decisions. 
+**Growth Steward**
+
+* **Eligibility:** Full members, optimistically renewed yearly  
+* **Responsibilities:**  
+  * Develop organizational growth objectives and secure membership buy-in.  
+  * Create strategic pathways for growth through new customer acquisition, increased retention, and revenue expansion.  
+  * Guide working groups and project teams in executing cross-functional growth strategies. This may include creating new marketing/communications materials, making investment or acquisition decisions, partnering with other organizations, strategic hiring, and creating new operating processes.  
+  * Track the performance of growth initiatives against our organizational objectives.  
+* **Tasks:** Develop and refine business development processes to support the acquisition of new projects at Hypha.
+
+**Solidarity Steward**
+
+* **Eligibility**: Full members, optimistically renewed yearly  
+* **Responsibilities**: Direct all solidarity projects, acting as a hub. Align existing and future solidarity efforts with the solidarity definition, creating member happiness and an impact on the world.  
+* **Tasks**: Develop solidarity definition or theses, report to the board, stay within the solidarity budget, find new solidarity work. Ensure solidarity projects are well run and manage project leads.
+
+**Resource Steward** 
+
+* **Eligibility**: Full members  
+* **Responsibilities**: A strategic and operational role focused on aligning Hypha people, culture, and capital with our shared long-term vision. This role supports the Growth and Solidarity Stewards, ensuring they have the resources and people required to grow and maintain the cooperative. The Resource Steward balances the requirements of the Stability project teams against the needs of the new business projects undertaken in growth.  
+* **Tasks**: Maintain Hypha’s Resource Tracker to deliver an even distribution of resources across projects and domains. Meets regularly with the Growth and Solidarity Stewards to anticipate future resource needs and arrange to meet these. Assess whether current projects and internal capacities are aligned with core objectives. 
 
 ### Project lead
 * **Eligibility**: Full and probationary members 
