@@ -571,7 +571,7 @@ They are not binding and have no legal weight.
 [^5]: This helps ensure labour contributors to the co-op are represented (by being members), and that labour is kept within the co-op by default.
 [^6]: This allows probationary members to learn how to be a worker-member and do co-op governance, without affecting formal decisions until they have been accepted by members.
 [^7]: This provides a longer hand-off window than the typical two week deadline, to make transition time easier.
-[^8]: This section is mostly a restatement of [section 66](https://www.ontario.ca/laws/statute/90c35#BK82) in the law, with the adition of specific grounds for exclusion.
+[^8]: This section is mostly a restatement of [section 66](https://www.ontario.ca/laws/statute/90c35#BK82) in the law, with the addition of specific grounds for exclusion.
 [^9]: Required by [law](https://www.ontario.ca/laws/statute/90c35#BK112).
 [^10]: Required by [law](https://www.ontario.ca/laws/statute/90c35#BK107).
 [^11]: Paying directors is allowed by [law](https://www.ontario.ca/laws/statute/90c35#BK27), but Hypha chose not to do this. Directors already have increased power, and rewarding them beyond their member salary would increase power imbalance in the co-op.
