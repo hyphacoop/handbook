@@ -31,6 +31,7 @@
 
 ### Quarterly
 - [File and pay HST](reporting-hst.md)
+- [File and pay EHT](filing-eht.md)
 - Rebalance treasury
 
 ### Yearly
