@@ -35,8 +35,8 @@
 
 ### Yearly
 
-- January: File and pay EHT
 - February: Generate T4/T4A forms
+- March: [File and pay EHT](filing-eht.md)
 - May-July: Prepare Fiscal Year End statements with the accountant
 - July-August: Generate FYE reports for the Annual General Meeting
 - September: Update member/reserve accounts
