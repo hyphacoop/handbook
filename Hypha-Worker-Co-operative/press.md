@@ -4,6 +4,7 @@ A selection of our press coverage and public talks.
 
 ## Press Coverage
 
+
 - [Co-op AI Aims to Offer an Alternative to Corporate Platforms](https://canadianworker.coop/co-op-ai-aims-to-offer-an-alternative-to-corporate-platforms/); Canadian Worker Co-operative Federation, August 2025
 - [Data Co-ops as a Scalable Alternative to the Centralized Digital Economy](https://www.projectliberty.io/news/data-coops-as-alternative-to-centralized-digital-economy/); Full report by Project Liberty Institute in collaboration with the Decentralization Research Center, July 2025.
 - [How Can Data Cooperatives Help Build a Fair Data Economy?](https://www.projectliberty.io/wp-content/uploads/2025/01/PL_Practical_Data_Governance_Solutions_Report_v4.pdf); Initial report by Project Liberty Institute in collaboration with the Decentralization Research Center, January 2025  
@@ -19,8 +20,14 @@ A selection of our press coverage and public talks.
 - [Hypha Worker Co-operative Seeks to Build Bridges](https://canadianworker.coop/hypha-worker-co-operative-seeks-to-build-bridges/); Canadian Worker Co-operative Federation, June 21, 2020
 
 
+## Selected Citations
+
+- [Towards Interoperability: Pursuing an Ontology for Data Exchange Between Deliberative Democratic Platforms](https://dspace.mit.edu/handle/1721.1/162655); Adjunct Proceedings of the Sixth Decennial Aarhus Conference (AAR Adjunct '25), August 2025
+
+
 ## Sessions, Workshops & Talks
 
+- [Digital Trust in the Age of AI](https://www.buzzsprout.com/2396702/episodes/19233777-digital-trust-in-the-age-of-ai), Future Mending Radio, May 27, 2026
 - [Co-Creating Tools and Processes: Governance Innovation in Contemporary Cooperatives](https://drive.google.com/file/d/1IEBMH4g8RDXTW_z8AGUHxxzHhoqftmsL/view?usp=sharing); ICA CCR Global Research Conference 2025, July 2025
 - [LLMs in the User Agent w/ Mauve Signweaver](https://www.youtube.com/watch?v=HrQAYgMA-mc), AI Tinkerers Ottawa, November 19, 2024
 - [The Dweb in your Back Pocket](https://www.youtube.com/watch?v=eNChX7PVh7E), DWeb Camp, June 2023
