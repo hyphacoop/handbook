@@ -2,11 +2,10 @@
 
 See the [Governance structure](governance-structure.md) page for information regarding the role of the board of directors.
 
-The current board includes four of our full members:
+The current board includes three of our full members:
 
 - Andi _(term ending in 2027)_
 - Cameron _(term ending in 2026)_
-- Vincent _(term ending in 2027)_
 - Violet  _(term ending in 2027)_
 
 with four officer positions.
@@ -35,7 +34,7 @@ with four officer positions.
 
 **Term:** 2 years, with renewal, or as often as necessary.
 
-**Incumbent:** Vincent _(term ending in 2027)_
+**Incumbent:** Violet _(term ending in 2027)_
 
 **Transition Notes for Secretarial Responsibilities**
 * Set the cadence and timing of Board meetings and ensure Board members are notified with the appropriate advance warning (section 4.7 of bylaws - at least 24 hours' notice).
