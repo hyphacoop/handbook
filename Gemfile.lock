@@ -1,8 +1,8 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.8.0)
-      public_suffix (>= 2.0.2, < 5.0)
+    addressable (2.9.0)
+      public_suffix (>= 2.0.2, < 8.0)
     ethon (0.13.0)
       ffi (>= 1.15.0)
     ffi (1.15.0)
@@ -22,7 +22,7 @@ GEM
     nokogumbo (2.0.5)
       nokogiri (~> 1.8, >= 1.8.4)
     parallel (1.20.1)
-    public_suffix (4.0.6)
+    public_suffix (7.0.5)
     racc (1.8.1)
     rainbow (3.0.0)
     typhoeus (1.4.0)
