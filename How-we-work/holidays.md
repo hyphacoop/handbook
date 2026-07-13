@@ -1,7 +1,7 @@
 
 # **Holidays, Time Off, and Leaves**
 
-Hypha offers several types of time off, not including extended leaves (short/long term disability, parental leave, etc). This table describes the basics of how each type of time off functions, but more detail is given in each section below.
+Hypha offers several types of time off. This table describes the basics of how each type of time off functions, but more detail is given in each section below.
 
 In addition to the public holidays and winter office closure, employees should generally be taking a **minimum of 3 weeks of vacation**, using up your Legislated Vacation Entitlement first, then your self-directed days off.
 
@@ -129,9 +129,9 @@ We have no policy limiting the number of paid non-consecutive wellness days that
 All employees and members, regardless of their regular work week, are expected to check in with their project lead after 6 consecutive wellness days to help plan for project capacity and discuss the potential need for an extended leave.
 
 
-## Leaves of Absence
+## PTO Add-Ons and Extended Leaves
 
-Some extended leaves of absence are covered by the Employment Standards Act, such as pregnancy or parental leave. Work with the Operations WG and your practice lead if an extended leave of absence is needed, such as for prolonged illness, burnout, personal issues, etc.
+For information about additional paid time off and extended leaves, including bereavement leave, jury duty, pregnancy and parental leave, disability leave, and other job-protected leaves, see our [PTO Add-Ons](pto-add-ons.md) page.
 
 
 
