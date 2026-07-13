@@ -1,7 +1,33 @@
-# Expense Reimbursement
+# Travel & Expense Policy
 
-Employees should submit expenses in the same quarter they are incurred.
-The Finance WG reviews submitted expenses before each pay period, and pays out reimbursements for out of pocket expenses on the next pay day.
+## Purpose
+
+This policy outlines Hypha's approach to business-related expenses and travel. We provide financial support to ensure everyone at Hypha can perform their jobs effectively, develop professionally, and represent the company at external events without being personally burdened by costs. Our goal is to:
+
+* Enable everyone at Hypha to work productively, whether in-office, remote, or on the road  
+* Support professional growth and external representation at conferences, trainings, and industry events  
+* Ensure fair, transparent, and consistent practices across the co-op  
+* Balance team needs with responsible financial stewardship of co-op resources
+
+## Expense Categories & Allowances
+
+### Quick-Reference Table
+
+| Category | Eligible Expenses | Allowance | Restrictions / Notes |
+| ----- | ----- | ----- | ----- |
+| **Work From Home (WFH)** | Office furniture (desk, chair), ergonomic accessories | $750 one-time setup  | No personal décor; purchases remain employee property unless otherwise stated |
+| **Travel:  Transportation (applicable for BD/Work/Conference Trips, Professional Development Trips, and Annual Retreat)** | Flights (economy under 8 hrs; business for long-haul if approved), train, public transit, mileage reimbursement ($0.72/km) | Based on actual cost within guidelines | No luxury upgrades; personal travel add-ons not reimbursed |
+| **Travel:  Accommodation (applicable for BD/Work/Conference Trips, Professional Development Trips, and Annual Retreat)** | Mid-range (3 Star) hotels, coop-preferred vendors, Vrbo Rental | There is no hard cap, but reimbursement is limited to "reasonable lodging". The ballpark range is approximately $110 - $220 per night, but this depends on location. | No luxury hotels; personal add-ons not reimbursed |
+| **Travel:  [Meals & Per Diem](per-diem-policy.html) (applicable for BD/Work/Conference Trips, Professional Development Trips, and Annual Retreat)** | Daily meals, tips | $100/day per diem  OR  $150/day per diem when treating a client |  |
+| **Travel:  BD Conference Tickets (applicable for BD/Work/Conference Trips)** | Registration fees, official workshops, conference materials | Up to $500/event; covered from BD Budget | Guest tickets, leisure events not covered Approval: GitHub discussion to validate conference presence.  |
+| **Travel:  PD Conference Tickets (applicable for Professional Development Trips)** | Registration fees, official workshops, conference materials | ~$1,000/event; covered from PD Budget $15,000 soft cap for the co-op, so room to increase individual spend. | Guest tickets, leisure events not covered Approval: GitHub discussion to validate conference presence.  |
+| **Professional Development** | Courses, certifications, books, coaching | $750/year per member $15,000 soft cap for the co-op, so room to increase individual spend. | Must be related to role or career growth |
+| **Team Meals/Events** | Meals, entertainment, and team-building activities | $100 per employee (meals); $1,000 per team event | No extravagant spending |
+| **Technology & Tools** | Hardware/software necessary for role (e.g. peripherals, computer, monitors, AI subscriptions) | $2,250/year per member | Hardware remains co-op property |
+
+## Submission & Reimbursement Process
+
+Employees should submit expenses in the same quarter they are incurred. The Finance WG reviews submitted expenses before each pay period, and pays out reimbursements for out of pocket expenses on the next pay day.
 
 ## Submitting an expense (Employees)
 
