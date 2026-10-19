@@ -55,7 +55,7 @@ Bylaws adopted: June 13, 2020
 
      The probationary period commences from the first day of employment. Employees 
      who have less than 5 years of cumulative professional work experience may be 
-     subject to additional probationary membership terms; this is at the discretion 
+     subject to additional probationary terms; this is at the discretion 
      of the board.
 
   1. **Non-Members on Casual Contracts** – The Co-operative shall not
@@ -63,12 +63,12 @@ Bylaws adopted: June 13, 2020
      non-members or non-employees without the prior approval of
      two-thirds of the membership.[^5]
 
-  1. **Probationary Members** – Probationary members shall not have
-    the right to vote in the Co-operative. However, probationary
-    members may be required by the board of directors to participate
+  1. **Members in probationary period** – Members in their probationary period shall not have
+    the right to vote in the Co-operative. However, they
+    may be required by the board of directors to participate
     in management activities.[^6]
 
-    Once the probationary member has worked the required number of hours,
+    Once the member in their probationary period has worked the required number of hours,
     they are entitled to apply for membership in the Co-operative at any time.
     If the worker does not wish to become a member in the Co-operative, they
     may decline to apply for membership and continue to work for the Co-operative
@@ -81,21 +81,21 @@ Bylaws adopted: June 13, 2020
     the application:
     
     A. if the vote to accept is unanimous, a resolution is passed recommending to
-       the board of directors that the probationary member will become a full member
+       the board of directors that the member leave their probationary period
        as soon as they meet all of the membership requirements as described in
        section 2.1; or
     B. if the vote to accept is not unanimous, the application is rejected.
     
     If the application for membership is rejected, the members shall vote on a
     resolution, which is passed by a majority of two-thirds, to recommend to the board
-    of directors to terminate the probationary member’s employment with the Co-operative.
+    of directors to terminate the member’s employment with the Co-operative.
     If the resolution does not pass, the worker may continue to work for the Co-operative
     as a non-member at the board’s discretion. If their employment continues, they are
     eligible to apply again in the future at the board’s discretion.
 
   1. **Foreign Contractors** – Foreign contractors must be non-residents of
     and conducting work remotely outside of Canada. They are eligible for
-    probationary membership upon special approval by the board of directors,
+    membership in probationary period upon special approval by the board of directors,
     and may apply for full membership according to the application process
     detailed in section 2.4.
 
@@ -442,7 +442,7 @@ Bylaws adopted: June 13, 2020
 
     The *labour patronage* of a member is the total hours worked for the
     Co-operative during the financial year regardless of the rate of pay.
-    Work performed while a probationary member or a casual worker shall not
+    Work performed while in a probationary period or as a casual worker shall not
     be included in the calculation of labour patronage. A minimum of 16
     hours must be contributed by the member in any year before labour
     patronage will be calculated.
@@ -569,7 +569,7 @@ They are not binding and have no legal weight.
 [^3]: This is equivalent to about two work days a week for a year. This is also about 15 hours a week, the minimum amount of work time required to be considered a "permanent full-time employee" by the [law](https://www.ontario.ca/laws/statute/90c35#BK174).
 [^4]: The law [requires](https://www.ontario.ca/laws/statute/90c35#BK174) 75%, we go further to ensure worker democracy.
 [^5]: This helps ensure labour contributors to the co-op are represented (by being members), and that labour is kept within the co-op by default.
-[^6]: This allows probationary members to learn how to be a worker-member and do co-op governance, without affecting formal decisions until they have been accepted by members.
+[^6]: This allows members in their probationary period to learn how to be a worker-member and do co-op governance, without affecting formal decisions until they have been accepted by members.
 [^7]: This provides a longer hand-off window than the typical two week deadline, to make transition time easier.
 [^8]: This section is mostly a restatement of [section 66](https://www.ontario.ca/laws/statute/90c35#BK82) in the law, with the addition of specific grounds for exclusion.
 [^9]: Required by [law](https://www.ontario.ca/laws/statute/90c35#BK112).
