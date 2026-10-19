@@ -502,7 +502,7 @@ Bylaws adopted: June 13, 2020
         unless this exceeds the reserve account balance, in which case the
         full balance of the reserve shall be charged[^14], and  
     B.  the remainder shall be charged against the individual member’s
-        capital account,[^15]  
+        capital account,[^15][^negative]  
 
     in proportion to each member’s share of labour patronage.
 
@@ -579,6 +579,7 @@ They are not binding and have no legal weight.
 [^13]: 20% of surplus is allocated to members, according to hours worked, but is initially held by the co-op as a loan by the member.
 [^14]: if the year's loss is bigger than the reserve, the reserve goes to $0.
 [^15]: 20% of the loss (or more, if the reserve couldn't cover the 80%) is taken from member loans, relative to their hours worked.
+[^negative]: This means member accounts can be negative, which technically represents the member owing money to the co-op. However, there is no legal precedent for paying that debt, and we intend to forgive it if the member leaves.
 [^16]: Voting by secret ballot reduces social pressures and repercussions to help ensure a free and honest vote.
 [^17]: When directors vote, it is by open ballot to keep them accountable to membership.
 [^18]: This is the mechanism by which surplus money actually makes its way into members' pockets.
