@@ -18,6 +18,14 @@ Roo is a [lifeform][lifeform] on the [Polygon blockchain][polygon]. It wanders i
 ## Steps for transferring Roo 
 This guide assumes that you are currently in possession of Roo, which implies that you have a Polygon address connected to MetaMask (where Roo is located) and a few spare MATIC for gas fees. 
 
+### Current instructions (Oct 2026)
+1. Login to your account via MetaMask.
+2. In the MetaMask extension, select 'NFTs' from the nav bar (Tokens | DeFi | NFTs)
+3. Import NFT with the contract address `0x8916eDD9b39783D85303Ecc6613917DdD735d88d` and token ID `168` (verify these by examining the [lifeform contract](https://polygonscan.com/token/0x8916edd9b39783d85303ecc6613917ddd735d88d#transactions) on Polygonscan
+4. Within MetaMask, select the NFT and send it to Roo's new caretaker
+
+
+### Previous instructions
 1. Login to your account via MetaMask.
 2. Visit https://lifeforms.supply/ and click ‘Connect’ in the upper right corner.
 3. You ought to see Roo with his usual name tag in the lower right. It should now have a ‘Give’ option. 
