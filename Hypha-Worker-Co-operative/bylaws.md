@@ -139,7 +139,7 @@ Bylaws adopted: June 13, 2020
     grounds are met. The board of directors shall notify the member by
     registered mail of the grounds and schedule a hearing in which the
     member will be given the opportunity to be heard by the directors. A
-    vote[^17] of two-thirds of the directors is required before a member can be
+    vote[^9] of two-thirds of the directors is required before a member can be
     dismissed from the co-op. The member may appeal the decision as allowed
     under Section 66, article 4 of the Co-operatives Corporation Act.
 
@@ -216,7 +216,7 @@ Bylaws adopted: June 13, 2020
     
     Each active member of record at the time of the meeting is entitled
     to one and only one vote on any matter requiring membership voting.
-    Voting on resolutions happens by secret ballot.[^16]
+    Voting on resolutions happens by secret ballot.[^10]
 
   2. **Action at a Meeting** – The president or other designee, as
     determined by the board of directors, shall chair at membership
@@ -229,14 +229,14 @@ Bylaws adopted: June 13, 2020
 
   1. **Qualifications** – Each member of the board of directors shall
     be an active member of the Co-operative and at least 18 years of
-    age.[^9]
+    age.[^11]
 
   1. **Powers** – The board of directors will manage the Co-operative
     in all matters as delegated, excluding those requiring
     acceptance by the membership.
 
   1. **Election and Size** – The board of directors shall consist of
-    a minimum of three[^10] and a maximum of 20 directors, who shall be
+    a minimum of three[^12] and a maximum of 20 directors, who shall be
     elected for a term of 2 years arranged so that at least **50%**
     of directors are elected each year. Directors shall be eligible
     for re-election upon completion of their term. In the event that
@@ -292,7 +292,7 @@ Bylaws adopted: June 13, 2020
     behalf of the board of directors, unless a larger number is required by 
     law, by the Articles, or by these bylaws.
 
-  1. **Voting** – Resolutions are decided by a simple majority vote.[^17]
+  1. **Voting** – Resolutions are decided by a simple majority vote.[^9]
     A director may make a special motion requiring the main motion 
     be decided by a majority of two thirds of the directors present. The 
     motion, which must have a seconder, may not be debated and must itself 
@@ -304,7 +304,7 @@ Bylaws adopted: June 13, 2020
     that directors may be paid reasonable expenses incurred by them in
     the performance of their duties. Nothing herein contained shall
     preclude any director from serving the Co-operative in any other
-    capacity and receiving remuneration therefor.[^11]
+    capacity and receiving remuneration therefor.[^13]
 
   3. **Limitation of Indemnity** – No director or officer of the
     Co-operative shall be indemnified by the Co-operative with respect
@@ -452,7 +452,7 @@ Bylaws adopted: June 13, 2020
 
     The *patronage return* is the amount that is allocated, credited or paid
     in each fiscal year to members based on the business done by them with
-    or through the Co-operative.[^12]
+    or through the Co-operative.[^14]
 
   1. **Member Loans** – The Co-operative may hold loans from its members.
     These loans may result from:
@@ -494,20 +494,20 @@ Bylaws adopted: June 13, 2020
         mission of the Co-operative;  
     B.  the remaining net income shall be credited to the loan portion of
         the individual member’s capital account, according to each member’s
-        share of labour patronage.[^13]  
+        share of labour patronage.[^15]  
 
     In the event of a loss, the loss shall be allocated as follows:
 
     A.  80 percent shall be charged against the general reserve account,
         unless this exceeds the reserve account balance, in which case the
-        full balance of the reserve shall be charged[^14], and  
+        full balance of the reserve shall be charged[^16], and  
     B.  the remainder shall be charged against the individual member’s
-        capital account,[^15]  
+        capital account,[^17][^18]  
 
     in proportion to each member’s share of labour patronage.
 
     After this allocation is made, as cash flow and capital requirements
-    permit, the board of directors may direct the Co-operative to pay out[^18] in
+    permit, the board of directors may direct the Co-operative to pay out[^19] in
     cash a fixed percentage of all member loans as they stand after the
     year’s surplus or loss allocations. The balance of the individual member’s
     capital account shall be adjusted accordingly.
@@ -572,13 +572,14 @@ They are not binding and have no legal weight.
 [^6]: This allows probationary members to learn how to be a worker-member and do co-op governance, without affecting formal decisions until they have been accepted by members.
 [^7]: This provides a longer hand-off window than the typical two week deadline, to make transition time easier.
 [^8]: This section is mostly a restatement of [section 66](https://www.ontario.ca/laws/statute/90c35#BK82) in the law, with the addition of specific grounds for exclusion.
-[^9]: Required by [law](https://www.ontario.ca/laws/statute/90c35#BK112).
-[^10]: Required by [law](https://www.ontario.ca/laws/statute/90c35#BK107).
-[^11]: Paying directors is allowed by [law](https://www.ontario.ca/laws/statute/90c35#BK27), but Hypha chose not to do this. Directors already have increased power, and rewarding them beyond their member salary would increase power imbalance in the co-op.
-[^12]: This is a standard co-operative concept. Some portion of any excess money (surplus) is returned to members each year.
-[^13]: 20% of surplus is allocated to members, according to hours worked, but is initially held by the co-op as a loan by the member.
-[^14]: if the year's loss is bigger than the reserve, the reserve goes to $0.
-[^15]: 20% of the loss (or more, if the reserve couldn't cover the 80%) is taken from member loans, relative to their hours worked.
-[^16]: Voting by secret ballot reduces social pressures and repercussions to help ensure a free and honest vote.
-[^17]: When directors vote, it is by open ballot to keep them accountable to membership.
-[^18]: This is the mechanism by which surplus money actually makes its way into members' pockets.
+[^9]: When directors vote, it is by open ballot to keep them accountable to membership.
+[^10]: Voting by secret ballot reduces social pressures and repercussions to help ensure a free and honest vote.
+[^11]: Required by [law](https://www.ontario.ca/laws/statute/90c35#BK112).
+[^12]: Required by [law](https://www.ontario.ca/laws/statute/90c35#BK107).
+[^13]: Paying directors is allowed by [law](https://www.ontario.ca/laws/statute/90c35#BK27), but Hypha chose not to do this. Directors already have increased power, and rewarding them beyond their member salary would increase power imbalance in the co-op.
+[^14]: This is a standard co-operative concept. Some portion of any excess money (surplus) is returned to members each year.
+[^15]: 20% of surplus is allocated to members, according to hours worked, but is initially held by the co-op as a loan by the member.
+[^16]: if the year's loss is bigger than the reserve, the reserve goes to $0.
+[^17]: 20% of the loss (or more, if the reserve couldn't cover the 80%) is taken from member loans, relative to their hours worked.
+[^18]: This means member accounts can be negative, which technically represents the member owing money to the co-op. However, there is no legal precedent for paying that debt, and we intend to forgive it if the member leaves.
+[^19]: This is the mechanism by which surplus money actually makes its way into members' pockets.
