@@ -5,8 +5,9 @@ See the [Governance structure](governance-structure.md) page for information reg
 The current board includes three of our full members:
 
 - Andi _(term ending in 2027)_
-- Cameron _(term ending in 2026)_
 - Violet  _(term ending in 2027)_
+- Ben _(term ending in 2028)_
+- Dante _(term ending in 2028)_
 
 with four officer positions.
 
@@ -34,7 +35,7 @@ with four officer positions.
 
 **Term:** 2 years, with renewal, or as often as necessary.
 
-**Incumbent:** Violet _(term ending in 2027)_
+**Incumbent:** Dante _(term ending in 2028)_
 
 **Transition Notes for Secretarial Responsibilities**
 * Set the cadence and timing of Board meetings and ensure Board members are notified with the appropriate advance warning (section 4.7 of bylaws - at least 24 hours' notice).
@@ -58,4 +59,4 @@ with four officer positions.
 
 **Term:** 2 years, with renewal, or as often as necessary.
 
-**Incumbent:** Cameron _(term ending in 2026)_
+**Incumbent:** Ben _(term ending in 2028)_
